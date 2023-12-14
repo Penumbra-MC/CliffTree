@@ -60,8 +60,8 @@
     "outer_wall_distance": {
       "type": "minecraft:uniform",
       "value": {
-        "min_inclusive": 4,
-        "max_inclusive": 6
+        "min_inclusive": 6,
+        "max_inclusive": 8
       }
     },
     "distribution_points": {
