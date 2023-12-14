@@ -1,0 +1,27 @@
+{
+  "mcia:warm_river": {
+    "r": 29,
+    "g": 241,
+    "b": 241
+  },
+  "mcia:cold_river": {
+    "r": 13,
+    "g": 74,
+    "b": 125
+  },
+  "mcia:tropical_river": {
+    "r": 52,
+    "g": 192,
+    "b": 122
+  },
+  "mcia:caves": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "mcia:mushroom_caves": {
+    "r": 99,
+    "g": 86,
+    "b": 171
+  }
+}
