@@ -1064,52 +1064,6 @@
           "minecraft:lush_caves"
         ]
       ]
-    },
-    {
-      "key": "layout_lq4p4oe0",
-      "name": "New Layout",
-      "array": [
-        [
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "biome_lq4ljl12",
-          "biome_lq4ljl12/unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "biome_lq4ljl12",
-          "biome_lq4ljl12/unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "biome_lq4ljl12",
-          "biome_lq4ljl12/unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ]
-      ]
     }
   ],
   "slices": [
@@ -1588,16 +1542,7 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_lq4p4oe0",
           "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
-          "layout_lq4p4oe0",
           "unassigned",
           "unassigned",
           "unassigned",
@@ -1606,16 +1551,7 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_lq4p4oe0",
           "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
-          "layout_lq4p4oe0",
           "unassigned",
           "unassigned",
           "unassigned",
@@ -1624,16 +1560,7 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_lq4p4oe0",
           "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
-          "layout_lq4p4oe0",
           "unassigned",
           "unassigned",
           "unassigned",
@@ -1642,7 +1569,7 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_lq4p4oe0",
+          "unassigned",
           "unassigned",
           "unassigned",
           "unassigned",
@@ -1651,11 +1578,38 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_lq4p4oe0",
+          "unassigned",
           "unassigned",
           "unassigned",
           "unassigned",
           "unassigned"
+        ],
+        [
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12"
+        ],
+        [
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12"
+        ],
+        [
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12"
         ]
       ]
     }
@@ -1930,7 +1884,7 @@
     },
     {
       "key": "biome_lq4ljl12",
-      "name": "mcia:inferno_caves",
+      "name": "mcia:inferno",
       "color": "#a60000"
     }
   ],

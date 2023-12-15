@@ -44470,20 +44470,20 @@
               1
             ],
             "continentalness": [
-              -1.2,
+              0.03,
               1
             ],
             "erosion": [
               -0.375,
-              -0.2225
+              1
             ],
             "temperature": [
               -1,
-              -0.45
+              1
             ],
             "humidity": [
               -1,
-              -0.1
+              1
             ],
             "depth": [
               1.1,
@@ -44491,97 +44491,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:inferno_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.2,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -0.45,
-              1
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:inferno_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.05
-            ],
-            "continentalness": [
-              -1.2,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -0.45,
-              1
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:inferno_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              1
-            ],
-            "continentalness": [
-              -1.2,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:inferno_caves"
+          "biome": "mcia:inferno"
         }
       ],
       "type": "minecraft:multi_noise"
