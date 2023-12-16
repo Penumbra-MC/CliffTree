@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "items": [
+                      "minecraft:shears"
+                    ]
+                  }
+                }
+              ],
+              "name": "minecraft:big_dripleaf"
+            },
+            {
+              "type": "minecraft:alternatives",
+              "children": [
+                {
+                  "type": "item",
+                  "weight": 7,
+                  "name": "minecraft:small_dripleaf",
+                  "functions": [
+                    {
+                      "function": "set_count",
+                      "count": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "weight": 4,
+                  "name": "minecraft:big_dripleaf",
+                  "functions": [
+                    {
+                      "function": "set_count",
+                      "count": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
