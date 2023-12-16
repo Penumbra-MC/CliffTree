@@ -26,11 +26,11 @@
       "options": {
         "type": "minecraft:white_ash"
       },
-      "probability": 0.025
+      "probability": 0.02
     },
     "sky_color": 0,
-    "water_color": 4501493,
-    "water_fog_color": 399677
+    "water_color": 3319192,
+    "water_fog_color": 2389869
   },
   "features": [
     [],
@@ -77,7 +77,8 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "mcia:spring_closed",
-      "mcia:ore_basalt"
+      "mcia:ore_basalt",
+      "mcia:ore_inferno_iron"
     ],
     [
       "mcia:ore_infested",
@@ -162,5 +163,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.8
+  "temperature": 2.0
 }
