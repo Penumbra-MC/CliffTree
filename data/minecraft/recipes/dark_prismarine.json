@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:ink_sac"
+    },
+    "S": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SIS",
+    "SSS"
+  ],
+  "result": {
+    "item": "minecraft:dark_prismarine"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{EntityTag:{Team:\"axolotl\",PersistenceRequired:1b,Health:10f,ArmorItems:[{},{},{id:\"minecraft:stick\",Count:1b,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:20s}]}},{}],ArmorDropChances:[0.085F,0.085F,0.000F,0.085F],active_effects:[{id:\"minecraft:regeneration\",amplifier:0b,duration:-1,show_particles:0b}],Attributes:[{Name:generic.max_health,Base:10},{Name:generic.movement_speed,Base:1.2},{Name:generic.attack_damage,Base:3.0}]}}",
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:axolotl_bucket"
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+]

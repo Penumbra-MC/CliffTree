@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "IRI",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:lodestone"
+  }
+}
