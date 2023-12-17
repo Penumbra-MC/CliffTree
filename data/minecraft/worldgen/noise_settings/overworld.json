@@ -1981,7 +1981,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "mcia:mudflat"
+                              "mcia:bog"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2774,7 +2774,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "mcia:mudflat"
+                              "mcia:bog"
                             ],
                             "type": "minecraft:biome"
                           },
