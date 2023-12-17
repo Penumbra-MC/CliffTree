@@ -1,2 +1,0 @@
-data merge entity @s {Temper:100,ArmorItems:[{id:"minecraft:stick",Count:1b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:2s},{id:"minecraft:depth_strider",lvl:2s},{id:"minecraft:vanishing_curse",lvl:1s}]}},{},{},{}]}
-tag @s add checked
