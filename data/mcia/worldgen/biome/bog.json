@@ -103,7 +103,7 @@
       {
         "type": "minecraft:frog",
         "maxCount": 5,
-        "minCount": 2,
+        "minCount": 5,
         "weight": 10
       }
     ],

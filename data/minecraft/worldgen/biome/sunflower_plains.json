@@ -123,6 +123,12 @@
         "weight": 8
       },
       {
+        "type": "minecraft:rabbit",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 8
+      },
+      {
         "type": "minecraft:horse",
         "maxCount": 6,
         "minCount": 2,

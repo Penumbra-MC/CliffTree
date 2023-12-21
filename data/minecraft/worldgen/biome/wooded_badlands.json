@@ -39,7 +39,9 @@
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "mcia:badlands_surface"
+    ],
     [],
     [
       "minecraft:ore_dirt",
@@ -108,14 +110,14 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "weight": 20
       },
       {
         "type": "minecraft:armadillo",
-        "maxCount": 3,
-        "minCount": 2,
+        "maxCount": 6,
+        "minCount": 4,
         "weight": 10
       }
   ],

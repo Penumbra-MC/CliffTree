@@ -108,39 +108,39 @@
         "type": "minecraft:sheep",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 12
-      },
-      {
-        "type": "minecraft:pig",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
+        "weight": 8
       },
       {
         "type": "minecraft:chicken",
-        "maxCount": 4,
+        "maxCount": 8,
         "minCount": 4,
-        "weight": 10
+        "weight": 25
       },
       {
         "type": "minecraft:cow",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 8
+        "weight": 10
       },
       {
-        "type": "minecraft:chicken",
-        "maxCount": 4,
+        "type": "minecraft:parrot",
+        "maxCount": 8,
         "minCount": 4,
-        "weight": 10
+        "weight": 40
+      },
+      {
+        "type": "minecraft:panda",
+        "maxCount": 3,
+        "minCount": 3,
+        "weight": 6
       }
     ],
     "misc": [],
     "monster": [
       {
         "type": "minecraft:spider",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 8,
+        "minCount": 8,
         "weight": 100
       },
       {

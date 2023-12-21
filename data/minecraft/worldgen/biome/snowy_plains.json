@@ -100,14 +100,14 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "weight": 10
       },
       {
         "type": "minecraft:polar_bear",
         "maxCount": 4,
-        "minCount": 2,
+        "minCount": 3,
         "weight": 1
       }
     ],

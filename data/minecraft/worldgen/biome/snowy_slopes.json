@@ -103,9 +103,9 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
-        "weight": 8
+        "weight": 4
       },
       {
         "type": "minecraft:goat",

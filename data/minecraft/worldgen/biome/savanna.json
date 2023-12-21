@@ -101,13 +101,13 @@
         "type": "minecraft:sheep",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 12
+        "weight": 4
       },
       {
         "type": "minecraft:pig",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
+        "maxCount": 2,
+        "minCount": 2,
+        "weight": 2
       },
       {
         "type": "minecraft:chicken",
@@ -117,9 +117,9 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 8
+        "maxCount": 8,
+        "minCount": 6,
+        "weight": 12
       },
       {
         "type": "minecraft:horse",
@@ -135,9 +135,9 @@
       },
       {
         "type": "minecraft:armadillo",
-        "maxCount": 3,
-        "minCount": 2,
-        "weight": 10
+        "maxCount": 6,
+        "minCount": 4,
+        "weight": 12
       }
     ],
     "misc": [],
