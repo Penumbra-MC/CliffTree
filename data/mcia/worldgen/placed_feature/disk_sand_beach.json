@@ -1,0 +1,19 @@
+{
+  "feature": "mcia:disk_sand_beach",
+  "placement": [
+    {
+      "count": 80,
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+			"type": "heightmap",
+			"heightmap": "WORLD_SURFACE_WG"
+		},
+    {
+			"type": "minecraft:biome"
+		}
+  ]
+}

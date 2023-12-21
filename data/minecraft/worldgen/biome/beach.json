@@ -60,9 +60,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "mcia:disk_sand_beach"
     ],
     [],
     [
@@ -76,10 +76,12 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "minecraft:seagrass_river"
     ],
-    [ "mcia:extra_gold_remove",
-    "mcia:extra_emerald_remove",
+    [ 
+      "mcia:extra_gold_remove",
+      "mcia:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
