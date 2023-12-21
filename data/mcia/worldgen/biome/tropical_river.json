@@ -8,8 +8,8 @@
     },
     "sky_color": 8434175,
     "fog_color": 12112895,
-    "water_color": 1352389,
-    "water_fog_color": 816524,
+    "water_color": 1360067,
+    "water_fog_color": 6705,
     "grass_color": 6210881,
     "foliage_color": 3651091
   },
@@ -60,9 +60,8 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "mcia:disk_sand_tropic",
+      "mcia:disk_mud"
     ],
     [],
     [
@@ -80,6 +79,7 @@
       "minecraft:patch_pumpkin",
       "minecraft:vines",
       "minecraft:patch_melon_sparse",
+      "minecraft:seagrass_deep_warm",
       "minecraft:seagrass_river"
     ],
     [ "mcia:extra_gold_remove",

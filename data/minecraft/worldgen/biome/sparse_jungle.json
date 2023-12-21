@@ -22,8 +22,8 @@
       "sound": "minecraft:music.overworld.sparse_jungle"
     },
     "sky_color": 7842047,
-    "water_color": 887523,
-    "water_fog_color": 4665
+    "water_color": 1360067,
+    "water_fog_color": 6705
   },
   "features": [
     [],
@@ -66,9 +66,8 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "mcia:disk_sand_tropic",
+      "mcia:disk_mud"
     ],
     [],
     [
@@ -77,6 +76,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "minecraft:bamboo_light",
       "minecraft:trees_sparse_jungle",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",

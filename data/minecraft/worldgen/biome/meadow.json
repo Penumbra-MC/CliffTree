@@ -83,7 +83,8 @@
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
       "minecraft:flower_meadow",
-      "minecraft:trees_meadow"
+      "minecraft:trees_meadow",
+      "mcia:flower_dandelion"
     ],
     [
       "mcia:extra_gold_remove",

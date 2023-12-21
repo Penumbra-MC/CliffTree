@@ -71,7 +71,7 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_clay"
+      "mcia:disk_mud"
     ],
     [],
     [
@@ -91,7 +91,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_swamp",
       "minecraft:patch_pumpkin",
-      "minecraft:seagrass_swamp"
+      "minecraft:seagrass_warm",
+      "minecraft:seagrass_river"
     ],
     [
       "mcia:extra_gold_remove",

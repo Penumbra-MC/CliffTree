@@ -267,7 +267,7 @@
     },
     "vein_gap": {
       "noise": "minecraft:ore_gap",
-      "xz_scale": 1.0,
+      "xz_scale": 0.25,
       "y_scale": 1.0,
       "type": "minecraft:noise"
     },
@@ -1737,7 +1737,10 @@
                                 },
                                 "then_run": {
                                   "result_state": {
-                                    "Name": "minecraft:stone"
+                                    "Properties": {
+                                      "snowy": "false"
+                                    },
+                                    "Name": "minecraft:grass_block"
                                   },
                                   "type": "minecraft:block"
                                 },
@@ -2655,7 +2658,7 @@
                             },
                             "then_run": {
                               "result_state": {
-                                "Name": "minecraft:stone"
+                                "Name": "minecraft:coarse_dirt"
                               },
                               "type": "minecraft:block"
                             },

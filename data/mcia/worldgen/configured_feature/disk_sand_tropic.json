@@ -54,23 +54,6 @@
         {
           "if_true": {
             "type": "minecraft:matching_blocks",
-            "blocks": "minecraft:grass_block",
-            "offset": [
-              0,
-              1,
-              0
-            ]
-          },
-          "then": {
-            "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:dirt"
-            }
-          }
-        },
-        {
-          "if_true": {
-            "type": "minecraft:matching_blocks",
             "blocks": "minecraft:air",
             "offset": [
               0,
@@ -125,6 +108,7 @@
       "type": "minecraft:matching_blocks",
       "blocks": [
         "minecraft:dirt",
+        "minecraft:grass_block",
         "minecraft:sand",
         "minecraft:clay",
         "minecraft:gravel"

@@ -9,8 +9,8 @@
   "downfall": 0.0,
   "effects": {
     "fog_color": 12638463,
-    "foliage_color": 10387789,
-    "grass_color": 9470285,
+    "foliage_color": 10131523,
+    "grass_color": 8746804,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -83,7 +83,7 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_badlands",
-      "minecraft:patch_grass_badlands",
+      "minecraft:patch_grass_plain",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",

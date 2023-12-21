@@ -17,7 +17,9 @@
     },
     "sky_color": 7254527,
     "water_color": 2461864,
-    "water_fog_color": 71722
+    "water_fog_color": 71722,
+    "grass_color": 11584326,
+    "foliage_color": 8298799
   },
   "features": [
     [],
@@ -74,7 +76,7 @@
       "minecraft:glow_lichen",
       "minecraft:trees_windswept_savanna",
       "minecraft:flower_default",
-      "minecraft:patch_grass_normal",
+      "minecraft:patch_grass_savanna",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",

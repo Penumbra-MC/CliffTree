@@ -9,7 +9,9 @@
     "sky_color": 7254527,
     "water_color": 2919324,
     "water_fog_color": 268327,
-    "fog_color": 12638463
+    "fog_color": 12638463,
+    "grass_color": 12239182,
+    "foliage_color": 8426806
   },
   "carvers": {
     "air": [
