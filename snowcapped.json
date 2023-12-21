@@ -498,7 +498,7 @@
         [
           "biome_lpyeka0y",
           "biome_lpyeka0y",
-          "biome_lpyeka0y",
+          "minecraft:river",
           "biome_lpyejvpt",
           "biome_lpyejvpt",
           "biome_lpyejvpt"
@@ -982,15 +982,7 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "minecraft:lush_caves"
-        ],
-        [
           "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyhxbye/minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -1006,7 +998,15 @@
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "biome_lpygnpus/minecraft:lush_caves",
+          "biome_lpyet24u/minecraft:lush_caves",
+          "minecraft:lush_caves"
+        ],
+        [
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u/minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [

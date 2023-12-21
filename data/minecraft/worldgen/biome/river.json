@@ -16,7 +16,7 @@
       "tick_delay": 6000
     },
     "sky_color": 8103167,
-    "water_color": 2004978,
+    "water_color": 38348,
     "water_fog_color": 4669
   },
   "features": [
@@ -78,7 +78,7 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:seagrass_warm",
+      "minecraft:seagrass_cold",
       "minecraft:seagrass_river"
     ],
     [

@@ -9383,7 +9383,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               0,
@@ -9392,6 +9392,36 @@
             "offset": 0
           },
           "biome": "mcia:warm_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
         },
         {
           "parameters": {
@@ -9442,7 +9472,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -9623,7 +9653,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               0,
@@ -9632,6 +9662,36 @@
             "offset": 0
           },
           "biome": "mcia:warm_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
         },
         {
           "parameters": {
@@ -9682,7 +9742,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -10493,7 +10553,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               0,
@@ -10502,6 +10562,36 @@
             "offset": 0
           },
           "biome": "mcia:warm_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
         },
         {
           "parameters": {
@@ -10552,7 +10642,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -22031,7 +22121,7 @@
             ],
             "continentalness": [
               -1.2,
-              -1.05
+              0.8
             ],
             "erosion": [
               -1,
@@ -22133,7 +22223,7 @@
             ],
             "humidity": [
               -1,
-              0.7
+              0.3
             ],
             "depth": [
               0.22,
@@ -22162,8 +22252,8 @@
               -0.45
             ],
             "humidity": [
-              0.7,
-              1
+              0.3,
+              0.7
             ],
             "depth": [
               0.22,
@@ -22171,7 +22261,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:lush_caves"
+          "biome": "mcia:caves"
         },
         {
           "parameters": {
@@ -22219,67 +22309,7 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.22,
-              0.95
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.05,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              1
-            ],
-            "humidity": [
-              0.7,
-              1
-            ],
-            "depth": [
-              0.22,
-              0.95
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:lush_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.05
-            ],
-            "continentalness": [
-              -1.05,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
+              0.55
             ],
             "humidity": [
               0.3,
@@ -22292,36 +22322,6 @@
             "offset": 0
           },
           "biome": "mcia:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.05
-            ],
-            "continentalness": [
-              -1.05,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.2,
-              1
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.22,
-              0.95
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -31823,7 +31823,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               1,
@@ -31832,6 +31832,36 @@
             "offset": 0
           },
           "biome": "mcia:warm_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
         },
         {
           "parameters": {
@@ -31882,7 +31912,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -32063,7 +32093,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               1,
@@ -32072,6 +32102,36 @@
             "offset": 0
           },
           "biome": "mcia:warm_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
         },
         {
           "parameters": {
@@ -32122,7 +32182,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -32933,7 +32993,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               1,
@@ -32942,6 +33002,36 @@
             "offset": 0
           },
           "biome": "mcia:warm_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
         },
         {
           "parameters": {
@@ -32992,7 +33082,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -44456,7 +44546,7 @@
               1
             ],
             "depth": [
-              1.0,
+              1.05,
               1.3
             ],
             "offset": 0
@@ -44486,7 +44576,7 @@
               1
             ],
             "depth": [
-              1.0,
+              1.05,
               1.3
             ],
             "offset": 0
@@ -44516,7 +44606,7 @@
               1
             ],
             "depth": [
-              1.0,
+              1.05,
               1.3
             ],
             "offset": 0
@@ -44546,7 +44636,7 @@
               1
             ],
             "depth": [
-              1.0,
+              1.05,
               1.3
             ],
             "offset": 0
