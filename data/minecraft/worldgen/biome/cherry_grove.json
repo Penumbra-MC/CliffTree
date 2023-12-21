@@ -87,7 +87,7 @@
       "minecraft:flower_cherry",
       "minecraft:trees_cherry"
     ],
-    [
+    [ "mcia:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

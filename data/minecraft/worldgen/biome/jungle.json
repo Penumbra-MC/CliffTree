@@ -89,6 +89,8 @@
       "minecraft:patch_melon"
     ],
     [
+      "mcia:extra_gold_remove",
+      "mcia:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

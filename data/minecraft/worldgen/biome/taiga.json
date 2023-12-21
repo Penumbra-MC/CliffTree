@@ -82,6 +82,8 @@
       "minecraft:patch_berry_common"
     ],
     [
+      "mcia:extra_gold_remove",
+      "mcia:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -91,7 +91,8 @@
       "minecraft:patch_pumpkin",
       "minecraft:patch_cactus_decorated"
     ],
-    [
+    [ 
+    "mcia:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

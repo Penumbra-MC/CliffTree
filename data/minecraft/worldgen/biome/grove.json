@@ -86,6 +86,7 @@
       "minecraft:patch_pumpkin"
     ],
     [
+      "mcia:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

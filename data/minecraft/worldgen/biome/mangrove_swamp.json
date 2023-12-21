@@ -89,6 +89,8 @@
       "minecraft:seagrass_swamp"
     ],
     [
+      "mcia:extra_gold_remove",
+      "mcia:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

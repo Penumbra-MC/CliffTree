@@ -82,6 +82,7 @@
       "minecraft:glow_lichen"
     ],
     [
+      "mcia:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
