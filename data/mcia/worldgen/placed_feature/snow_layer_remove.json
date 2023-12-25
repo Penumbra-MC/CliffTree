@@ -1,0 +1,19 @@
+{
+	"feature": "mcia:snow_layer_remove",
+	"placement": [
+		{
+			"type": "minecraft:count",
+			"count": 20
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"type": "heightmap",
+			"heightmap": "WORLD_SURFACE_WG"
+		  },
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

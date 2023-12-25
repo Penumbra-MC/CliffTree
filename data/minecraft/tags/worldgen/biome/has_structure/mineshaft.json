@@ -1,5 +1,8 @@
 {
   "values": [
-    "mcia:mudflat"
+    "mcia:bog",
+    "mcia:frozen_caves",
+    "mcia:warm_caves",
+    "mcia:mushroom_caves"
   ]
 }

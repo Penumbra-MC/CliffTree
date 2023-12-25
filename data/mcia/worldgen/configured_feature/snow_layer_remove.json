@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:air"
+            },
+            "target": {
+              "Name": "minecraft:snow",
+              "Properties": {"layers":"1"}
+            },
+			"radius": 12
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}
