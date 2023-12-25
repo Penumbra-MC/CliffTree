@@ -16,8 +16,9 @@
       "tick_delay": 6000
     },
     "sky_color": 7842047,
-    "water_color": 9079191,
-    "water_fog_color": 2302246
+    "water_color": 8282952,
+    "water_fog_color": 2302246,
+    "grass_color": 12427945
   },
   "features": [
     [],
@@ -25,6 +26,7 @@
       "minecraft:lake_lava_underground"
     ],
     [
+      "mcia:island_rock",
       "minecraft:amethyst_geode"
     ],
     [
@@ -72,9 +74,10 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:mushroom_island_vegetation",
-      "minecraft:brown_mushroom_taiga",
-      "minecraft:red_mushroom_taiga",
+      "mcia:patch_grass_island",
+      "mcia:huge_red_mushroom",
+      "mcia:huge_brown_mushroom",
+      "mcia:mushroom_field_patch",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin"
     ],

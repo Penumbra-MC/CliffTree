@@ -17,7 +17,9 @@
     },
     "sky_color": 8233727,
     "water_color": 943019,
-    "water_fog_color": 3115
+    "water_fog_color": 3115,
+    "grass_color": 9874287,
+    "foliage_color": 9020503
   },
   "features": [
     [],
@@ -25,7 +27,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:hill_rock"
     ],
     [
       "minecraft:monster_room",
@@ -75,8 +78,8 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_windswept_forest",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_badlands",
+      "minecraft:flower_plains",
+      "minecraft:patch_grass_savanna",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
@@ -187,5 +190,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.2
+  "temperature": 0.5
 }

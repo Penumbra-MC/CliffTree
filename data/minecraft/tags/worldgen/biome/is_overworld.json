@@ -1,0 +1,14 @@
+{
+    "values": [
+      "mcia:bog",
+      "mcia:caves",
+      "mcia:cold_river",
+      "mcia:frozen_caves",
+      "mcia:inferno",
+      "mcia:mushroom_caves",
+      "mcia:sparse_forest",
+      "mcia:tropical_river",
+      "mcia:warm_caves",
+      "mcia:warm_river"
+    ]
+  }
