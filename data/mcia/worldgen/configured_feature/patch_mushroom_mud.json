@@ -1,8 +1,8 @@
 {
   "type": "minecraft:random_patch",
   "config": {
-    "tries": 32,
-    "xz_spread": 7,
+    "tries": 8,
+    "xz_spread": 5,
     "y_spread": 3,
     "feature": {
       "feature": {
@@ -11,7 +11,7 @@
           "to_place": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:short_grass"
+              "Name": "minecraft:brown_mushroom"
             }
           }
         }
@@ -25,6 +25,15 @@
               {
                 "type": "minecraft:matching_blocks",
                 "blocks": "minecraft:air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+            "offset": [
+              0,
+              -1,
+              0
+            ],
+            "blocks": "minecraft:mud"
               }
             ]
           }

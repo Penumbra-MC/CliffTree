@@ -22111,7 +22111,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:mushroom_caves"
+          "biome": "minecraft:mushroom_fields"
         },
         {
           "parameters": {
@@ -22171,7 +22171,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:mushroom_caves"
+          "biome": "minecraft:mushroom_fields"
         },
         {
           "parameters": {
@@ -22201,7 +22201,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:mushroom_caves"
+          "biome": "minecraft:mushroom_fields"
         },
         {
           "parameters": {
@@ -22441,7 +22441,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:mushroom_caves"
+          "biome": "minecraft:mushroom_fields"
         },
         {
           "parameters": {

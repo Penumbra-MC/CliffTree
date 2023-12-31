@@ -77,7 +77,9 @@
       "mcia:patch_grass_island",
       "mcia:huge_red_mushroom",
       "mcia:huge_brown_mushroom",
+      "minecraft:mushroom_island_vegetation",
       "mcia:mushroom_field_patch",
+      "mcia:patch_mushroom_mud",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin"
     ],

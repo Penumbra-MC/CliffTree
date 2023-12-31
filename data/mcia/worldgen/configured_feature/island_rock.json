@@ -35,12 +35,6 @@
           "data": {
             "Name": "minecraft:andesite"
           }
-        },
-        {
-          "weight": 2,
-          "data": {
-            "Name": "minecraft:cobblestone"
-          }
         }
       ]
     },
