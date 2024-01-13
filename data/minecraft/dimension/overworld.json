@@ -2461,7 +2461,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -5341,7 +5341,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -14611,7 +14611,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -18511,7 +18511,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -18541,7 +18541,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -24901,7 +24901,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -27781,7 +27781,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -37051,7 +37051,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -40951,7 +40951,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
@@ -40981,7 +40981,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:windswept_forest"
+          "biome": "minecraft:windswept_hills"
         },
         {
           "parameters": {
