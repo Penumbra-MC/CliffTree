@@ -15,8 +15,8 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "sky_color": 8364543,
-    "water_color": 6979066,
+    "sky_color": 10273257,
+    "water_color": 6979046,
     "water_fog_color": 1319727
   },
   "features": [
