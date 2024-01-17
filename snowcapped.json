@@ -228,12 +228,12 @@
           "minecraft:jungle/minecraft:bamboo_jungle"
         ],
         [
+          "biome_lri7mibv",
+          "biome_lri7mibv",
           "minecraft:desert",
           "minecraft:desert",
           "minecraft:desert",
-          "minecraft:desert",
-          "minecraft:desert",
-          "minecraft:desert"
+          "biome_lri7mpc8"
         ]
       ]
     },
@@ -429,25 +429,25 @@
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
           "minecraft:extreme_hills",
-          "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains"
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills"
         ],
         [
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
           "minecraft:extreme_hills",
-          "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains"
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills"
         ],
         [
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
-          "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains"
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills"
         ],
         [
           "layout_ktoepeor",
@@ -1542,47 +1542,56 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
+        ],
+        [
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12"
         ],
         [
           "minecraft:deep_dark",
@@ -1597,15 +1606,6 @@
           "minecraft:deep_dark",
           "minecraft:deep_dark",
           "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12"
-        ],
-        [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
           "biome_lq4ljl12",
           "biome_lq4ljl12",
           "biome_lq4ljl12",
@@ -1886,6 +1886,16 @@
       "key": "biome_lq4ljl12",
       "name": "mcia:inferno",
       "color": "#a60000"
+    },
+    {
+      "key": "biome_lri7mibv",
+      "name": "mcia:shrubland",
+      "color": "#ebcc52"
+    },
+    {
+      "key": "biome_lri7mpc8",
+      "name": "mcia:oasis",
+      "color": "#cfff11"
     }
   ],
   "targetVersion": "1_19",
