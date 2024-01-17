@@ -773,7 +773,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -782,6 +782,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -842,6 +902,36 @@
             "offset": 0
           },
           "biome": "minecraft:beach"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.05,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
         },
         {
           "parameters": {
@@ -1553,7 +1643,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -1562,6 +1652,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -2363,7 +2513,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -2372,6 +2522,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -2423,36 +2633,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -2483,7 +2663,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              1
             ],
             "depth": [
               0,
@@ -3353,7 +3533,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -3362,6 +3542,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -3803,7 +4043,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -3812,6 +4052,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -5243,7 +5543,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -5252,6 +5552,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -5303,36 +5663,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.19,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -5363,7 +5693,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              1
             ],
             "depth": [
               0,
@@ -6353,7 +6683,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               0,
@@ -6362,6 +6692,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -7240,6 +7630,36 @@
               -0.05
             ],
             "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.05,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
               -0.11,
               1
             ],
@@ -8672,6 +9092,36 @@
             "offset": 0
           },
           "biome": "minecraft:beach"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
         },
         {
           "parameters": {
@@ -10793,6 +11243,36 @@
             ],
             "humidity": [
               -1,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
               1
             ],
             "depth": [
@@ -11153,7 +11633,7 @@
             ],
             "humidity": [
               0.3,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -11162,6 +11642,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -11243,6 +11753,36 @@
             ],
             "humidity": [
               -1,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
               1
             ],
             "depth": [
@@ -11873,7 +12413,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -11882,6 +12422,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -11903,7 +12473,7 @@
             ],
             "humidity": [
               0.3,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -12233,7 +12803,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -12242,6 +12812,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -12962,6 +13562,36 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -14573,36 +15203,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -14633,7 +15233,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              1
             ],
             "depth": [
               0,
@@ -15863,7 +16463,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -15872,6 +16472,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -16373,7 +17003,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -16382,6 +17012,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -18413,7 +19073,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -18422,6 +19082,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -18473,36 +19163,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.19,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -19493,7 +20153,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -19502,6 +20162,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -22106,12 +22796,12 @@
               0.7
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
-          "biome": "minecraft:mushroom_fields"
+          "biome": "mcia:mushroom_caves"
         },
         {
           "parameters": {
@@ -22136,8 +22826,8 @@
               1
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22166,12 +22856,12 @@
               0.3
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
-          "biome": "minecraft:mushroom_fields"
+          "biome": "mcia:mushroom_caves"
         },
         {
           "parameters": {
@@ -22196,12 +22886,12 @@
               0.7
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
-          "biome": "minecraft:mushroom_fields"
+          "biome": "mcia:mushroom_caves"
         },
         {
           "parameters": {
@@ -22226,8 +22916,8 @@
               0.3
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22256,8 +22946,8 @@
               0.7
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22286,8 +22976,8 @@
               0.3
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22316,8 +23006,8 @@
               0.7
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22346,8 +23036,8 @@
               0.7
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22376,8 +23066,8 @@
               1
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22406,8 +23096,8 @@
               1
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
@@ -22436,12 +23126,12 @@
               0.7
             ],
             "depth": [
-              0.22,
-              0.95
+              0.2,
+              0.9
             ],
             "offset": 0
           },
-          "biome": "minecraft:mushroom_fields"
+          "biome": "mcia:mushroom_caves"
         },
         {
           "parameters": {
@@ -23213,7 +23903,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -23222,6 +23912,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -23282,6 +24032,36 @@
             "offset": 0
           },
           "biome": "minecraft:beach"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.05,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
         },
         {
           "parameters": {
@@ -23993,7 +24773,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -24002,6 +24782,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -24803,7 +25643,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -24812,6 +25652,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -24863,36 +25763,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -24923,7 +25793,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              1
             ],
             "depth": [
               1,
@@ -25793,7 +26663,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -25802,6 +26672,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -26243,7 +27173,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -26252,6 +27182,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -27683,7 +28673,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -27692,6 +28682,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -27743,36 +28793,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.19,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -27803,7 +28823,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              1
             ],
             "depth": [
               1,
@@ -28793,7 +29813,7 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.35
             ],
             "depth": [
               1,
@@ -28802,6 +29822,66 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              -0.4
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -29680,6 +30760,36 @@
               -0.05
             ],
             "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.05,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
               -0.11,
               1
             ],
@@ -31112,6 +32222,36 @@
             "offset": 0
           },
           "biome": "minecraft:beach"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
         },
         {
           "parameters": {
@@ -33233,6 +34373,36 @@
             ],
             "humidity": [
               -1,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
               1
             ],
             "depth": [
@@ -33593,7 +34763,7 @@
             ],
             "humidity": [
               0.3,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -33602,6 +34772,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -33683,6 +34883,36 @@
             ],
             "humidity": [
               -1,
+              0.7
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
               1
             ],
             "depth": [
@@ -34313,7 +35543,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -34322,6 +35552,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -34343,7 +35603,7 @@
             ],
             "humidity": [
               0.3,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -34673,7 +35933,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -34682,6 +35942,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -35402,6 +36692,36 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -37013,36 +38333,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -37073,7 +38363,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              1
             ],
             "depth": [
               1,
@@ -38303,7 +39593,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -38312,6 +39602,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -38813,7 +40133,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -38822,6 +40142,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -40853,7 +42203,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -40862,6 +42212,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -40913,36 +42293,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:windswept_hills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.19,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
               1
             ],
             "depth": [
@@ -41933,7 +43283,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               1,
@@ -41942,6 +43292,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
         },
         {
           "parameters": {
@@ -44546,12 +45926,282 @@
               1
             ],
             "depth": [
-              1.05,
-              1.3
+              1.1,
+              1.1
             ],
             "offset": 0
           },
           "biome": "minecraft:deep_dark"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.2,
+              -1.05
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:mushroom_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.2,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.2,
+              -1.05
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:mushroom_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -1.2,
+              -1.05
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              1
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:mushroom_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -1.05,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -44561,7 +46211,7 @@
             ],
             "continentalness": [
               0.03,
-              0.8
+              1
             ],
             "erosion": [
               -0.375,
@@ -44576,8 +46226,8 @@
               1
             ],
             "depth": [
-              1.05,
-              1.3
+              1.1,
+              1.1
             ],
             "offset": 0
           },
@@ -44586,62 +46236,62 @@
         {
           "parameters": {
             "weirdness": [
-              -1,
+              -0.05,
               1
             ],
             "continentalness": [
-              0.8,
-              1
+              -1.2,
+              0.03
             ],
             "erosion": [
               -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
               1
             ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
             "humidity": [
-              -1,
+              0.3,
               1
             ],
             "depth": [
-              1.05,
-              1.3
+              1.1,
+              1.1
             ],
             "offset": 0
           },
-          "biome": "minecraft:deep_dark"
+          "biome": "minecraft:lush_caves"
         },
         {
           "parameters": {
             "weirdness": [
-              -1,
+              -0.05,
               1
             ],
             "continentalness": [
-              0.8,
-              1
+              -1.2,
+              -1.05
             ],
             "erosion": [
-              -0.2225,
+              -0.375,
               1
             ],
             "temperature": [
-              -1,
+              0.55,
               1
             ],
             "humidity": [
-              -1,
-              1
+              0.3,
+              0.7
             ],
             "depth": [
-              1.05,
-              1.3
+              1.1,
+              1.1
             ],
             "offset": 0
           },
-          "biome": "mcia:inferno"
+          "biome": "mcia:mushroom_caves"
         }
       ],
       "type": "minecraft:multi_noise"
