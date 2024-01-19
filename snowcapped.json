@@ -618,12 +618,12 @@
           "minecraft:snowy_beach"
         ],
         [
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach"
+          "biome_lrk7bbqw",
+          "biome_lrk7bbqw",
+          "biome_lrk7bbqw",
+          "biome_lrk7bbqw",
+          "biome_lrk7bbqw",
+          "biome_lrk7bbqw"
         ],
         [
           "minecraft:beach",
@@ -634,12 +634,12 @@
           "minecraft:beach"
         ],
         [
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach",
-          "minecraft:beach"
+          "biome_lrk7fw1v",
+          "biome_lrk7fw1v",
+          "biome_lrk7fw1v",
+          "biome_lrk7fw1v",
+          "biome_lrk7fw1v",
+          "biome_lrk7fw1v"
         ],
         [
           "minecraft:desert",
@@ -1896,6 +1896,16 @@
       "key": "biome_lri7mpc8",
       "name": "mcia:oasis",
       "color": "#cfff11"
+    },
+    {
+      "key": "biome_lrk7bbqw",
+      "name": "mcia:cold_beach",
+      "color": "#e8f2a8"
+    },
+    {
+      "key": "biome_lrk7fw1v",
+      "name": "mcia:lukewarm_beach",
+      "color": "#eaf558"
     }
   ],
   "targetVersion": "1_19",
