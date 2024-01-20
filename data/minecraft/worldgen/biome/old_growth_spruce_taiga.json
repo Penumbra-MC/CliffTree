@@ -21,7 +21,8 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.old_growth_taiga"
     },
-    "sky_color": 8233983,
+    "sky_color": 9813222,
+    "fog_color": 13623536,
     "water_color": 3105423,
     "water_fog_color": 267041
   },

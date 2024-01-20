@@ -7,7 +7,7 @@
       "offset": 2.0
     },
     "sky_color": 7254527,
-    "water_color": 3319472,
+    "water_color": 3120559,
     "water_fog_color": 268327,
     "fog_color": 12638463,
     "grass_color": 12239182,
@@ -24,7 +24,7 @@
     [
       "mcia:savanna_terracotta",
       "mcia:savanna_plateau_surface"
-	],
+    ],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"

@@ -26,7 +26,10 @@
     "water_fog_color": 336937
   },
   "features": [
-    [],
+    [
+      "mcia:shrubland_terracotta",
+      "mcia:shrubland_surface"
+    ],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -83,15 +86,15 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_plain",
+      "mcia:flower_shrubland",
+      "mcia:patch_grass_shrubland",
       "minecraft:patch_grass_badlands",
-      "minecraft:patch_dead_bush_2",
+      "mcia:patch_dead_bush",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_cactus_desert"
+      "mcia:patch_cactus_shrubland"
     ],
     [ "mcia:extra_gold_remove",
     "mcia:extra_emerald_remove",
@@ -111,6 +114,12 @@
     ],
     "axolotls": [],
     "creature": [
+      {
+        "type": "minecraft:armadillo",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 2
+      },
       {
         "type": "minecraft:rabbit",
         "maxCount": 1,

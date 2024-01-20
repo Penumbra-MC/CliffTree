@@ -1064,6 +1064,52 @@
           "minecraft:lush_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_lrl300xn",
+      "name": "Stoney shore",
+      "array": [
+        [
+          "biome_lrl32vke",
+          "biome_lrl32vke",
+          "biome_lrl32vke",
+          "biome_lrl32vke",
+          "biome_lrl32vke",
+          "biome_lrl32vke"
+        ],
+        [
+          "biome_lrl31acw",
+          "biome_lrl31acw",
+          "biome_lrl31acw",
+          "biome_lrl31acw",
+          "biome_lrl31acw",
+          "biome_lrl31acw"
+        ],
+        [
+          "minecraft:stone_shore",
+          "minecraft:stone_shore",
+          "minecraft:stone_shore",
+          "minecraft:stone_shore",
+          "minecraft:stone_shore",
+          "minecraft:stone_shore"
+        ],
+        [
+          "biome_lrl32a94",
+          "biome_lrl32a94",
+          "biome_lrl32a94",
+          "biome_lrl32a94",
+          "biome_lrl32a94",
+          "biome_lrl32a94"
+        ],
+        [
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -1177,9 +1223,9 @@
           "layout_ktoin4kk"
         ],
         [
-          "minecraft:stone_shore",
-          "minecraft:stone_shore",
-          "minecraft:stone_shore",
+          "layout_lrl300xn",
+          "layout_lrl300xn",
+          "layout_lrl300xn",
           "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos/layout_ktoj2qez",
@@ -1255,9 +1301,9 @@
           "layout_ktoin4kk"
         ],
         [
-          "minecraft:stone_shore",
-          "minecraft:stone_shore",
-          "minecraft:stone_shore",
+          "layout_lrl300xn",
+          "layout_lrl300xn",
+          "layout_lrl300xn",
           "layout_ktoepeor",
           "layout_ktoepeos/layout_ktoepeor",
           "layout_ktoepeos/layout_ktoj2qez",
@@ -1906,6 +1952,26 @@
       "key": "biome_lrk7fw1v",
       "name": "mcia:lukewarm_beach",
       "color": "#eaf558"
+    },
+    {
+      "key": "biome_lrl31acw",
+      "name": "mcia:cold_stony_shore",
+      "color": "#888888"
+    },
+    {
+      "key": "biome_lrl31mp7",
+      "name": "mcia:warm_stony_shore",
+      "color": "#9b8f84"
+    },
+    {
+      "key": "biome_lrl32a94",
+      "name": "mcia:lukewarm_stony_shore",
+      "color": "#8f8881"
+    },
+    {
+      "key": "biome_lrl32vke",
+      "name": "mcia:snowy_stony_shore",
+      "color": "#888d99"
     }
   ],
   "targetVersion": "1_19",
