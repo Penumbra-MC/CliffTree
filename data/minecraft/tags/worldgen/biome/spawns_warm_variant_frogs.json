@@ -3,6 +3,10 @@
       "mcia:warm_caves",
       "mcia:inferno",
       "mcia:warm_river",
-      "mcia:tropical_river"
+      "mcia:tropical_river",
+      "mcia:lukewarm_beach",
+      "mcia:shrubland",
+      "mcia:oasis",
+      "mcia:warm_stony_shore"
     ]
   }
