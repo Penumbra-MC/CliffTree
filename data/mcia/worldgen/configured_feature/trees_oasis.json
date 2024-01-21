@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "mcia:jungle_tree",
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "mcia:jungle_tree_alt"
+      }
+    ],
+    "placement": [
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "minecraft:matching_blocks",
+              "blocks": "minecraft:air"
+            },
+            {
+              "type": "minecraft:matching_block_tag",
+          "offset": [
+            0,
+            -1,
+            0
+          ],
+          "tag": "mcia:true_dirt"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

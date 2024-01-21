@@ -228,12 +228,12 @@
           "minecraft:jungle/minecraft:bamboo_jungle"
         ],
         [
+          "biome_lri7mpc8",
+          "minecraft:desert",
+          "minecraft:desert",
+          "minecraft:desert",
           "biome_lri7mibv",
-          "biome_lri7mibv",
-          "minecraft:desert",
-          "minecraft:desert",
-          "minecraft:desert",
-          "biome_lri7mpc8"
+          "biome_lri7mibv"
         ]
       ]
     },

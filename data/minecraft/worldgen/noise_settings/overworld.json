@@ -877,7 +877,8 @@
               "if_true": {
                 "biome_is": [
                   "minecraft:savanna_plateau",
-                  "mcia:shrubland"
+                  "mcia:shrubland",
+                  "mcia:oasis"
                 ],
                 "type": "minecraft:biome"
               },
