@@ -22,7 +22,8 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.lush_caves"
     },
-    "sky_color": 0,
+    "sky_color": 3237547,
+    "fog_color": 1077089,
     "water_color": 4640202,
     "water_fog_color": 10551
   },

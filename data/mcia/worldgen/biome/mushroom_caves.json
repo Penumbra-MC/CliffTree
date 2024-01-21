@@ -21,9 +21,10 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.dripstone_caves"
     },
-    "sky_color": 0,
-    "water_color": 9079191,
-    "water_fog_color": 2302246
+    "sky_color": 5138338,
+    "water_color": 5658696,
+    "water_fog_color": 2302246,
+    "grass_color": 12427945
   },
   "features": [
     [],

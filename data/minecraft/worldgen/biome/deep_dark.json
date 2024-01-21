@@ -21,7 +21,8 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.deep_dark"
     },
-    "sky_color": 0,
+    "sky_color": 740477,
+    "fog_color": 1052968,
     "water_color": 2630773,
     "water_fog_color": 1512506
   },
