@@ -129,19 +129,19 @@
         "unassigned"
       ],
       [
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
-        "slice_ktojsso9",
-        "slice_ktojmnu2",
-        "slice_ktoj3nad",
-        "slice_ktoip0qu",
-        "slice_ktoi8ht1",
-        "slice_ktoip0qu",
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
-        "slice_ktojsso9",
-        "slice_ktojmnu2",
-        "slice_ktoj3nad"
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo",
+        "layout_lroojjxo"
       ],
       [
         "unassigned",
@@ -476,8 +476,8 @@
           "minecraft:frozen_river",
           "minecraft:frozen_river",
           "minecraft:frozen_river",
-          "biome_lpyej6tt",
-          "biome_lpyej6tt"
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
         ],
         [
           "minecraft:river",
@@ -496,8 +496,8 @@
           "minecraft:river"
         ],
         [
-          "biome_lpyeka0y",
-          "biome_lpyeka0y",
+          "minecraft:river",
+          "minecraft:river",
           "minecraft:river",
           "biome_lpyejvpt",
           "biome_lpyejvpt",
@@ -508,8 +508,8 @@
           "biome_lpyeka0y",
           "biome_lpyeka0y",
           "biome_lpyeka0y",
-          "biome_lpyejvpt",
-          "biome_lpyejvpt"
+          "biome_lpyeka0y",
+          "biome_lpyeka0y"
         ]
       ]
     },
@@ -978,43 +978,43 @@
       "name": "Lush Caves",
       "array": [
         [
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
           "biome_lpyet24u",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u/minecraft:lush_caves",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u/minecraft:lush_caves",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u/minecraft:lush_caves",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
           "minecraft:lush_caves"
         ]
       ]
@@ -1036,7 +1036,7 @@
           "biome_lpyew918",
           "biome_lpyew918",
           "biome_lpyew918",
-          "biome_lpyew918/minecraft:lush_caves",
+          "biome_lpyew918",
           "minecraft:lush_caves"
         ],
         [
@@ -1044,7 +1044,7 @@
           "biome_lpyew918",
           "biome_lpyew918",
           "biome_lpyew918",
-          "biome_lpyew918/minecraft:lush_caves",
+          "biome_lpyew918",
           "minecraft:lush_caves"
         ],
         [
@@ -1052,7 +1052,7 @@
           "biome_lpyew918",
           "biome_lpyew918",
           "biome_lpyew918",
-          "biome_lpyew918/minecraft:lush_caves",
+          "biome_lpyew918",
           "minecraft:lush_caves"
         ],
         [
@@ -1110,6 +1110,98 @@
           "biome_lrl31mp7"
         ]
       ]
+    },
+    {
+      "key": "layout_lromy0zh",
+      "name": "Generic caves",
+      "array": [
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek"
+        ],
+        [
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u"
+        ],
+        [
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu"
+        ],
+        [
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lrooluic",
+      "name": "Oasis lush cave",
+      "array": [
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "minecraft:lush_caves",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -1160,7 +1252,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoik08p"
+          "layout_ktoiz1xt"
         ],
         [
           "layout_ktoikj2n",
@@ -1169,7 +1261,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoik08p"
+          "layout_ktoiz1xt"
         ],
         [
           "layout_ktoikj2n",
@@ -1178,7 +1270,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoik08p"
+          "layout_ktoiz1xt"
         ],
         [
           "layout_ktoikj2n",
@@ -1187,7 +1279,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoik08p"
+          "layout_ktoiz1xt"
         ]
       ]
     },
@@ -1546,10 +1638,10 @@
         [
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
+          "layout_lrooluic",
+          "layout_lrooluic",
+          "layout_lrooluic",
+          "layout_lrooluic",
           "layout_kvu3ce1q"
         ],
         [
@@ -1557,8 +1649,8 @@
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
+          "layout_lrooluic",
+          "layout_lrooluic",
           "layout_kvu3ce1q"
         ],
         [
@@ -1566,8 +1658,8 @@
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
+          "layout_lrooluic",
+          "layout_lrooluic",
           "layout_kvu3ce1q"
         ],
         [
@@ -1588,56 +1680,47 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig"
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig"
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig"
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig"
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig"
-        ],
-        [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12"
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
         ],
         [
           "minecraft:deep_dark",
@@ -1656,6 +1739,93 @@
           "biome_lq4ljl12",
           "biome_lq4ljl12",
           "biome_lq4ljl12"
+        ],
+        [
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lroojjxo",
+      "name": "Middle caves",
+      "array": [
+        [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
         ]
       ]
     }
@@ -1972,6 +2142,11 @@
       "key": "biome_lrl32vke",
       "name": "mcia:snowy_stony_shore",
       "color": "#888d99"
+    },
+    {
+      "key": "biome_lropmbyw",
+      "name": "mcia:cold_plains",
+      "color": "#9fffa7"
     }
   ],
   "targetVersion": "1_19",

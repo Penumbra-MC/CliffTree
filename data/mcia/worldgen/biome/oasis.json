@@ -127,6 +127,12 @@
         "maxCount": 1,
         "minCount": 1,
         "weight": 20
+      },
+      {
+        "type": "minecraft:camel",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
       }
     ],
     "misc": [],
@@ -135,12 +141,12 @@
         "type": "minecraft:spider",
         "weight": 100,
         "minCount": 4,
-        "maxCount": 4
+        "maxCount": 6
       },
       {
         "type": "minecraft:zombie",
         "weight": 95,
-        "minCount": 4,
+        "minCount": 2,
         "maxCount": 4
       },
       {
@@ -152,7 +158,7 @@
       {
         "type": "minecraft:skeleton",
         "weight": 100,
-        "minCount": 4,
+        "minCount": 2,
         "maxCount": 4
       },
       {
@@ -188,7 +194,14 @@
         "weight": 10
       }
     ],
-    "water_ambient": [],
+    "water_ambient": [
+      {
+        "type": "minecraft:tropical_fish",
+        "maxCount": 8,
+        "minCount": 8,
+        "weight": 25
+      }
+    ],
     "water_creature": []
   },
   "temperature": 2.0
