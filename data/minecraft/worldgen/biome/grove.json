@@ -9,6 +9,7 @@
   "downfall": 0.8,
   "effects": {
     "fog_color": 13692400,
+    "sky_color": 10273257,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -21,7 +22,6 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.grove"
     },
-    "sky_color": 8495359,
     "water_color": 8303069,
     "water_fog_color": 1319727
   },

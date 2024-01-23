@@ -8,7 +8,8 @@
   },
   "downfall": 0.8,
   "effects": {
-    "fog_color": 12638463,
+    "fog_color": 13692400,
+    "sky_color": 10273257,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -21,8 +22,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.swamp"
     },
-    "sky_color": 8955639,
-    "water_color": 2650242,
+    "water_color": 3831692,
     "water_fog_color": 267041,
     "grass_color": 5864550
   },
