@@ -118,7 +118,7 @@
         "type": "minecraft:cow",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 5
       },
       {
         "type": "minecraft:wolf",
@@ -145,7 +145,7 @@
         "type": "minecraft:spider",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 80
       },
       {
         "type": "minecraft:zombie",

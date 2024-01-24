@@ -122,12 +122,6 @@
         "weight": 25
       },
       {
-        "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 8
-      },
-      {
         "type": "minecraft:parrot",
         "maxCount": 8,
         "minCount": 4,
@@ -146,7 +140,7 @@
         "type": "minecraft:spider",
         "maxCount": 8,
         "minCount": 8,
-        "weight": 100
+        "weight": 120
       },
       {
         "type": "minecraft:zombie",
@@ -193,7 +187,7 @@
       {
         "type": "minecraft:ocelot",
         "maxCount": 3,
-        "minCount": 1,
+        "minCount": 3,
         "weight": 2
       }
     ],

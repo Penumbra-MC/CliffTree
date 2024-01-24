@@ -162,7 +162,7 @@
         "type": "minecraft:witch",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 20
       },
       {
         "type": "minecraft:slime",

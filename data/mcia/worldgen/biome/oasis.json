@@ -145,25 +145,25 @@
       },
       {
         "type": "minecraft:zombie",
-        "weight": 95,
+        "weight": 80,
         "minCount": 2,
         "maxCount": 4
       },
       {
         "type": "minecraft:zombie_villager",
-        "weight": 5,
+        "weight": 15,
         "minCount": 1,
         "maxCount": 1
       },
       {
         "type": "minecraft:skeleton",
-        "weight": 100,
+        "weight": 80,
         "minCount": 2,
         "maxCount": 4
       },
       {
         "type": "minecraft:creeper",
-        "weight": 100,
+        "weight": 90,
         "minCount": 4,
         "maxCount": 4
       },
@@ -184,6 +184,12 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
+      },
+      {
+        "type": "minecraft:husk",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
       }
     ],
     "underground_water_creature": [
