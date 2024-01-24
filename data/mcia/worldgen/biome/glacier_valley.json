@@ -6,7 +6,7 @@
       "minecraft:canyon"
     ]
   },
-  "downfall": 0.9,
+  "downfall": 0.5,
   "effects": {
     "fog_color": 13692400,
     "mood_sound": {
@@ -15,15 +15,9 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "music": {
-      "max_delay": 24000,
-      "min_delay": 12000,
-      "replace_current_music": false,
-      "sound": "minecraft:music.overworld.snowy_slopes"
-    },
     "sky_color": 10273257,
-    "water_color": 8303069,
-    "water_fog_color": 1319727
+    "water_color": 6979046,
+    "water_fog_color": 1317460
   },
   "features": [
     [],
@@ -68,24 +62,24 @@
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "minecraft:ore_emerald"
+      "minecraft:disk_gravel"
     ],
-    [
-      "minecraft:ore_infested"
-    ],
+    [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "minecraft:spring_lava_frozen"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_sugar_cane",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin"
     ],
     [
       "mcia:extra_gold_remove",
+      "mcia:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -103,16 +97,10 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:rabbit",
-        "maxCount": 1,
+        "type": "minecraft:polar_bear",
+        "maxCount": 2,
         "minCount": 1,
-        "weight": 4
-      },
-      {
-        "type": "minecraft:goat",
-        "maxCount": 3,
-        "minCount": 3,
-        "weight": 5
+        "weight": 1
       }
     ],
     "misc": [],
@@ -166,6 +154,12 @@
         "weight": 5
       },
       {
+        "type": "minecraft:drowned",
+        "maxCount": 4,
+        "minCount": 2,
+        "weight": 5
+      },
+      {
         "type": "minecraft:stray",
         "maxCount": 4,
         "minCount": 4,
@@ -180,8 +174,22 @@
         "weight": 10
       }
     ],
-    "water_ambient": [],
-    "water_creature": []
+    "water_ambient": [
+      {
+        "type": "minecraft:salmon",
+        "maxCount": 8,
+        "minCount": 5,
+        "weight": 15
+      }
+    ],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "maxCount": 4,
+        "minCount": 1,
+        "weight": 30
+      }
+    ]
   },
-  "temperature": -0.3
+  "temperature": 0.0
 }

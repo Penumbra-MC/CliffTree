@@ -878,7 +878,8 @@
                 "biome_is": [
                   "minecraft:savanna_plateau",
                   "mcia:shrubland",
-                  "mcia:oasis"
+                  "mcia:oasis",
+                  "mcia:desert_cliff"
                 ],
                 "type": "minecraft:biome"
               },
@@ -1141,7 +1142,8 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:frozen_peaks",
-                              "minecraft:ice_spikes"
+                              "minecraft:ice_spikes",
+                              "mcia:glacier_cliff"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1544,7 +1546,6 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:stony_shore",
-                                  "mcia:warm_stony_shore",
                                   "mcia:lukewarm_stony_shore",
                                   "mcia:cold_stony_shore",
                                   "mcia:snowy_stony_shore"
@@ -1926,7 +1927,8 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:old_growth_pine_taiga",
-                              "minecraft:old_growth_spruce_taiga"
+                              "minecraft:old_growth_spruce_taiga",
+                              "minecraft:snow_old_growth_taiga"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1985,7 +1987,8 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:ice_spikes"
+                              "minecraft:ice_spikes",
+                              "mcia:glacier_cliff"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1999,6 +2002,30 @@
                             "then_run": {
                               "result_state": {
                                 "Name": "minecraft:snow_block"
+                              },
+                              "type": "minecraft:block"
+                            },
+                            "type": "minecraft:condition"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
+                              "mcia:glacier_valley"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "if_true": {
+                              "offset": 0,
+                              "surface_depth_multiplier": 0,
+                              "add_stone_depth": false,
+                              "type": "minecraft:water"
+                            },
+                            "then_run": {
+                              "result_state": {
+                                "Name": "minecraft:powder_snow"
                               },
                               "type": "minecraft:block"
                             },
@@ -2158,7 +2185,8 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:frozen_peaks",
-                              "minecraft:ice_spikes"
+                              "minecraft:ice_spikes",
+                              "mcia:glacier_cliff"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2499,7 +2527,6 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:stony_shore",
-                                  "mcia:warm_stony_shore",
                                   "mcia:lukewarm_stony_shore",
                                   "mcia:cold_stony_shore",
                                   "mcia:snowy_stony_shore"
@@ -2621,7 +2648,6 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  
                                   "minecraft:snowy_beach"
                                 ],
                                 "type": "minecraft:biome"
@@ -2655,12 +2681,10 @@
                               },
                               "type": "minecraft:condition"
                             },
-                            
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "minecraft:desert",
-                                  "minecraft:shrubland"
+                                  "minecraft:desert"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2693,7 +2717,42 @@
                               },
                               "type": "minecraft:condition"
                             },
-                            
+                            {
+                              "if_true": {
+                                "biome_is": [
+                                  "mcia:glacier_valley"
+                                ],
+                                "type": "minecraft:biome"
+                              },
+                              "then_run": {
+                                "sequence": [
+                                  {
+                                    "if_true": {
+                                      "offset": 0,
+                                      "add_surface_depth": false,
+                                      "secondary_depth_range": 0,
+                                      "surface_type": "ceiling",
+                                      "type": "minecraft:stone_depth"
+                                    },
+                                    "then_run": {
+                                      "result_state": {
+                                        "Name": "minecraft:powder_snow"
+                                      },
+                                      "type": "minecraft:block"
+                                    },
+                                    "type": "minecraft:condition"
+                                  },
+                                  {
+                                    "result_state": {
+                                      "Name": "minecraft:powder_snow"
+                                    },
+                                    "type": "minecraft:block"
+                                  }
+                                ],
+                                "type": "minecraft:sequence"
+                              },
+                              "type": "minecraft:condition"
+                            },
                             {
                               "if_true": {
                                 "biome_is": [

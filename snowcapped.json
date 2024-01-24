@@ -39,6 +39,7 @@
   ],
   "temperatures": [
     -1,
+    -0.72,
     -0.45,
     -0.15,
     0.2,
@@ -200,8 +201,16 @@
           "minecraft:snowy_tundra",
           "minecraft:snowy_tundra/minecraft:snowy_taiga",
           "minecraft:snowy_taiga",
-          "minecraft:taiga",
-          "minecraft:taiga"
+          "minecraft:snowy_taiga",
+          "minecraft:snowy_taiga"
+        ],
+        [
+          "biome_lrqjz648",
+          "biome_lrqjz648",
+          "minecraft:snowy_tundra/minecraft:snowy_taiga",
+          "minecraft:snowy_taiga",
+          "biome_lrq697ns",
+          "biome_lrq697ns"
         ],
         [
           "minecraft:plains",
@@ -248,6 +257,14 @@
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga"
+        ],
+        [
+          "biome_lrqjz648",
+          "biome_lrqjz648",
+          "minecraft:snowy_tundra",
+          "minecraft:snowy_taiga",
+          "biome_lrq697ns",
+          "biome_lrq697ns"
         ],
         [
           "minecraft:meadow/minecraft:cherry_grove",
@@ -312,6 +329,14 @@
           "minecraft:grove"
         ],
         [
+          "minecraft:snowy_slopes",
+          "minecraft:snowy_slopes",
+          "minecraft:grove",
+          "minecraft:grove",
+          "minecraft:grove",
+          "minecraft:grove"
+        ],
+        [
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
@@ -333,6 +358,14 @@
       "key": "layout_ktojr3tg",
       "name": "Peaks",
       "array": [
+        [
+          "minecraft:snowcapped_peaks",
+          "minecraft:snowcapped_peaks",
+          "minecraft:snowcapped_peaks",
+          "minecraft:snowcapped_peaks",
+          "minecraft:snowcapped_peaks",
+          "minecraft:snowcapped_peaks"
+        ],
         [
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
@@ -418,6 +451,14 @@
           "minecraft:wooded_badlands_plateau",
           "minecraft:wooded_badlands_plateau",
           "minecraft:wooded_badlands_plateau"
+        ],
+        [
+          "minecraft:badlands/minecraft:eroded_badlands",
+          "minecraft:badlands/minecraft:eroded_badlands",
+          "minecraft:badlands",
+          "minecraft:wooded_badlands_plateau",
+          "minecraft:wooded_badlands_plateau",
+          "minecraft:wooded_badlands_plateau"
         ]
       ]
     },
@@ -425,6 +466,14 @@
       "key": "layout_ktoepeot",
       "name": "Shattered",
       "array": [
+        [
+          "minecraft:gravelly_hills",
+          "minecraft:gravelly_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills"
+        ],
         [
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
@@ -480,6 +529,14 @@
           "minecraft:frozen_river"
         ],
         [
+          "biome_lpyej6tt",
+          "biome_lpyej6tt",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
+        ],
+        [
           "minecraft:river",
           "minecraft:river",
           "minecraft:river",
@@ -517,6 +574,14 @@
       "key": "layout_ktoint2n",
       "name": "Deep Ocean",
       "array": [
+        [
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean"
+        ],
         [
           "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean",
@@ -572,6 +637,14 @@
           "minecraft:frozen_ocean"
         ],
         [
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean"
+        ],
+        [
           "minecraft:cold_ocean",
           "minecraft:cold_ocean",
           "minecraft:cold_ocean",
@@ -609,6 +682,14 @@
       "key": "layout_ktoepeos",
       "name": "Beach",
       "array": [
+        [
+          "minecraft:snowy_beach",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_beach"
+        ],
         [
           "minecraft:snowy_beach",
           "minecraft:snowy_beach",
@@ -672,6 +753,14 @@
           "layout_ktoepeor"
         ],
         [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
@@ -701,6 +790,14 @@
       "key": "layout_liiyphg6",
       "name": "Windswept Savanna or Shattered",
       "array": [
+        [
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot"
+        ],
         [
           "layout_ktoepeot",
           "layout_ktoepeot",
@@ -756,6 +853,14 @@
           "minecraft:frozen_river"
         ],
         [
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
+        ],
+        [
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
@@ -793,6 +898,14 @@
       "key": "layout_ktoiz1xt",
       "name": "Swamp or Middle",
       "array": [
+        [
+          "biome_lpyi22hi",
+          "biome_lpyi22hi",
+          "biome_lpyi22hi",
+          "biome_lpyi22hi",
+          "biome_lpyi22hi",
+          "biome_lpyi22hi"
+        ],
         [
           "biome_lpyi22hi",
           "biome_lpyi22hi",
@@ -872,12 +985,20 @@
           "layout_ktoepeor"
         ],
         [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
-          "layout_ktoikw89",
-          "layout_ktoikw89"
+          "biome_lri7mibv",
+          "biome_lri7mibv"
         ]
       ]
     },
@@ -894,12 +1015,12 @@
           "layout_ktoj0p0e"
         ],
         [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
+          "biome_lrqjz648",
+          "biome_lrqjz648",
+          "minecraft:snowy_taiga",
+          "minecraft:snowy_taiga",
+          "biome_lrq697ns",
+          "biome_lrq697ns"
         ],
         [
           "layout_ktoepeor",
@@ -918,12 +1039,20 @@
           "layout_ktoepeor"
         ],
         [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
-          "layout_ktoikw89",
-          "layout_ktoikw89"
+          "biome_lri7mibv",
+          "biome_lri7mibv"
         ]
       ]
     },
@@ -931,6 +1060,14 @@
       "key": "layout_ktojcwxi",
       "name": "Slopes or Plateau",
       "array": [
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e"
+        ],
         [
           "layout_ktoj0p0e",
           "layout_ktoj0p0e",
@@ -977,6 +1114,14 @@
       "key": "layout_kvu3ce1q",
       "name": "Lush Caves",
       "array": [
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "biome_lpyet24u",
+          "minecraft:lush_caves"
+        ],
         [
           "layout_lromy0zh",
           "layout_lromy0zh",
@@ -1062,6 +1207,14 @@
           "biome_lpyew918",
           "biome_lpyew918",
           "minecraft:lush_caves"
+        ],
+        [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "minecraft:lush_caves"
         ]
       ]
     },
@@ -1069,6 +1222,14 @@
       "key": "layout_lrl300xn",
       "name": "Stoney shore",
       "array": [
+        [
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk"
+        ],
         [
           "biome_lrl32vke",
           "biome_lrl32vke",
@@ -1126,7 +1287,15 @@
         [
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpygpfek",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek"
@@ -1194,12 +1363,182 @@
           "layout_kvu3ce1q"
         ],
         [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
           "minecraft:lush_caves",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lrq586p0",
+      "name": "Cliffs",
+      "array": [
+        [
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk",
+          "biome_lrq571rk"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor/minecraft:cherry_grove",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor/minecraft:cherry_grove",
+          "layout_ktoepeor/minecraft:cherry_grove",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7",
+          "biome_lrl31mp7"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lrq5rnqs",
+      "name": "Valley",
+      "array": [
+        [
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lrr8mjn3",
+      "name": "Glacier",
+      "array": [
+        [
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a",
+          "biome_lrq56h9a"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n"
         ]
       ]
     }
@@ -1237,45 +1576,45 @@
           "layout_ktoin4kk"
         ],
         [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_lrq5rnqs",
+          "layout_lrq5rnqs",
+          "layout_lrq5rnqs",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p"
         ],
         [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoij44p",
+          "layout_lrq5rnqs",
+          "layout_lrq5rnqs",
+          "layout_lrq5rnqs",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoiz1xt"
         ],
         [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoij44p",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrq5rnqs",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoiz1xt"
         ],
         [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrq5rnqs",
           "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoiz1xt"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrq5rnqs",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
@@ -1324,36 +1663,36 @@
           "layout_ktoepeos"
         ],
         [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoj2qez",
           "layout_ktoiz1xt"
         ],
         [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoikj2n",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
           "layout_ktoikj2n",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoiz1xt"
         ],
         [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
           "layout_ktoikj2n",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoiz1xt"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
           "layout_ktoikj2n",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -1471,9 +1810,9 @@
           "layout_ktoin4kk"
         ],
         [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
+          "layout_lrq586p0",
+          "layout_lrq586p0",
+          "layout_lrq586p0",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoj2qez",
@@ -1550,8 +1889,8 @@
         ],
         [
           "layout_ktojr3tg",
-          "layout_ktoj0a9e",
-          "layout_ktoepeor",
+          "layout_lrq586p0",
+          "layout_lrq586p0",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_liiyphg6",
@@ -2130,7 +2469,7 @@
     },
     {
       "key": "biome_lrl31mp7",
-      "name": "mcia:warm_stony_shore",
+      "name": "mcia:desert_cliff",
       "color": "#9b8f84"
     },
     {
@@ -2144,9 +2483,24 @@
       "color": "#888d99"
     },
     {
-      "key": "biome_lropmbyw",
-      "name": "mcia:cold_plains",
-      "color": "#9fffa7"
+      "key": "biome_lrq56h9a",
+      "name": "mcia:glacier_valley",
+      "color": "#60c5f4"
+    },
+    {
+      "key": "biome_lrq571rk",
+      "name": "mcia:glacier_cliff",
+      "color": "#8ea8b0"
+    },
+    {
+      "key": "biome_lrq697ns",
+      "name": "mcia:snowy_old_growth_taiga",
+      "color": "#b0d37c"
+    },
+    {
+      "key": "biome_lrqjz648",
+      "name": "mcia:tundra",
+      "color": "#d9c4a6"
     }
   ],
   "targetVersion": "1_19",

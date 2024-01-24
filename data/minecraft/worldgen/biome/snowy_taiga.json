@@ -8,14 +8,14 @@
   },
   "downfall": 0.4,
   "effects": {
-    "fog_color": 13692400,
-    "sky_color": 10273257,
+    "fog_color": 13425917,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
+    "sky_color": 10273257,
     "water_color": 8303069,
     "water_fog_color": 1319727
   },
@@ -106,12 +106,6 @@
         "maxCount": 8,
         "minCount": 6,
         "weight": 12
-      },
-      {
-        "type": "minecraft:chicken",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 2
       },
       {
         "type": "minecraft:cow",
