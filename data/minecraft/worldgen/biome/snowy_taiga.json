@@ -80,7 +80,8 @@
       "minecraft:red_mushroom_taiga",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_berry_common"
+      "minecraft:patch_berry_common",
+      "mcia:snow_patches"
     ],
     [
       "mcia:extra_gold_remove",
