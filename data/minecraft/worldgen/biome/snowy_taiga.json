@@ -70,6 +70,7 @@
       "minecraft:spring_lava"
     ],
     [
+      
       "minecraft:glow_lichen",
       "minecraft:patch_large_fern",
       "mcia:trees_snowy_taiga",
@@ -81,7 +82,8 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:patch_berry_common",
-      "mcia:snow_patches"
+      "mcia:snow_patches",
+      "mcia:snow_remove"
     ],
     [
       "mcia:extra_gold_remove",

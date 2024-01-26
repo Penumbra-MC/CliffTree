@@ -1927,8 +1927,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:old_growth_pine_taiga",
-                              "minecraft:old_growth_spruce_taiga",
-                              "minecraft:snow_old_growth_taiga"
+                              "minecraft:old_growth_spruce_taiga"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1974,6 +1973,66 @@
                                       "snowy": "false"
                                     },
                                     "Name": "minecraft:podzol"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              }
+                            ],
+                            "type": "minecraft:sequence"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
+                              "mcia:snowy_old_growth_taiga"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "sequence": [
+                              {
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:stone"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "noise": "minecraft:surface",
+                                  "min_threshold": 0.21212121212121213,
+                                  "max_threshold": 1.7976931348623157E308,
+                                  "type": "minecraft:noise_threshold"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Properties": {
+                                      "snowy": "false"
+                                    },
+                                    "Name": "minecraft:podzol"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "noise": "minecraft:surface",
+                                  "min_threshold": -0.11515151515151514,
+                                  "max_threshold": 1.7976931348623157E308,
+                                  "type": "minecraft:noise_threshold"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    
+                                    "Name": "minecraft:snow_block"
                                   },
                                   "type": "minecraft:block"
                                 },

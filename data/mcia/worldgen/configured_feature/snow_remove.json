@@ -1,8 +1,8 @@
 {
   "type": "minecraft:random_patch",
   "config": {
-    "tries": 32,
-    "xz_spread": 7,
+    "tries": 128,
+    "xz_spread": 12,
     "y_spread": 3,
     "feature": {
       "feature": {
@@ -11,7 +11,7 @@
           "to_place": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:short_grass"
+              "Name": "minecraft:air"
             }
           }
         }
@@ -24,7 +24,7 @@
             "predicates": [
               {
                 "type": "minecraft:matching_blocks",
-                "blocks": "minecraft:air"
+                "blocks": "minecraft:snow"
               },
               {
                 "type": "minecraft:matching_block_tag",
@@ -33,7 +33,7 @@
               -1,
               0
             ],
-            "tag": "mcia:dirt_and_snow"
+            "tag": "mcia:true_dirt"
               }
             ]
           }
