@@ -27,7 +27,8 @@
             "blocks": [
               "minecraft:snow_block",
               "minecraft:powder_snow",
-              "minecraft:packed_ice"
+              "minecraft:packed_ice",
+              "minecraft:gravel"
             ]
           },
           {
@@ -40,7 +41,8 @@
             "blocks": [
               "minecraft:snow_block",
               "minecraft:powder_snow",
-              "minecraft:packed_ice"
+              "minecraft:packed_ice",
+              "minecraft:gravel"
             ]
           },
           {
@@ -53,7 +55,8 @@
             "blocks": [
               "minecraft:snow_block",
               "minecraft:powder_snow",
-              "minecraft:packed_ice"
+              "minecraft:packed_ice",
+              "minecraft:gravel"
             ]
           },
           {
@@ -66,7 +69,8 @@
             "blocks": [
               "minecraft:snow_block",
               "minecraft:powder_snow",
-              "minecraft:packed_ice"
+              "minecraft:packed_ice",
+              "minecraft:gravel"
             ]
           },
           {
@@ -79,7 +83,8 @@
             "blocks": [
               "minecraft:snow_block",
               "minecraft:powder_snow",
-              "minecraft:packed_ice"
+              "minecraft:packed_ice",
+              "minecraft:gravel"
             ]
           }
         ]

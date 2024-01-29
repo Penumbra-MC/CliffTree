@@ -8,7 +8,7 @@
   },
   "downfall": 0.9,
   "effects": {
-    "fog_color": 7982555,
+    "fog_color": 9223864,
     "foliage_color": 6975545,
     "grass_color_modifier": "swamp",
     "mood_sound": {
@@ -23,7 +23,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.swamp"
     },
-    "sky_color": 7907327,
+    "sky_color": 7383996,
     "water_color": 5006681,
     "water_fog_color": 1120536
   },
@@ -87,10 +87,13 @@
       "minecraft:patch_waterlily",
       "minecraft:brown_mushroom_swamp",
       "minecraft:red_mushroom_swamp",
+      "minecraft:brown_mushroom_old_growth",
+      "minecraft:red_mushroom_old_growth",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_swamp",
       "minecraft:patch_pumpkin",
+      "mcia:sea_pickle_swamp",
       "minecraft:seagrass_warm",
       "minecraft:seagrass_river"
     ],

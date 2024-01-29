@@ -8,7 +8,7 @@
   },
   "downfall": 0.9,
   "effects": {
-    "fog_color": 6065027,
+    "fog_color": 9223864,
     "foliage_color": 9285927,
     "grass_color_modifier": "swamp",
     "mood_sound": {
@@ -23,7 +23,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.swamp"
     },
-    "sky_color": 7907327,
+    "sky_color": 7383996,
     "water_color": 3832426,
     "water_fog_color": 728607
   },
@@ -86,6 +86,7 @@
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",
       "minecraft:patch_waterlily",
+      "mcia:sea_pickle_mangrove",
       "minecraft:seagrass_swamp"
     ],
     [

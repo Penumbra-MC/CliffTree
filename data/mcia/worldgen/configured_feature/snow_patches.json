@@ -1,8 +1,8 @@
 {
   "type": "minecraft:random_patch",
   "config": {
-    "tries": 86,
-    "xz_spread": 5,
+    "tries": 64,
+    "xz_spread": 4,
     "y_spread": 3,
     "feature": {
       "feature": {
@@ -34,7 +34,7 @@
               -1,
               0
             ],
-            "tag": "mcia:true_dirt"
+            "tag": "minecraft:moss_replaceable"
               }
             ]
           }
