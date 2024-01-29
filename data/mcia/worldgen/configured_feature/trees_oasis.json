@@ -4,8 +4,12 @@
     "default": "mcia:jungle_tree",
     "features": [
       {
-        "chance": 0.2,
+        "chance": 0.25,
         "feature": "mcia:jungle_tree_alt"
+      },
+      {
+        "chance": 0.2,
+        "feature": "minecraft:acacia_checked"
       }
     ],
     "placement": [
