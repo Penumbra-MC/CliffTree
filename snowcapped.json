@@ -59,6 +59,7 @@
     0,
     0,
     0.2,
+    0.38,
     0.9,
     1,
     1,
@@ -98,6 +99,21 @@
         "unassigned",
         "unassigned",
         "unassigned"
+      ],
+      [
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8",
+        "layout_lsjdn3r8"
       ],
       [
         "layout_kvu3cyig",
@@ -1115,51 +1131,51 @@
       "name": "Lush Caves",
       "array": [
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_lpyet24u",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_lpyet24u",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "minecraft:lush_caves"
         ]
       ]
@@ -1331,52 +1347,52 @@
       "name": "Oasis lush cave",
       "array": [
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
           "minecraft:lush_caves",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ]
       ]
     },
@@ -1539,6 +1555,60 @@
           "layout_ktoikw89",
           "layout_ktoikj2n",
           "layout_ktoikj2n"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lsjdp0dd",
+      "name": "Lush or generic caves",
+      "array": [
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "biome_lpyet24u",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "biome_lpyet24u",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_kvu3ce1q"
         ]
       ]
     }
@@ -1948,58 +2018,58 @@
           "layout_lpyev7a1"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
           "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
           "layout_lrooluic",
           "layout_lrooluic",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
           "layout_lrooluic",
           "layout_lrooluic",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd"
         ],
         [
           "minecraft:dripstone_caves",
@@ -2165,6 +2235,84 @@
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lsjdn3r8",
+      "name": "Upper caves",
+      "array": [
+        [
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
         ]
       ]
     }
