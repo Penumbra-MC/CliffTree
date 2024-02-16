@@ -86,7 +86,12 @@
     ]
   ],
   "has_precipitation": true,
-  "spawn_costs": {},
+  "spawn_costs": {
+    "minecraft:bogged": {
+      "charge": 0.7,
+      "energy_budget": 0.15
+    }
+  },
   "spawners": {
     "ambient": [
       {
@@ -100,6 +105,12 @@
     "creature": [],
     "misc": [],
     "monster": [
+      {
+        "type": "minecraft:bogged",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 50
+      }
     ],
     "underground_water_creature": [
       {
