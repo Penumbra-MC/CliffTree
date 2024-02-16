@@ -8,14 +8,14 @@
   },
   "downfall": 0.3,
   "effects": {
-    "fog_color": 12638463,
+    "fog_color": 12310256,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "sky_color": 8233727,
+    "sky_color": 8499943,
     "water_color": 3105423,
     "water_fog_color": 267041,
     "grass_color": 9874287,
