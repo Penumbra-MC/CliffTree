@@ -41,7 +41,51 @@
               "half": "lower"
             }
           },
-          "weight": 10
+          "weight": 6
+        },
+        {
+          "data": {
+            "Name": "minecraft:small_dripleaf",
+            "Properties": {
+              "facing": "east",
+              "half": "lower",
+              "waterlogged": "false"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "minecraft:small_dripleaf",
+            "Properties": {
+              "facing": "west",
+              "half": "lower",
+              "waterlogged": "false"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "minecraft:small_dripleaf",
+            "Properties": {
+              "facing": "north",
+              "half": "lower",
+              "waterlogged": "false"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "minecraft:small_dripleaf",
+            "Properties": {
+              "facing": "south",
+              "half": "lower",
+              "waterlogged": "false"
+            }
+          },
+          "weight": 1
         }
       ]
     }

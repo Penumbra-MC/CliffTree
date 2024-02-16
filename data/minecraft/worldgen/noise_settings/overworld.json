@@ -1143,7 +1143,8 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "mcia:glacier_cliff"
+                              "mcia:glacier_cliff",
+                              "mcia:frozen_caves"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2237,7 +2238,8 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "mcia:glacier_cliff"
+                              "mcia:glacier_cliff",
+                              "mcia:frozen_caves"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2764,7 +2766,6 @@
                                   "mcia:warm_caves",
                                   "mcia:lukewarm_caves",
                                   "mcia:cold_caves",
-                                  "mcia:frozen_caves",
                                   "mcia:mushroom_caves"
                                 ],
                                 "type": "minecraft:biome"
@@ -3057,20 +3058,31 @@
                       "type": "minecraft:biome"
                     },
                     "then_run": {
-                      "if_true": {
-                        "offset": 0,
-                        "add_surface_depth": true,
-                        "secondary_depth_range": 30,
-                        "surface_type": "floor",
-                        "type": "minecraft:stone_depth"
-                      },
-                      "then_run": {
-                        "result_state": {
-                          "Name": "minecraft:sandstone"
+                      "sequence": [
+                        {
+                          "if_true": {
+                            "offset": 1,
+                            "add_surface_depth": true,
+                            "secondary_depth_range": 0,
+                            "surface_type": "floor",
+                            "type": "minecraft:stone_depth"
+                          },
+                          "then_run": {
+                            "result_state": {
+                              "Name": "minecraft:sandstone"
+                            },
+                            "type": "minecraft:block"
+                          },
+                          "type": "minecraft:condition"
                         },
-                        "type": "minecraft:block"
-                      },
-                      "type": "minecraft:condition"
+                        {
+                          "result_state": {
+                            "Name": "minecraft:smooth_sandstone"
+                          },
+                          "type": "minecraft:block"
+                        }
+                      ],
+                      "type": "minecraft:sequence"
                     },
                     "type": "minecraft:condition"
                   }

@@ -21,7 +21,7 @@
   },
   "features": [
     [
-      "mcia:shrubland_terracotta"
+      "mcia:cliff_terracotta"
     ],
     [
       "minecraft:lake_lava_underground"
@@ -62,9 +62,10 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "mcia:disk_sand_beach",
+      "mcia:disk_sandstone"
     ],
     [],
     [
@@ -161,5 +162,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.2
+  "temperature": 2.0
 }
