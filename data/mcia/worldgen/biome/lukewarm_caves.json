@@ -68,7 +68,10 @@
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "mcia:ore_granite_extra",
+      "mcia:cave_granite",
+      "mcia:cave_granite_ceiling"
     ],
     [
       "mcia:ore_infested"

@@ -2,8 +2,12 @@
   "feature": "minecraft:disk_gravel",
   "placement": [
     {
-      "count": 60,
+      "count": 80,
       "type": "minecraft:count"
+    },
+    {
+      "count": 1,
+      "type": "minecraft:count_on_every_layer"
     },
 	{
       "type": "minecraft:in_square"
@@ -14,7 +18,7 @@
           "absolute": 50
         },
         "max_inclusive": {
-          "absolute": 56
+          "absolute": 55
         },
         "type": "minecraft:uniform"
       },

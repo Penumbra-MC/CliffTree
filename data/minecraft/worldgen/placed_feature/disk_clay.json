@@ -2,8 +2,12 @@
   "feature": "minecraft:disk_clay",
   "placement": [
     {
-      "count": 60,
+      "count": 80,
       "type": "minecraft:count"
+    },
+    {
+      "count": 1,
+      "type": "minecraft:count_on_every_layer"
     },
     {
       "type": "minecraft:in_square"
@@ -14,7 +18,7 @@
           "absolute": 52
         },
         "max_inclusive": {
-          "absolute": 58
+          "absolute": 56
         },
         "type": "minecraft:uniform"
       },

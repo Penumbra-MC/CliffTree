@@ -14,6 +14,12 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.old_growth_taiga"
+    },
     "sky_color": 8499943,
     "fog_color": 12310256,
     "water_color": 3105423,
@@ -200,5 +206,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.25
+  "temperature": 0.375
 }

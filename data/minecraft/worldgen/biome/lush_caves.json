@@ -72,7 +72,8 @@
       "minecraft:ore_clay",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "mcia:ore_andesite_extra"
     ],
     [],
     [

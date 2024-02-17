@@ -72,7 +72,9 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "minecraft:ore_emerald"
+      "mcia:disk_snowy_podzol",
+      "minecraft:ore_emerald",
+      "mcia:ice_to_snow"
     ],
     [
       "minecraft:ore_infested"
@@ -87,6 +89,7 @@
       "minecraft:trees_grove",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "mcia:patch_berry_grove",
       "mcia:snow_patches"
     ],
     [
