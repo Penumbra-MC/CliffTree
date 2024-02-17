@@ -22,7 +22,7 @@
       "sound": "minecraft:music.overworld.dripstone_caves"
     },
     "sky_color": 7378617,
-    "water_color": 5269940,
+    "water_color": 8303069,
     "water_fog_color": 1319727
   },
   "features": [
@@ -89,8 +89,11 @@
     ],
     [ 
       "minecraft:glow_lichen",
+      "mcia:glow_lichen_ice",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "minecraft:red_mushroom_normal",
+      "mcia:snow_patches",
+      "mcia:seagrass_cave"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -8,7 +8,7 @@
   },
   "downfall": 0.9,
   "effects": {
-    "fog_color": 13692400,
+    "fog_color": 14871807,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -21,7 +21,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.frozen_peaks"
     },
-    "sky_color": 10273257,
+    "sky_color": 11913971,
     "water_color": 8303069,
     "water_fog_color": 1319727
   },
@@ -40,6 +40,8 @@
     [],
     [],
     [
+      "mcia:ice_blobs",
+      "mcia:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",

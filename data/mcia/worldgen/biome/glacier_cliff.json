@@ -37,6 +37,8 @@
     ],
     [],
     [
+      "mcia:ice_blobs",
+      "mcia:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",

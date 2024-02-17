@@ -23,6 +23,13 @@
       },
       "inner_placements": [
         {
+          "Name": "minecraft:large_amethyst_bud",
+          "Properties": {
+            "facing": "up",
+            "waterlogged": "false"
+          }
+        },
+        {
           "Name": "minecraft:amethyst_cluster",
           "Properties": {
             "facing": "up",
@@ -80,6 +87,6 @@
       }
     },
     "use_alternate_layer0_chance": 0.083,
-    "use_potential_placements_chance": 0.35
+    "use_potential_placements_chance": 1.0
   }
 }

@@ -79,7 +79,8 @@
     [
       "minecraft:glow_lichen",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "minecraft:red_mushroom_normal",
+      "mcia:seagrass_cave"
     ],
     [
       "minecraft:freeze_top_layer"

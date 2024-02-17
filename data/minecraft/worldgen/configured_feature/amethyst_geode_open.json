@@ -34,6 +34,13 @@
       },
       "inner_placements": [
         {
+          "Name": "minecraft:large_amethyst_bud",
+          "Properties": {
+            "facing": "up",
+            "waterlogged": "false"
+          }
+        },
+        {
           "Name": "minecraft:amethyst_cluster",
           "Properties": {
             "facing": "up",
@@ -54,8 +61,8 @@
       "generate_crack_chance": 0
     },
     "noise_multiplier": 0.05,
-    "use_potential_placements_chance": 0.35,
-    "use_alternate_layer0_chance": 0.083,
+    "use_potential_placements_chance": 1.0,
+    "use_alternate_layer0_chance": 0.1,
     "placements_require_layer0_alternate": true,
     "outer_wall_distance": {
       "type": "minecraft:uniform",
