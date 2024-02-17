@@ -78,9 +78,10 @@
     ],
     [
       "minecraft:glow_lichen",
+      "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "mcia:seagrass_cave"
+      "mcia:seagrass_cave",
+      "mcia:cave_cobwebs"
     ],
     [
       "minecraft:freeze_top_layer"

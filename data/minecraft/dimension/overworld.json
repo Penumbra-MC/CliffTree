@@ -26951,6 +26951,96 @@
             ],
             "continentalness": [
               -1.2,
+              -1.05
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.455
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:mushroom_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.15
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
               0.8
             ],
             "erosion": [
@@ -26977,22 +27067,52 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.26666668
+              1
             ],
             "continentalness": [
-              -0.19,
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
               0.8
             ],
             "erosion": [
               -1,
-              -0.78
+              1
             ],
             "temperature": [
-              -1,
-              -0.72
+              -0.72,
+              -0.45
             ],
             "humidity": [
-              -1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -27002,6 +27122,156 @@
             "offset": 0
           },
           "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -27062,36 +27332,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -27267,7 +27507,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -27297,37 +27537,7 @@
             ],
             "depth": [
               0.2,
-              0.38
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
+              0.455
             ],
             "offset": 0
           },
@@ -27392,36 +27602,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -27747,7 +27927,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -27777,7 +27957,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -27867,7 +28047,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -27897,37 +28077,7 @@
             ],
             "depth": [
               0.2,
-              0.38
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
+              0.455
             ],
             "offset": 0
           },
@@ -27992,36 +28142,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -28197,7 +28317,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -28227,7 +28347,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -28271,36 +28391,6 @@
             ],
             "continentalness": [
               -0.455,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.455,
               -0.19
             ],
             "erosion": [
@@ -28352,36 +28442,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.455,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -28557,7 +28617,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -28587,37 +28647,7 @@
             ],
             "depth": [
               0.2,
-              0.38
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
+              0.455
             ],
             "offset": 0
           },
@@ -28682,36 +28712,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -29227,36 +29227,6 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
               0.56666666
             ],
             "continentalness": [
@@ -29312,36 +29282,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -29517,7 +29457,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -29547,37 +29487,7 @@
             ],
             "depth": [
               0.2,
-              0.38
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
+              0.455
             ],
             "offset": 0
           },
@@ -29642,36 +29552,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -29997,7 +29877,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -30027,7 +29907,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -30057,7 +29937,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -30087,37 +29967,7 @@
             ],
             "depth": [
               0.2,
-              0.38
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
+              0.455
             ],
             "offset": 0
           },
@@ -30182,36 +30032,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -30387,7 +30207,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -30417,41 +30237,11 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
           "biome": "minecraft:lush_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.455,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -30512,36 +30302,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.455,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -30717,7 +30477,7 @@
             ],
             "depth": [
               0.2,
-              0.38
+              0.455
             ],
             "offset": 0
           },
@@ -30747,37 +30507,7 @@
             ],
             "depth": [
               0.2,
-              0.38
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
+              0.455
             ],
             "offset": 0
           },
@@ -30842,36 +30572,6 @@
             "offset": 0
           },
           "biome": "mcia:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.19,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
         },
         {
           "parameters": {
@@ -31360,7 +31060,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -1.2,
               0.8
             ],
             "erosion": [
@@ -31369,19 +31069,19 @@
             ],
             "temperature": [
               -1,
-              -0.72
+              1
             ],
             "humidity": [
-              -1,
-              0.3
+              0.7,
+              1
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
           },
-          "biome": "mcia:frozen_caves"
+          "biome": "minecraft:lush_caves"
         },
         {
           "parameters": {
@@ -31390,7 +31090,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.455,
               0.8
             ],
             "erosion": [
@@ -31406,7 +31106,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31420,7 +31120,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.455,
               0.8
             ],
             "erosion": [
@@ -31436,7 +31136,7 @@
               -0.1
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31450,37 +31150,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.38,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.05,
+              -0.455,
               0.8
             ],
             "erosion": [
@@ -31496,7 +31166,7 @@
               0.1
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31510,7 +31180,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.455,
               0.8
             ],
             "erosion": [
@@ -31526,7 +31196,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31540,7 +31210,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.455,
               0.8
             ],
             "erosion": [
@@ -31556,7 +31226,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31570,7 +31240,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.455,
               0.8
             ],
             "erosion": [
@@ -31586,7 +31256,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31600,7 +31270,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.455,
               -0.11
             ],
             "erosion": [
@@ -31616,7 +31286,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31646,7 +31316,7 @@
               -0.35
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31676,7 +31346,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31706,7 +31376,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31736,7 +31406,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31766,7 +31436,7 @@
               -0.35
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31796,7 +31466,7 @@
               1
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0
@@ -31826,7 +31496,7 @@
               0.7
             ],
             "depth": [
-              0.38,
+              0.455,
               0.9
             ],
             "offset": 0

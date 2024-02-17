@@ -59,7 +59,7 @@
     0,
     0,
     0.2,
-    0.38,
+    0.455,
     0.9,
     1,
     1,
@@ -1131,18 +1131,18 @@
       "name": "Lush Caves",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
           "unassigned",
           "minecraft:lush_caves"
         ],
         [
           "unassigned",
           "unassigned",
-          "unassigned",
-          "unassigned",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
           "unassigned",
           "minecraft:lush_caves"
         ],
@@ -2351,22 +2351,22 @@
       "name": "Low caves",
       "array": [
         [
-          "layout_lpyev7a1",
-          "layout_lpyev7a1",
-          "layout_lpyev7a1",
-          "layout_lpyev7a1",
-          "layout_lpyev7a1",
-          "layout_lpyev7a1",
-          "layout_lpyev7a1"
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
         ],
         [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
         ],
         [
           "layout_kvu3ce1q",
