@@ -27187,11 +27187,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.7666667
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               -1,
@@ -27217,11 +27217,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.7666667
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               -1,
@@ -27521,7 +27521,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -27551,7 +27551,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -27722,66 +27722,6 @@
             "offset": 0
           },
           "biome": "mcia:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -28541,7 +28481,7 @@
             ],
             "continentalness": [
               -0.455,
-              -0.19
+              0.8
             ],
             "erosion": [
               -1,
@@ -28571,7 +28511,7 @@
             ],
             "continentalness": [
               -0.455,
-              -0.19
+              0.8
             ],
             "erosion": [
               -1,
@@ -28871,7 +28811,7 @@
             ],
             "continentalness": [
               -0.19,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -28901,7 +28841,7 @@
             ],
             "continentalness": [
               -0.19,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -29076,66 +29016,6 @@
         {
           "parameters": {
             "weirdness": [
-              -0.56666666,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
               -0.4,
               -0.26666668
             ],
@@ -29282,66 +29162,6 @@
             "offset": 0
           },
           "biome": "mcia:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -29617,11 +29437,11 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              0.56666666
+              1
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               -1,
@@ -29647,11 +29467,11 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              0.56666666
+              1
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               -1,
@@ -29951,7 +29771,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -29981,7 +29801,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -30152,66 +29972,6 @@
             "offset": 0
           },
           "biome": "mcia:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -30881,7 +30641,7 @@
             ],
             "continentalness": [
               -0.455,
-              -0.19
+              0.8
             ],
             "erosion": [
               -1,
@@ -30911,7 +30671,7 @@
             ],
             "continentalness": [
               -0.455,
-              -0.19
+              0.8
             ],
             "erosion": [
               -1,
@@ -31211,7 +30971,7 @@
             ],
             "continentalness": [
               -0.19,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -31241,7 +31001,7 @@
             ],
             "continentalness": [
               -0.19,
-              0.03
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -31416,66 +31176,6 @@
         {
           "parameters": {
             "weirdness": [
-              0.7666667,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
               0.93333334,
               1
             ],
@@ -31622,66 +31322,6 @@
             "offset": 0
           },
           "biome": "mcia:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -31966,36 +31606,6 @@
             "erosion": [
               -1,
               1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.38,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              -0.375
             ],
             "temperature": [
               0.55,
@@ -32192,6 +31802,36 @@
             "offset": 0
           },
           "biome": "minecraft:dripstone_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.8
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              0.38,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
