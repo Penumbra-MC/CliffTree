@@ -28,15 +28,14 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
     ],
     [
       "minecraft:amethyst_geode",
       "minecraft:large_dripstone",
       "mcia:basalt_pillar",
       "mcia:snow_cave_ceiling",
-      "mcia:snow_cave"
+      "mcia:snow_cave",
+      "mcia:ore_diamond_tuff"
     ],
     [
       "minecraft:monster_room",
@@ -82,14 +81,16 @@
       "mcia:ore_diorite_extra",
       "mcia:cave_diorite",
       "mcia:cave_diorite_ceiling",
-      "mcia:ice_to_snow"
+      "mcia:ice_to_snow",
+      "mcia:tuff_noise",
+      "mcia:tuff_noise_ceiling",
+      "mcia:snow_melter"
     ],
     [
       "mcia:ore_infested"
     ],
     [
-      "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:spring_water"
     ],
     [ 
       "minecraft:glow_lichen",

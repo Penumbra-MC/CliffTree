@@ -72,7 +72,8 @@
       "minecraft:ore_emerald"
     ],
     [
-      "minecraft:ore_infested"
+      "minecraft:ore_infested",
+      "mcia:ore_infested_peaks"
     ],
     [
       "minecraft:spring_water",

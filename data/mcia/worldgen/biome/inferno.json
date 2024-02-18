@@ -39,7 +39,8 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "mcia:inferno_caves_delta"
+      "mcia:inferno_caves_delta",
+      "mcia:ore_diamond_tuff"
     ],
     [
       "minecraft:monster_room",
@@ -78,7 +79,9 @@
       "minecraft:disk_gravel",
       "mcia:spring_closed",
       "mcia:ore_basalt",
-      "mcia:ore_inferno_iron"
+      "mcia:ore_inferno_iron",
+      "mcia:tuff_noise",
+      "mcia:tuff_noise_ceiling"
     ],
     [
       "mcia:ore_infested",

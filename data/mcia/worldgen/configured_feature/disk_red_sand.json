@@ -1,7 +1,7 @@
 {
   "type": "minecraft:disk",
   "config": {
-    "half_height": 4,
+    "half_height": 3,
     "radius": {
       "type": "minecraft:uniform",
       "value": {
@@ -17,71 +17,41 @@
         }
       },
       "rules": [
+        
         {
           "if_true": {
             "type": "minecraft:all_of",
             "predicates": [
                 {
-                    "type": "minecraft:matching_blocks",
-                    "offset": [
-                        0,
-                        1,
-                        0
-                    ],
-                    "blocks": "minecraft:red_sand"
-                },
-                {
-                  "type": "minecraft:matching_blocks",
-                  "offset": [
-                      0,
-                      0,
-                      0
-                  ],
-                  "blocks": "minecraft:orange_terracotta"
-              },
-                {
-                    "type": "minecraft:matching_blocks",
+                    "type": "minecraft:matching_block_tag",
                     "offset": [
                         0,
                         -1,
                         0
                     ],
-                    "blocks": "minecraft:orange_terracotta"
-                }
-            ]
-        },
-          "then": {
-            "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:red_sand"
-            }
-          }
-        },
-        {
-          "if_true": {
-            "type": "minecraft:all_of",
-            "predicates": [
+                    "tag": "minecraft:replaceable"
+                },
                 {
-                    "type": "minecraft:matching_blocks",
-                    "offset": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "blocks": "minecraft:red_sand"
-                }
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                      0,
+                      1,
+                      0
+                  ],
+                  "blocks": "minecraft:red_sand"
+              }
             ]
         },
           "then": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:red_sand"
+              "Name": "minecraft:red_sandstone"
             }
           }
         },
         {
           "if_true": {
-            "type": "minecraft:all_of",
+            "type": "minecraft:any_of",
             "predicates": [
                 {
                     "type": "minecraft:matching_blocks",
@@ -90,16 +60,38 @@
                         1,
                         0
                     ],
-                    "blocks": "minecraft:red_sand"
+                    "blocks": "minecraft:red_sandstone"
                 },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                      0,
+                      1,
+                      0
+                  ],
+                  "blocks": "minecraft:smooth_red_sandstone"
+              }
+            ]
+        },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:smooth_red_sandstone"
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
                 {
                     "type": "minecraft:matching_blocks",
                     "offset": [
                         0,
-                        0,
+                        3,
                         0
                     ],
-                    "blocks": "minecraft:orange_terracotta"
+                    "blocks": "minecraft:red_sand"
                 }
             ]
         },
@@ -109,15 +101,36 @@
               "Name": "minecraft:red_sandstone"
             }
           }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+                {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                        0,
+                        1,
+                        0
+                    ],
+                    "blocks": "minecraft:red_sand"
+                }
+            ]
+        },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:red_sand"
+            }
+          }
         }
+        
       ]
     },
     "target": {
       "type": "minecraft:matching_blocks",
-      "blocks": [
-        "minecraft:red_sand",
-        "orange_terracotta"
-      ]
+      "blocks": "minecraft:orange_terracotta"
+      
     }
   }
 }

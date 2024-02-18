@@ -29,11 +29,10 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:ore_diamond_tuff"
     ],
     [
       "minecraft:monster_room",
@@ -73,12 +72,13 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "mcia:ore_andesite_extra"
+      "mcia:ore_andesite_extra",
+      "mcia:tuff_noise",
+      "mcia:tuff_noise_ceiling"
     ],
     [],
     [
-      "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:spring_water"
     ],
     [
       "minecraft:glow_lichen",

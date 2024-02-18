@@ -81,7 +81,8 @@
       "mcia:mushroom_field_patch",
       "mcia:patch_mushroom_mud",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "mcia:shelf_fungus"
     ],
     [
       "minecraft:freeze_top_layer"

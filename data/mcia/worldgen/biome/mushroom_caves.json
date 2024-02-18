@@ -32,7 +32,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:ore_diamond_tuff"
     ],
     [
       "minecraft:monster_room",
@@ -79,8 +80,9 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "mcia:red_mushroom_cave_island",
+      "mcia:brown_mushroom_cave_island",
+      "mcia:seagrass_cave"
     ],
     [
       "minecraft:freeze_top_layer"

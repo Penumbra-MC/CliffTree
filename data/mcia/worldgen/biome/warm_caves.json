@@ -32,7 +32,10 @@
       "minecraft:lake_lava_surface"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:warm_cave_ceiling",
+      "mcia:warm_cave",
+      "mcia:ore_diamond_tuff"
     ],
     [
       "minecraft:monster_room",
@@ -71,19 +74,23 @@
       "minecraft:disk_gravel",
       "mcia:ore_granite_extra",
       "mcia:cave_granite",
-      "mcia:cave_granite_ceiling"
+      "mcia:cave_granite_ceiling",
+      "mcia:tuff_noise",
+      "mcia:tuff_noise_ceiling"
     ],
     [
       "mcia:ore_infested"
     ],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:spring_lava",
+      "mcia:warm_terracotta_desert",
+      "mcia:warm_blobs"
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_grass_plain",
-      "minecraft:brown_mushroom_normal",
+      "mcia:red_mushroom_cave",
+      "mcia:brown_mushroom_cave",
       "mcia:seagrass_cave",
       "mcia:warm_cave_cobwebs"
     ],
