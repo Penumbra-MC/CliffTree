@@ -257,7 +257,7 @@
           "minecraft:desert",
           "minecraft:desert",
           "minecraft:desert",
-          "biome_lri7mibv",
+          "minecraft:desert",
           "biome_lri7mibv"
         ]
       ]
@@ -1012,8 +1012,8 @@
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
-          "layout_ktoikw89",
-          "layout_ktoepeor",
+          "biome_lri7mibv",
+          "biome_lri7mibv",
           "layout_ktoepeor"
         ]
       ]
@@ -1171,11 +1171,11 @@
           "minecraft:lush_caves"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
           "minecraft:lush_caves"
         ]
       ]
@@ -1333,12 +1333,12 @@
           "biome_lpyhw0gu"
         ],
         [
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus",
-          "biome_lpygnpus"
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu"
         ]
       ]
     },
@@ -1657,11 +1657,11 @@
           "minecraft:lush_caves"
         ],
         [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
           "minecraft:lush_caves"
         ]
       ]
@@ -1827,6 +1827,60 @@
           "layout_lsjdp0dd"
         ]
       ]
+    },
+    {
+      "key": "layout_lss109m2",
+      "name": "Deep Caves",
+      "array": [
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek"
+        ],
+        [
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u"
+        ],
+        [
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u"
+        ],
+        [
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u",
+          "biome_lpyet24u"
+        ],
+        [
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu",
+          "biome_lpyhw0gu"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -1868,7 +1922,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p"
+          "layout_ktoiz1xt"
         ],
         [
           "layout_lrq5rnqs",
@@ -2314,38 +2368,38 @@
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2"
         ],
         [
           "minecraft:deep_dark",
           "minecraft:deep_dark",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2",
+          "layout_lss109m2"
         ],
         [
           "minecraft:deep_dark",
