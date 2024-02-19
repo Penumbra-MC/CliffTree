@@ -1,0 +1,22 @@
+{
+  "values": [
+    "mcia:bog",
+    "mcia:frozen_caves",
+    "mcia:snowy_stony_shore",
+    "mcia:snowy_old_growth_taiga",
+    "mcia:glacier_cliff",
+    "mcia:glacier_valley",
+    "mcia:tundra",
+    "snowy_plains",
+    "snowy_taiga",
+    "snowy_slopes",
+    "grove",
+    "frozen_peaks",
+    "frozen_river",
+    "jagged_peaks",
+    "snowy_beach",
+    "ice_spikes",
+    "frozen_ocean",
+    "deep_frozen_ocean"
+  ]
+}

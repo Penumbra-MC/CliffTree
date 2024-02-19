@@ -36,7 +36,9 @@
       "minecraft:large_dripstone",
       "mcia:ore_diamond_tuff"
     ],
-    [
+    [ 
+      "minecraft:fossil_upper",
+      "minecraft:fossil_lower",
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
@@ -96,7 +98,10 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "mcia:seagrass_cave"
+      "mcia:seagrass_cave",
+      "mcia:tuff_noise",
+      "mcia:tuff_noise_ceiling",
+      "mcia:ore_gravel_deep"
     ],
     [
       "minecraft:freeze_top_layer"

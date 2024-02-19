@@ -22,6 +22,7 @@
       "sound": "minecraft:music.overworld.forest"
     },
     "sky_color": 6073571,
+    "grass_color": 7909971,
     "water_color": 2190494,
     "water_fog_color": 597290
   },

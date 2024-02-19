@@ -1,0 +1,10 @@
+{
+    "values": [
+      "#mcia:caves",
+      "#minecraft:is_taiga",
+      "#mcia:is_desert",
+      "mcia:tundra",
+      "mcia:glacier_valley",
+      "#is_forest"
+    ]
+  }

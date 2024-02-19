@@ -68,7 +68,8 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:spring_lava",
+      "mcia:ocean_rock_diorite"
     ],
     [
       "minecraft:glow_lichen",

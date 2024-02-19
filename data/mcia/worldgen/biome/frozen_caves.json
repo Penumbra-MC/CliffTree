@@ -37,10 +37,11 @@
       "mcia:snow_cave",
       "mcia:ore_diamond_tuff"
     ],
-    [
+    [ 
+      "minecraft:fossil_upper",
+      "minecraft:fossil_lower",
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
-      
     ],
     [
       "mcia:filler_stone",
@@ -82,7 +83,8 @@
       "mcia:ice_to_snow",
       "mcia:tuff_noise",
       "mcia:tuff_noise_ceiling",
-      "mcia:snow_melter"
+      "mcia:snow_melter",
+      "mcia:ore_gravel_deep"
     ],
     [
       "mcia:ore_infested"

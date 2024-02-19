@@ -1,13 +1,10 @@
 {
     "values": [
-      "mcia:bog",
-      "mcia:caves",
-      "mcia:frozen_caves",
-      "mcia:inferno",
-      "mcia:mushroom_caves",
-      "mcia:warm_caves",
-      "mcia:lukewarm_caves",
-      "mcia:cold_caves",
+      "#mcia:all_caves",
+      "#mcia:is_cliff",
+      "#mcia:is_swamp",
+      "#mcia:snowy",
+      "#mcia:is_desert",
       "#is_beach",
       "#is_river",
       "#is_forest"

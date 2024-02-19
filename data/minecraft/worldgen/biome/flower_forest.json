@@ -31,8 +31,7 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode",
-      "mcia:fallen_log_oak"
+      "minecraft:amethyst_geode"
     ],
     [
       "minecraft:monster_room",
@@ -85,8 +84,7 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-      "mcia:mushroom_on_log"
+      "minecraft:patch_pumpkin"
     ],
     [ "mcia:extra_gold_remove",
     "mcia:extra_emerald_remove",

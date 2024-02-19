@@ -42,7 +42,9 @@
       "mcia:inferno_caves_delta",
       "mcia:ore_diamond_tuff"
     ],
-    [
+    [ 
+      "minecraft:fossil_upper",
+      "minecraft:fossil_lower",
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
@@ -81,7 +83,8 @@
       "mcia:ore_basalt",
       "mcia:ore_inferno_iron",
       "mcia:tuff_noise",
-      "mcia:tuff_noise_ceiling"
+      "mcia:tuff_noise_ceiling",
+      "mcia:ore_gravel_deep"
     ],
     [
       "mcia:ore_infested",
