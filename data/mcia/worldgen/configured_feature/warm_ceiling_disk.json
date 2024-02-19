@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "half_height": 4,
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 8,
+        "min_inclusive": 8
+      }
+    },
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:light_gray_terracotta"
+        }
+      },
+      "rules": [
+        {
+          "if_true": {
+            "type": "minecraft:any_of",
+            "predicates": [
+                {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                        0,
+                        -2,
+                        0
+                    ],
+                    "blocks": "minecraft:light_gray_terracotta"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                      0,
+                      -1,
+                      0
+                  ],
+                  "blocks": "minecraft:white_terracotta"
+              }
+            ]
+        },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:white_terracotta"
+            }
+          }
+        }
+      ]
+    },
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": ["light_gray_terracotta","white_terracotta"]
+      
+    }
+  }
+}

@@ -5,7 +5,7 @@
         "fallback": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "minecraft:gray_terracotta"
+            "Name": "minecraft:smooth_sandstone"
           }
         },
         "rules": [
@@ -65,30 +65,21 @@
                     0
                   ],
                   "blocks": "minecraft:sandstone"
-                },
-                {
-                    "type": "minecraft:matching_blocks",
-                    "offset": [
-                      0,
-                      1,
-                      0
-                    ],
-                    "blocks": "minecraft:smooth_sandstone"
-                  }
+                }
               ]
             },
             "then": {
               "type": "minecraft:simple_state_provider",
               "state": {
-                "Name": "minecraft:smooth_sandstone"
+                "Name": "minecraft:stone"
               }
             }
           }
         ]
       },
       "target": {
-        "type": "minecraft:matching_blocks",
-        "blocks": "minecraft:gray_terracotta"
+        "type": "minecraft:matching_block_tag",
+        "tag": "mcia:stone_level"
       },
       "radius": {
         "type": "minecraft:uniform",
@@ -97,7 +88,7 @@
           "max_inclusive": 8
         }
       },
-      "half_height": 2
+      "half_height": 1
     }
   }
   
