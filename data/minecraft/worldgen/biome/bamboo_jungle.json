@@ -78,6 +78,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "minecraft:patch_large_fern",
       "minecraft:bamboo",
       "minecraft:bamboo_vegetation",
       "minecraft:flower_warm",
@@ -87,7 +88,8 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:vines",
-      "minecraft:patch_melon"
+      "minecraft:patch_melon",
+      "mcia:cocoa_age"
     ],
     [ "mcia:extra_gold_remove",
     "mcia:extra_emerald_remove",

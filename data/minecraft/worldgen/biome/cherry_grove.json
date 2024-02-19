@@ -33,7 +33,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:fallen_log_cherry"
     ],
     [
       "minecraft:monster_room",

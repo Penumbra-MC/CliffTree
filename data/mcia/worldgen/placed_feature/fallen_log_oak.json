@@ -1,15 +1,9 @@
 {
-  "feature": "mcia:forest_rock",
+  "feature": "mcia:fallen_log_oak",
   "placement": [
     {
-      "type": "minecraft:noise_based_count",
-      "noise_to_count_ratio": 1,
-      "noise_factor": 1,
-      "noise_offset": 0.22
-    },
-    {
       "type": "minecraft:rarity_filter",
-      "chance": 2
+      "chance": 8
     },
     {
       "type": "minecraft:in_square"

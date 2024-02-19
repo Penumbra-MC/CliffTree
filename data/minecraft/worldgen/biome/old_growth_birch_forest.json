@@ -31,7 +31,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:fallen_log_birch"
     ],
     [
       "minecraft:monster_room",
@@ -79,12 +80,13 @@
       "minecraft:glow_lichen",
       "minecraft:forest_flowers",
       "minecraft:birch_tall",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_forest",
+      "minecraft:flower_plains",
+      "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "mcia:mushroom_on_log"
     ],
     [
       "mcia:extra_gold_remove",

@@ -31,7 +31,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:fallen_log_jungle"
     ],
     [
       "minecraft:monster_room",
@@ -85,7 +86,9 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:vines",
-      "minecraft:patch_melon_sparse"
+      "minecraft:patch_melon_sparse",
+      "mcia:mushroom_on_log",
+      "mcia:cocoa_age"
     ],
     [
       "mcia:extra_gold_remove",

@@ -9,6 +9,7 @@
   "downfall": 0.5,
   "effects": {
     "grass_color": 11851346,
+    "foliage_color": 8563742,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -78,7 +79,8 @@
     ],
     [],
     [
-      "minecraft:spring_water"
+      "minecraft:spring_water",
+      "mcia:vine_column"
     ],
     [
       "minecraft:glow_lichen",

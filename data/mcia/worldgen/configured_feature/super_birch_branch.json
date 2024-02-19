@@ -1,0 +1,241 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:air"
+        }
+      },
+      "rules": [
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ],
+                "blocks": "minecraft:void_air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  -1,
+                  0,
+                  0
+                ],
+                "blocks": "minecraft:birch_log"
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    -2,
+                    0,
+                    0
+                  ],
+                  "blocks": "minecraft:birch_log"
+                }
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  -2,
+                  0
+                ],
+                "blocks": "minecraft:air"
+              }
+            ]
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:birch_log",
+              "Properties": {
+                "axis": "x"
+              }
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  2,
+                  0
+                ],
+                "blocks": "minecraft:void_air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  1,
+                  0,
+                  0
+                ],
+                "blocks": "minecraft:birch_log"
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    2,
+                    0,
+                    0
+                  ],
+                  "blocks": "minecraft:birch_log"
+                }
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  -2,
+                  0
+                ],
+                "blocks": "minecraft:air"
+              }
+            ]
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:birch_log",
+              "Properties": {
+                "axis": "x"
+              }
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  2,
+                  0
+                ],
+                "blocks": "minecraft:void_air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  0,
+                  1
+                ],
+                "blocks": "minecraft:birch_log"
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    0,
+                    2
+                  ],
+                  "blocks": "minecraft:birch_log"
+                }
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  -2,
+                  0
+                ],
+                "blocks": "minecraft:air"
+              }
+            ]
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:birch_log",
+              "Properties": {
+                "axis": "z"
+              }
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  2,
+                  0
+                ],
+                "blocks": "minecraft:void_air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  0,
+                  -1
+                ],
+                "blocks": "minecraft:birch_log"
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    0,
+                    -2
+                  ],
+                  "blocks": "minecraft:birch_log"
+                }
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  -2,
+                  0
+                ],
+                "blocks": "minecraft:air"
+              }
+            ]
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:birch_log",
+              "Properties": {
+                "axis": "z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "minecraft:air"
+    },
+    "radius": 8,
+    "half_height": 4
+  }
+}
