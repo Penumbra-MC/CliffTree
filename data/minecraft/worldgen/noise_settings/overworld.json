@@ -1345,6 +1345,7 @@
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
                               "minecraft:cherry_grove",
+                              "mcia:sparse_forest",
                               "ocean","cold_ocean",
                               "minecraft:warm_ocean","lukewarm_ocean"
                             ],
@@ -2507,6 +2508,7 @@
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
                               "minecraft:cherry_grove",
+                              "mcia:sparse_forest",
                               "ocean","cold_ocean",
                               "minecraft:warm_ocean","lukewarm_ocean"
                             ],
