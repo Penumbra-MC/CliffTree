@@ -87,7 +87,9 @@
       "minecraft:patch_grass_plain",
       "minecraft:flower_cherry",
       "minecraft:trees_cherry",
-      "mcia:flower_pink_tulip"
+      "mcia:flower_pink_tulip",
+      "mcia:cherry_snow",
+      "mcia:flower_cherry_snow"
     ],
     [ "mcia:extra_gold_remove",
       "minecraft:freeze_top_layer"
