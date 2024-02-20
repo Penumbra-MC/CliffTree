@@ -1057,7 +1057,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -9367,7 +9367,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -9397,7 +9397,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -9427,7 +9427,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -9457,7 +9457,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -9487,7 +9487,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -11325,7 +11325,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -11355,7 +11355,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -11385,7 +11385,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -11415,7 +11415,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -11445,7 +11445,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.55,
@@ -11462,6 +11462,96 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:bog"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:mangrove_swamp"
         },
         {
           "parameters": {
@@ -12512,156 +12602,6 @@
             "offset": 0
           },
           "biome": "minecraft:frozen_river"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:cold_beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:desert"
         },
         {
           "parameters": {
@@ -14231,11 +14171,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              1
             ],
             "erosion": [
               0.45,
-              1
+              0.55
             ],
             "temperature": [
               0.55,
@@ -15157,36 +15097,6 @@
           "parameters": {
             "weirdness": [
               0.05,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
               0.26666668
             ],
             "continentalness": [
@@ -15791,11 +15701,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -15821,11 +15731,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -15851,11 +15761,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -15881,11 +15791,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -15911,11 +15821,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -15941,11 +15851,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -15971,11 +15881,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -16001,11 +15911,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -16031,11 +15941,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -16061,11 +15971,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -16211,11 +16121,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -16331,11 +16241,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.3
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -16421,11 +16331,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.3
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.55,
@@ -16442,276 +16352,6 @@
             "offset": 0
           },
           "biome": "mcia:shrubland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:savanna"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sparse_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:oasis"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -0.35,
-              0.7
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:desert"
         },
         {
           "parameters": {
@@ -19810,7 +19450,7 @@
               0.93333334
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               1
             ],
             "erosion": [
@@ -19840,7 +19480,7 @@
               0.93333334
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               1
             ],
             "erosion": [
@@ -19870,7 +19510,7 @@
               0.93333334
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               1
             ],
             "erosion": [
@@ -19892,6 +19532,366 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:snowy_old_growth_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:old_growth_birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sparse_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:oasis"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
+              0.7
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -19952,66 +19952,6 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -20122,96 +20062,6 @@
               0.2
             ],
             "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
               0.3,
               1
             ],
@@ -20242,96 +20092,6 @@
               0.55
             ],
             "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:savanna"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sparse_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
               0.3,
               1
             ],
@@ -20342,96 +20102,6 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:oasis"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -0.35,
-              0.7
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.7,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -21152,66 +20822,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.05,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.7,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -22807,101 +22417,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
               1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
             ],
             "erosion": [
               0.55,
@@ -22927,11 +22447,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              1
             ],
             "erosion": [
               0.55,
@@ -22957,71 +22477,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
               1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
             ],
             "erosion": [
               0.55,
@@ -23047,11 +22507,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              1
             ],
             "erosion": [
               0.55,
@@ -23077,11 +22537,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              1
             ],
             "erosion": [
               0.55,
@@ -23107,11 +22567,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              1
             ],
             "erosion": [
               0.55,
@@ -24097,11 +23557,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -24127,11 +23587,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -24157,11 +23617,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -24187,11 +23647,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -24217,11 +23677,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -24468,96 +23928,6 @@
               1
             ],
             "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
               -0.72,
               -0.45
             ],
@@ -24602,66 +23972,6 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -25121,11 +24431,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -25151,11 +24461,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -25181,11 +24491,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -25211,11 +24521,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -25241,11 +24551,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -25271,11 +24581,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -25292,6 +24602,246 @@
             "offset": 0
           },
           "biome": "minecraft:dark_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ice_spikes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:snowy_old_growth_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:bog"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:mangrove_swamp"
         },
         {
           "parameters": {
@@ -25472,246 +25022,6 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:bog"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:mangrove_swamp"
         },
         {
           "parameters": {
@@ -26453,36 +25763,6 @@
             ],
             "humidity": [
               0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.55
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.7,
               1
             ],
             "depth": [
@@ -27177,7 +26457,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27207,7 +26487,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27237,7 +26517,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27267,7 +26547,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27297,7 +26577,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27327,7 +26607,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27357,7 +26637,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27387,7 +26667,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27417,7 +26697,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27777,7 +27057,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -27867,7 +27147,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -28497,7 +27777,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -28527,7 +27807,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -28557,7 +27837,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -28677,7 +27957,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29757,7 +29037,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29787,7 +29067,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29817,7 +29097,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29847,7 +29127,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29877,7 +29157,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29907,7 +29187,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29937,7 +29217,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29967,7 +29247,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -29997,7 +29277,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -30477,7 +29757,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -30507,7 +29787,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -30537,7 +29817,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -30627,7 +29907,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31077,7 +30357,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31137,7 +30417,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31557,7 +30837,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31587,7 +30867,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31617,7 +30897,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31647,7 +30927,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31677,7 +30957,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31707,7 +30987,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31737,7 +31017,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31767,7 +31047,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -31797,7 +31077,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32307,7 +31587,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32337,7 +31617,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32367,7 +31647,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32397,7 +31677,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32427,7 +31707,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32457,7 +31737,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32487,7 +31767,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32517,7 +31797,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32547,7 +31827,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32577,7 +31857,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32637,7 +31917,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32757,7 +32037,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32787,7 +32067,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32817,7 +32097,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -32907,7 +32187,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -33447,7 +32727,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -33537,7 +32817,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -33957,7 +33237,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -34317,7 +33597,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -34437,7 +33717,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -34867,7 +34147,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -34897,7 +34177,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -34927,7 +34207,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -34957,7 +34237,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -34987,7 +34267,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.19,
@@ -35097,7 +34377,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -35937,7 +35217,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -35967,7 +35247,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -35997,7 +35277,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -36027,7 +35307,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -36057,7 +35337,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -36087,7 +35367,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -36537,7 +35817,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -36555,7 +35835,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -36585,7 +35865,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -36615,7 +35895,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -36645,7 +35925,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -36675,7 +35955,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.55,
@@ -36692,6 +35972,96 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.8
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:bog"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.8
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              -0.19,
+              0.8
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:mangrove_swamp"
         },
         {
           "parameters": {
@@ -37137,7 +36507,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -37167,7 +36537,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -37227,7 +36597,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -37407,7 +36777,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -37497,7 +36867,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -37960,156 +37330,6 @@
               0.26666668
             ],
             "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:cold_beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:lukewarm_beach"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
               -0.11,
               0.8
             ],
@@ -38351,11 +37571,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -38367,7 +37587,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -38381,11 +37601,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -38411,11 +37631,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -38441,11 +37661,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -38457,7 +37677,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -38471,11 +37691,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -38501,11 +37721,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -38531,11 +37751,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -38561,11 +37781,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -38591,11 +37811,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -38625,7 +37845,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -38655,7 +37875,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -38685,7 +37905,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -38715,7 +37935,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -38741,11 +37961,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -38775,7 +37995,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -38805,7 +38025,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -38835,7 +38055,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -38861,11 +38081,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.3
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -38895,7 +38115,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.55,
@@ -38997,7 +38217,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39027,7 +38247,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39057,7 +38277,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39837,7 +39057,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39867,7 +39087,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39897,7 +39117,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39927,7 +39147,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39957,7 +39177,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -39987,7 +39207,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -40017,7 +39237,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -40047,7 +39267,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -40077,7 +39297,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -40377,7 +39597,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -40437,7 +39657,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -40987,11 +40207,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.45,
@@ -41017,11 +40237,101 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              0.8
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:snowy_old_growth_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              0.8
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              -0.19,
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41047,11 +40357,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41077,11 +40387,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41107,11 +40417,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41137,11 +40447,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41167,11 +40477,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41197,11 +40507,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41227,11 +40537,11 @@
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -41277,41 +40587,11 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
           "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -41367,71 +40647,11 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
           "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -41542,96 +40762,6 @@
               0.2
             ],
             "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
               0.3,
               0.7
             ],
@@ -41642,96 +40772,6 @@
             "offset": 0
           },
           "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:savanna"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sparse_jungle"
         },
         {
           "parameters": {
@@ -41770,36 +40810,6 @@
               0.93333334
             ],
             "continentalness": [
-              -0.11,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
               0.03,
               1
             ],
@@ -41877,7 +40887,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -41907,7 +40917,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -41937,7 +40947,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -41967,7 +40977,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -41997,7 +41007,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42027,7 +41037,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42057,7 +41067,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42087,7 +41097,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42117,7 +41127,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42498,36 +41508,6 @@
               1
             ],
             "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              1
-            ],
-            "temperature": [
               0.55,
               1
             ],
@@ -42567,7 +41547,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42597,7 +41577,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42627,7 +41607,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42657,7 +41637,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42687,7 +41667,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42717,7 +41697,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42747,7 +41727,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42777,7 +41757,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42807,7 +41787,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -42837,7 +41817,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -43287,7 +42267,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -43317,7 +42297,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -43347,7 +42327,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -43407,7 +42387,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -43987,11 +42967,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44007,7 +42987,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -44017,41 +42997,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44077,11 +43027,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44097,7 +43047,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -44107,71 +43057,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44197,11 +43087,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44227,11 +43117,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44257,11 +43147,11 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.8
             ],
             "erosion": [
               0.55,
@@ -44397,7 +43287,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -44827,11 +43717,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -44847,7 +43737,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -44857,11 +43747,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -44887,11 +43777,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -44917,11 +43807,11 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
+              0.93333334
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               0.45,
@@ -44942,66 +43832,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -45057,71 +43887,11 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
           "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -45431,11 +44201,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -1,
@@ -45447,7 +44217,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -45461,11 +44231,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -45491,11 +44261,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.72,
@@ -45507,7 +44277,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -45521,15 +44291,15 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
-              0.2
+              -0.15
             ],
             "humidity": [
               -0.1,
@@ -45551,11 +44321,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -45581,11 +44351,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.45,
@@ -45615,7 +44385,37 @@
             ],
             "erosion": [
               -0.2225,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
               1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -45641,11 +44441,11 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
+              0.03
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               -0.15,
@@ -45675,7 +44475,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -45705,7 +44505,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -45735,7 +44535,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.2,
@@ -45765,7 +44565,7 @@
             ],
             "erosion": [
               -0.2225,
-              1
+              0.55
             ],
             "temperature": [
               0.55,
@@ -45791,276 +44591,6 @@
             ],
             "continentalness": [
               -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.19,
-              -0.11
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -1,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:tundra"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
               0.03
             ],
             "erosion": [
@@ -46090,7 +44620,7 @@
               1
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               0.03
             ],
             "erosion": [
@@ -46120,7 +44650,7 @@
               1
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               0.03
             ],
             "erosion": [
@@ -46150,7 +44680,67 @@
               1
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.19,
               0.8
             ],
             "erosion": [
@@ -46180,7 +44770,7 @@
               1
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               0.8
             ],
             "erosion": [
@@ -46210,7 +44800,7 @@
               1
             ],
             "continentalness": [
-              -0.11,
+              -0.19,
               0.8
             ],
             "erosion": [
@@ -46240,6 +44830,216 @@
               1
             ],
             "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:tundra"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:old_growth_pine_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dark_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
               0.03,
               0.3
             ],
@@ -46737,7 +45537,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -46767,7 +45567,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -46797,7 +45597,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -46827,7 +45627,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -46857,7 +45657,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -46887,7 +45687,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47397,7 +46197,7 @@
             ],
             "depth": [
               0.2,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47427,7 +46227,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47457,7 +46257,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47487,7 +46287,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47517,7 +46317,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47547,7 +46347,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47577,7 +46377,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47607,7 +46407,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47637,7 +46437,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47667,7 +46467,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47697,7 +46497,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47727,7 +46527,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47757,7 +46557,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47787,7 +46587,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47817,7 +46617,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47847,7 +46647,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47877,7 +46677,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47907,7 +46707,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47937,7 +46737,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47967,7 +46767,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -47997,7 +46797,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48027,7 +46827,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48057,7 +46857,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48087,7 +46887,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48117,7 +46917,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48147,7 +46947,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48177,7 +46977,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48207,7 +47007,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48237,7 +47037,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48267,7 +47067,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48297,7 +47097,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48327,7 +47127,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48357,7 +47157,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48387,7 +47187,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48417,7 +47217,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48447,7 +47247,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48477,7 +47277,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48507,7 +47307,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48537,7 +47337,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48567,7 +47367,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48597,7 +47397,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48627,7 +47427,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48657,7 +47457,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48687,7 +47487,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48717,7 +47517,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48747,7 +47547,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48777,7 +47577,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48807,7 +47607,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48837,7 +47637,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48867,7 +47667,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48897,7 +47697,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48927,7 +47727,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48957,7 +47757,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -48987,7 +47787,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49017,7 +47817,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49047,7 +47847,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49077,7 +47877,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49107,7 +47907,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49137,7 +47937,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49167,7 +47967,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49197,7 +47997,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49227,7 +48027,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49257,7 +48057,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49287,7 +48087,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49317,7 +48117,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49347,7 +48147,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49377,7 +48177,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49407,7 +48207,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49437,7 +48237,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49467,7 +48267,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49497,7 +48297,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49527,7 +48327,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49557,7 +48357,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49587,7 +48387,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49617,7 +48417,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49647,7 +48447,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49677,7 +48477,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49707,7 +48507,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49737,7 +48537,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49767,7 +48567,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49797,7 +48597,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49827,7 +48627,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49857,7 +48657,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49887,7 +48687,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49917,7 +48717,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49947,7 +48747,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -49977,7 +48777,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50007,7 +48807,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50037,7 +48837,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50067,7 +48867,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50097,7 +48897,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50127,7 +48927,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50157,7 +48957,7 @@
             ],
             "depth": [
               0.29,
-              0.9
+              0.895
             ],
             "offset": 0
           },
@@ -50201,7 +49001,7 @@
             ],
             "continentalness": [
               -1.05,
-              1
+              -0.11
             ],
             "erosion": [
               -1,
@@ -50261,7 +49061,7 @@
             ],
             "continentalness": [
               -1.05,
-              1
+              -0.11
             ],
             "erosion": [
               -1,
@@ -50321,7 +49121,7 @@
             ],
             "continentalness": [
               -1.05,
-              1
+              -0.11
             ],
             "erosion": [
               -1,
@@ -50381,7 +49181,7 @@
             ],
             "continentalness": [
               -1.05,
-              1
+              -0.11
             ],
             "erosion": [
               -1,
@@ -50441,7 +49241,7 @@
             ],
             "continentalness": [
               -1.05,
-              1
+              -0.11
             ],
             "erosion": [
               -1,
@@ -50483,6 +49283,276 @@
             ],
             "humidity": [
               -0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
               1
             ],
             "depth": [
@@ -50561,7 +49631,7 @@
             ],
             "continentalness": [
               -1.05,
-              0.03
+              -0.11
             ],
             "erosion": [
               -0.375,
@@ -50672,6 +49742,36 @@
             "offset": 0
           },
           "biome": "mcia:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1.1,
+              1.1
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:cold_caves"
         },
         {
           "parameters": {
