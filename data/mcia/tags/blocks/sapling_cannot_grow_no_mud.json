@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#mcia:sapling_cannot_grow_warm",
+    "#mcia:sapling_cannot_grow_cold",
+    "mud",
+    "muddy_mangrove_roots"
+  ]
+}

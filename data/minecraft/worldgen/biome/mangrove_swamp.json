@@ -72,7 +72,6 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_grass",
       "mcia:disk_mud"
     ],
     [],
@@ -83,7 +82,7 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_mangrove_worldgen",
-      "minecraft:flower_swamp",
+      "mcia:flower_mangrove_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",
       "minecraft:patch_waterlily",
@@ -93,6 +92,9 @@
     [
       "mcia:extra_gold_remove",
       "mcia:extra_emerald_remove",
+      "minecraft:disk_grass",
+      "mcia:patch_disk_grass",
+      "mcia:patch_disk_grass_tall",
       "minecraft:freeze_top_layer"
     ]
   ],

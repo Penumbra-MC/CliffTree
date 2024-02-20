@@ -6,13 +6,13 @@
         "feature": {
           "type": "minecraft:tree",
           "config": {
-            "ignore_vines": true,
+            "ignore_vines": false,
             "force_dirt": false,
             "minimum_size": {
               "type": "minecraft:two_layers_feature_size",
               "limit": 1,
-              "lower_size": 0,
-              "upper_size": 1
+              "lower_size": 1,
+              "upper_size": 2
             },
             "dirt_provider": {
               "type": "minecraft:simple_state_provider",
@@ -23,7 +23,7 @@
             "trunk_provider": {
               "type": "minecraft:simple_state_provider",
               "state": {
-                "Name": "minecraft:birch_log",
+                "Name": "minecraft:spruce_log",
                 "Properties": {
                   "axis": "y"
                 }
@@ -32,7 +32,7 @@
             "foliage_provider": {
               "type": "minecraft:simple_state_provider",
               "state": {
-                "Name": "minecraft:birch_leaves",
+                "Name": "minecraft:spruce_leaves",
                 "Properties": {
                   "distance": "7",
                   "persistent": "false",
@@ -41,22 +41,37 @@
               }
             },
             "trunk_placer": {
-              "type": "minecraft:straight_trunk_placer",
-              "base_height": 5,
-              "height_rand_a": 1,
-              "height_rand_b": 0
+              "type": "minecraft:giant_trunk_placer",
+              "base_height": 13,
+              "height_rand_a": 2,
+              "height_rand_b": 14
             },
             "foliage_placer": {
-              "type": "minecraft:cherry_foliage_placer",
-              "radius": 3,
+              "type": "minecraft:mega_pine_foliage_placer",
+              "radius": 0,
               "offset": 0,
-              "height": 5,
-              "wide_bottom_layer_hole_chance": 0,
-              "corner_hole_chance": 0.9,
-              "hanging_leaves_chance": 0,
-              "hanging_leaves_extension_chance": 0
+              "crown_height": {
+                "type": "minecraft:uniform",
+                "value": {
+                  "min_inclusive": 13,
+                  "max_inclusive": 17
+                }
+              }
             },
-            "decorators": []
+            "decorators": [
+              {
+                "type": "minecraft:alter_ground",
+                "provider": {
+                  "type": "minecraft:simple_state_provider",
+                  "state": {
+                    "Name": "minecraft:podzol",
+                    "Properties": {
+                      "snowy": "false"
+                    }
+                  }
+                }
+              }
+            ]
           }
         },
         "placement": [
@@ -71,7 +86,7 @@
                   -1,
                   0
                 ],
-                "tag": "mcia:sapling_cannot_grow"
+                "tag": "mcia:sapling_cannot_grow_cold"
               }
             }
           }
