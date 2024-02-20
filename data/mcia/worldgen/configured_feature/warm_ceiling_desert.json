@@ -16,9 +16,9 @@
         "xz_radius": {
             "type": "minecraft:uniform",
             "value": {
-                "min_inclusive": 8,
-                "max_inclusive": 12
-            }
+                "min_inclusive": 5,
+                "max_inclusive": 10
+              }
         },
         "replaceable": "#minecraft:base_stone_overworld",
         "ground_state": {

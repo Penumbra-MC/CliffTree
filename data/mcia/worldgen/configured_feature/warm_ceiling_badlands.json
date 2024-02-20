@@ -14,12 +14,9 @@
       "extra_edge_column_chance": 0.8,
       "vegetation_chance": 0.0,
       "xz_radius": {
-          "type": "minecraft:uniform",
-          "value": {
-              "min_inclusive": 8,
-              "max_inclusive": 12
-          }
-      },
+        "type": "minecraft:constant",
+        "value": 5
+    },
       "replaceable": "#minecraft:base_stone_overworld",
       "ground_state": {
           "type": "minecraft:simple_state_provider",

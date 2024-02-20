@@ -6,13 +6,13 @@
           "type": "minecraft:uniform",
           "value": {
               "min_inclusive": 1,
-              "max_inclusive": 3
+              "max_inclusive": 2
           }
       },
       "vertical_range": 12,
       "extra_bottom_block_chance": 0,
       "extra_edge_column_chance": 1,
-      "vegetation_chance": 0.01,
+      "vegetation_chance": 0,
       "xz_radius": {
           "type": "minecraft:uniform",
           "value": {

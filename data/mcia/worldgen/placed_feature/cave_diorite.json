@@ -1,9 +1,11 @@
 {
-  "feature": "mcia:cave_diorite",
+  "feature": "mcia:cave_diorite_ceiling",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 6
+      "type": "minecraft:noise_based_count",
+      "noise_to_count_ratio": 20,
+      "noise_factor": 1,
+      "noise_offset": 0
     },
     {
       "type": "minecraft:in_square"
@@ -16,7 +18,7 @@
           "absolute": 256
         },
         "min_inclusive": {
-          "absolute": 16
+          "absolute": 0
         }
       }
     },
@@ -26,7 +28,7 @@
         "type": "minecraft:matching_blocks",
         "blocks": "minecraft:air"
       },
-      "direction_of_search": "down",
+      "direction_of_search": "up",
       "max_steps": 32,
       "target_condition": {
         "type": "minecraft:solid"
@@ -35,7 +37,7 @@
     {
       "type": "minecraft:random_offset",
       "xz_spread": 0,
-      "y_spread": 1
+      "y_spread": -1
     },
     {
       "type": "minecraft:biome"

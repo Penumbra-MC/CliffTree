@@ -147,7 +147,7 @@
       },
       {
         "type": "minecraft:zombie",
-        "weight": 80,
+        "weight": 30,
         "minCount": 2,
         "maxCount": 4
       },
@@ -191,7 +191,7 @@
         "type": "minecraft:husk",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 120
       }
     ],
     "underground_water_creature": [

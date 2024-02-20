@@ -147,15 +147,15 @@
     "monster": [
       {
         "type": "minecraft:spider",
-        "maxCount": 4,
+        "maxCount": 8,
         "minCount": 4,
-        "weight": 100
+        "weight": 125
       },
       {
         "type": "minecraft:zombie",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 95
+        "weight": 75
       },
       {
         "type": "minecraft:zombie_villager",
@@ -167,7 +167,7 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 80
       },
       {
         "type": "minecraft:creeper",
