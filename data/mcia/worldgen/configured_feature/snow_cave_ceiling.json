@@ -5,14 +5,14 @@
       "depth": {
           "type": "minecraft:uniform",
           "value": {
-              "min_inclusive": 8,
-              "max_inclusive": 12
+              "min_inclusive": 6,
+              "max_inclusive": 8
           }
       },
       "vertical_range": 12,
       "extra_bottom_block_chance": 0,
       "extra_edge_column_chance": 1,
-      "vegetation_chance": 0.5,
+      "vegetation_chance": 0.01,
       "xz_radius": {
           "type": "minecraft:uniform",
           "value": {
@@ -20,11 +20,11 @@
               "max_inclusive": 12
           }
       },
-      "replaceable": "#mcia:stone_and_deepslate",
+      "replaceable": "#minecraft:base_stone_overworld",
       "ground_state": {
           "type": "minecraft:simple_state_provider",
           "state": {
-              "Name": "minecraft:snow_block"
+              "Name": "minecraft:packed_ice"
           }
       },
       "vegetation_feature": {

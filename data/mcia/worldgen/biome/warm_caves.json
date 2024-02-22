@@ -79,7 +79,8 @@
       "mcia:warm_ceiling_desert"
     ],
     [
-      "mcia:ore_infested"
+      "mcia:ore_infested",
+      "mcia:warm_floor_desert"
     ],
     [
       "minecraft:spring_water",

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:vegetation_patch",
+  "config": {
+      "surface": "floor",
+      "depth": {
+          "type": "minecraft:uniform",
+          "value": {
+              "min_inclusive": 1,
+              "max_inclusive": 2
+          }
+      },
+      "vertical_range": 3,
+      "extra_bottom_block_chance": 0.5,
+      "extra_edge_column_chance": 1,
+      "vegetation_chance": 0.01,
+      "xz_radius": {
+          "type": "minecraft:uniform",
+          "value": {
+            "min_inclusive": 5,
+            "max_inclusive": 8
+          }
+      },
+      "replaceable": "#minecraft:base_stone_overworld",
+      "ground_state": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+              "Name": "minecraft:light_gray_terracotta"
+          }
+      },
+      "vegetation_feature": {
+          "feature": "mcia:ore_granite_small",
+          "placement": []
+      }
+  }
+}

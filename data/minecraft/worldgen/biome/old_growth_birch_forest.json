@@ -92,6 +92,8 @@
     [
       "mcia:extra_gold_remove",
       "mcia:extra_emerald_remove",
+      "mcia:super_birch_branch",
+      "mcia:birch_vine_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

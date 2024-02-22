@@ -1,59 +1,31 @@
 {
-  "type": "minecraft:disk",
+  "type": "minecraft:block_column",
   "config": {
-    "half_height": 4,
-    "radius": {
-      "type": "minecraft:uniform",
-      "value": {
-        "max_inclusive": 8,
-        "min_inclusive": 8
-      }
+    "direction": "up",
+    "allowed_placement": {
+      "type": "minecraft:matching_block_tag",
+      "tag": "mcia:stones_and_gray_terracotta"
     },
-    "state_provider": {
-      "fallback": {
-        "type": "minecraft:simple_state_provider",
-        "state": {
-          "Name": "minecraft:light_gray_terracotta"
-        }
-      },
-      "rules": [
-        {
-          "if_true": {
-            "type": "minecraft:any_of",
-            "predicates": [
-                {
-                    "type": "minecraft:matching_blocks",
-                    "offset": [
-                        0,
-                        -2,
-                        0
-                    ],
-                    "blocks": "minecraft:light_gray_terracotta"
-                },
-                {
-                  "type": "minecraft:matching_blocks",
-                  "offset": [
-                      0,
-                      -1,
-                      0
-                  ],
-                  "blocks": "minecraft:white_terracotta"
-              }
-            ]
-        },
-          "then": {
-            "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:white_terracotta"
-            }
+    "prioritize_tip": false,
+    "layers": [
+      {
+        "height": 3,
+        "provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:light_gray_terracotta"
           }
         }
-      ]
-    },
-    "target": {
-      "type": "minecraft:matching_blocks",
-      "blocks": ["light_gray_terracotta","white_terracotta"]
-      
-    }
+      },
+      {
+        "height": 8,
+        "provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:white_terracotta"
+          }
+        }
+      }
+    ]
   }
 }
