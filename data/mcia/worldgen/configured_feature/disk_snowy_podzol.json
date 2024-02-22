@@ -11,6 +11,23 @@
       "rules": [
         {
           "if_true": {
+            "type": "minecraft:matching_block_tag",
+            "offset": [
+              0,
+              0,
+              0
+            ],
+            "tag": "minecraft:base_stone_overworld"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:stone"
+            }
+          }
+        },
+        {
+          "if_true": {
             "type": "minecraft:all_of",
             "predicates": [
               {
@@ -29,7 +46,10 @@
                   1,
                   0
                 ],
-                "blocks": ["minecraft:snow_block","minecraft:powder_snow"]
+                "blocks": [
+                  "minecraft:snow_block",
+                  "minecraft:powder_snow"
+                ]
               },
               {
                 "type": "minecraft:any_of",
@@ -88,7 +108,9 @@
     },
     "target": {
       "type": "minecraft:matching_blocks",
-      "blocks": ["minecraft:dirt"]
+      "blocks": [
+        "minecraft:dirt"
+      ]
     },
     "radius": {
       "type": "minecraft:uniform",

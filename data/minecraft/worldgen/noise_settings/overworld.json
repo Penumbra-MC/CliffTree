@@ -1434,7 +1434,7 @@
                                 "then_run": {
                                   "type": "minecraft:block",
                                   "result_state": {
-                                    "Name": "minecraft:stone"
+                                    "Name": "minecraft:snow_block"
                                   }
                                 }
                               }
@@ -1946,7 +1946,7 @@
                                 },
                                 "then_run": {
                                   "result_state": {
-                                    "Name": "minecraft:stone"
+                                    "Name": "minecraft:snow_block"
                                   },
                                   "type": "minecraft:block"
                                 },
@@ -2454,7 +2454,9 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:snowy_plains"
+                              "minecraft:snowy_plains",
+                              "minecraft:snowy_taiga",
+                              "mcia:snowy_old_growth_taiga"
                             ],
                             "type": "minecraft:biome"
                           },

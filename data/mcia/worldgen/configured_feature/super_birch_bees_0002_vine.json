@@ -52,10 +52,7 @@
       "hanging_leaves_extension_chance": 0
     },
     "decorators": [
-      {
-        "type": "minecraft:beehive",
-        "probability": 0.02
-      }
+      {"type": "trunk_vine"}
     ]
   }
 }

@@ -1,9 +1,13 @@
 {
-  "feature": "mcia:snow_cave_ceiling",
+  "feature": "mcia:warm_floor_desert",
   "placement": [
     {
       "type": "minecraft:carving_mask",
       "step": "air"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 4
     },
     {
       "type": "minecraft:height_range",
@@ -19,8 +23,8 @@
     },
     {
       "type": "minecraft:environment_scan",
-      "direction_of_search": "up",
-      "max_steps": 12,
+      "direction_of_search": "down",
+      "max_steps": 32,
       "target_condition": {
         "type": "minecraft:solid"
       },
