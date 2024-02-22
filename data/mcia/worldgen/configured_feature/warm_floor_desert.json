@@ -9,7 +9,7 @@
               "max_inclusive": 2
           }
       },
-      "vertical_range": 3,
+      "vertical_range": 12,
       "extra_bottom_block_chance": 0.5,
       "extra_edge_column_chance": 1,
       "vegetation_chance": 0.01,
@@ -24,7 +24,7 @@
       "ground_state": {
           "type": "minecraft:simple_state_provider",
           "state": {
-              "Name": "minecraft:light_gray_terracotta"
+              "Name": "minecraft:terracotta"
           }
       },
       "vegetation_feature": {

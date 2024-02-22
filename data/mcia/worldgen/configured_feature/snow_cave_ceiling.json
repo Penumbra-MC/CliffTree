@@ -12,7 +12,7 @@
       "vertical_range": 12,
       "extra_bottom_block_chance": 0,
       "extra_edge_column_chance": 1,
-      "vegetation_chance": 0.01,
+      "vegetation_chance": 0.0025,
       "xz_radius": {
           "type": "minecraft:uniform",
           "value": {

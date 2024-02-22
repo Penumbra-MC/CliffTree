@@ -1,26 +1,27 @@
 {
   "type": "minecraft:disk",
   "config": {
-    "half_height": 4,
-    "radius": {
-      "type": "minecraft:uniform",
-      "value": {
-        "max_inclusive": 8,
-        "min_inclusive": 8
-      }
-    },
     "state_provider": {
       "fallback": {
         "type": "minecraft:simple_state_provider",
         "state": {
-          "Name": "minecraft:clay"
+          "Name": "minecraft:dirt"
         }
       },
       "rules": [
         {
           "if_true": {
-            "type": "minecraft:all_of",
+            "type": "minecraft:any_of",
             "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ],
+                "fluids": "minecraft:water"
+              },
               {
                 "type": "minecraft:matching_blocks",
                 "offset": [
@@ -28,43 +29,10 @@
                   1,
                   0
                 ],
-                "blocks": ["minecraft:water","seagrass","tall_seagrass","ice"]
-              },
-              {
-                "type": "minecraft:matching_blocks",
-                "offset": [
-                  0,
-                  -1,
-                  0
-                ],
-                "blocks": ["minecraft:dirt","sand","clay","gravel"]
-              },
-              {
-                "type": "minecraft:matching_blocks",
-                "offset": [
-                  0,
-                  2,
-                  0
-                ],
-                "blocks": "minecraft:air"
+                "blocks": [
+                  "minecraft:clay"
+                ]
               }
-            ]
-          },
-          "then": {
-            "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:sand"
-            }
-          }
-        },
-        {
-          "if_true": {
-            "type": "minecraft:matching_blocks",
-            "blocks": ["minecraft:water","seagrass","tall_seagrass","ice","sand","clay"],
-            "offset": [
-              0,
-              1,
-              0
             ]
           },
           "then": {
@@ -76,18 +44,29 @@
         },
         {
           "if_true": {
-            "type": "minecraft:matching_blocks",
-            "blocks": ["minecraft:grass_block","podzol"],
-            "offset": [
-              0,
-              1,
-              0
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:dirt"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ],
+                "blocks": [
+                  "minecraft:sand","clay"
+                ]
+              }
             ]
           },
           "then": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:dirt"
+              "Name": "minecraft:clay"
             }
           }
         }
@@ -96,8 +75,16 @@
     "target": {
       "type": "minecraft:matching_blocks",
       "blocks": [
-        "minecraft:dirt","clay","sand","sandstone"
+        "minecraft:dirt","sand"
       ]
-    }
+    },
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 7,
+        "max_inclusive": 8
+      }
+    },
+    "half_height": 4
   }
 }

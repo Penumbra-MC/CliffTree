@@ -60,16 +60,14 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
     [],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "mcia:ocean_rock_granite"
+      "mcia:ocean_rock_granite",
+      "mcia:ocean_rock_granite_extra"
     ],
     [
       "minecraft:glow_lichen",
@@ -81,7 +79,8 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_warm",
-      "minecraft:kelp_warm"
+      "minecraft:kelp_warm",
+      "mcia:sea_pickle_lukewarm"
     ],
     [
       "mcia:extra_gold_remove",

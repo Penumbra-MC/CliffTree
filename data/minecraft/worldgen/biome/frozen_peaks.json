@@ -74,7 +74,8 @@
       "minecraft:ore_emerald"
     ],
     [
-      "minecraft:ore_infested"
+      "minecraft:ore_infested",
+      "mcia:disk_blue_ice"
     ],
     [
       "minecraft:spring_water",
@@ -87,7 +88,8 @@
     ],
     [
       "mcia:extra_gold_remove",
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "mcia:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

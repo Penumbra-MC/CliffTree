@@ -2,7 +2,7 @@
   "feature": "minecraft:disk_sand",
   "placement": [
     {
-      "count": 40,
+      "count": 60,
       "type": "minecraft:count"
     },
     {
