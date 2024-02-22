@@ -1333,12 +1333,12 @@
           "biome_lpyhw0gu"
         ],
         [
-          "biome_lpyhw0gu",
-          "biome_lpyhw0gu",
-          "biome_lpyhw0gu",
-          "biome_lpyhw0gu",
-          "biome_lpyhw0gu",
-          "biome_lpyhw0gu"
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus"
         ]
       ]
     },
@@ -2370,7 +2370,7 @@
     },
     {
       "key": "layout_lstuq6k0",
-      "name": "New Layout",
+      "name": "Deep caves",
       "array": [
         [
           "biome_lpygpfek",
@@ -2405,20 +2405,20 @@
           "biome_lpyet24u"
         ],
         [
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u"
-        ],
-        [
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu"
+        ],
+        [
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus"
         ]
       ]
     }
