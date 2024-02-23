@@ -1,0 +1,66 @@
+{
+  "type": "minecraft:add",
+  "argument1": "minecraft:overworld/factor",
+  "argument2": {
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": "minecraft:overworld/continents",
+      "points": [
+        {
+          "location": -1.06,
+          "derivative": 0,
+          "value": {
+            "coordinate": "minecraft:overworld/erosion",
+            "points": [
+              {
+                "location": -1.5,
+                "derivative": 0.0,
+                "value": 2
+              },
+              {
+                "location": 0.0,
+                "derivative": 0.0,
+                "value": 1
+              },
+              {
+                "location": 2.0,
+                "derivative": 0.0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        {
+          "location": -1.05,
+          "derivative": 0,
+          "value": 0
+        },
+        {
+          "location": -0.8,
+          "derivative": 0,
+          "value": 2.5
+        },
+        {
+          "location": -0.4,
+          "derivative": 0,
+          "value": 2.5
+        },
+        {
+          "location": -0.275,
+          "derivative": 0,
+          "value": 1
+        },
+        {
+          "location": -0.2,
+          "derivative": 0,
+          "value": 0.5
+        },
+        {
+          "location": -0.15,
+          "derivative": 0,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

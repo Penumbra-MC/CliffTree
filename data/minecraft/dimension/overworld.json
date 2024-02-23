@@ -1091,7 +1091,7 @@
             ],
             "continentalness": [
               -0.19,
-              0.3
+              0.03
             ],
             "erosion": [
               -0.2225,
@@ -1523,36 +1523,6 @@
             ],
             "humidity": [
               0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
               1
             ],
             "depth": [
@@ -1952,36 +1922,6 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.05
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -2954,36 +2894,6 @@
               0.3
             ],
             "erosion": [
-              -0.78,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
               -0.375,
               0.45
             ],
@@ -3157,11 +3067,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              -0.26666668
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.375,
@@ -3181,7 +3091,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:shrubland"
+          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -3614,36 +3524,6 @@
               1
             ],
             "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
               -0.375,
               -0.2225
             ],
@@ -3722,36 +3602,6 @@
             "offset": 0
           },
           "biome": "mcia:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -4022,36 +3872,6 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -5294,36 +5114,6 @@
               1
             ],
             "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
               -0.375,
               -0.2225
             ],
@@ -5552,66 +5342,6 @@
             "offset": 0
           },
           "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.05
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -6212,36 +5942,6 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -10717,36 +10417,6 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
               -0.05
             ],
             "continentalness": [
@@ -10772,36 +10442,6 @@
             "offset": 0
           },
           "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -11282,36 +10922,6 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.05
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
         },
         {
           "parameters": {
@@ -12044,36 +11654,6 @@
               1
             ],
             "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "mcia:shrubland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
-              -0.05
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
               -0.375,
               0.55
             ],
@@ -12165,7 +11745,7 @@
             ],
             "erosion": [
               -0.375,
-              0.55
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -12212,6 +11792,36 @@
             "offset": 0
           },
           "biome": "minecraft:badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -13177,36 +12787,6 @@
           "parameters": {
             "weirdness": [
               -0.05,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
               0.26666668
             ],
             "continentalness": [
@@ -13222,7 +12802,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -13231,7 +12811,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:shrubland"
+          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -14797,36 +14377,6 @@
           "parameters": {
             "weirdness": [
               0.05,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
               0.26666668
             ],
             "continentalness": [
@@ -14842,7 +14392,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -14851,7 +14401,7 @@
             ],
             "offset": 0
           },
-          "biome": "mcia:shrubland"
+          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -15371,36 +14921,6 @@
             ],
             "continentalness": [
               0.03,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              1
-            ],
-            "continentalness": [
-              0.03,
               0.3
             ],
             "erosion": [
@@ -15412,7 +14932,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -15682,7 +15202,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -16582,7 +16102,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -17092,7 +16612,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -17812,7 +17332,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -18007,36 +17527,6 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
               0.4
             ],
             "continentalness": [
@@ -18052,7 +17542,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -18442,7 +17932,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -18562,8 +18052,8 @@
               1
             ],
             "humidity": [
-              0.1,
-              1
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -18571,7 +18061,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "minecraft:badlands"
         },
         {
           "parameters": {
@@ -20332,7 +19822,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -20662,8 +20152,8 @@
               1
             ],
             "humidity": [
-              0.1,
-              1
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -20671,7 +20161,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "minecraft:badlands"
         },
         {
           "parameters": {
@@ -21092,6 +20582,36 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:badlands"
         },
         {
           "parameters": {
@@ -25702,7 +25222,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -25762,7 +25282,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -26392,7 +25912,7 @@
               1
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -29077,7 +28597,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.26666668
+              -0.93333334
             ],
             "continentalness": [
               0.3,
@@ -29089,7 +28609,7 @@
             ],
             "temperature": [
               0.2,
-              0.55
+              1
             ],
             "humidity": [
               -1,
@@ -29097,11 +28617,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "mcia:lukewarm_caves"
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -30675,7 +30195,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -30902,6 +30422,36 @@
             "offset": 0
           },
           "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -31519,7 +31069,7 @@
             ],
             "temperature": [
               0.2,
-              0.55
+              1
             ],
             "humidity": [
               -1,
@@ -31527,11 +31077,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "mcia:lukewarm_caves"
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -35042,6 +34592,36 @@
             "offset": 0
           },
           "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.26666668
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -38827,7 +38407,7 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              1
+              0.4
             ],
             "continentalness": [
               0.3,
@@ -38839,7 +38419,7 @@
             ],
             "temperature": [
               0.2,
-              0.55
+              1
             ],
             "humidity": [
               -1,
@@ -38847,11 +38427,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "mcia:lukewarm_caves"
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -40485,7 +40065,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -40712,6 +40292,36 @@
             "offset": 0
           },
           "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -41239,7 +40849,7 @@
             ],
             "temperature": [
               0.2,
-              0.55
+              1
             ],
             "humidity": [
               -1,
@@ -41247,11 +40857,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "mcia:lukewarm_caves"
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
@@ -45092,6 +44702,36 @@
             "offset": 0
           },
           "biome": "mcia:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "mcia:warm_caves"
         },
         {
           "parameters": {
