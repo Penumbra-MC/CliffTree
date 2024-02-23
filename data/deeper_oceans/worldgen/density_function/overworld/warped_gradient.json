@@ -124,14 +124,19 @@
             "value": 0
           },
           {
-            "location": -0.275,
+            "location": -0.4,
             "derivative": 0,
             "value": 0
           },
           {
+            "location": -0.275,
+            "derivative": 0,
+            "value": 0.5
+          },
+          {
             "location": -0.15,
             "derivative": 0,
-            "value": 1
+            "value": 1.1
           }
         ]
       }

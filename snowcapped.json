@@ -1849,12 +1849,12 @@
           "biome_lpygpfek"
         ],
         [
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u",
-          "biome_lpyet24u"
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek"
         ],
         [
           "biome_lpyet24u",
@@ -2421,6 +2421,60 @@
           "biome_lpygnpus"
         ]
       ]
+    },
+    {
+      "key": "layout_lsxqdqal",
+      "name": "Surface plateau caves",
+      "array": [
+        [
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj"
+        ],
+        [
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj"
+        ],
+        [
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj"
+        ],
+        [
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj"
+        ],
+        [
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj"
+        ],
+        [
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj",
+          "layout_lsqku3dj"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2897,8 +2951,8 @@
       "name": "Deep Dark",
       "array": [
         [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
+          "biome_lpyew918",
+          "biome_lpyew918",
           "biome_lpyew918",
           "biome_lpyew918",
           "biome_lpyew918",
@@ -2906,8 +2960,8 @@
           "biome_lpyew918"
         ],
         [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
+          "layout_lstuq6k0",
+          "layout_lstuq6k0",
           "layout_lss109m2",
           "layout_lss109m2",
           "layout_lss109m2",
@@ -2915,8 +2969,8 @@
           "layout_lss109m2"
         ],
         [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
+          "layout_lstuq6k0",
+          "layout_lstuq6k0",
           "layout_lss109m2",
           "layout_lss109m2",
           "layout_lss109m2",
@@ -3186,8 +3240,8 @@
         ],
         [
           "layout_lsng6fnq",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "layout_lsxqdqal",
+          "layout_lsxqdqal",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstm8ffh",
@@ -3256,7 +3310,7 @@
         [
           "layout_lsng6fnq",
           "layout_lsng6fnq",
-          "layout_lsqku3dj",
+          "layout_lsxqdqal",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstm8ffh",
@@ -3265,8 +3319,8 @@
         [
           "layout_lsng6fnq",
           "layout_lsng6fnq",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "layout_lsxqdqal",
+          "layout_lsxqdqal",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_lstlfb65"
@@ -3334,7 +3388,7 @@
         [
           "layout_lsng6fnq",
           "layout_lsng6fnq",
-          "layout_lsqku3dj",
+          "layout_lsxqdqal",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstm8ffh",
@@ -3343,8 +3397,8 @@
         [
           "layout_lsng6fnq",
           "layout_lsng6fnq",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "layout_lsxqdqal",
+          "layout_lsxqdqal",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_lstlfb65"
