@@ -5,7 +5,7 @@
       "type": "minecraft:uniform",
       "value": {
         "max_inclusive": 12,
-        "min_inclusive": 8
+        "min_inclusive": 12
       }
     },
     "state": {

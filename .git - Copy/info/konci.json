@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:boygirl",
+    "config": {
+      "sexuality": "minecraft:bisexual",
+      "allowed_attraction": {
+        "type": 
+        [
+            "minecraft:boy",
+            "minecraft:girl",
+            "#minecraft:other"
+        ]
+      },
+      "neurotypical": false,
+      "hair_provider": [
+        {
+          "length": 5,
+          "provider": "black"
+        }
+      ]
+    }
+  }
+  
