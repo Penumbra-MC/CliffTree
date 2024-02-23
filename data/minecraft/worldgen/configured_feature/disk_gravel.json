@@ -14,6 +14,70 @@
             "type": "minecraft:all_of",
             "predicates": [
               {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ],
+                "blocks": [
+                  "minecraft:smooth_sandstone",
+                  "minecraft:sandstone",
+                  "minecraft:sand"
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  0,
+                  0
+                ],
+                "blocks": "minecraft:sandstone"
+              }
+            ]
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:sandstone"
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ],
+                "blocks": [
+                  "minecraft:gravel",
+                  "minecraft:clay"
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:sandstone"
+              }
+            ]
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:stone"
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
                 "type": "minecraft:any_of",
                 "predicates": [
                   {
@@ -105,7 +169,8 @@
                   0
                 ],
                 "blocks": [
-                  "minecraft:sand","clay"
+                  "minecraft:sand",
+                  "minecraft:clay"
                 ]
               }
             ]
@@ -122,13 +187,15 @@
     "target": {
       "type": "minecraft:matching_blocks",
       "blocks": [
-        "minecraft:dirt","sand","clay"
+        "minecraft:dirt",
+        "minecraft:sand",
+        "minecraft:clay"
       ]
     },
     "radius": {
       "type": "minecraft:uniform",
       "value": {
-        "min_inclusive": 7,
+        "min_inclusive": 8,
         "max_inclusive": 8
       }
     },

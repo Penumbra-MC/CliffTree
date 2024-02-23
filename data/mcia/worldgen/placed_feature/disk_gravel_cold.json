@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:disk_clay",
+  "feature": "minecraft:disk_gravel",
   "placement": [
     {
       "count": 80,
@@ -11,7 +11,7 @@
     {
       "height": {
         "min_inclusive": {
-          "absolute": 55
+          "absolute": 50
         },
         "max_inclusive": {
           "absolute": 56

@@ -85,9 +85,11 @@
     ],
     [
       "minecraft:glow_lichen",
+      "mcia:glow_lichen_shroom",
       "mcia:red_mushroom_cave_island",
       "mcia:brown_mushroom_cave_island",
-      "mcia:seagrass_cave"
+      "mcia:seagrass_cave",
+      "mcia:shelf_fungus_cave"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -74,7 +74,8 @@
       "minecraft:disk_gravel",
       "mcia:ore_granite_extra",
       "mcia:tuff_noise",
-      "mcia:tuff_noise_ceiling"
+      "mcia:tuff_noise_ceiling",
+      "mcia:ore_gravel_deep"
     ],
     [
       "minecraft:dripstone_cluster",
@@ -94,10 +95,7 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "mcia:seagrass_cave",
-      "mcia:tuff_noise",
-      "mcia:tuff_noise_ceiling",
-      "mcia:ore_gravel_deep"
+      "mcia:seagrass_cave"
     ],
     [
       "minecraft:freeze_top_layer"
