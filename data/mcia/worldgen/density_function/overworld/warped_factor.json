@@ -15,12 +15,12 @@
               {
                 "location": -1.5,
                 "derivative": 0.0,
-                "value": 2
+                "value": 1
               },
               {
                 "location": 0.0,
                 "derivative": 0.0,
-                "value": 1
+                "value": 0.5
               },
               {
                 "location": 2.0,

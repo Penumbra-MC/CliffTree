@@ -3,8 +3,9 @@
   "continentalnesses": [
     -1.2,
     -1.05,
+    -0.9500000000000001,
     -0.455,
-    -0.19,
+    -0.2,
     -0.11,
     0.03,
     0.3,
@@ -2492,6 +2493,15 @@
           "minecraft:mushroom_fields"
         ],
         [
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
+        ],
+        [
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
@@ -2568,6 +2578,15 @@
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields"
+        ],
+        [
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
         ],
         [
           "layout_ktoint2n",
@@ -2648,6 +2667,15 @@
           "minecraft:mushroom_fields"
         ],
         [
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
+        ],
+        [
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
@@ -2724,6 +2752,15 @@
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields"
+        ],
+        [
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
         ],
         [
           "layout_ktoint2n",
@@ -2804,6 +2841,15 @@
           "minecraft:mushroom_fields"
         ],
         [
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
+        ],
+        [
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
@@ -2872,6 +2918,15 @@
       "key": "layout_kvu3cyig",
       "name": "Caves",
       "array": [
+        [
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1",
+          "layout_lpyev7a1"
+        ],
         [
           "layout_lpyev7a1",
           "layout_lpyev7a1",
@@ -2960,6 +3015,15 @@
           "biome_lpyew918"
         ],
         [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
+        ],
+        [
           "layout_lstuq6k0",
           "layout_lstuq6k0",
           "layout_lss109m2",
@@ -3028,6 +3092,15 @@
       "key": "layout_lroojjxo",
       "name": "Middle caves",
       "array": [
+        [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
+        ],
         [
           "biome_lpyew918",
           "biome_lpyew918",
@@ -3116,6 +3189,15 @@
           "minecraft:mushroom_fields"
         ],
         [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
+        ],
+        [
           "layout_lstdqulc",
           "layout_lstdqulc",
           "layout_lstdqulc",
@@ -3192,6 +3274,15 @@
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields"
+        ],
+        [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
         ],
         [
           "layout_lstdqulc",
@@ -3272,6 +3363,15 @@
           "minecraft:mushroom_fields"
         ],
         [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
+        ],
+        [
           "layout_lstdqulc",
           "layout_lstdqulc",
           "layout_lstdqulc",
@@ -3350,6 +3450,15 @@
           "minecraft:mushroom_fields"
         ],
         [
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
+        ],
+        [
           "layout_lstdqulc",
           "layout_lstdqulc",
           "layout_lstdqulc",
@@ -3418,6 +3527,15 @@
       "key": "layout_lsqk3rx9",
       "name": "Mid Caves",
       "array": [
+        [
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
+        ],
         [
           "layout_kvu3cyig",
           "layout_kvu3cyig",
@@ -3533,6 +3651,15 @@
           "layout_kvu3cyig"
         ],
         [
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
+        ],
+        [
           "layout_lsqk90o1",
           "layout_kvu3cyig",
           "layout_kvu3cyig",
@@ -3574,6 +3701,15 @@
       "key": "layout_lsqk59yp",
       "name": "Peaks Caves",
       "array": [
+        [
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig",
+          "layout_kvu3cyig"
+        ],
         [
           "layout_kvu3cyig",
           "layout_kvu3cyig",
@@ -3981,6 +4117,11 @@
       "key": "biome_lrqjz648",
       "name": "mcia:tundra",
       "color": "#d9c4a6"
+    },
+    {
+      "key": "biome_lszdtpt8",
+      "name": "mcia:stone_ocean",
+      "color": "#6964ac"
     }
   ],
   "targetVersion": "1_19",

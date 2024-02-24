@@ -1,18 +1,23 @@
 {
-  "mcia:warm_river": {
-    "r": 29,
-    "g": 241,
-    "b": 241
-  },
   "mcia:cold_river": {
-    "r": 13,
-    "g": 74,
-    "b": 125
+    "r": 64,
+    "g": 159,
+    "b": 255
   },
   "mcia:tropical_river": {
-    "r": 52,
-    "g": 192,
-    "b": 122
+    "r": 0,
+    "g": 64,
+    "b": 128
+  },
+  "mcia:warm_river": {
+    "r": 0,
+    "g": 0,
+    "b": 160
+  },
+  "mcia:sparse_forest": {
+    "r": 0,
+    "g": 128,
+    "b": 0
   },
   "mcia:caves": {
     "r": 136,
@@ -21,107 +26,102 @@
   },
   "mcia:mushroom_caves": {
     "r": 255,
-    "g": 80,
+    "g": 128,
     "b": 192
   },
-  "mcia:sparse_forest" {
-    "r": 00,
-    "g": 80,
-    "b": 00
-  },
-  "mcia:caves" {
-    "r": 88,
-    "g": 88,
-    "b": 88
-  },
-  "mcia:warm_caves" {
+  "mcia:warm_caves": {
     "r": 128,
     "g": 128,
     "b": 64
   },
-  "mcia:cold_caves" {
+  "mcia:cold_caves": {
     "r": 110,
     "g": 110,
     "b": 110
   },
-  "mcia:lukewarm_caves" {
+  "mcia:lukewarm_caves": {
     "r": 105,
     "g": 102,
     "b": 86
   },
-  "mcia:frozen_caves" {
+  "mcia:frozen_caves": {
     "r": 98,
     "g": 98,
     "b": 113
   },
-  "mcia:bog" {
+  "mcia:bog": {
     "r": 101,
     "g": 88,
     "b": 105
   },
-  "mcia:inferno" {
+  "mcia:inferno": {
     "r": 166,
-    "g": 00,
-    "b": 00
+    "g": 0,
+    "b": 0
   },
-  "mcia:shrubland" {
+  "mcia:shrubland": {
     "r": 235,
     "g": 204,
     "b": 82
   },
-  "mcia:oasis" {
+  "mcia:oasis": {
     "r": 207,
     "g": 255,
     "b": 17
   },
-  "mcia:cold_beach" {
+  "mcia:cold_beach": {
     "r": 232,
     "g": 242,
     "b": 168
   },
-  "mcia:lukewarm_beach" {
+  "mcia:lukewarm_beach": {
     "r": 234,
     "g": 245,
     "b": 88
   },
-  "mcia:cold_stony_shore" {
+  "mcia:cold_stony_shore": {
     "r": 136,
     "g": 136,
     "b": 136
   },
-  "mcia:desert_cliff" {
+  "mcia:desert_cliff": {
     "r": 155,
-    "g": 144,
+    "g": 143,
     "b": 132
   },
-  "mcia:lukewarm_stony_shore" {
+  "mcia:lukewarm_stony_shore": {
     "r": 143,
     "g": 136,
     "b": 129
   },
-   "mcia:snowy_stony_shore" {
+  "mcia:snowy_stony_shore": {
     "r": 136,
     "g": 141,
     "b": 153
   },
-   "mcia:glacier_valley" {
+  "mcia:glacier_valley": {
     "r": 96,
     "g": 197,
     "b": 244
   },
-  "mcia:glacier_cliff" {
+  "mcia:glacier_cliff": {
     "r": 142,
     "g": 168,
     "b": 176
   },
-  "mcia:snowy_old_growth_taiga" {
+  "mcia:snowy_old_growth_taiga": {
     "r": 176,
     "g": 211,
     "b": 124
   },
-  "mcia:tundra" {
+  "mcia:tundra": {
     "r": 217,
     "g": 196,
     "b": 166
   },
+  "mcia:stone_ocean": {
+    "r": 105,
+    "g": 100,
+    "b": 172
+  }
 }

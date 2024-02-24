@@ -1532,7 +1532,8 @@
                                   "minecraft:stony_shore",
                                   "mcia:lukewarm_stony_shore",
                                   "mcia:cold_stony_shore",
-                                  "mcia:snowy_stony_shore"
+                                  "mcia:snowy_stony_shore",
+                                  "mcia:stone_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1612,9 +1613,12 @@
                             {
                               "if_true": {
                                 "biome_is": [
+                                  "minecraft:ocean",
+                                  "minecraft:cold_ocean",
+                                  "minecraft:frozen_ocean",
                                   "minecraft:warm_ocean",
-                                  "lukewarm_ocean",
-                                  "deep_lukewarm_ocean",
+                                  "minecraft:lukewarm_ocean",
+                                  "minecraft:deep_lukewarm_ocean",
                                   "minecraft:beach",
                                   "mcia:cold_beach",
                                   "mcia:lukewarm_beach"
@@ -1689,7 +1693,8 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "minecraft:desert"
+                                  "minecraft:desert",
+                                  "mcia:warm_river"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2568,7 +2573,8 @@
                                   "minecraft:stony_shore",
                                   "mcia:lukewarm_stony_shore",
                                   "mcia:cold_stony_shore",
-                                  "mcia:snowy_stony_shore"
+                                  "mcia:snowy_stony_shore",
+                                  "mcia:stone_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2725,7 +2731,8 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "minecraft:desert"
+                                  "minecraft:desert",
+                                  "mcia:warm_river"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3095,7 +3102,8 @@
                   {
                     "if_true": {
                       "biome_is": [
-                        "minecraft:desert"
+                        "minecraft:desert",
+                        "mcia:warm_river"
                       ],
                       "type": "minecraft:biome"
                     },
