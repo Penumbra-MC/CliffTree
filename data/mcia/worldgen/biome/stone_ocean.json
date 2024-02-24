@@ -17,8 +17,8 @@
       "tick_delay": 6000
     },
     "sky_color": 6858742,
-    "water_color": 22918,
-    "water_fog_color": 4405
+    "water_color": 3888488,
+    "water_fog_color": 1909034
   },
   "features": [
     [],
@@ -26,7 +26,9 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "mcia:stone_spike",
+      "mcia:stone_spike_2"
     ],
     [
       "minecraft:monster_room",
@@ -35,12 +37,7 @@
     [],
     [],
     [
-      "minecraft:ore_dirt",
       "minecraft:ore_gravel",
-      "minecraft:ore_granite_upper",
-      "minecraft:ore_granite_lower",
-      "minecraft:ore_diorite_upper",
-      "minecraft:ore_diorite_lower",
       "minecraft:ore_andesite_upper",
       "minecraft:ore_andesite_lower",
       "minecraft:ore_tuff",
@@ -73,16 +70,11 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_water",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:seagrass_normal",
-      "minecraft:seagrass_simple",
-      "minecraft:kelp_cold"
+      "minecraft:seagrass_warm"
     ],
     [
       "mcia:extra_gold_remove",
