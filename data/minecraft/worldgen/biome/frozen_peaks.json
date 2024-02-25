@@ -88,7 +88,8 @@
     ],
     [
       "mcia:extra_gold_remove",
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "mcia:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,
