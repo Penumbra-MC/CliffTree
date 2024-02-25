@@ -16,8 +16,8 @@
       "tick_delay": 6000
     },
     "sky_color": 11123170,
-    "water_color": 6979046,
-    "water_fog_color": 1317460
+    "water_color": 5403556,
+    "water_fog_color": 2699581
   },
   "features": [
     [],
@@ -89,8 +89,7 @@
     [
       "mcia:extra_gold_remove",
       "mcia:extra_emerald_remove",
-      "minecraft:freeze_top_layer",
-      "mcia:remove_snow_from_ice"
+      "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
