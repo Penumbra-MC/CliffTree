@@ -101,8 +101,7 @@
       "mcia:seagrass_cave"
     ],
     [
-      "minecraft:freeze_top_layer",
-      "mcia:remove_snow_from_ice"
+      "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
