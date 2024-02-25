@@ -1,6 +1,10 @@
 {
 	"pack": {
 		"pack_format": 32,
-		"description": "testing"
+		"supported_formats": {
+			"min_inclusive": 32,
+			"max_inclusive": 32767
+		},
+		"description": "[BETA] by Konci and Walls"
 	}
 }
