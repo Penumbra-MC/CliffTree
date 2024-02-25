@@ -98,8 +98,8 @@
   "has_precipitation": true,
   "spawn_costs": {
     "minecraft:bogged": {
-      "charge": 0.5,
-      "energy_budget": 0.20
+      "charge": 1.0,
+      "energy_budget": 0.12
     }
   },
   "spawners": {
