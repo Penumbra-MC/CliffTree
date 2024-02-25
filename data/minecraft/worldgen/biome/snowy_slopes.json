@@ -41,8 +41,8 @@
     [],
     [],
     [
-      "mcia:ice_blobs",
-      "mcia:blue_ice_blobs",
+      "keygen:ice_blobs",
+      "keygen:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -73,7 +73,7 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:ore_emerald",
-      "mcia:ice_to_snow"
+      "keygen:ice_to_snow"
     ],
     [
       "minecraft:ore_infested"
@@ -87,12 +87,12 @@
       "minecraft:glow_lichen",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "mcia:snow_patches"
+      "keygen:snow_patches"
     ],
     [
-      "mcia:extra_gold_remove",
+      "keygen:extra_gold_remove",
       "minecraft:freeze_top_layer",
-      "mcia:remove_snow_from_ice"
+      "keygen:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

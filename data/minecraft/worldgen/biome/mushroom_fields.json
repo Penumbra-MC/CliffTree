@@ -26,7 +26,7 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "mcia:island_rock",
+      "keygen:island_rock",
       "minecraft:amethyst_geode"
     ],
     [
@@ -74,15 +74,15 @@
     ],
     [
       "minecraft:glow_lichen",
-      "mcia:patch_grass_island",
-      "mcia:huge_red_mushroom",
-      "mcia:huge_brown_mushroom",
+      "keygen:patch_grass_island",
+      "keygen:huge_red_mushroom",
+      "keygen:huge_brown_mushroom",
       "minecraft:mushroom_island_vegetation",
-      "mcia:mushroom_field_patch",
-      "mcia:patch_mushroom_mud",
+      "keygen:mushroom_field_patch",
+      "keygen:patch_mushroom_mud",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "mcia:shelf_fungus"
+      "keygen:shelf_fungus"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -859,9 +859,9 @@
               "if_true": {
                 "biome_is": [
                   "minecraft:savanna_plateau",
-                  "mcia:shrubland",
-                  "mcia:oasis",
-                  "mcia:desert_cliff"
+                  "keygen:shrubland",
+                  "keygen:oasis",
+                  "keygen:desert_cliff"
                 ],
                 "type": "minecraft:biome"
               },
@@ -1125,8 +1125,8 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "mcia:glacier_cliff",
-                              "mcia:frozen_caves"
+                              "keygen:glacier_cliff",
+                              "keygen:frozen_caves"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1327,7 +1327,7 @@
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
                               "minecraft:cherry_grove",
-                              "mcia:sparse_forest"
+                              "keygen:sparse_forest"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1530,10 +1530,10 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:stony_shore",
-                                  "mcia:lukewarm_stony_shore",
-                                  "mcia:cold_stony_shore",
-                                  "mcia:snowy_stony_shore",
-                                  "mcia:stone_ocean"
+                                  "keygen:lukewarm_stony_shore",
+                                  "keygen:cold_stony_shore",
+                                  "keygen:snowy_stony_shore",
+                                  "keygen:stone_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1620,8 +1620,8 @@
                                   "minecraft:lukewarm_ocean",
                                   "minecraft:deep_lukewarm_ocean",
                                   "minecraft:beach",
-                                  "mcia:cold_beach",
-                                  "mcia:lukewarm_beach"
+                                  "keygen:cold_beach",
+                                  "keygen:lukewarm_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1694,7 +1694,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:desert",
-                                  "mcia:warm_river"
+                                  "keygen:warm_river"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1732,12 +1732,12 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:dripstone_caves",
-                                  "mcia:caves",
-                                  "mcia:warm_caves",
-                                  "mcia:lukewarm_caves",
-                                  "mcia:cold_caves",
-                                  "mcia:frozen_caves",
-                                  "mcia:mushroom_caves",
+                                  "keygen:caves",
+                                  "keygen:warm_caves",
+                                  "keygen:lukewarm_caves",
+                                  "keygen:cold_caves",
+                                  "keygen:frozen_caves",
+                                  "keygen:mushroom_caves",
                                   "deep_cold_ocean",
                                   "deep_lukewarm_ocean",
                                   "deep_ocean",
@@ -1921,7 +1921,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "mcia:snowy_old_growth_taiga"
+                              "keygen:snowy_old_growth_taiga"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2034,7 +2034,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:ice_spikes",
-                              "mcia:glacier_cliff",
+                              "keygen:glacier_cliff",
                               "frozen_peaks"
                             ],
                             "type": "minecraft:biome"
@@ -2059,7 +2059,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "mcia:glacier_valley"
+                              "keygen:glacier_valley"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2084,7 +2084,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "mcia:bog"
+                              "keygen:bog"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2233,8 +2233,8 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "mcia:glacier_cliff",
-                              "mcia:frozen_caves"
+                              "keygen:glacier_cliff",
+                              "keygen:frozen_caves"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2417,7 +2417,7 @@
                             "biome_is": [
                               "minecraft:snowy_plains",
                               "minecraft:snowy_taiga",
-                              "mcia:snowy_old_growth_taiga"
+                              "keygen:snowy_old_growth_taiga"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2471,7 +2471,7 @@
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
                               "minecraft:cherry_grove",
-                              "mcia:sparse_forest"
+                              "keygen:sparse_forest"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2571,10 +2571,10 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:stony_shore",
-                                  "mcia:lukewarm_stony_shore",
-                                  "mcia:cold_stony_shore",
-                                  "mcia:snowy_stony_shore",
-                                  "mcia:stone_ocean"
+                                  "keygen:lukewarm_stony_shore",
+                                  "keygen:cold_stony_shore",
+                                  "keygen:snowy_stony_shore",
+                                  "keygen:stone_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2658,8 +2658,8 @@
                                   "minecraft:lukewarm_ocean",
                                   "deep_lukewarm_ocean",
                                   "minecraft:beach",
-                                  "mcia:cold_beach",
-                                  "mcia:lukewarm_beach"
+                                  "keygen:cold_beach",
+                                  "keygen:lukewarm_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2732,7 +2732,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:desert",
-                                  "mcia:warm_river"
+                                  "keygen:warm_river"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2768,7 +2768,7 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "mcia:glacier_valley"
+                                  "keygen:glacier_valley"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2805,11 +2805,11 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:dripstone_caves",
-                                  "mcia:caves",
-                                  "mcia:warm_caves",
-                                  "mcia:lukewarm_caves",
-                                  "mcia:cold_caves",
-                                  "mcia:mushroom_caves",
+                                  "keygen:caves",
+                                  "keygen:warm_caves",
+                                  "keygen:lukewarm_caves",
+                                  "keygen:cold_caves",
+                                  "keygen:mushroom_caves",
                                   "deep_cold_ocean",
                                   "deep_lukewarm_ocean",
                                   "deep_ocean",
@@ -2948,7 +2948,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "mcia:bog"
+                              "keygen:bog"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -3049,8 +3049,8 @@
                         "lukewarm_ocean",
                         "deep_lukewarm_ocean",
                         "minecraft:beach",
-                        "mcia:cold_beach",
-                        "mcia:lukewarm_beach"
+                        "keygen:cold_beach",
+                        "keygen:lukewarm_beach"
                       ],
                       "type": "minecraft:biome"
                     },
@@ -3103,7 +3103,7 @@
                     "if_true": {
                       "biome_is": [
                         "minecraft:desert",
-                        "mcia:warm_river"
+                        "keygen:warm_river"
                       ],
                       "type": "minecraft:biome"
                     },

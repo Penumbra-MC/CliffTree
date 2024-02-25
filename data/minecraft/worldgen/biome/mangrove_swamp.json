@@ -31,7 +31,7 @@
     [],
     [
       "minecraft:lake_lava_underground",
-      "mcia:mud_water"
+      "keygen:mud_water"
     ],
     [
       "minecraft:amethyst_geode"
@@ -72,7 +72,7 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "mcia:disk_mud"
+      "keygen:disk_mud"
     ],
     [],
     [
@@ -82,19 +82,19 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_mangrove_worldgen",
-      "mcia:flower_mangrove_swamp",
+      "keygen:flower_mangrove_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",
       "minecraft:patch_waterlily",
-      "mcia:sea_pickle_mangrove",
+      "keygen:sea_pickle_mangrove",
       "minecraft:seagrass_swamp"
     ],
     [
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:disk_grass",
-      "mcia:patch_disk_grass",
-      "mcia:patch_disk_grass_tall",
+      "keygen:patch_disk_grass",
+      "keygen:patch_disk_grass_tall",
       "minecraft:freeze_top_layer"
     ]
   ],

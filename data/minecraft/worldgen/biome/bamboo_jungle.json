@@ -68,8 +68,8 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "mcia:disk_sand_tropic",
-      "mcia:disk_mud"
+      "keygen:disk_sand_tropic",
+      "keygen:disk_mud"
     ],
     [],
     [
@@ -89,10 +89,10 @@
       "minecraft:patch_pumpkin",
       "minecraft:vines",
       "minecraft:patch_melon",
-      "mcia:cocoa_age"
+      "keygen:cocoa_age"
     ],
-    [ "mcia:extra_gold_remove",
-    "mcia:extra_emerald_remove",
+    [ "keygen:extra_gold_remove",
+    "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

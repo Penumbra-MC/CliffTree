@@ -66,8 +66,8 @@
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "mcia:ocean_rock_granite",
-      "mcia:ocean_rock_granite_extra"
+      "keygen:ocean_rock_granite",
+      "keygen:ocean_rock_granite_extra"
     ],
     [
       "minecraft:glow_lichen",
@@ -81,11 +81,11 @@
       "minecraft:seagrass_deep_warm",
       "minecraft:seagrass_simple",
       "minecraft:deep_kelp_warm",
-      "mcia:sea_pickle_lukewarm"
+      "keygen:sea_pickle_lukewarm"
     ],
     [
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

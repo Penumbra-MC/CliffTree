@@ -73,7 +73,7 @@
     ],
     [
       "minecraft:ore_infested",
-      "mcia:ore_infested_peaks"
+      "keygen:ore_infested_peaks"
     ],
     [
       "minecraft:spring_water",
@@ -83,7 +83,7 @@
       "minecraft:glow_lichen"
     ],
     [
-      "mcia:extra_gold_remove",
+      "keygen:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -30,7 +30,7 @@
     [],
     [
       "minecraft:amethyst_geode",
-      "mcia:ore_diamond_tuff"
+      "keygen:ore_diamond_tuff"
     ],
     [ 
       "minecraft:fossil_upper",
@@ -70,9 +70,9 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "mcia:tuff_noise",
-      "mcia:tuff_noise_ceiling",
-      "mcia:ore_gravel_deep"
+      "keygen:tuff_noise",
+      "keygen:tuff_noise_ceiling",
+      "keygen:ore_gravel_deep"
     ],
     [
       "minecraft:sculk_vein",

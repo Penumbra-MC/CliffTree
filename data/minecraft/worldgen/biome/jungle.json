@@ -34,7 +34,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "mcia:fallen_log_jungle"
+      "keygen:fallen_log_jungle"
     ],
     [
       "minecraft:monster_room",
@@ -69,8 +69,8 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "mcia:disk_sand_tropic",
-      "mcia:disk_mud"
+      "keygen:disk_sand_tropic",
+      "keygen:disk_mud"
     ],
     [],
     [
@@ -79,7 +79,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "mcia:sparse_forest_flowers",
+      "keygen:sparse_forest_flowers",
       "minecraft:patch_large_fern",
       "minecraft:bamboo_light",
       "minecraft:trees_jungle",
@@ -93,12 +93,12 @@
       "minecraft:patch_pumpkin",
       "minecraft:vines",
       "minecraft:patch_melon",
-      "mcia:mushroom_on_log",
-      "mcia:cocoa_age"
+      "keygen:mushroom_on_log",
+      "keygen:cocoa_age"
     ],
     [
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

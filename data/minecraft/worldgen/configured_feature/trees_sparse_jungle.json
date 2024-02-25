@@ -1,11 +1,11 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "mcia:jungle_tree",
+    "default": "keygen:jungle_tree",
     "features": [
       {
         "chance": 0.4,
-        "feature": "mcia:jungle_tree_alt"
+        "feature": "keygen:jungle_tree_alt"
       },
       {
         "chance": 0.4,

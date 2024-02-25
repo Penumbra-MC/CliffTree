@@ -28,7 +28,7 @@
     "water_fog_color": 198666
   },
   "features": [
-    ["mcia:badlands_terracotta"],
+    ["keygen:badlands_terracotta"],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -71,10 +71,10 @@
       "minecraft:underwater_magma",
       "minecraft:ore_gold_extra",
       "minecraft:disk_sand",
-      "mcia:disk_river_terracotta",
+      "keygen:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "mcia:disk_red_sand",
-      "mcia:disk_red_sandstone"
+      "keygen:disk_red_sand",
+      "keygen:disk_red_sandstone"
     ],
     [],
     [
@@ -83,16 +83,16 @@
     ],
     [
       "minecraft:glow_lichen",
-      "mcia:patch_grass_red_sand",
+      "keygen:patch_grass_red_sand",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_badlands",
       "minecraft:patch_pumpkin",
-      "mcia:patch_cactus_badlands"
+      "keygen:patch_cactus_badlands"
     ],
     [ 
-    "mcia:extra_emerald_remove",
+    "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

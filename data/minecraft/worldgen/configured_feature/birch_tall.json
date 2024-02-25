@@ -1,7 +1,7 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "mcia:super_birch_bees_0002_vine",
+    "default": "keygen:super_birch_bees_0002_vine",
     "features": [
       {
         "chance": 0.6,

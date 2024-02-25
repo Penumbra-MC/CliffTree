@@ -1,0 +1,12 @@
+{
+  "values": [
+    "keygen:caves",
+    "keygen:warm_caves",
+    "keygen:lukewarm_caves",
+    "keygen:cold_caves",
+    "keygen:frozen_caves",
+    "keygen:mushroom_caves",
+    "minecraft:lush_caves",
+    "minecraft:dripstone_caves"
+  ]
+}

@@ -71,10 +71,10 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "mcia:disk_river_terracotta",
+      "keygen:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "mcia:disk_sand_beach",
-      "mcia:disk_sandstone"
+      "keygen:disk_sand_beach",
+      "keygen:disk_sandstone"
     ],
     [],
     [
@@ -92,8 +92,8 @@
       "minecraft:patch_pumpkin",
       "minecraft:patch_cactus_desert"
     ],
-    [ "mcia:extra_gold_remove",
-    "mcia:extra_emerald_remove",
+    [ "keygen:extra_gold_remove",
+    "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

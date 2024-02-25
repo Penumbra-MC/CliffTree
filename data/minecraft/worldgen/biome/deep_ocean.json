@@ -69,7 +69,7 @@
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "mcia:ocean_rock_andesite"
+      "keygen:ocean_rock_andesite"
     ],
     [
       "minecraft:glow_lichen",
@@ -85,8 +85,8 @@
       "minecraft:deep_kelp_cold"
     ],
     [
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

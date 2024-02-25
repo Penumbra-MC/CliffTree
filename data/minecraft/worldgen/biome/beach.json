@@ -63,7 +63,7 @@
       "minecraft:underwater_magma",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "mcia:disk_sand_beach"
+      "keygen:disk_sand_beach"
     ],
     [],
     [
@@ -81,8 +81,8 @@
       "minecraft:seagrass_river"
     ],
     [ 
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

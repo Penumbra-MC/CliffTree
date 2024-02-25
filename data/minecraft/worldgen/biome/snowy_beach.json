@@ -35,8 +35,8 @@
     [],
     [],
     [
-      "mcia:ice_blobs",
-      "mcia:blue_ice_blobs",
+      "keygen:ice_blobs",
+      "keygen:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -78,13 +78,13 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "mcia:snow_patches_gravel"
+      "keygen:snow_patches_gravel"
     ],
     [
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer",
-      "mcia:remove_snow_from_ice"
+      "keygen:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

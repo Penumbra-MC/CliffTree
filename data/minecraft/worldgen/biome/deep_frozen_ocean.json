@@ -38,8 +38,8 @@
     ],
     [],
     [
-      "mcia:ice_blobs",
-      "mcia:blue_ice_blobs",
+      "keygen:ice_blobs",
+      "keygen:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -74,7 +74,7 @@
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "mcia:ocean_rock_diorite"
+      "keygen:ocean_rock_diorite"
     ],
     [
       "minecraft:glow_lichen",
@@ -87,8 +87,8 @@
       "minecraft:patch_pumpkin"
     ],
     [
-      "mcia:extra_gold_remove",
-      "mcia:extra_emerald_remove",
+      "keygen:extra_gold_remove",
+      "keygen:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
