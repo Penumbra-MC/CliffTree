@@ -1,9 +1,9 @@
 {
-  "feature": "keygen:warm_floor_desert",
+  "feature": "keygen:warm_floor_desert_low",
   "placement": [
     {
       "type": "minecraft:noise_based_count",
-      "noise_to_count_ratio": 100,
+      "noise_to_count_ratio": 125,
       "noise_factor": 1,
       "noise_offset": 0.2
     },
@@ -15,10 +15,10 @@
       "height": {
         "type": "minecraft:uniform",
         "max_inclusive": {
-          "absolute": 256
+          "absolute": 0
         },
         "min_inclusive": {
-          "absolute": 0
+          "above_bottom": 0
         }
       }
     },

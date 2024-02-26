@@ -1,35 +1,63 @@
 {
-  "type": "minecraft:vegetation_patch",
-  "config": {
-      "surface": "floor",
-      "depth": {
-          "type": "minecraft:uniform",
-          "value": {
-              "min_inclusive": 2,
-              "max_inclusive": 2
-          }
-      },
-      "vertical_range": 8,
-      "extra_bottom_block_chance": 0.5,
-      "extra_edge_column_chance": 0.4,
-      "vegetation_chance": 0.00025,
-      "xz_radius": {
-          "type": "minecraft:biased_to_bottom",
-          "value": {
-            "min_inclusive": 3,
-            "max_inclusive": 8
-          }
-      },
-      "replaceable": "#minecraft:base_stone_overworld",
-      "ground_state": {
+    "type": "minecraft:disk",
+    "config": {
+      "state_provider": {
+        "fallback": {
           "type": "minecraft:simple_state_provider",
           "state": {
-              "Name": "minecraft:terracotta"
+            "Name": "minecraft:terracotta"
           }
+        },
+        "rules": [
+          {
+            "if_true": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:gray_terracotta"
+                },
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      1,
+                      0
+                    ],
+                    "tag": "minecraft:replaceable"
+                  }
+                }
+              ]
+            },
+            "then": {
+              "type": "minecraft:simple_state_provider",
+              "state": {
+                "Name": "minecraft:gray_terracotta"
+              }
+            }
+          }
+        ]
       },
-      "vegetation_feature": {
-          "feature": "minecraft:patch_dead_bush",
-          "placement": []
-      }
+      "target": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "minecraft:andesite",
+          "minecraft:diorite",
+          "minecraft:granite",
+          "minecraft:stone",
+          "minecraft:gray_terracotta"
+        ]
+      },
+      "radius": {
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 6,
+          "max_inclusive": 8
+        }
+      },
+      "half_height": 1
+    }
   }
-}
+  

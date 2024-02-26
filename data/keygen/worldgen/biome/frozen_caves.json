@@ -32,9 +32,6 @@
     [
       "minecraft:amethyst_geode",
       "minecraft:large_dripstone",
-      "keygen:basalt_pillar",
-      "keygen:snow_cave_ceiling",
-      "keygen:snow_cave",
       "keygen:ore_diamond_tuff"
     ],
     [ 
@@ -50,7 +47,6 @@
     [],
     [ 
       "keygen:ice_blobs",
-      "keygen:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_diorite_upper",
@@ -83,6 +79,8 @@
       "keygen:ice_to_snow",
       "keygen:tuff_noise",
       "keygen:tuff_noise_ceiling",
+      "keygen:snow_cave_ceiling",
+      "keygen:snow_cave",
       "keygen:snow_melter",
       "keygen:ore_gravel_deep"
     ],

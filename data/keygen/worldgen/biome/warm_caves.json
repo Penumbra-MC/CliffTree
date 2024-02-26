@@ -80,7 +80,8 @@
     ],
     [
       "keygen:ore_infested",
-      "keygen:warm_floor_desert"
+      "keygen:warm_floor_desert",
+      "keygen:warm_floor_desert_low"
     ],
     [
       "minecraft:spring_water",

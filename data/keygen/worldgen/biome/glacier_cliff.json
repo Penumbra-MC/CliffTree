@@ -9,14 +9,14 @@
   "creature_spawn_probability": 0.07,
   "downfall": 0.3,
   "effects": {
-    "fog_color": 13692400,
+    "fog_color": 14871807,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "sky_color": 10273257,
+    "sky_color": 11123170,
     "water_color": 8303069,
     "water_fog_color": 1319727
   },
@@ -38,7 +38,6 @@
     [],
     [
       "keygen:ice_blobs",
-      "keygen:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",

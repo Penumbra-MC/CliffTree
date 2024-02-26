@@ -23,7 +23,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.grove"
     },
-    "sky_color": 11123170,
+    "sky_color": 10466533,
     "water_color": 8303069,
     "water_fog_color": 1319727
   },
@@ -43,7 +43,6 @@
     [],
     [
       "keygen:ice_blobs",
-      "keygen:blue_ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",

@@ -2784,7 +2784,7 @@
                                     },
                                     "then_run": {
                                       "result_state": {
-                                        "Name": "minecraft:powder_snow"
+                                        "Name": "minecraft:snow_block"
                                       },
                                       "type": "minecraft:block"
                                     },
@@ -2792,7 +2792,7 @@
                                   },
                                   {
                                     "result_state": {
-                                      "Name": "minecraft:powder_snow"
+                                      "Name": "minecraft:snow_block"
                                     },
                                     "type": "minecraft:block"
                                   }
