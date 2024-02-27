@@ -24,7 +24,10 @@
     [],
     [],
     [],
-    [],
+    [
+      "keygen:end_spike",
+    "keygen:end_spike_surface"
+    ],
     [
       "minecraft:chorus_plant"
     ]

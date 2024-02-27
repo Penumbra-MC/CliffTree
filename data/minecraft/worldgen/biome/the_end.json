@@ -17,7 +17,9 @@
     [],
     [],
     [],
-    [],
+    [
+      "keygen:end_spike"
+    ],
     [
       "minecraft:end_spike"
     ]
