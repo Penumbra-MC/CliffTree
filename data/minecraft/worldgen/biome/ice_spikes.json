@@ -23,6 +23,12 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.grove"
     },
+    "particle": {
+      "options": {
+        "type": "minecraft:snowflake"
+      },
+      "probability": 0.0008
+    },
     "sky_color": 10466533,
     "water_color": 8303069,
     "water_fog_color": 1319727
@@ -112,8 +118,8 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 1,
-        "minCount": 1,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 10
       },
       {

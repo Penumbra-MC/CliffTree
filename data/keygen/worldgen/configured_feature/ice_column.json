@@ -1,100 +1,143 @@
 {
-  "type": "minecraft:block_column",
+  "type": "minecraft:random_patch",
   "config": {
-    "allowed_placement": {
-      "type": "minecraft:matching_blocks",
-      "blocks": "minecraft:air"
-    },
-    "direction": "down",
-    "layers": [
-      {
-        "height": {
-          "type": "minecraft:weighted_list",
-          "distribution": [
+    "tries": 24,
+    "xz_spread": 2,
+    "y_spread": 3,
+    "feature": {
+      "feature": {
+        "type": "minecraft:block_column",
+        "config": {
+          "direction": "down",
+          "allowed_placement": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          },
+          "prioritize_tip": true,
+          "layers": [
             {
-              "data": {
-                "type": "minecraft:uniform",
-                "value": {
-                  "max_inclusive": 4,
-                  "min_inclusive": 2
-                }
+              "height": {
+                "type": "minecraft:weighted_list",
+                "distribution": [
+                  {
+                    "weight": 2,
+                    "data": {
+                      "type": "minecraft:uniform",
+                      "value": {
+                        "min_inclusive": 2,
+                        "max_inclusive": 4
+                      }
+                    }
+                  },
+                  {
+                    "weight": 3,
+                    "data": {
+                      "type": "minecraft:uniform",
+                      "value": {
+                        "min_inclusive": 3,
+                        "max_inclusive": 5
+                      }
+                    }
+                  },
+                  {
+                    "weight": 10,
+                    "data": {
+                      "type": "minecraft:uniform",
+                      "value": {
+                        "min_inclusive": 1,
+                        "max_inclusive": 3
+                      }
+                    }
+                  }
+                ]
               },
-              "weight": 2
+              "provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 4,
+                    "data": {
+                      "Name": "minecraft:packed_ice"
+                    }
+                  },
+                  {
+                    "weight": 1,
+                    "data": {
+                      "Name": "minecraft:blue_ice"
+                    }
+                  }
+                ]
+              }
             },
             {
-              "data": {
-                "type": "minecraft:uniform",
+              "height": {
+                "type": "minecraft:biased_to_bottom",
                 "value": {
-                  "max_inclusive": 5,
-                  "min_inclusive": 3
+                  "min_inclusive": 0,
+                  "max_inclusive": 1
                 }
               },
-              "weight": 3
-            },
-            {
-              "data": {
-                "type": "minecraft:uniform",
-                "value": {
-                  "max_inclusive": 3,
-                  "min_inclusive": 1
+              "provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:glow_lichen",
+                  "Properties": {
+                    "down": "false",
+                    "east": "false",
+                    "north": "false",
+                    "south": "false",
+                    "up": "true",
+                    "waterlogged": "false",
+                    "west": "false"
+                  }
                 }
-              },
-              "weight": 10
-            }
-          ]
-        },
-        "provider": {
-          "type": "minecraft:weighted_state_provider",
-          "entries": [
-            {
-              "data": {
-                "Name": "minecraft:packed_ice"
-              },
-              "weight": 4
+              }
             },
             {
-              "data": {
-                "Name": "minecraft:blue_ice"
+              "height": {
+                "type": "minecraft:weighted_list",
+                "distribution": [
+                  {
+                    "weight": 1,
+                    "data": {
+                      "type": "minecraft:uniform",
+                      "value": {
+                        "min_inclusive": 2,
+                        "max_inclusive": 4
+                      }
+                    }
+                  },
+                  {
+                    "weight": 10,
+                    "data": {
+                      "type": "minecraft:uniform",
+                      "value": {
+                        "min_inclusive": 5,
+                        "max_inclusive": 6
+                      }
+                    }
+                  }
+                ]
               },
-              "weight": 1
+              "provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:air"
+                }
+              }
             }
           ]
         }
       },
-      {
-        "height": {
-          "type": "minecraft:weighted_list",
-          "distribution": [
-            {
-              "data": {
-                "type": "minecraft:uniform",
-                "value": {
-                  "max_inclusive": 4,
-                  "min_inclusive": 2
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "type": "minecraft:uniform",
-                "value": {
-                  "max_inclusive": 6,
-                  "min_inclusive": 5
-                }
-              },
-              "weight": 10
-            }
-          ]
-        },
-        "provider": {
-          "type": "minecraft:simple_state_provider",
-          "state": {
-              "Name": "minecraft:air"
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:has_sturdy_face",
+            "direction": "up"
           }
         }
-      }
-    ],
-    "prioritize_tip": true
+      ]
+    }
   }
 }

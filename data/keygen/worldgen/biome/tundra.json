@@ -17,7 +17,7 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "sky_color": 8434919,
+    "sky_color": 10271469,
     "water_color": 6128563,
     "water_fog_color": 2568259
   },
@@ -104,8 +104,8 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 1,
-        "minCount": 1,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 10
       },
       {

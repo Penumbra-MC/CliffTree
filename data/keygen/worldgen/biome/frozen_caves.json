@@ -21,6 +21,12 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.dripstone_caves"
     },
+    "particle": {
+      "options": {
+        "type": "minecraft:snowflake"
+      },
+      "probability": 0.0008
+    },
     "sky_color": 7378617,
     "water_color": 8303069,
     "water_fog_color": 1319727
@@ -31,7 +37,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "minecraft:large_dripstone",
+      "keygen:large_dripstone_ice",
       "keygen:ore_diamond_tuff"
     ],
     [ 
@@ -80,6 +86,7 @@
       "keygen:tuff_noise",
       "keygen:tuff_noise_ceiling",
       "keygen:snow_cave_ceiling",
+      "keygen:snow_cave_disk",
       "keygen:snow_cave",
       "keygen:snow_melter",
       "keygen:ore_gravel_deep"
@@ -92,9 +99,9 @@
     ],
     [ 
       "minecraft:glow_lichen",
-      "keygen:glow_lichen_ice",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
+      "keygen:scattered_ice",
       "keygen:snow_patches",
       "keygen:seagrass_cave"
     ],

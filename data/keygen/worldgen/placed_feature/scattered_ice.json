@@ -1,14 +1,9 @@
 {
-  "feature": "keygen:snow_cave",
+  "feature": "keygen:scattered_ice",
   "placement": [
     {
-      "type": "minecraft:noise_based_count",
-      "noise_to_count_ratio": 50,
-      "noise_factor": 0,
-      "noise_offset": 0.8
-    },
-    {
-      "type": "minecraft:in_square"
+      "type": "minecraft:count_on_every_layer",
+      "count": 10
     },
     {
       "type": "minecraft:height_range",
