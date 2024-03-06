@@ -6,15 +6,15 @@
     "vertical_range": 5,
     "extra_bottom_block_chance": 0.8,
     "extra_edge_column_chance": 0.7,
-    "vegetation_chance": 0.25,
+    "vegetation_chance": 0.9,
     "xz_radius": {
       "type": "minecraft:uniform",
       "value": {
         "min_inclusive": 4,
-        "max_inclusive": 7
+        "max_inclusive": 6
       }
     },
-    "replaceable": "#minecraft:ice",
+    "replaceable": "#keygen:stone_and_deepslate",
     "ground_state": {
       "type": "minecraft:simple_state_provider",
       "state": {
@@ -23,23 +23,25 @@
     },
     "vegetation_feature": {
       "feature": {
-        "type": "minecraft:disk",
+        "type": "minecraft:simple_block",
         "config": {
-          "state_provider": {
-            "fallback": {
-              "type": "minecraft:simple_state_provider",
-              "state": {
-                "Name": "minecraft:ice"
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "data": {
+                  "Name": "minecraft:ice"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:blue_ice"
+                },
+                "weight": 1
               }
-            },
-            "rules": []
-          },
-          "target": {
-            "type": "minecraft:matching_fluids",
-            "fluids": "minecraft:water"
-          },
-          "radius": 2,
-          "half_height": 2
+            ]
+          }
         }
       },
       "placement": []

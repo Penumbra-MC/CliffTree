@@ -2,13 +2,9 @@
   "feature": "keygen:ice_blobs",
   "placement": [
     {
-			"type": "minecraft:count",
-			"count": 20
-		},
-		{
-			"type": "minecraft:count",
-			"count": 60
-		},
+      "type": "minecraft:count",
+      "count": 60
+    },
     {
       "type": "minecraft:in_square"
     },

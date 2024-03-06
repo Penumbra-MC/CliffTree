@@ -276,7 +276,7 @@
               },
               {
                 "derivative": 0.0,
-                "location": 0.05,
+                "location": -0.5,
                 "value": 1.1
               }
             ]
@@ -291,17 +291,59 @@
               {
                 "derivative": 0.0,
                 "location": -0.375,
-                "value": 1.2
+                "value": {
+                  "coordinate": "minecraft:overworld/ridges_folded",
+                  "points": [
+                    {
+                      "derivative": 0.0,
+                      "location": -1.0,
+                      "value": 0.9
+                    },
+                    {
+                      "derivative": 0.0,
+                      "location": -0.5,
+                      "value": 1.2
+                    }
+                  ]
+                }
               },
               {
                 "derivative": 0.0,
                 "location": -0.223,
-                "value": 1.1
+                "value": {
+                  "coordinate": "minecraft:overworld/ridges_folded",
+                  "points": [
+                    {
+                      "derivative": 0.0,
+                      "location": -1.0,
+                      "value": 0.9
+                    },
+                    {
+                      "derivative": 0.0,
+                      "location": -0.5,
+                      "value": 1.1
+                    }
+                  ]
+                }
               },
               {
                 "derivative": 0.0,
                 "location": 0.05,
-                "value": 1
+                "value": {
+                  "coordinate": "minecraft:overworld/ridges_folded",
+                  "points": [
+                    {
+                      "derivative": 0.0,
+                      "location": -1.0,
+                      "value": 0.9
+                    },
+                    {
+                      "derivative": 0.0,
+                      "location": -0.5,
+                      "value": 1
+                    }
+                  ]
+                }
               }
             ]
           }

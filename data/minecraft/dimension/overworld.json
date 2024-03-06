@@ -1657,7 +1657,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.7666667
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -1665,7 +1665,7 @@
             ],
             "erosion": [
               -0.78,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.45,
@@ -1681,7 +1681,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -2102,6 +2102,36 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -2591,11 +2621,11 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.78,
-              0.45
+              -0.375
             ],
             "temperature": [
               -0.45,
@@ -2611,7 +2641,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -3067,6 +3097,36 @@
           "parameters": {
             "weirdness": [
               -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -3409,36 +3469,6 @@
             ],
             "temperature": [
               -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:meadow"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -0.45,
               -0.15
             ],
             "humidity": [
@@ -3472,7 +3502,7 @@
               0.2
             ],
             "humidity": [
-              -0.1,
+              -1,
               0.3
             ],
             "depth": [
@@ -3632,6 +3662,36 @@
             "offset": 0
           },
           "biome": "keygen:snowy_old_growth_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -6251,7 +6311,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.03
+              -0.11
             ],
             "erosion": [
               -0.78,
@@ -7472,6 +7532,36 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -9322,36 +9412,6 @@
               -0.15
             ],
             "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.05
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
               -0.1,
               0.3
             ],
@@ -9752,6 +9812,36 @@
             "offset": 0
           },
           "biome": "keygen:snowy_old_growth_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -10117,15 +10207,15 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.78,
-              0.45
+              -0.375
             ],
             "temperature": [
               -0.45,
@@ -10141,7 +10231,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -10477,6 +10567,36 @@
           "parameters": {
             "weirdness": [
               -0.4,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
               -0.26666668
             ],
             "continentalness": [
@@ -10549,36 +10669,6 @@
             ],
             "temperature": [
               -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:meadow"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -0.45,
               -0.15
             ],
             "humidity": [
@@ -10612,7 +10702,7 @@
               0.2
             ],
             "humidity": [
-              -0.1,
+              -1,
               0.3
             ],
             "depth": [
@@ -13973,6 +14063,36 @@
             ],
             "humidity": [
               -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35,
               -0.1
             ],
             "depth": [
@@ -13991,7 +14111,7 @@
             ],
             "continentalness": [
               -0.11,
-              1
+              0.03
             ],
             "erosion": [
               -1,
@@ -14775,7 +14895,67 @@
             ],
             "erosion": [
               -0.375,
-              0.55
+              -0.2225
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
             ],
             "temperature": [
               -0.15,
@@ -14792,36 +14972,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -14928,6 +15078,96 @@
               0.05
             ],
             "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:meadow"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
               0.55,
               1
             ],
@@ -14972,6 +15212,96 @@
             "offset": 0
           },
           "biome": "keygen:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
         },
         {
           "parameters": {
@@ -15032,36 +15362,6 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -15551,7 +15851,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              0.03
             ],
             "erosion": [
               -0.2225,
@@ -16237,7 +16537,7 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              0.56666666
+              1
             ],
             "continentalness": [
               -0.11,
@@ -16245,15 +16545,15 @@
             ],
             "erosion": [
               -0.78,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -16261,13 +16561,13 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
             "weirdness": [
               0.26666668,
-              0.56666666
+              1
             ],
             "continentalness": [
               -0.11,
@@ -16275,14 +16575,14 @@
             ],
             "erosion": [
               -0.78,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.45,
               -0.15
             ],
             "humidity": [
-              -0.1,
+              -0.35,
               0.1
             ],
             "depth": [
@@ -16291,7 +16591,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:forest"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -16352,36 +16652,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sunflower_plains"
         },
         {
           "parameters": {
@@ -16682,6 +16952,66 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -16991,19 +17321,19 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.78,
-              0.45
+              -0.375
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -17011,7 +17341,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
@@ -17021,18 +17351,18 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.78,
-              0.45
+              0.05
             ],
             "temperature": [
               -0.45,
-              0.2
+              -0.15
             ],
             "humidity": [
-              -0.1,
+              -0.35,
               0.1
             ],
             "depth": [
@@ -17041,7 +17371,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:forest"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -17122,8 +17452,8 @@
               0.2
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              -0.1
             ],
             "depth": [
               0,
@@ -17131,7 +17461,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:sunflower_plains"
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -17152,8 +17482,8 @@
               0.2
             ],
             "humidity": [
-              -0.35,
-              -0.1
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -17161,7 +17491,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -17527,6 +17857,66 @@
           "parameters": {
             "weirdness": [
               0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
               1
             ],
             "continentalness": [
@@ -17582,6 +17972,96 @@
             "offset": 0
           },
           "biome": "keygen:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
         },
         {
           "parameters": {
@@ -17749,40 +18229,10 @@
             ],
             "temperature": [
               -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:cherry_grove"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -0.45,
               -0.15
             ],
             "humidity": [
-              -0.35,
+              0.1,
               0.3
             ],
             "depth": [
@@ -18078,6 +18528,36 @@
               -0.2225
             ],
             "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
               0.55,
               1
             ],
@@ -18173,7 +18653,7 @@
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -18182,36 +18662,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -18262,8 +18712,8 @@
               0.2
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              -0.1
             ],
             "depth": [
               0,
@@ -18271,7 +18721,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:sunflower_plains"
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -18292,8 +18742,8 @@
               0.2
             ],
             "humidity": [
-              -0.35,
-              -0.1
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -18301,7 +18751,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -19987,6 +20437,36 @@
           "parameters": {
             "weirdness": [
               0.4,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:meadow"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
               0.93333334
             ],
             "continentalness": [
@@ -20002,7 +20482,7 @@
               -0.15
             ],
             "humidity": [
-              -0.35,
+              0.1,
               0.3
             ],
             "depth": [
@@ -20273,7 +20753,7 @@
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -20282,36 +20762,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -20452,7 +20902,7 @@
               -0.15
             ],
             "humidity": [
-              -0.35,
+              0.1,
               0.3
             ],
             "depth": [
@@ -20779,36 +21229,6 @@
             ],
             "temperature": [
               -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
               -0.15
             ],
             "humidity": [
@@ -20822,66 +21242,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -21341,7 +21701,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.03
+              -0.11
             ],
             "erosion": [
               -0.78,
@@ -21371,7 +21731,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.03
+              -0.11
             ],
             "erosion": [
               -0.78,
@@ -21863,7 +22223,7 @@
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -22241,36 +22601,6 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.11,
               1
             ],
             "erosion": [
@@ -22382,6 +22712,66 @@
             "offset": 0
           },
           "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -24052,6 +24442,36 @@
               -0.15
             ],
             "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "erosion": [
+              -0.2225,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
               -0.1,
               0.1
             ],
@@ -24442,36 +24862,6 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
               0.1,
               0.3
             ],
@@ -24881,19 +25271,19 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.78,
-              0.45
+              -0.375
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -24901,7 +25291,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
@@ -24911,18 +25301,18 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.78,
-              0.45
+              0.05
             ],
             "temperature": [
               -0.45,
-              0.2
+              -0.15
             ],
             "humidity": [
-              -0.1,
+              -0.35,
               0.1
             ],
             "depth": [
@@ -24931,7 +25321,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:forest"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -25012,8 +25402,8 @@
               0.2
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              -0.1
             ],
             "depth": [
               0,
@@ -25021,7 +25411,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:sunflower_plains"
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -25042,8 +25432,8 @@
               0.2
             ],
             "humidity": [
-              -0.35,
-              -0.1
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -25051,7 +25441,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -25305,6 +25695,36 @@
             ],
             "erosion": [
               -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.375,
               0.05
             ],
             "temperature": [
@@ -25399,40 +25819,10 @@
             ],
             "temperature": [
               -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:cherry_grove"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -0.45,
               -0.15
             ],
             "humidity": [
-              -0.35,
+              0.1,
               0.3
             ],
             "depth": [
@@ -25673,7 +26063,7 @@
             ],
             "humidity": [
               -1,
-              -0.1
+              -0.35
             ],
             "depth": [
               0,
@@ -25682,36 +26072,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -25762,8 +26122,8 @@
               0.2
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              -0.1
             ],
             "depth": [
               0,
@@ -25771,7 +26131,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:sunflower_plains"
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -25792,8 +26152,8 @@
               0.2
             ],
             "humidity": [
-              -0.35,
-              -0.1
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -25801,7 +26161,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {

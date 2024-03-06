@@ -37,7 +37,6 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:large_dripstone_ice",
       "keygen:ore_diamond_tuff"
     ],
     [ 
@@ -85,11 +84,11 @@
       "keygen:ice_to_snow",
       "keygen:tuff_noise",
       "keygen:tuff_noise_ceiling",
-      "keygen:snow_cave_ceiling",
-      "keygen:snow_cave_disk",
+      "keygen:ore_gravel_deep",
+      "keygen:scattered_ice",
+      "keygen:snow_patches",
       "keygen:snow_cave",
-      "keygen:snow_melter",
-      "keygen:ore_gravel_deep"
+      "keygen:snow_melter"
     ],
     [
       "keygen:ore_infested"
@@ -101,9 +100,8 @@
       "minecraft:glow_lichen",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "keygen:scattered_ice",
-      "keygen:snow_patches",
-      "keygen:seagrass_cave"
+      "keygen:seagrass_cave",
+      "keygen:snow_cave_ceiling"
     ],
     [
       "minecraft:freeze_top_layer",
