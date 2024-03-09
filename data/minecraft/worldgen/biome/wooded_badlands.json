@@ -116,7 +116,7 @@
         "type": "minecraft:rabbit",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 20
+        "weight": 10
       },
       {
         "type": "minecraft:armadillo",

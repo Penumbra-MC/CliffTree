@@ -28,9 +28,7 @@
         "firstOctave": -3,
         "amplitudes": [
           0.001,
-          0.002,
-          0.003,
-          0.01
+          0.002
         ]
       },
       "scale": 1,
@@ -41,7 +39,6 @@
       "slow_noise": {
         "firstOctave": -7,
         "amplitudes": [
-          1,
           1,
           1
         ]
