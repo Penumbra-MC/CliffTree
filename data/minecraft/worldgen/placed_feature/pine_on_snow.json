@@ -16,19 +16,13 @@
     {
       "type": "minecraft:block_predicate_filter",
       "predicate": {
-        "type": "minecraft:matching_blocks",
-        "blocks": [
-          "minecraft:snow_block",
-          "minecraft:powder_snow",
-		      "minecraft:grass_block",
-          "dirt",
-          "podzol"
-        ],
-        "offset": [
-          0,
-          -1,
-          0
-        ]
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "minecraft:spruce_sapling",
+          "Properties": {
+            "stage": "0"
+          }
+        }
       }
     }
   ]
