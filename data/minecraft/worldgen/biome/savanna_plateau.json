@@ -143,24 +143,6 @@
     ],
     "creature": [
       {
-        "type": "minecraft:sheep",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
         "type": "minecraft:cow",
         "weight": 8,
         "minCount": 4,
@@ -173,20 +155,14 @@
         "maxCount": 6
       },
       {
-        "type": "minecraft:donkey",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
         "type": "minecraft:armadillo",
         "maxCount": 6,
         "minCount": 4,
-        "weight": 10
+        "weight": 12
       },
       {
         "type": "minecraft:llama",
-        "weight": 14,
+        "weight": 12,
         "minCount": 4,
         "maxCount": 4
       },
@@ -194,7 +170,7 @@
         "type": "minecraft:wolf",
         "maxCount": 8,
         "minCount": 4,
-        "weight": 8
+        "weight": 10
       }
     ],
     "ambient": [
