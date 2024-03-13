@@ -215,8 +215,8 @@
       "array": [
         [
           "minecraft:ice_spikes",
-          "minecraft:snowy_tundra/minecraft:ice_spikes",
-          "minecraft:snowy_tundra",
+          "minecraft:ice_spikes",
+          "minecraft:ice_spikes/minecraft:snowy_tundra",
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga"
@@ -268,8 +268,8 @@
       "name": "Plateau",
       "array": [
         [
+          "minecraft:ice_spikes",
           "minecraft:snowy_tundra/minecraft:ice_spikes",
-          "minecraft:snowy_tundra",
           "minecraft:snowy_tundra",
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga",
@@ -280,8 +280,8 @@
           "biome_lrqjz648",
           "minecraft:snowy_tundra",
           "minecraft:snowy_taiga",
-          "biome_lrq697ns/minecraft:snowy_taiga",
-          "biome_lrq697ns/minecraft:snowy_taiga"
+          "biome_lrq697ns",
+          "biome_lrq697ns"
         ],
         [
           "minecraft:meadow/minecraft:cherry_grove",
@@ -294,7 +294,7 @@
         [
           "minecraft:meadow/minecraft:cherry_grove",
           "minecraft:meadow/minecraft:cherry_grove",
-          "minecraft:meadow/minecraft:birch_forest",
+          "minecraft:meadow/minecraft:tall_birch_forest",
           "minecraft:meadow/minecraft:tall_birch_forest",
           "minecraft:dark_forest",
           "minecraft:dark_forest"
@@ -376,36 +376,36 @@
       "name": "Peaks",
       "array": [
         [
+          "minecraft:lofty_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks"
+          "minecraft:snowcapped_peaks"
         ],
         [
+          "minecraft:lofty_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks"
+          "minecraft:snowcapped_peaks"
         ],
         [
+          "minecraft:lofty_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks"
+          "minecraft:snowcapped_peaks"
         ],
         [
+          "minecraft:lofty_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks"
+          "minecraft:snowcapped_peaks"
         ],
         [
           "minecraft:stony_peaks",
@@ -430,44 +430,44 @@
       "name": "Badlands",
       "array": [
         [
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau"
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields"
         ],
         [
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau"
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields"
         ],
         [
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau"
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:mushroom_fields",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "minecraft:mushroom_fields",
+          "minecraft:deep_lukewarm_ocean"
         ],
         [
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau"
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields"
         ],
         [
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau"
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:cherry_grove"
         ],
         [
           "minecraft:badlands/minecraft:eroded_badlands",
@@ -538,52 +538,52 @@
       "name": "River",
       "array": [
         [
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river"
+          "minecraft:the_void/minecraft:frozen_river",
+          "minecraft:the_void/minecraft:frozen_river",
+          "minecraft:forest/minecraft:frozen_river",
+          "minecraft:plains/minecraft:frozen_river",
+          "minecraft:the_void/minecraft:frozen_river",
+          "minecraft:the_void/minecraft:frozen_river"
         ],
         [
-          "biome_lpyej6tt",
-          "biome_lpyej6tt",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river"
+          "minecraft:the_void/biome_lpyej6tt",
+          "minecraft:the_void/biome_lpyej6tt",
+          "biome_lpyemplu/minecraft:frozen_river",
+          "minecraft:forest/minecraft:frozen_river",
+          "minecraft:the_void/minecraft:frozen_river",
+          "minecraft:the_void/minecraft:frozen_river"
         ],
         [
-          "minecraft:river",
-          "minecraft:river",
-          "minecraft:river",
-          "biome_lpyej6tt",
-          "biome_lpyej6tt",
-          "biome_lpyej6tt"
+          "minecraft:plains/minecraft:river",
+          "minecraft:forest/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:the_void/biome_lpyej6tt",
+          "biome_lpyemplu/biome_lpyej6tt",
+          "minecraft:forest/biome_lpyej6tt"
         ],
         [
-          "minecraft:river",
-          "minecraft:river",
-          "minecraft:river",
-          "minecraft:river",
-          "minecraft:river",
-          "minecraft:river"
+          "minecraft:forest/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:plains/minecraft:river"
         ],
         [
-          "minecraft:river",
-          "minecraft:river",
-          "minecraft:river",
-          "biome_lpyejvpt",
-          "biome_lpyejvpt",
-          "biome_lpyejvpt"
+          "biome_lpyemplu/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:the_void/minecraft:river",
+          "minecraft:the_void/biome_lpyejvpt",
+          "minecraft:the_void/biome_lpyejvpt",
+          "minecraft:forest/biome_lpyejvpt"
         ],
         [
-          "biome_lpyeka0y",
-          "biome_lpyeka0y",
-          "biome_lpyeka0y",
-          "biome_lpyeka0y",
-          "biome_lpyeka0y",
-          "biome_lpyeka0y"
+          "minecraft:plains/biome_lpyeka0y",
+          "minecraft:the_void/biome_lpyeka0y",
+          "minecraft:forest/biome_lpyeka0y",
+          "biome_lpyemplu/biome_lpyeka0y",
+          "minecraft:the_void/biome_lpyeka0y",
+          "biome_lpyemplu/biome_lpyeka0y"
         ]
       ]
     },
@@ -4122,6 +4122,22 @@
       "key": "biome_lszdtpt8",
       "name": "keygen:stone_ocean",
       "color": "#6964ac"
+    },
+    {
+      "key": "minecraft:warped_forest",
+      "name": "minecraft:warped_forest"
+    },
+    {
+      "key": "minecraft:crimson_forest",
+      "name": "minecraft:crimson_forest"
+    },
+    {
+      "key": "minecraft:basalt_deltas",
+      "name": "minecraft:basalt_deltas"
+    },
+    {
+      "key": "minecraft:the_void",
+      "name": "minecraft:the_void"
     }
   ],
   "targetVersion": "1_19",
