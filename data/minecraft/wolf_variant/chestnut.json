@@ -1,6 +1,6 @@
 {
   "angry_texture": "minecraft:textures/entity/wolf/wolf_chestnut_angry.png",
-  "biomes": "#keygen:wolf_biomes/chestnut",
+  "biomes": "#cliffs_under_trees:wolf_biomes/chestnut",
   "tame_texture": "minecraft:textures/entity/wolf/wolf_chestnut_tame.png",
   "texture": "minecraft:textures/entity/wolf/wolf_chestnut.png"
 }

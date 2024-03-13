@@ -2,6 +2,6 @@
   "replace": false,
   "values": [
     "minecraft:rooted_dirt",
-    "#keygen:sapling_cannot_grow_warm"
+    "#cliffs_under_trees:sapling_cannot_grow_warm"
   ]
 }

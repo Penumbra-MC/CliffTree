@@ -1,10 +1,10 @@
 {
     "values": [
-      "#keygen:all_caves",
-      "#keygen:is_cliff",
-      "#keygen:is_swamp",
-      "#keygen:snowy",
-      "#keygen:is_desert",
+      "#cliffs_under_trees:all_caves",
+      "#cliffs_under_trees:is_cliff",
+      "#cliffs_under_trees:is_swamp",
+      "#cliffs_under_trees:snowy",
+      "#cliffs_under_trees:is_desert",
       "#is_beach",
       "#is_river",
       "#is_forest"

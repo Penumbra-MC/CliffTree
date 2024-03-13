@@ -9,7 +9,7 @@
       "extra_edge_column_chance": 0,
       "vegetation_chance": 0,
       "xz_radius": 6,
-      "replaceable": "#keygen:shore_replaceable",
+      "replaceable": "#cliffs_under_trees:shore_replaceable",
       "ground_state": {
         "type": "minecraft:simple_state_provider",
         "state": {

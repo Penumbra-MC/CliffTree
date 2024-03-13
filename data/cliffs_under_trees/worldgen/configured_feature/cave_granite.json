@@ -20,7 +20,7 @@
               "max_inclusive": 10
           }
       },
-      "replaceable": "#keygen:stone_and_andesite",
+      "replaceable": "#cliffs_under_trees:stone_and_andesite",
       "ground_state": {
           "type": "minecraft:simple_state_provider",
           "state": {

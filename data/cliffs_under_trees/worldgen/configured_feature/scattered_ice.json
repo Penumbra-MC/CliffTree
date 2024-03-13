@@ -14,7 +14,7 @@
         "max_inclusive": 6
       }
     },
-    "replaceable": "#keygen:stone_and_deepslate",
+    "replaceable": "#cliffs_under_trees:stone_and_deepslate",
     "ground_state": {
       "type": "minecraft:simple_state_provider",
       "state": {

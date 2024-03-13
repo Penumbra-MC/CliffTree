@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "#keygen:sapling_cannot_grow_warm",
-    "#keygen:sapling_cannot_grow_cold",
+    "#cliffs_under_trees:sapling_cannot_grow_warm",
+    "#cliffs_under_trees:sapling_cannot_grow_cold",
     "mud",
     "muddy_mangrove_roots"
   ]

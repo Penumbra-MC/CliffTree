@@ -20,7 +20,7 @@
               "max_inclusive": 4
           }
       },
-      "replaceable": "#keygen:deepslate_level",
+      "replaceable": "#cliffs_under_trees:deepslate_level",
       "ground_state": {
           "type": "minecraft:simple_state_provider",
           "state": {
