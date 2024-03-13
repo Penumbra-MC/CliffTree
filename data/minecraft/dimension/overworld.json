@@ -521,7 +521,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              1
             ],
             "erosion": [
               -0.2225,
@@ -551,7 +551,7 @@
             ],
             "continentalness": [
               -0.2,
-              1
+              0.3
             ],
             "erosion": [
               -0.2225,
@@ -571,7 +571,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -1973,36 +1973,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.7666667
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -2011,7 +1981,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -2947,11 +2917,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              -0.05
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.375,
@@ -2977,11 +2947,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.05
+              -0.93333334
             ],
             "continentalness": [
               0.03,
-              1
+              0.3
             ],
             "erosion": [
               -0.375,
@@ -3001,7 +2971,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -3592,7 +3562,7 @@
               -0.72
             ],
             "humidity": [
-              -1,
+              -0.35,
               0.1
             ],
             "depth": [
@@ -3712,8 +3682,8 @@
               -0.72
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              0.1
             ],
             "depth": [
               0,
@@ -4403,36 +4373,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.7666667
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              0.05,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -4441,7 +4381,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -5003,7 +4943,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -5012,6 +4952,36 @@
             "offset": 0
           },
           "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.78
+            ],
+            "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:frozen_peaks"
         },
         {
           "parameters": {
@@ -5212,7 +5182,7 @@
               -0.72
             ],
             "humidity": [
-              -1,
+              -0.35,
               0.1
             ],
             "depth": [
@@ -5452,8 +5422,8 @@
               -0.72
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              0.1
             ],
             "depth": [
               0,
@@ -5753,36 +5723,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -5791,7 +5731,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -5872,7 +5812,7 @@
               -0.72
             ],
             "humidity": [
-              -1,
+              -0.35,
               0.1
             ],
             "depth": [
@@ -6053,7 +5993,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -6062,6 +6002,36 @@
             "offset": 0
           },
           "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.78
+            ],
+            "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:frozen_peaks"
         },
         {
           "parameters": {
@@ -6653,36 +6623,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -6691,7 +6631,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -6893,36 +6833,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -6931,7 +6841,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -7421,7 +7331,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -0.375,
@@ -7451,7 +7361,7 @@
             ],
             "continentalness": [
               -0.11,
-              1
+              0.03
             ],
             "erosion": [
               -0.375,
@@ -7471,7 +7381,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -7583,7 +7493,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -7592,6 +7502,36 @@
             "offset": 0
           },
           "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:frozen_peaks"
         },
         {
           "parameters": {
@@ -8213,36 +8153,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -8251,7 +8161,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -9683,36 +9593,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.05
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -9721,7 +9601,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -10552,8 +10432,8 @@
               -0.72
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              0.1
             ],
             "depth": [
               0,
@@ -10792,8 +10672,8 @@
               -0.72
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              0.1
             ],
             "depth": [
               0,
@@ -11963,36 +11843,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
-              -0.05
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               0.1
             ],
             "depth": [
@@ -12001,7 +11851,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_plains"
+          "biome": "minecraft:ice_spikes"
         },
         {
           "parameters": {
@@ -12052,8 +11902,8 @@
               -0.72
             ],
             "humidity": [
-              -1,
-              -0.35
+              -0.35,
+              0.1
             ],
             "depth": [
               0,
@@ -17723,36 +17573,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               -0.1
             ],
             "depth": [
@@ -18293,7 +18113,7 @@
             ],
             "humidity": [
               -0.1,
-              0.1
+              0.3
             ],
             "depth": [
               0,
@@ -18301,7 +18121,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:birch_forest"
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -18435,36 +18255,6 @@
             ],
             "erosion": [
               -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
               0.45
             ],
             "temperature": [
@@ -18495,7 +18285,7 @@
             ],
             "erosion": [
               -0.375,
-              -0.2225
+              0.45
             ],
             "temperature": [
               -0.72,
@@ -18511,7 +18301,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_taiga"
+          "biome": "keygen:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -18572,66 +18362,6 @@
             "offset": 0
           },
           "biome": "minecraft:badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "keygen:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -20093,6 +19823,36 @@
             ],
             "humidity": [
               -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.78
+            ],
+            "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
               1
             ],
             "depth": [
@@ -20317,36 +20077,6 @@
           "parameters": {
             "weirdness": [
               0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
               1
             ],
             "continentalness": [
@@ -20377,7 +20107,7 @@
           "parameters": {
             "weirdness": [
               0.4,
-              0.93333334
+              1
             ],
             "continentalness": [
               0.03,
@@ -20385,7 +20115,7 @@
             ],
             "erosion": [
               -0.375,
-              -0.2225
+              0.45
             ],
             "temperature": [
               -0.72,
@@ -20401,7 +20131,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:snowy_taiga"
+          "biome": "keygen:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -20573,36 +20303,6 @@
             ],
             "humidity": [
               -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               0.3
             ],
             "depth": [
@@ -20688,66 +20388,6 @@
               0.45
             ],
             "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "keygen:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
               -0.45,
               -0.15
             ],
@@ -20792,66 +20432,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -20963,7 +20543,7 @@
             ],
             "humidity": [
               -0.1,
-              0.1
+              0.3
             ],
             "depth": [
               0,
@@ -20971,7 +20551,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:birch_forest"
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -21122,66 +20702,6 @@
             "offset": 0
           },
           "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "keygen:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -21383,6 +20903,36 @@
             ],
             "humidity": [
               -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.78
+            ],
+            "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
               1
             ],
             "depth": [
@@ -22073,36 +21623,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               -0.1
             ],
             "depth": [
@@ -22181,7 +21701,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              1
             ],
             "erosion": [
               -0.2225,
@@ -22613,36 +22133,6 @@
             ],
             "humidity": [
               -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
               -0.1
             ],
             "depth": [
@@ -22793,6 +22283,36 @@
             ],
             "humidity": [
               -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              -0.35,
               1
             ],
             "depth": [
@@ -25668,36 +25188,6 @@
               0.45
             ],
             "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.45
-            ],
-            "temperature": [
               -0.45,
               -0.15
             ],
@@ -25883,7 +25373,7 @@
             ],
             "humidity": [
               -0.1,
-              0.1
+              0.3
             ],
             "depth": [
               0,
@@ -25891,7 +25381,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:birch_forest"
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -25982,66 +25472,6 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -0.35,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:ice_spikes"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "keygen:snowy_old_growth_taiga"
         },
         {
           "parameters": {
