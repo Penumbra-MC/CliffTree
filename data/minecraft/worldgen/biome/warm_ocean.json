@@ -9,6 +9,7 @@
   "downfall": 0.5,
   "effects": {
     "fog_color": 11719640,
+    "grass_color": 15190639,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -75,8 +76,7 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
+      "keygen:patch_grass_beach",
       "minecraft:warm_ocean_vegetation",
       "minecraft:seagrass_warm",
       "minecraft:sea_pickle"
@@ -99,7 +99,14 @@
       }
     ],
     "axolotls": [],
-    "creature": [],
+    "creature": [
+      {
+        "type": "minecraft:turtle",
+        "maxCount": 2,
+        "minCount": 2,
+        "weight": 5
+      }
+    ],
     "misc": [],
     "monster": [
       {

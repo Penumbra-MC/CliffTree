@@ -79,8 +79,7 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
+      "keygen:patch_grass_beach",
       "minecraft:seagrass_normal",
       "minecraft:seagrass_simple",
       "minecraft:kelp_cold"
@@ -103,7 +102,14 @@
       }
     ],
     "axolotls": [],
-    "creature": [],
+    "creature": [
+      {
+        "type": "minecraft:turtle",
+        "maxCount": 2,
+        "minCount": 2,
+        "weight": 5
+      }
+    ],
     "misc": [],
     "monster": [
       {

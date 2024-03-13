@@ -61,9 +61,8 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "keygen:disk_sand_beach"
+      "minecraft:disk_sand",
+      "minecraft:disk_gravel"
     ],
     [],
     [

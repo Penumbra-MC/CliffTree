@@ -13,7 +13,7 @@
       "ground_state": {
         "type": "minecraft:simple_state_provider",
         "state": {
-          "Name": "minecraft:sand"
+          "Name": "minecraft:gravel"
         }
       },
       "vegetation_feature": {
@@ -28,7 +28,7 @@
                 -1,
                 0
               ],
-              "blocks": "minecraft:sand"
+              "blocks": "minecraft:gravel"
             }
           }
         ]

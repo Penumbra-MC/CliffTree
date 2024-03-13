@@ -1125,7 +1125,6 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "keygen:glacier_cliff",
                               "keygen:frozen_caves"
                             ],
                             "type": "minecraft:biome"
@@ -1388,7 +1387,68 @@
                         {
                           "if_true": {
                             "biome_is": [
-
+                              "keygen:glacier_cliff",
+                              "frozen_ocean",
+                              "deep_frozen_ocean"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "sequence": [
+                              {  
+                              "type": "minecraft:condition",
+                              "if_true": {
+                                "type": "minecraft:y_above",
+                                "anchor": {
+                                  "absolute": 64
+                                },
+                                "surface_depth_multiplier": 0,
+                                "add_stone_depth": false
+                              },
+                              "then_run": {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:block",
+                                  "result_state": {
+                                    "Name": "minecraft:blue_ice"
+                                  }
+                                }
+                              }
+                              },
+                              {  
+                              "type": "minecraft:condition",
+                              "if_true": {
+                                "type": "minecraft:y_above",
+                                "anchor": {
+                                  "absolute": 66
+                                },
+                                "surface_depth_multiplier": 0,
+                                "add_stone_depth": false
+                              },
+                              "then_run": {
+                                "type": "minecraft:block",
+                                "result_state": {
+                                  "Name": "minecraft:snow_block"
+                                }
+                              }
+                              },
+                              {
+                                "result_state": {
+                                  "Name": "minecraft:packed_ice"
+                                },
+                                "type": "minecraft:block"
+                              }
+                            ],
+                            "type": "minecraft:sequence"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
                               "minecraft:snowy_plains",
                               "minecraft:snowy_taiga"
                             ],
@@ -1536,7 +1596,8 @@
                                   "keygen:stone_ocean",
                                   "minecraft:ocean",
                                   "minecraft:cold_ocean",
-                                  "minecraft:frozen_ocean"
+                                  "minecraft:deep_ocean",
+                                  "minecraft:deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1617,7 +1678,6 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:beach",
-                                  "keygen:cold_beach",
                                   "keygen:lukewarm_beach",
                                   "minecraft:warm_ocean",
                                   "minecraft:lukewarm_ocean",
@@ -1657,7 +1717,8 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "minecraft:snowy_beach"
+                                  "minecraft:snowy_beach",
+                                  "keygen:cold_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1741,7 +1802,7 @@
                                   "deep_cold_ocean",
                                   "deep_lukewarm_ocean",
                                   "deep_ocean",
-                                  "deep_frozen_ocean"
+                                  "deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2033,8 +2094,67 @@
                         {
                           "if_true": {
                             "biome_is": [
+                              "keygen:glacier_cliff"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "sequence": [
+                              {  
+                              "type": "minecraft:condition",
+                              "if_true": {
+                                "type": "minecraft:y_above",
+                                "anchor": {
+                                  "absolute": 64
+                                },
+                                "surface_depth_multiplier": 0,
+                                "add_stone_depth": false
+                              },
+                              "then_run": {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:block",
+                                  "result_state": {
+                                    "Name": "minecraft:blue_ice"
+                                  }
+                                }
+                              }
+                              },
+                              {  
+                              "type": "minecraft:condition",
+                              "if_true": {
+                                "type": "minecraft:y_above",
+                                "anchor": {
+                                  "absolute": 66
+                                },
+                                "surface_depth_multiplier": 0,
+                                "add_stone_depth": false
+                              },
+                              "then_run": {
+                                "type": "minecraft:block",
+                                "result_state": {
+                                  "Name": "minecraft:snow_block"
+                                }
+                              }
+                              },
+                              {
+                                "result_state": {
+                                  "Name": "minecraft:packed_ice"
+                                },
+                                "type": "minecraft:block"
+                              }
+                            ],
+                            "type": "minecraft:sequence"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
                               "minecraft:ice_spikes",
-                              "keygen:glacier_cliff",
                               "frozen_peaks"
                             ],
                             "type": "minecraft:biome"
@@ -2233,7 +2353,6 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "keygen:glacier_cliff",
                               "keygen:frozen_caves"
                             ],
                             "type": "minecraft:biome"
@@ -2296,6 +2415,66 @@
                                   "type": "minecraft:block"
                                 },
                                 "type": "minecraft:condition"
+                              }
+                            ],
+                            "type": "minecraft:sequence"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
+                              "keygen:glacier_cliff"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "sequence": [
+                              {  
+                              "type": "minecraft:condition",
+                              "if_true": {
+                                "type": "minecraft:y_above",
+                                "anchor": {
+                                  "absolute": 64
+                                },
+                                "surface_depth_multiplier": 0,
+                                "add_stone_depth": false
+                              },
+                              "then_run": {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:block",
+                                  "result_state": {
+                                    "Name": "minecraft:blue_ice"
+                                  }
+                                }
+                              }
+                              },
+                              {  
+                              "type": "minecraft:condition",
+                              "if_true": {
+                                "type": "minecraft:y_above",
+                                "anchor": {
+                                  "absolute": 66
+                                },
+                                "surface_depth_multiplier": 0,
+                                "add_stone_depth": false
+                              },
+                              "then_run": {
+                                "type": "minecraft:block",
+                                "result_state": {
+                                  "Name": "minecraft:snow_block"
+                                }
+                              }
+                              },
+                              {
+                                "result_state": {
+                                  "Name": "minecraft:packed_ice"
+                                },
+                                "type": "minecraft:block"
                               }
                             ],
                             "type": "minecraft:sequence"
@@ -2574,7 +2753,13 @@
                                   "keygen:lukewarm_stony_shore",
                                   "keygen:cold_stony_shore",
                                   "keygen:snowy_stony_shore",
-                                  "keygen:stone_ocean"
+                                  "keygen:stone_ocean",
+                                  "minecraft:ocean",
+                                  "minecraft:cold_ocean",
+                                  "minecraft:deep_ocean",
+                                  "minecraft:deep_cold_ocean",
+                                  "frozen_ocean",
+                                  "deep_frozen_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2658,7 +2843,6 @@
                                   "minecraft:lukewarm_ocean",
                                   "deep_lukewarm_ocean",
                                   "minecraft:beach",
-                                  "keygen:cold_beach",
                                   "keygen:lukewarm_beach"
                                 ],
                                 "type": "minecraft:biome"
@@ -2695,7 +2879,8 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "minecraft:snowy_beach"
+                                  "minecraft:snowy_beach",
+                                  "keygen:cold_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2813,7 +2998,7 @@
                                   "deep_cold_ocean",
                                   "deep_lukewarm_ocean",
                                   "deep_ocean",
-                                  "deep_frozen_ocean"
+                                  "deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3049,7 +3234,6 @@
                         "lukewarm_ocean",
                         "deep_lukewarm_ocean",
                         "minecraft:beach",
-                        "keygen:cold_beach",
                         "keygen:lukewarm_beach"
                       ],
                       "type": "minecraft:biome"
@@ -3076,7 +3260,8 @@
                     "if_true": {
                       "biome_is": [
                         
-                        "minecraft:snowy_beach"
+                        "minecraft:snowy_beach",
+                        "keygen:cold_beach"
                       ],
                       "type": "minecraft:biome"
                     },

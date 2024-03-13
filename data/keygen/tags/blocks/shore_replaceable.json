@@ -3,6 +3,7 @@
   "values": [
     "minecraft:stone",
     "minecraft:andesite",
-    "minecraft:gravel"
+    "minecraft:gravel",
+    "minecraft:light_gray_terracotta"
   ]
 }
