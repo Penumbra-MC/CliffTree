@@ -214,11 +214,11 @@
       "name": "Middle",
       "array": [
         [
+          "minecraft:snowy_tundra",
+          "minecraft:snowy_tundra",
+          "minecraft:snowy_tundra",
           "minecraft:ice_spikes",
           "minecraft:ice_spikes",
-          "minecraft:ice_spikes/minecraft:snowy_tundra",
-          "minecraft:snowy_taiga",
-          "minecraft:snowy_taiga",
           "minecraft:snowy_taiga"
         ],
         [
@@ -268,10 +268,10 @@
       "name": "Plateau",
       "array": [
         [
-          "minecraft:ice_spikes",
-          "minecraft:snowy_tundra/minecraft:ice_spikes",
           "minecraft:snowy_tundra",
-          "minecraft:snowy_taiga",
+          "minecraft:snowy_tundra",
+          "minecraft:snowy_tundra",
+          "minecraft:ice_spikes",
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga"
         ],
