@@ -29,13 +29,13 @@
   },
   "features": [
     [
-      "keygen:oasis_terracotta",
-      "keygen:oasis_surface"
+      "cliffs_under_trees:oasis_terracotta",
+      "cliffs_under_trees:oasis_surface"
     ],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface",
-      "keygen:oasis_water"
+      "cliffs_under_trees:oasis_water"
     ],
     [
       "minecraft:amethyst_geode"
@@ -78,9 +78,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "keygen:disk_sand_tropic",
-      "keygen:disk_mud",
-      "keygen:disk_sandstone"
+      "cliffs_under_trees:disk_sand_tropic",
+      "cliffs_under_trees:disk_mud",
+      "cliffs_under_trees:disk_sandstone"
     ],
     [],
     [
@@ -90,18 +90,18 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "keygen:trees_oasis",
-      "keygen:flower_oasis",
+      "cliffs_under_trees:trees_oasis",
+      "cliffs_under_trees:flower_oasis",
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
-      "keygen:patch_cactus_oasis"
+      "cliffs_under_trees:patch_cactus_oasis"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

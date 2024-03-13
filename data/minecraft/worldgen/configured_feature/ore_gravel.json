@@ -10,7 +10,7 @@
           },
           "target": {
             "predicate_type": "minecraft:tag_match",
-            "tag": "keygen:stone_and_andesite"
+            "tag": "cliffs_under_trees:stone_and_andesite"
           }
         }
       ]

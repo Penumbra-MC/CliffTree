@@ -64,13 +64,13 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "keygen:ocean_shore_sand"
+      "cliffs_under_trees:ocean_shore_sand"
     ],
     [],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "keygen:ocean_rock_andesite"
+      "cliffs_under_trees:ocean_rock_andesite"
     ],
     [
       "minecraft:glow_lichen",
@@ -79,14 +79,14 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "keygen:patch_grass_beach",
+      "cliffs_under_trees:patch_grass_beach",
       "minecraft:seagrass_deep",
       "minecraft:seagrass_simple",
       "minecraft:deep_kelp_cold"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

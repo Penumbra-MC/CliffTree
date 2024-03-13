@@ -22,8 +22,8 @@
   },
   "features": [
     [
-      "keygen:savanna_terracotta",
-      "keygen:savanna_plateau_surface"
+      "cliffs_under_trees:savanna_terracotta",
+      "cliffs_under_trees:savanna_plateau_surface"
     ],
     [
       "minecraft:lake_lava_underground"
@@ -84,8 +84,8 @@
       "minecraft:patch_pumpkin"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

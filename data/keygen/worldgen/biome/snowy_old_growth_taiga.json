@@ -39,7 +39,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:snowy_rock"
+      "cliffs_under_trees:snowy_rock"
     ],
     [
       "minecraft:monster_room",
@@ -86,7 +86,7 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_large_fern",
-      "keygen:trees_old_growth_snowy",
+      "cliffs_under_trees:trees_old_growth_snowy",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga",
       "minecraft:patch_dead_bush",
@@ -95,13 +95,13 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:patch_berry_common",
-      "keygen:snow_patches"
+      "cliffs_under_trees:snow_patches"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer",
-      "keygen:remove_snow_from_ice"
+      "cliffs_under_trees:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

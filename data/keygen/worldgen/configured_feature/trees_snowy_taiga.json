@@ -9,11 +9,11 @@
       },
       {
         "chance": 0.1,
-        "feature": "keygen:pine_on_snow"
+        "feature": "cliffs_under_trees:pine_on_snow"
       },
       {
         "chance": 0.4,
-        "feature": "keygen:spruce_on_snow"
+        "feature": "cliffs_under_trees:spruce_on_snow"
       }
     ]
   }

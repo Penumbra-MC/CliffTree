@@ -75,13 +75,13 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "keygen:patch_grass_beach",
+      "cliffs_under_trees:patch_grass_beach",
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_river"
     ],
     [ 
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

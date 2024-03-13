@@ -1,5 +1,5 @@
 {
-  "feature": "keygen:ore_gravel_buried",
+  "feature": "cliffs_under_trees:ore_gravel_buried",
   "placement": [
     {
       "type": "minecraft:count",

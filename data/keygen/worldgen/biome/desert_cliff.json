@@ -22,7 +22,7 @@
   },
   "features": [
     [
-      "keygen:cliff_terracotta"
+      "cliffs_under_trees:cliff_terracotta"
     ],
     [
       "minecraft:lake_lava_underground"
@@ -64,10 +64,10 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
-      "keygen:disk_river_terracotta",
+      "cliffs_under_trees:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "keygen:disk_sandstone",
-      "keygen:shore_sand"
+      "cliffs_under_trees:disk_sandstone",
+      "cliffs_under_trees:shore_sand"
     ],
     [],
     [
@@ -80,11 +80,11 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "keygen:patch_grass_beach"
+      "cliffs_under_trees:patch_grass_beach"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

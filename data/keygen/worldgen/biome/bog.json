@@ -30,7 +30,7 @@
     [],
     [
       "minecraft:lake_lava_underground",
-      "keygen:bog_water"
+      "cliffs_under_trees:bog_water"
     ],
     [
       "minecraft:amethyst_geode"
@@ -85,8 +85,8 @@
       "minecraft:patch_dead_bush",
       "minecraft:seagrass_swamp"
     ],
-    [ "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+    [ "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -28,7 +28,7 @@
           }
       },
       "vegetation_feature": {
-          "feature": "keygen:ore_diorite_small",
+          "feature": "cliffs_under_trees:ore_diorite_small",
           "placement": []
       }
   }

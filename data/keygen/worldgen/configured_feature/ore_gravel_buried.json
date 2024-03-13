@@ -10,7 +10,7 @@
         },
         "target": {
           "predicate_type": "minecraft:tag_match",
-          "tag": "keygen:deepslate_level"
+          "tag": "cliffs_under_trees:deepslate_level"
         }
       }
     ]

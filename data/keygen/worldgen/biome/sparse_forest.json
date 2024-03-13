@@ -33,8 +33,8 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:sparse_forest_rock",
-      "keygen:fallen_log_oak"
+      "cliffs_under_trees:sparse_forest_rock",
+      "cliffs_under_trees:fallen_log_oak"
     ],
     [
       "minecraft:monster_room",
@@ -80,19 +80,19 @@
     ],
     [
       "minecraft:glow_lichen",
-      "keygen:sparse_forest_flowers",
-      "keygen:trees_sparse_forest",
-      "keygen:trees_sparse_forest_extra",
-      "keygen:flower_sparse",
+      "cliffs_under_trees:sparse_forest_flowers",
+      "cliffs_under_trees:trees_sparse_forest",
+      "cliffs_under_trees:trees_sparse_forest_extra",
+      "cliffs_under_trees:flower_sparse",
       "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "keygen:mushroom_on_log"
+      "cliffs_under_trees:mushroom_on_log"
     ],
-    [ "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+    [ "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

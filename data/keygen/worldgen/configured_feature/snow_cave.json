@@ -28,7 +28,7 @@
           }
       },
       "vegetation_feature": {
-          "feature": "keygen:snow_patches_cave",
+          "feature": "cliffs_under_trees:snow_patches_cave",
           "placement": []
       }
   }

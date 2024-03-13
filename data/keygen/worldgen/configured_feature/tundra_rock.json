@@ -1,11 +1,11 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "keygen:tundra_rock_1",
+    "default": "cliffs_under_trees:tundra_rock_1",
     "features": [
       {
         "chance": 0.2,
-        "feature": "keygen:tundra_rock_2"
+        "feature": "cliffs_under_trees:tundra_rock_2"
       }
     ]
   }

@@ -8,7 +8,7 @@
   "start_height": {
     "absolute": 0
   },
-  "start_pool": "keygen:camel",
+  "start_pool": "cliffs_under_trees:camel",
   "step": "surface_structures",
   "terrain_adaptation": "none",
   "use_expansion_hack": false

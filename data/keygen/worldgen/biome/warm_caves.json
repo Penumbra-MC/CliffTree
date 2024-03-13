@@ -33,7 +33,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:ore_diamond_tuff"
+      "cliffs_under_trees:ore_diamond_tuff"
     ],
     [ 
       "minecraft:fossil_upper",
@@ -68,20 +68,20 @@
       "minecraft:ore_lapis_buried",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
-      "keygen:disk_river_terracotta",
+      "cliffs_under_trees:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "keygen:ore_granite_extra",
-      "keygen:cave_granite",
-      "keygen:cave_granite_ceiling",
-      "keygen:tuff_noise",
-      "keygen:tuff_noise_ceiling",
-      "keygen:ore_gravel_deep",
-      "keygen:warm_ceiling_desert"
+      "cliffs_under_trees:ore_granite_extra",
+      "cliffs_under_trees:cave_granite",
+      "cliffs_under_trees:cave_granite_ceiling",
+      "cliffs_under_trees:tuff_noise",
+      "cliffs_under_trees:tuff_noise_ceiling",
+      "cliffs_under_trees:ore_gravel_deep",
+      "cliffs_under_trees:warm_ceiling_desert"
     ],
     [
-      "keygen:ore_infested",
-      "keygen:warm_floor_desert",
-      "keygen:warm_floor_desert_low"
+      "cliffs_under_trees:ore_infested",
+      "cliffs_under_trees:warm_floor_desert",
+      "cliffs_under_trees:warm_floor_desert_low"
     ],
     [
       "minecraft:spring_water",
@@ -89,12 +89,12 @@
     ],
     [
       "minecraft:glow_lichen",
-      "keygen:red_mushroom_cave",
-      "keygen:brown_mushroom_cave",
-      "keygen:brown_mushroom_cave_sparse",
-      "keygen:seagrass_cave",
-      "keygen:warm_cave_cobwebs",
-      "keygen:dead_bush_cave"
+      "cliffs_under_trees:red_mushroom_cave",
+      "cliffs_under_trees:brown_mushroom_cave",
+      "cliffs_under_trees:brown_mushroom_cave_sparse",
+      "cliffs_under_trees:seagrass_cave",
+      "cliffs_under_trees:warm_cave_cobwebs",
+      "cliffs_under_trees:dead_bush_cave"
     ],
     [
       "minecraft:freeze_top_layer"

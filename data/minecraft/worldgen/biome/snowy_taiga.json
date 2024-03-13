@@ -74,8 +74,8 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
-      "keygen:disk_gravel_cold",
-      "keygen:disk_snowy_grass"
+      "cliffs_under_trees:disk_gravel_cold",
+      "cliffs_under_trees:disk_snowy_grass"
     ],
     [],
     [
@@ -86,23 +86,23 @@
       
       "minecraft:glow_lichen",
       "minecraft:patch_large_fern",
-      "keygen:trees_snowy_taiga",
+      "cliffs_under_trees:trees_snowy_taiga",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",
-      "keygen:patch_taiga_grass",
+      "cliffs_under_trees:patch_taiga_grass",
       "minecraft:brown_mushroom_taiga",
       "minecraft:red_mushroom_taiga",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:patch_berry_common",
-      "keygen:snow_patches",
-      "keygen:snow_remove"
+      "cliffs_under_trees:snow_patches",
+      "cliffs_under_trees:snow_remove"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer",
-      "keygen:remove_snow_from_ice"
+      "cliffs_under_trees:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

@@ -33,7 +33,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:ore_diamond_tuff"
+      "cliffs_under_trees:ore_diamond_tuff"
     ],
     [ 
       "minecraft:fossil_upper",
@@ -73,15 +73,15 @@
       "minecraft:underwater_magma",
       "minecraft:ore_clay",
       "minecraft:disk_gravel",
-      "keygen:ore_andesite_extra",
-      "keygen:tuff_noise",
-      "keygen:tuff_noise_ceiling",
-      "keygen:ore_gravel_deep"
+      "cliffs_under_trees:ore_andesite_extra",
+      "cliffs_under_trees:tuff_noise",
+      "cliffs_under_trees:tuff_noise_ceiling",
+      "cliffs_under_trees:ore_gravel_deep"
     ],
     [],
     [
       "minecraft:spring_water",
-      "keygen:vine_column"
+      "cliffs_under_trees:vine_column"
     ],
     [
       "minecraft:glow_lichen",
@@ -92,7 +92,7 @@
       "minecraft:rooted_azalea_tree",
       "minecraft:spore_blossom",
       "minecraft:classic_vines_cave_feature",
-      "keygen:seagrass_cave"
+      "cliffs_under_trees:seagrass_cave"
     ],
     [
       "minecraft:freeze_top_layer"

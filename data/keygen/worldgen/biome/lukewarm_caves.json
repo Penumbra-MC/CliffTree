@@ -33,7 +33,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:ore_diamond_tuff"
+      "cliffs_under_trees:ore_diamond_tuff"
     ],
     [ 
       "minecraft:fossil_upper",
@@ -71,15 +71,15 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "keygen:ore_granite_extra",
-      "keygen:cave_granite",
-      "keygen:cave_granite_ceiling",
-      "keygen:tuff_noise",
-      "keygen:tuff_noise_ceiling",
-      "keygen:ore_gravel_deep"
+      "cliffs_under_trees:ore_granite_extra",
+      "cliffs_under_trees:cave_granite",
+      "cliffs_under_trees:cave_granite_ceiling",
+      "cliffs_under_trees:tuff_noise",
+      "cliffs_under_trees:tuff_noise_ceiling",
+      "cliffs_under_trees:ore_gravel_deep"
     ],
     [
-      "keygen:ore_infested"
+      "cliffs_under_trees:ore_infested"
     ],
     [
       "minecraft:spring_water",
@@ -87,11 +87,11 @@
     ],
     [
       "minecraft:glow_lichen",
-      "keygen:red_mushroom_cave",
-      "keygen:brown_mushroom_cave",
-      "keygen:brown_mushroom_cave_sparse",
-      "keygen:seagrass_cave",
-      "keygen:lukewarm_cave_cobwebs"
+      "cliffs_under_trees:red_mushroom_cave",
+      "cliffs_under_trees:brown_mushroom_cave",
+      "cliffs_under_trees:brown_mushroom_cave_sparse",
+      "cliffs_under_trees:seagrass_cave",
+      "cliffs_under_trees:lukewarm_cave_cobwebs"
     ],
     [
       "minecraft:freeze_top_layer"

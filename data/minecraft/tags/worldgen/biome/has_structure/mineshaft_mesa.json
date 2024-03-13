@@ -1,7 +1,7 @@
 {
   "values": [
     "#minecraft:is_badlands",
-    "keygen:frozen_caves",
-    "keygen:warm_caves"
+    "cliffs_under_trees:frozen_caves",
+    "cliffs_under_trees:warm_caves"
   ]
 }

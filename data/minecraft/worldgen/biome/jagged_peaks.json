@@ -46,7 +46,7 @@
     [],
     [],
     [
-      "keygen:ice_blobs",
+      "cliffs_under_trees:ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -77,7 +77,7 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:ore_emerald",
-      "keygen:ice_to_snow"
+      "cliffs_under_trees:ice_to_snow"
     ],
     [
       "minecraft:ore_infested"
@@ -89,12 +89,12 @@
     ],
     [
       "minecraft:glow_lichen",
-      "keygen:snow_patches"
+      "cliffs_under_trees:snow_patches"
     ],
     [
-      "keygen:extra_gold_remove",
+      "cliffs_under_trees:extra_gold_remove",
       "minecraft:freeze_top_layer",
-      "keygen:remove_snow_from_ice"
+      "cliffs_under_trees:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

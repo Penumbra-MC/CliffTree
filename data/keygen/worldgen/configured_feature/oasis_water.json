@@ -14,7 +14,7 @@
     "surface": "floor",
     "vegetation_chance": 0.1,
     "vegetation_feature": {
-      "feature": "keygen:sea_pickle",
+      "feature": "cliffs_under_trees:sea_pickle",
       "placement": []
     },
     "vertical_range": 5,

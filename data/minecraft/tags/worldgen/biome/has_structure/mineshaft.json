@@ -1,8 +1,8 @@
 {
   "values": [
-    "keygen:bog",
-    "keygen:mushroom_caves",
-    "keygen:lukewarm_caves",
-    "keygen:cold_caves"
+    "cliffs_under_trees:bog",
+    "cliffs_under_trees:mushroom_caves",
+    "cliffs_under_trees:lukewarm_caves",
+    "cliffs_under_trees:cold_caves"
   ]
 }

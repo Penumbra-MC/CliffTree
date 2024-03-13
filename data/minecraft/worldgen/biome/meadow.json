@@ -86,7 +86,7 @@
       "minecraft:trees_meadow"
     ],
     [
-      "keygen:extra_gold_remove",
+      "cliffs_under_trees:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -1,7 +1,7 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "keygen:super_birch_bees_0002_vine",
+    "default": "cliffs_under_trees:super_birch_bees_0002_vine",
     "features": [
       {
         "chance": 0.6,

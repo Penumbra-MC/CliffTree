@@ -18,8 +18,8 @@
       "minecraft:end_island_decorated"
     ],
     [
-      "keygen:end_spike",
-    "keygen:end_spike_surface"
+      "cliffs_under_trees:end_spike",
+    "cliffs_under_trees:end_spike_surface"
     ]
   ],
   "has_precipitation": false,

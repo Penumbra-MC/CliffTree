@@ -40,7 +40,7 @@
     [],
     [],
     [
-      "keygen:ice_blobs",
+      "cliffs_under_trees:ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -70,7 +70,7 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "keygen:powder_snow_disk"
+      "cliffs_under_trees:powder_snow_disk"
     ],
     [],
     [
@@ -84,11 +84,11 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
-      "keygen:snow_patches"
+      "cliffs_under_trees:snow_patches"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

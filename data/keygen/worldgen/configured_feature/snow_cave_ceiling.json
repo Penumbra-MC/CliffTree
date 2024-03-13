@@ -28,7 +28,7 @@
           }
       },
       "vegetation_feature": {
-          "feature": "keygen:ice_ceiling_decoration",
+          "feature": "cliffs_under_trees:ice_ceiling_decoration",
           "placement": []
       }
   }

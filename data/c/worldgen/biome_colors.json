@@ -1,125 +1,125 @@
 {
-  "keygen:cold_river": {
+  "cliffs_under_trees:cold_river": {
     "r": 64,
     "g": 159,
     "b": 255
   },
-  "keygen:tropical_river": {
+  "cliffs_under_trees:tropical_river": {
     "r": 0,
     "g": 64,
     "b": 128
   },
-  "keygen:warm_river": {
+  "cliffs_under_trees:warm_river": {
     "r": 0,
     "g": 0,
     "b": 160
   },
-  "keygen:sparse_forest": {
+  "cliffs_under_trees:sparse_forest": {
     "r": 0,
     "g": 128,
     "b": 0
   },
-  "keygen:caves": {
+  "cliffs_under_trees:caves": {
     "r": 136,
     "g": 136,
     "b": 136
   },
-  "keygen:mushroom_caves": {
+  "cliffs_under_trees:mushroom_caves": {
     "r": 255,
     "g": 128,
     "b": 192
   },
-  "keygen:warm_caves": {
+  "cliffs_under_trees:warm_caves": {
     "r": 128,
     "g": 128,
     "b": 64
   },
-  "keygen:cold_caves": {
+  "cliffs_under_trees:cold_caves": {
     "r": 110,
     "g": 110,
     "b": 110
   },
-  "keygen:lukewarm_caves": {
+  "cliffs_under_trees:lukewarm_caves": {
     "r": 105,
     "g": 102,
     "b": 86
   },
-  "keygen:frozen_caves": {
+  "cliffs_under_trees:frozen_caves": {
     "r": 98,
     "g": 98,
     "b": 113
   },
-  "keygen:bog": {
+  "cliffs_under_trees:bog": {
     "r": 101,
     "g": 88,
     "b": 105
   },
-  "keygen:inferno": {
+  "cliffs_under_trees:inferno": {
     "r": 166,
     "g": 0,
     "b": 0
   },
-  "keygen:shrubland": {
+  "cliffs_under_trees:shrubland": {
     "r": 235,
     "g": 204,
     "b": 82
   },
-  "keygen:oasis": {
+  "cliffs_under_trees:oasis": {
     "r": 207,
     "g": 255,
     "b": 17
   },
-  "keygen:cold_beach": {
+  "cliffs_under_trees:cold_beach": {
     "r": 232,
     "g": 242,
     "b": 168
   },
-  "keygen:lukewarm_beach": {
+  "cliffs_under_trees:lukewarm_beach": {
     "r": 234,
     "g": 245,
     "b": 88
   },
-  "keygen:cold_stony_shore": {
+  "cliffs_under_trees:cold_stony_shore": {
     "r": 136,
     "g": 136,
     "b": 136
   },
-  "keygen:desert_cliff": {
+  "cliffs_under_trees:desert_cliff": {
     "r": 155,
     "g": 143,
     "b": 132
   },
-  "keygen:lukewarm_stony_shore": {
+  "cliffs_under_trees:lukewarm_stony_shore": {
     "r": 143,
     "g": 136,
     "b": 129
   },
-  "keygen:snowy_stony_shore": {
+  "cliffs_under_trees:snowy_stony_shore": {
     "r": 136,
     "g": 141,
     "b": 153
   },
-  "keygen:glacier_valley": {
+  "cliffs_under_trees:glacier_valley": {
     "r": 96,
     "g": 197,
     "b": 244
   },
-  "keygen:glacier_cliff": {
+  "cliffs_under_trees:glacier_cliff": {
     "r": 142,
     "g": 168,
     "b": 176
   },
-  "keygen:snowy_old_growth_taiga": {
+  "cliffs_under_trees:snowy_old_growth_taiga": {
     "r": 176,
     "g": 211,
     "b": 124
   },
-  "keygen:tundra": {
+  "cliffs_under_trees:tundra": {
     "r": 217,
     "g": 196,
     "b": 166
   },
-  "keygen:stone_ocean": {
+  "cliffs_under_trees:stone_ocean": {
     "r": 105,
     "g": 100,
     "b": 172

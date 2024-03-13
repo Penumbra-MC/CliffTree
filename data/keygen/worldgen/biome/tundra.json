@@ -23,14 +23,14 @@
   },
   "features": [
     [
-      "keygen:tundra_surface"
+      "cliffs_under_trees:tundra_surface"
     ],
     [
       "minecraft:lake_lava_underground"
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:tundra_rock"
+      "cliffs_under_trees:tundra_rock"
     ],
     [
       "minecraft:monster_room",
@@ -76,16 +76,16 @@
     ],
     [
       "minecraft:glow_lichen",
-      "keygen:flower_tundra",
-      "keygen:patch_grass_tundra_2",
+      "cliffs_under_trees:flower_tundra",
+      "cliffs_under_trees:patch_grass_tundra_2",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

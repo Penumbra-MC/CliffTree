@@ -27,8 +27,8 @@
   },
   "features": [
     [
-      "keygen:shrubland_terracotta",
-      "keygen:shrubland_surface"
+      "cliffs_under_trees:shrubland_terracotta",
+      "cliffs_under_trees:shrubland_surface"
     ],
     [
       "minecraft:lake_lava_underground",
@@ -75,9 +75,9 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
-      "keygen:disk_river_terracotta",
+      "cliffs_under_trees:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "keygen:disk_sandstone"
+      "cliffs_under_trees:disk_sandstone"
     ],
     [],
     [
@@ -87,18 +87,18 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "keygen:flower_shrubland",
-      "keygen:patch_grass_shrubland",
+      "cliffs_under_trees:flower_shrubland",
+      "cliffs_under_trees:patch_grass_shrubland",
       "minecraft:patch_grass_badlands",
-      "keygen:patch_dead_bush",
+      "cliffs_under_trees:patch_dead_bush",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
-      "keygen:patch_cactus_shrubland"
+      "cliffs_under_trees:patch_cactus_shrubland"
     ],
-    [ "keygen:extra_gold_remove",
-    "keygen:extra_emerald_remove",
+    [ "cliffs_under_trees:extra_gold_remove",
+    "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

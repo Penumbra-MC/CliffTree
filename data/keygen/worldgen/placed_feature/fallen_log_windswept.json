@@ -3,11 +3,11 @@
     "type": "minecraft:random_boolean_selector",
     "config": {
       "feature_false": {
-        "feature": "keygen:fallen_log_spruce",
+        "feature": "cliffs_under_trees:fallen_log_spruce",
         "placement": []
       },
       "feature_true": {
-        "feature": "keygen:fallen_log_oak",
+        "feature": "cliffs_under_trees:fallen_log_oak",
         "placement": []
       }
     }

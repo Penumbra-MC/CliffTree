@@ -22,7 +22,7 @@
     },
     "target": {
       "type": "minecraft:matching_block_tag",
-      "tag": "keygen:stone_and_deepslate"
+      "tag": "cliffs_under_trees:stone_and_deepslate"
     }
   }
 }

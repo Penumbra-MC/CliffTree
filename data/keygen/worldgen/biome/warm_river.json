@@ -61,7 +61,7 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
-      "keygen:disk_river_terracotta",
+      "cliffs_under_trees:disk_river_terracotta",
       "minecraft:disk_gravel"
     ],
     [],
@@ -78,8 +78,8 @@
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_river"
     ],
-    [ "keygen:extra_gold_remove",
-    "keygen:extra_emerald_remove",
+    [ "cliffs_under_trees:extra_gold_remove",
+    "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

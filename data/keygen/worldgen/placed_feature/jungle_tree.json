@@ -1,5 +1,5 @@
 {
-  "feature": "keygen:jungle_tree",
+  "feature": "cliffs_under_trees:jungle_tree",
   "placement": [
     {
       "type": "minecraft:block_predicate_filter",

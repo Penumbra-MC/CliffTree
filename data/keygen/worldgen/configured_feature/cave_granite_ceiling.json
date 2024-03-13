@@ -28,7 +28,7 @@
           }
       },
       "vegetation_feature": {
-          "feature": "keygen:ore_granite_small",
+          "feature": "cliffs_under_trees:ore_granite_small",
           "placement": []
       }
   }

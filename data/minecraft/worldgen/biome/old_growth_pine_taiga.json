@@ -32,8 +32,8 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "keygen:forest_rock",
-      "keygen:fallen_log_spruce"
+      "cliffs_under_trees:forest_rock",
+      "cliffs_under_trees:fallen_log_spruce"
     ],
     [
       "minecraft:monster_room",
@@ -69,7 +69,7 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
-      "keygen:disk_gravel_cold"
+      "cliffs_under_trees:disk_gravel_cold"
     ],
     [],
     [
@@ -90,11 +90,11 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:patch_berry_common",
-      "keygen:mushroom_on_log"
+      "cliffs_under_trees:mushroom_on_log"
     ],
     [
-      "keygen:extra_gold_remove",
-      "keygen:extra_emerald_remove",
+      "cliffs_under_trees:extra_gold_remove",
+      "cliffs_under_trees:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -1,5 +1,5 @@
 {
-  "feature": "keygen:island_rock",
+  "feature": "cliffs_under_trees:island_rock",
   "placement": [
     {
       "type": "minecraft:noise_based_count",

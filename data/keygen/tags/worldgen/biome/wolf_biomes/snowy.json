@@ -5,7 +5,7 @@
     "minecraft:jagged_peaks",
     "minecraft:frozen_peaks",
     "minecraft:ice_spikes",
-    "keygen:glacier_cliff",
-    "keygen:glacier_valley"
+    "cliffs_under_trees:glacier_cliff",
+    "cliffs_under_trees:glacier_valley"
   ]
 }
