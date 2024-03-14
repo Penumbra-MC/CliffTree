@@ -1,11 +1,12 @@
 {
-    "values": [
+  "replace": false,  
+  "values": [
       "cliffs_under_trees:warm_caves",
       "cliffs_under_trees:inferno",
       "cliffs_under_trees:warm_river",
       "cliffs_under_trees:tropical_river",
       "cliffs_under_trees:shrubland",
       "cliffs_under_trees:oasis",
-      "cliffs_under_trees:warm_stony_shore"
+      "cliffs_under_trees:desert_cliff"
     ]
   }

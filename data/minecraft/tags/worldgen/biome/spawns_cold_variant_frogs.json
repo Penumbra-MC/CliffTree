@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "cliffs_under_trees:bog",
     "cliffs_under_trees:frozen_caves",
