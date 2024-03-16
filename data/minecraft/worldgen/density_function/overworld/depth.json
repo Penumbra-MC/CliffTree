@@ -1,5 +1,5 @@
 {
   "type": "minecraft:add",
-  "argument1": "cliffs_under_trees:ocean_shape",
+  "argument1": "clifftree:ocean_shape",
   "argument2": "minecraft:overworld/offset"
 }

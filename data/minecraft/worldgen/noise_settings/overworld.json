@@ -859,9 +859,9 @@
               "if_true": {
                 "biome_is": [
                   "minecraft:savanna_plateau",
-                  "cliffs_under_trees:shrubland",
-                  "cliffs_under_trees:oasis",
-                  "cliffs_under_trees:desert_cliff"
+                  "clifftree:shrubland",
+                  "clifftree:oasis",
+                  "clifftree:desert_cliff"
                 ],
                 "type": "minecraft:biome"
               },
@@ -1125,7 +1125,7 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "cliffs_under_trees:frozen_caves"
+                              "clifftree:frozen_caves"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1326,7 +1326,7 @@
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
                               "minecraft:cherry_grove",
-                              "cliffs_under_trees:sparse_forest"
+                              "clifftree:sparse_forest"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1387,7 +1387,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "cliffs_under_trees:glacier_cliff",
+                              "clifftree:glacier_cliff",
                               "frozen_ocean",
                               "deep_frozen_ocean"
                             ],
@@ -1590,10 +1590,10 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:stony_shore",
-                                  "cliffs_under_trees:lukewarm_stony_shore",
-                                  "cliffs_under_trees:cold_stony_shore",
-                                  "cliffs_under_trees:snowy_stony_shore",
-                                  "cliffs_under_trees:stone_ocean",
+                                  "clifftree:lukewarm_stony_shore",
+                                  "clifftree:cold_stony_shore",
+                                  "clifftree:snowy_stony_shore",
+                                  "clifftree:stone_ocean",
                                   "minecraft:ocean",
                                   "minecraft:cold_ocean",
                                   "minecraft:deep_ocean",
@@ -1678,7 +1678,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:beach",
-                                  "cliffs_under_trees:lukewarm_beach",
+                                  "clifftree:lukewarm_beach",
                                   "minecraft:warm_ocean",
                                   "minecraft:lukewarm_ocean",
                                   "minecraft:deep_lukewarm_ocean"
@@ -1718,7 +1718,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:snowy_beach",
-                                  "cliffs_under_trees:cold_beach"
+                                  "clifftree:cold_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1755,7 +1755,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:desert",
-                                  "cliffs_under_trees:warm_river"
+                                  "clifftree:warm_river"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1793,12 +1793,12 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:dripstone_caves",
-                                  "cliffs_under_trees:caves",
-                                  "cliffs_under_trees:warm_caves",
-                                  "cliffs_under_trees:lukewarm_caves",
-                                  "cliffs_under_trees:cold_caves",
-                                  "cliffs_under_trees:frozen_caves",
-                                  "cliffs_under_trees:mushroom_caves",
+                                  "clifftree:caves",
+                                  "clifftree:warm_caves",
+                                  "clifftree:lukewarm_caves",
+                                  "clifftree:cold_caves",
+                                  "clifftree:frozen_caves",
+                                  "clifftree:mushroom_caves",
                                   "deep_cold_ocean",
                                   "deep_lukewarm_ocean",
                                   "deep_ocean",
@@ -1982,7 +1982,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "cliffs_under_trees:snowy_old_growth_taiga"
+                              "clifftree:snowy_old_growth_taiga"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2094,7 +2094,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "cliffs_under_trees:glacier_cliff"
+                              "clifftree:glacier_cliff"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2179,7 +2179,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "cliffs_under_trees:glacier_valley"
+                              "clifftree:glacier_valley"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2204,7 +2204,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "cliffs_under_trees:bog"
+                              "clifftree:bog"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2353,7 +2353,7 @@
                             "biome_is": [
                               "minecraft:frozen_peaks",
                               "minecraft:ice_spikes",
-                              "cliffs_under_trees:frozen_caves"
+                              "clifftree:frozen_caves"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2424,7 +2424,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "cliffs_under_trees:glacier_cliff"
+                              "clifftree:glacier_cliff"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2596,7 +2596,7 @@
                             "biome_is": [
                               "minecraft:snowy_plains",
                               "minecraft:snowy_taiga",
-                              "cliffs_under_trees:snowy_old_growth_taiga"
+                              "clifftree:snowy_old_growth_taiga"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2650,7 +2650,7 @@
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
                               "minecraft:cherry_grove",
-                              "cliffs_under_trees:sparse_forest"
+                              "clifftree:sparse_forest"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2750,10 +2750,10 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:stony_shore",
-                                  "cliffs_under_trees:lukewarm_stony_shore",
-                                  "cliffs_under_trees:cold_stony_shore",
-                                  "cliffs_under_trees:snowy_stony_shore",
-                                  "cliffs_under_trees:stone_ocean",
+                                  "clifftree:lukewarm_stony_shore",
+                                  "clifftree:cold_stony_shore",
+                                  "clifftree:snowy_stony_shore",
+                                  "clifftree:stone_ocean",
                                   "minecraft:ocean",
                                   "minecraft:cold_ocean",
                                   "minecraft:deep_ocean",
@@ -2843,7 +2843,7 @@
                                   "minecraft:lukewarm_ocean",
                                   "deep_lukewarm_ocean",
                                   "minecraft:beach",
-                                  "cliffs_under_trees:lukewarm_beach"
+                                  "clifftree:lukewarm_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2880,7 +2880,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:snowy_beach",
-                                  "cliffs_under_trees:cold_beach"
+                                  "clifftree:cold_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2917,7 +2917,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:desert",
-                                  "cliffs_under_trees:warm_river"
+                                  "clifftree:warm_river"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2953,7 +2953,7 @@
                             {
                               "if_true": {
                                 "biome_is": [
-                                  "cliffs_under_trees:glacier_valley"
+                                  "clifftree:glacier_valley"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2990,11 +2990,11 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:dripstone_caves",
-                                  "cliffs_under_trees:caves",
-                                  "cliffs_under_trees:warm_caves",
-                                  "cliffs_under_trees:lukewarm_caves",
-                                  "cliffs_under_trees:cold_caves",
-                                  "cliffs_under_trees:mushroom_caves",
+                                  "clifftree:caves",
+                                  "clifftree:warm_caves",
+                                  "clifftree:lukewarm_caves",
+                                  "clifftree:cold_caves",
+                                  "clifftree:mushroom_caves",
                                   "deep_cold_ocean",
                                   "deep_lukewarm_ocean",
                                   "deep_ocean",
@@ -3133,7 +3133,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "cliffs_under_trees:bog"
+                              "clifftree:bog"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -3234,7 +3234,7 @@
                         "lukewarm_ocean",
                         "deep_lukewarm_ocean",
                         "minecraft:beach",
-                        "cliffs_under_trees:lukewarm_beach"
+                        "clifftree:lukewarm_beach"
                       ],
                       "type": "minecraft:biome"
                     },
@@ -3261,7 +3261,7 @@
                       "biome_is": [
                         
                         "minecraft:snowy_beach",
-                        "cliffs_under_trees:cold_beach"
+                        "clifftree:cold_beach"
                       ],
                       "type": "minecraft:biome"
                     },
@@ -3288,7 +3288,7 @@
                     "if_true": {
                       "biome_is": [
                         "minecraft:desert",
-                        "cliffs_under_trees:warm_river"
+                        "clifftree:warm_river"
                       ],
                       "type": "minecraft:biome"
                     },

@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#cliffs_under_trees:has_structure/igloo_dirt",
+  "biomes": "#clifftree:has_structure/igloo_dirt",
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",

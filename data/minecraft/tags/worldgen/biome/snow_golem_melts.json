@@ -1,9 +1,9 @@
 {
     "values": [
-      "cliffs_under_trees:warm_caves",
-      "cliffs_under_trees:warm_river",
-      "cliffs_under_trees:inferno",
-      "cliffs_under_trees:shrubland",
-      "cliffs_under_trees:oasis"
+      "clifftree:warm_caves",
+      "clifftree:warm_river",
+      "clifftree:inferno",
+      "clifftree:shrubland",
+      "clifftree:oasis"
     ]
   }

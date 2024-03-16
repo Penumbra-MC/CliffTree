@@ -68,8 +68,8 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "cliffs_under_trees:disk_sand_tropic",
-      "cliffs_under_trees:disk_mud"
+      "clifftree:disk_sand_tropic",
+      "clifftree:disk_mud"
     ],
     [],
     [
@@ -89,10 +89,10 @@
       "minecraft:patch_pumpkin",
       "minecraft:vines",
       "minecraft:patch_melon",
-      "cliffs_under_trees:cocoa_age"
+      "clifftree:cocoa_age"
     ],
-    [ "cliffs_under_trees:extra_gold_remove",
-    "cliffs_under_trees:extra_emerald_remove",
+    [ "clifftree:extra_gold_remove",
+    "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

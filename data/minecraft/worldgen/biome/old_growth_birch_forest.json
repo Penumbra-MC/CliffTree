@@ -33,7 +33,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "cliffs_under_trees:fallen_log_birch"
+      "clifftree:fallen_log_birch"
     ],
     [
       "minecraft:monster_room",
@@ -87,13 +87,13 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "cliffs_under_trees:mushroom_on_log"
+      "clifftree:mushroom_on_log"
     ],
     [
-      "cliffs_under_trees:extra_gold_remove",
-      "cliffs_under_trees:extra_emerald_remove",
-      "cliffs_under_trees:super_birch_branch",
-      "cliffs_under_trees:birch_vine_remove",
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
+      "clifftree:super_birch_branch",
+      "clifftree:birch_vine_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -61,7 +61,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:stone_ocean"
+          "biome": "clifftree:stone_ocean"
         },
         {
           "parameters": {
@@ -361,7 +361,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -391,7 +391,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -421,7 +421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -481,7 +481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -511,7 +511,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -661,7 +661,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -751,7 +751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -961,7 +961,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -1111,7 +1111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -1171,7 +1171,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -1231,7 +1231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -1291,7 +1291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -1621,7 +1621,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -1681,7 +1681,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -1861,7 +1861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -2191,7 +2191,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -2251,7 +2251,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -2281,7 +2281,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -2581,7 +2581,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -2641,7 +2641,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -2851,7 +2851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -3271,7 +3271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -3331,7 +3331,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -3451,7 +3451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -3691,7 +3691,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -3721,7 +3721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -3931,7 +3931,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -4051,7 +4051,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -4321,7 +4321,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -4561,7 +4561,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -4591,7 +4591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -4621,7 +4621,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -4651,7 +4651,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -4891,7 +4891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -5341,7 +5341,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -5371,7 +5371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -5731,7 +5731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -5941,7 +5941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -6301,7 +6301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -6331,7 +6331,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -6601,7 +6601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -6751,7 +6751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -6871,7 +6871,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -6991,7 +6991,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -7111,7 +7111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -7201,7 +7201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -7381,7 +7381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -7531,7 +7531,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -7921,7 +7921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -7951,7 +7951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -8221,7 +8221,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -8371,7 +8371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -8491,7 +8491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -8731,7 +8731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -8971,7 +8971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -9271,7 +9271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -9301,7 +9301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -9361,7 +9361,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -9421,7 +9421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -9481,7 +9481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -9571,7 +9571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -9721,7 +9721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -9811,7 +9811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -9991,7 +9991,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -10051,7 +10051,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -10321,7 +10321,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -10381,7 +10381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -10591,7 +10591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -11131,7 +11131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -11281,7 +11281,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -11341,7 +11341,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -11401,7 +11401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -11491,7 +11491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_valley"
+          "biome": "clifftree:glacier_valley"
         },
         {
           "parameters": {
@@ -11521,7 +11521,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -11611,7 +11611,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -11791,7 +11791,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -11971,7 +11971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -12001,7 +12001,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -12061,7 +12061,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -12271,7 +12271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_valley"
+          "biome": "clifftree:glacier_valley"
         },
         {
           "parameters": {
@@ -12301,7 +12301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_river"
+          "biome": "clifftree:cold_river"
         },
         {
           "parameters": {
@@ -12391,7 +12391,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_river"
+          "biome": "clifftree:cold_river"
         },
         {
           "parameters": {
@@ -12451,7 +12451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tropical_river"
+          "biome": "clifftree:tropical_river"
         },
         {
           "parameters": {
@@ -12481,7 +12481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_river"
+          "biome": "clifftree:warm_river"
         },
         {
           "parameters": {
@@ -12541,7 +12541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -12631,7 +12631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -12841,7 +12841,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -13141,7 +13141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_river"
+          "biome": "clifftree:cold_river"
         },
         {
           "parameters": {
@@ -13231,7 +13231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_river"
+          "biome": "clifftree:cold_river"
         },
         {
           "parameters": {
@@ -13291,7 +13291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tropical_river"
+          "biome": "clifftree:tropical_river"
         },
         {
           "parameters": {
@@ -13321,7 +13321,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_river"
+          "biome": "clifftree:warm_river"
         },
         {
           "parameters": {
@@ -13351,7 +13351,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -13381,7 +13381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -13411,7 +13411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -13471,7 +13471,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -13501,7 +13501,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -13561,7 +13561,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -13621,7 +13621,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -13771,7 +13771,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -13861,7 +13861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -14131,7 +14131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -14161,7 +14161,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -14251,7 +14251,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -14491,7 +14491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -14941,7 +14941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -15001,7 +15001,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -15211,7 +15211,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -15271,7 +15271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -15421,7 +15421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -15541,7 +15541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -15721,7 +15721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -15751,7 +15751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -15871,7 +15871,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -15961,7 +15961,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -16381,7 +16381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -16441,7 +16441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -16711,7 +16711,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -16771,7 +16771,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -17161,7 +17161,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -17521,7 +17521,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -17581,7 +17581,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -17971,7 +17971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -18271,7 +18271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -18781,7 +18781,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -18811,7 +18811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -19171,7 +19171,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -19201,7 +19201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -19801,7 +19801,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -20071,7 +20071,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:oasis"
+          "biome": "clifftree:oasis"
         },
         {
           "parameters": {
@@ -20131,7 +20131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -20161,7 +20161,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -20701,7 +20701,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -20731,7 +20731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -21781,7 +21781,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -21811,7 +21811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -22291,7 +22291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -22441,7 +22441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -22591,7 +22591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -22861,7 +22861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -23281,7 +23281,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -23311,7 +23311,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -23821,7 +23821,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -23941,7 +23941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -24211,7 +24211,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -24631,7 +24631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -24661,7 +24661,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -24721,7 +24721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -24751,7 +24751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -25081,7 +25081,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -25141,7 +25141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -25231,7 +25231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -25591,7 +25591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -25651,7 +25651,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_old_growth_taiga"
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -26041,7 +26041,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -26131,7 +26131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -26671,7 +26671,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:shrubland"
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -26731,7 +26731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -26761,7 +26761,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -26791,7 +26791,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -26821,7 +26821,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -26851,7 +26851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -26881,7 +26881,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -26911,7 +26911,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -26941,7 +26941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -26971,7 +26971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -27031,7 +27031,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -27061,7 +27061,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -27121,7 +27121,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -27151,7 +27151,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -27181,7 +27181,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -27211,7 +27211,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -27241,7 +27241,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -27421,7 +27421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -27571,7 +27571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -27631,7 +27631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -27691,7 +27691,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -27751,7 +27751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -27781,7 +27781,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -27811,7 +27811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -27841,7 +27841,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -27871,7 +27871,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -27901,7 +27901,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -27931,7 +27931,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -27961,7 +27961,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -28141,7 +28141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -28291,7 +28291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -28411,7 +28411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -28441,7 +28441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -28471,7 +28471,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -28651,7 +28651,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -28891,7 +28891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -28921,7 +28921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -28951,7 +28951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -28981,7 +28981,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -29011,7 +29011,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -29041,7 +29041,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -29071,7 +29071,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -29101,7 +29101,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -29131,7 +29131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -29311,7 +29311,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -29461,7 +29461,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -29551,7 +29551,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -29581,7 +29581,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -29611,7 +29611,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -29641,7 +29641,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -29851,7 +29851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -30001,7 +30001,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -30031,7 +30031,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -30061,7 +30061,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -30091,7 +30091,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -30121,7 +30121,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -30301,7 +30301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -30451,7 +30451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -30481,7 +30481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -30511,7 +30511,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -30541,7 +30541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -30571,7 +30571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -30601,7 +30601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -30631,7 +30631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -30661,7 +30661,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -30691,7 +30691,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -30721,7 +30721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -30901,7 +30901,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -31051,7 +31051,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -31081,7 +31081,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -31111,7 +31111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -31141,7 +31141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -31171,7 +31171,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -31201,7 +31201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -31231,7 +31231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -31261,7 +31261,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -31321,7 +31321,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -31351,7 +31351,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -31381,7 +31381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -31411,7 +31411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -31441,7 +31441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -31471,7 +31471,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -31501,7 +31501,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -31531,7 +31531,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -31561,7 +31561,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -31771,7 +31771,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -31921,7 +31921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32041,7 +32041,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -32071,7 +32071,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32101,7 +32101,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -32131,7 +32131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32311,7 +32311,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -32401,7 +32401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32431,7 +32431,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -32461,7 +32461,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -32491,7 +32491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32701,7 +32701,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -32851,7 +32851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32881,7 +32881,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32911,7 +32911,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32941,7 +32941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -32971,7 +32971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -33151,7 +33151,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -33241,7 +33241,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -33271,7 +33271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -33301,7 +33301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -33361,7 +33361,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -33391,7 +33391,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -33451,7 +33451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -33511,7 +33511,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -33571,7 +33571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -33601,7 +33601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -33631,7 +33631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -33811,7 +33811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -33901,7 +33901,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -34021,7 +34021,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -34201,7 +34201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -34351,7 +34351,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -34381,7 +34381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -34411,7 +34411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -34441,7 +34441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -34471,7 +34471,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -34501,7 +34501,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -34681,7 +34681,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -34891,7 +34891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -34951,7 +34951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -35011,7 +35011,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -35131,7 +35131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -35161,7 +35161,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -35341,7 +35341,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:sparse_forest"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -35491,7 +35491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -35521,7 +35521,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -35581,7 +35581,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -35611,7 +35611,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -35671,7 +35671,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_beach"
+          "biome": "clifftree:cold_beach"
         },
         {
           "parameters": {
@@ -35731,7 +35731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_beach"
+          "biome": "clifftree:lukewarm_beach"
         },
         {
           "parameters": {
@@ -35791,7 +35791,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -35821,7 +35821,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -35851,7 +35851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -36271,7 +36271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -36511,7 +36511,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -36541,7 +36541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -36571,7 +36571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -36991,7 +36991,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -37021,7 +37021,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -37051,7 +37051,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -37081,7 +37081,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -37111,7 +37111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -37141,7 +37141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -37531,7 +37531,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -37861,7 +37861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -37891,7 +37891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -37921,7 +37921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -37951,7 +37951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -37981,7 +37981,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -38011,7 +38011,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -38041,7 +38041,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -38071,7 +38071,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -38311,7 +38311,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -38341,7 +38341,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -38371,7 +38371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -38401,7 +38401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -38851,7 +38851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -38971,7 +38971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -39001,7 +39001,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -39271,7 +39271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -39301,7 +39301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -39331,7 +39331,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -39361,7 +39361,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -39541,7 +39541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -39571,7 +39571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -39601,7 +39601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -39631,7 +39631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -39661,7 +39661,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -39691,7 +39691,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -39721,7 +39721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -39751,7 +39751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -39781,7 +39781,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -39811,7 +39811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -40111,7 +40111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -40141,7 +40141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -40171,7 +40171,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -40201,7 +40201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -40231,7 +40231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -40261,7 +40261,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -40291,7 +40291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -40561,7 +40561,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -40591,7 +40591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -40621,7 +40621,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -40651,7 +40651,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -40681,7 +40681,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -40711,7 +40711,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -40741,7 +40741,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -40771,7 +40771,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -40801,7 +40801,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -41221,7 +41221,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -41371,7 +41371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -41401,7 +41401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -41431,7 +41431,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -41611,7 +41611,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -41641,7 +41641,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -41671,7 +41671,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42121,7 +42121,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42151,7 +42151,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42211,7 +42211,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42241,7 +42241,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -42271,7 +42271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42421,7 +42421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:glacier_cliff"
+          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -42451,7 +42451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:snowy_stony_shore"
+          "biome": "clifftree:snowy_stony_shore"
         },
         {
           "parameters": {
@@ -42481,7 +42481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_stony_shore"
+          "biome": "clifftree:cold_stony_shore"
         },
         {
           "parameters": {
@@ -42541,7 +42541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_stony_shore"
+          "biome": "clifftree:lukewarm_stony_shore"
         },
         {
           "parameters": {
@@ -42571,7 +42571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:desert_cliff"
+          "biome": "clifftree:desert_cliff"
         },
         {
           "parameters": {
@@ -42601,7 +42601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42631,7 +42631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -42661,7 +42661,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -42961,7 +42961,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -43081,7 +43081,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:bog"
+          "biome": "clifftree:bog"
         },
         {
           "parameters": {
@@ -43201,7 +43201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -43231,7 +43231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -43261,7 +43261,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -43411,7 +43411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -43801,7 +43801,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -43831,7 +43831,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -43861,7 +43861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -43891,7 +43891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -43921,7 +43921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -43951,7 +43951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:tundra"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -44371,7 +44371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -44401,7 +44401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -44431,7 +44431,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -44461,7 +44461,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44491,7 +44491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44521,7 +44521,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -44551,7 +44551,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -44581,7 +44581,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -44611,7 +44611,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -44641,7 +44641,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -44671,7 +44671,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44701,7 +44701,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -44731,7 +44731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -44761,7 +44761,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44791,7 +44791,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44821,7 +44821,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -44851,7 +44851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -44881,7 +44881,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -44911,7 +44911,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44941,7 +44941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -44971,7 +44971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -45001,7 +45001,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45031,7 +45031,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -45061,7 +45061,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45091,7 +45091,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45121,7 +45121,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -45151,7 +45151,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45181,7 +45181,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45211,7 +45211,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45241,7 +45241,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45271,7 +45271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45301,7 +45301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -45331,7 +45331,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -45391,7 +45391,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45421,7 +45421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45451,7 +45451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45481,7 +45481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -45511,7 +45511,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45541,7 +45541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45571,7 +45571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45601,7 +45601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45631,7 +45631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45691,7 +45691,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -45721,7 +45721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45751,7 +45751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45781,7 +45781,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45811,7 +45811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45841,7 +45841,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -45871,7 +45871,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45901,7 +45901,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -45961,7 +45961,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -46021,7 +46021,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -46051,7 +46051,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46081,7 +46081,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46111,7 +46111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -46171,7 +46171,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -46201,7 +46201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -46231,7 +46231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46261,7 +46261,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46291,7 +46291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46321,7 +46321,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46351,7 +46351,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46381,7 +46381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -46411,7 +46411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -46441,7 +46441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -46471,7 +46471,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46501,7 +46501,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46531,7 +46531,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46561,7 +46561,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46591,7 +46591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46621,7 +46621,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -46651,7 +46651,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46681,7 +46681,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46711,7 +46711,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46741,7 +46741,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46771,7 +46771,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46801,7 +46801,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46831,7 +46831,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -46861,7 +46861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46891,7 +46891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -46921,7 +46921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46951,7 +46951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -47011,7 +47011,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47041,7 +47041,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47071,7 +47071,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47101,7 +47101,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -47131,7 +47131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -47161,7 +47161,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47191,7 +47191,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47221,7 +47221,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47251,7 +47251,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47281,7 +47281,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47311,7 +47311,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -47341,7 +47341,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -47371,7 +47371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -47401,7 +47401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47431,7 +47431,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47461,7 +47461,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47521,7 +47521,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -47551,7 +47551,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -47581,7 +47581,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -47611,7 +47611,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47641,7 +47641,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47671,7 +47671,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47701,7 +47701,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47731,7 +47731,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47761,7 +47761,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -47791,7 +47791,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47821,7 +47821,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -47851,7 +47851,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -47911,7 +47911,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -47941,7 +47941,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -47971,7 +47971,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -48001,7 +48001,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -48031,7 +48031,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48061,7 +48061,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48091,7 +48091,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -48121,7 +48121,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48151,7 +48151,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48181,7 +48181,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -48241,7 +48241,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -48271,7 +48271,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -48301,7 +48301,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48331,7 +48331,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48361,7 +48361,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48391,7 +48391,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48421,7 +48421,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -48451,7 +48451,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48481,7 +48481,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48511,7 +48511,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48541,7 +48541,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48571,7 +48571,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48601,7 +48601,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48631,7 +48631,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48661,7 +48661,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48691,7 +48691,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48721,7 +48721,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48751,7 +48751,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -48781,7 +48781,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48811,7 +48811,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -48841,7 +48841,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48871,7 +48871,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -48901,7 +48901,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -48931,7 +48931,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -48961,7 +48961,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -48991,7 +48991,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49021,7 +49021,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49051,7 +49051,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49081,7 +49081,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49111,7 +49111,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49141,7 +49141,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49171,7 +49171,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49201,7 +49201,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:mushroom_caves"
+          "biome": "clifftree:mushroom_caves"
         },
         {
           "parameters": {
@@ -49231,7 +49231,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49261,7 +49261,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49291,7 +49291,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -49321,7 +49321,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49351,7 +49351,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49381,7 +49381,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49411,7 +49411,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -49441,7 +49441,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -49471,7 +49471,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49501,7 +49501,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49531,7 +49531,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -49561,7 +49561,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49591,7 +49591,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49621,7 +49621,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49651,7 +49651,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49681,7 +49681,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49711,7 +49711,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -49741,7 +49741,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49771,7 +49771,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -49801,7 +49801,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49831,7 +49831,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -49861,7 +49861,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:mushroom_caves"
+          "biome": "clifftree:mushroom_caves"
         },
         {
           "parameters": {
@@ -49891,7 +49891,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -49921,7 +49921,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -49951,7 +49951,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -49981,7 +49981,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -50011,7 +50011,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -50071,7 +50071,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -50101,7 +50101,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -50131,7 +50131,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:frozen_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -50161,7 +50161,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -50191,7 +50191,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -50221,7 +50221,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -50251,7 +50251,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -50281,7 +50281,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -50311,7 +50311,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         },
         {
           "parameters": {
@@ -50341,7 +50341,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -50371,7 +50371,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -50401,7 +50401,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:lukewarm_caves"
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -50431,7 +50431,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:warm_caves"
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -50461,7 +50461,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:inferno"
+          "biome": "clifftree:inferno"
         },
         {
           "parameters": {
@@ -50491,7 +50491,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:caves"
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -50521,7 +50521,7 @@
             ],
             "offset": 0
           },
-          "biome": "cliffs_under_trees:cold_caves"
+          "biome": "clifftree:cold_caves"
         }
       ],
       "type": "minecraft:multi_noise"

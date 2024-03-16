@@ -2,6 +2,6 @@
   "values": [
     "#minecraft:base_stone_overworld",
     "#minecraft:cave_vines",
-    "#cliffs_under_trees:true_dirt"
+    "#clifftree:true_dirt"
   ]
 }

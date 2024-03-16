@@ -4000,127 +4000,127 @@
     },
     {
       "key": "biome_lpyej6tt",
-      "name": "cliffs_under_trees:cold_river",
+      "name": "clifftree:cold_river",
       "color": "#409fff"
     },
     {
       "key": "biome_lpyejvpt",
-      "name": "cliffs_under_trees:tropical_river",
+      "name": "clifftree:tropical_river",
       "color": "#004080"
     },
     {
       "key": "biome_lpyeka0y",
-      "name": "cliffs_under_trees:warm_river",
+      "name": "clifftree:warm_river",
       "color": "#0000a0"
     },
     {
       "key": "biome_lpyemplu",
-      "name": "cliffs_under_trees:sparse_forest",
+      "name": "clifftree:sparse_forest",
       "color": "#008000"
     },
     {
       "key": "biome_lpyet24u",
-      "name": "cliffs_under_trees:caves",
+      "name": "clifftree:caves",
       "color": "#888888"
     },
     {
       "key": "biome_lpyew918",
-      "name": "cliffs_under_trees:mushroom_caves",
+      "name": "clifftree:mushroom_caves",
       "color": "#ff80c0"
     },
     {
       "key": "biome_lpygnpus",
-      "name": "cliffs_under_trees:warm_caves",
+      "name": "clifftree:warm_caves",
       "color": "#808040"
     },
     {
       "key": "biome_lpygpfek",
-      "name": "cliffs_under_trees:cold_caves",
+      "name": "clifftree:cold_caves",
       "color": "#6e6e6e"
     },
     {
       "key": "biome_lpyhw0gu",
-      "name": "cliffs_under_trees:lukewarm_caves",
+      "name": "clifftree:lukewarm_caves",
       "color": "#696656"
     },
     {
       "key": "biome_lpyhxbye",
-      "name": "cliffs_under_trees:frozen_caves",
+      "name": "clifftree:frozen_caves",
       "color": "#626271"
     },
     {
       "key": "biome_lpyi22hi",
-      "name": "cliffs_under_trees:bog",
+      "name": "clifftree:bog",
       "color": "#655869"
     },
     {
       "key": "biome_lq4ljl12",
-      "name": "cliffs_under_trees:inferno",
+      "name": "clifftree:inferno",
       "color": "#a60000"
     },
     {
       "key": "biome_lri7mibv",
-      "name": "cliffs_under_trees:shrubland",
+      "name": "clifftree:shrubland",
       "color": "#ebcc52"
     },
     {
       "key": "biome_lri7mpc8",
-      "name": "cliffs_under_trees:oasis",
+      "name": "clifftree:oasis",
       "color": "#cfff11"
     },
     {
       "key": "biome_lrk7bbqw",
-      "name": "cliffs_under_trees:cold_beach",
+      "name": "clifftree:cold_beach",
       "color": "#e8f2a8"
     },
     {
       "key": "biome_lrk7fw1v",
-      "name": "cliffs_under_trees:lukewarm_beach",
+      "name": "clifftree:lukewarm_beach",
       "color": "#eaf558"
     },
     {
       "key": "biome_lrl31acw",
-      "name": "cliffs_under_trees:cold_stony_shore",
+      "name": "clifftree:cold_stony_shore",
       "color": "#888888"
     },
     {
       "key": "biome_lrl31mp7",
-      "name": "cliffs_under_trees:desert_cliff",
+      "name": "clifftree:desert_cliff",
       "color": "#9b8f84"
     },
     {
       "key": "biome_lrl32a94",
-      "name": "cliffs_under_trees:lukewarm_stony_shore",
+      "name": "clifftree:lukewarm_stony_shore",
       "color": "#8f8881"
     },
     {
       "key": "biome_lrl32vke",
-      "name": "cliffs_under_trees:snowy_stony_shore",
+      "name": "clifftree:snowy_stony_shore",
       "color": "#888d99"
     },
     {
       "key": "biome_lrq56h9a",
-      "name": "cliffs_under_trees:glacier_valley",
+      "name": "clifftree:glacier_valley",
       "color": "#60c5f4"
     },
     {
       "key": "biome_lrq571rk",
-      "name": "cliffs_under_trees:glacier_cliff",
+      "name": "clifftree:glacier_cliff",
       "color": "#8ea8b0"
     },
     {
       "key": "biome_lrq697ns",
-      "name": "cliffs_under_trees:snowy_old_growth_taiga",
+      "name": "clifftree:snowy_old_growth_taiga",
       "color": "#b0d37c"
     },
     {
       "key": "biome_lrqjz648",
-      "name": "cliffs_under_trees:tundra",
+      "name": "clifftree:tundra",
       "color": "#d9c4a6"
     },
     {
       "key": "biome_lszdtpt8",
-      "name": "cliffs_under_trees:stone_ocean",
+      "name": "clifftree:stone_ocean",
       "color": "#6964ac"
     },
     {

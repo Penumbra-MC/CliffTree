@@ -1,6 +1,6 @@
 {
   "angry_texture": "minecraft:textures/entity/wolf/wolf_black_angry.png",
-  "biomes": "#cliffs_under_trees:wolf_biomes/black",
+  "biomes": "#clifftree:wolf_biomes/black",
   "tame_texture": "minecraft:textures/entity/wolf/wolf_black_tame.png",
   "texture": "minecraft:textures/entity/wolf/wolf_black.png"
 }

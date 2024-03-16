@@ -1,5 +1,5 @@
 {
-  "feature": "cliffs_under_trees:ore_granite_buried",
+  "feature": "clifftree:ore_granite_buried",
   "placement": [
     {
       "type": "minecraft:rarity_filter",

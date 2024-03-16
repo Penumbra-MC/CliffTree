@@ -28,7 +28,7 @@
     "water_fog_color": 198666
   },
   "features": [
-    ["cliffs_under_trees:badlands_terracotta"],
+    ["clifftree:badlands_terracotta"],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -71,10 +71,10 @@
       "minecraft:underwater_magma",
       "minecraft:ore_gold_extra",
       "minecraft:disk_sand",
-      "cliffs_under_trees:disk_river_terracotta",
+      "clifftree:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "cliffs_under_trees:disk_red_sand",
-      "cliffs_under_trees:disk_red_sandstone"
+      "clifftree:disk_red_sand",
+      "clifftree:disk_red_sandstone"
     ],
     [],
     [
@@ -83,16 +83,16 @@
     ],
     [
       "minecraft:glow_lichen",
-      "cliffs_under_trees:patch_grass_red_sand",
+      "clifftree:patch_grass_red_sand",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_badlands",
       "minecraft:patch_pumpkin",
-      "cliffs_under_trees:patch_cactus_badlands"
+      "clifftree:patch_cactus_badlands"
     ],
     [ 
-    "cliffs_under_trees:extra_emerald_remove",
+    "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

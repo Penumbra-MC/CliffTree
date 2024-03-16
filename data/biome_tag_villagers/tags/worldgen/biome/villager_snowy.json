@@ -1,10 +1,10 @@
 {
 	"values": [
-		"cliffs_under_trees:glacier_cliff",
-		"cliffs_under_trees:frozen_caves",
-		"cliffs_under_trees:glacier_valley",
-		"cliffs_under_trees:snowy_old_growth_taiga",
-		"cliffs_under_trees:snowy_stony_shore",
-		"cliffs_under_trees:tundra"
+		"clifftree:glacier_cliff",
+		"clifftree:frozen_caves",
+		"clifftree:glacier_valley",
+		"clifftree:snowy_old_growth_taiga",
+		"clifftree:snowy_stony_shore",
+		"clifftree:tundra"
 	]
 }

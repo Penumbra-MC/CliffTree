@@ -79,11 +79,11 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "cliffs_under_trees:flower_dandelion"
+      "clifftree:flower_dandelion"
     ],
     [
-      "cliffs_under_trees:extra_gold_remove",
-      "cliffs_under_trees:extra_emerald_remove",
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -5,7 +5,7 @@
       {
         "chance": 0.45,
         "feature": {
-          "feature": "cliffs_under_trees:jungle_tree_alt",
+          "feature": "clifftree:jungle_tree_alt",
           "placement": [
             {
               "type": "minecraft:block_predicate_filter",
@@ -18,7 +18,7 @@
                     -1,
                     0
                   ],
-                  "tag": "cliffs_under_trees:sapling_cannot_grow_warm_no_root"
+                  "tag": "clifftree:sapling_cannot_grow_warm_no_root"
                 }
               }
             }
@@ -41,7 +41,7 @@
                     -1,
                     0
                   ],
-                  "tag": "cliffs_under_trees:sapling_cannot_grow_warm_no_root"
+                  "tag": "clifftree:sapling_cannot_grow_warm_no_root"
                 }
               }
             }

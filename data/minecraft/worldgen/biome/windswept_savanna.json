@@ -83,7 +83,7 @@
       "minecraft:patch_pumpkin"
     ],
     [
-      "cliffs_under_trees:extra_gold_remove",
+      "clifftree:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

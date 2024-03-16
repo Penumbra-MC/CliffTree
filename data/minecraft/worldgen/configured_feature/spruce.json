@@ -18,7 +18,7 @@
                     -1,
                     0
                   ],
-                  "tag": "cliffs_under_trees:sapling_cannot_grow_cold"
+                  "tag": "clifftree:sapling_cannot_grow_cold"
                 }
               }
             }
@@ -56,7 +56,7 @@
                         -1,
                         0
                       ],
-                      "tag": "cliffs_under_trees:sapling_cannot_grow_cold"
+                      "tag": "clifftree:sapling_cannot_grow_cold"
                     }
                   }
                 ]
@@ -80,7 +80,7 @@
                 -1,
                 0
               ],
-              "tag": "cliffs_under_trees:sapling_cannot_grow_cold"
+              "tag": "clifftree:sapling_cannot_grow_cold"
             }
           }
         }

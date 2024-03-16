@@ -14,8 +14,8 @@
     "water_fog_color": 1773608
   },
   "features": [
-    "cliffs_under_trees:end_spike",
-    "cliffs_under_trees:end_spike_surface"
+    "clifftree:end_spike",
+    "clifftree:end_spike_surface"
   ],
   "has_precipitation": false,
   "spawn_costs": {},

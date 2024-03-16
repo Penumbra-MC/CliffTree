@@ -61,13 +61,13 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "cliffs_under_trees:shore_gravel"
+      "clifftree:shore_gravel"
     ],
     [],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "cliffs_under_trees:ocean_rock_diorite"
+      "clifftree:ocean_rock_diorite"
     ],
     [
       "minecraft:glow_lichen",
@@ -81,8 +81,8 @@
       "minecraft:deep_kelp_cold"
     ],
     [
-      "cliffs_under_trees:extra_gold_remove",
-      "cliffs_under_trees:extra_emerald_remove",
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

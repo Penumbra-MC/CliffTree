@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#cliffs_under_trees:sapling_cannot_grow_warm",
-    "#cliffs_under_trees:sapling_cannot_grow_cold"
-  ]
-}

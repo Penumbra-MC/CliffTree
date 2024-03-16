@@ -9,9 +9,9 @@
     "minecraft:snowy_plains",
     "minecraft:plains",
     "minecraft:sunflower_plains",
-    "#cliffs_under_trees:caves",
-    "cliffs_under_trees:inferno",
-    "cliffs_under_trees:tundra",
-    "cliffs_under_trees:glacier_valley"
+    "#clifftree:caves",
+    "clifftree:inferno",
+    "clifftree:tundra",
+    "clifftree:glacier_valley"
   ]
 }

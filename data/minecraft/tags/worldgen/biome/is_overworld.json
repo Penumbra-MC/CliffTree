@@ -1,10 +1,10 @@
 {
     "values": [
-      "#cliffs_under_trees:all_caves",
-      "#cliffs_under_trees:is_cliff",
-      "#cliffs_under_trees:is_swamp",
-      "#cliffs_under_trees:snowy",
-      "#cliffs_under_trees:is_desert",
+      "#clifftree:all_caves",
+      "#clifftree:is_cliff",
+      "#clifftree:is_swamp",
+      "#clifftree:snowy",
+      "#clifftree:is_desert",
       "#is_beach",
       "#is_river",
       "#is_forest"

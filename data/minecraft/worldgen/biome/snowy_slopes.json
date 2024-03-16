@@ -47,7 +47,7 @@
     [],
     [],
     [
-      "cliffs_under_trees:ice_blobs",
+      "clifftree:ice_blobs",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -78,7 +78,7 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:ore_emerald",
-      "cliffs_under_trees:ice_to_snow"
+      "clifftree:ice_to_snow"
     ],
     [
       "minecraft:ore_infested"
@@ -92,12 +92,12 @@
       "minecraft:glow_lichen",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "cliffs_under_trees:snow_patches"
+      "clifftree:snow_patches"
     ],
     [
-      "cliffs_under_trees:extra_gold_remove",
+      "clifftree:extra_gold_remove",
       "minecraft:freeze_top_layer",
-      "cliffs_under_trees:remove_snow_from_ice"
+      "clifftree:remove_snow_from_ice"
     ]
   ],
   "has_precipitation": true,

@@ -31,11 +31,11 @@
     [],
     [
       "minecraft:lake_lava_underground",
-      "cliffs_under_trees:cherry_pool"
+      "clifftree:cherry_pool"
     ],
     [
       "minecraft:amethyst_geode",
-      "cliffs_under_trees:fallen_log_cherry"
+      "clifftree:fallen_log_cherry"
     ],
     [
       "minecraft:monster_room",
@@ -81,7 +81,7 @@
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "cliffs_under_trees:spring_cherry_cliff"
+      "clifftree:spring_cherry_cliff"
     ],
     [
       "minecraft:glow_lichen",
@@ -89,11 +89,11 @@
       "minecraft:patch_grass_plain",
       "minecraft:flower_cherry",
       "minecraft:trees_cherry",
-      "cliffs_under_trees:flower_pink_tulip",
-      "cliffs_under_trees:cherry_snow",
-      "cliffs_under_trees:flower_cherry_snow"
+      "clifftree:flower_pink_tulip",
+      "clifftree:cherry_snow",
+      "clifftree:flower_cherry_snow"
     ],
-    [ "cliffs_under_trees:extra_gold_remove",
+    [ "clifftree:extra_gold_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

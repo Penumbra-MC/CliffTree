@@ -80,7 +80,7 @@
       "minecraft:glow_lichen",
       "minecraft:forest_flowers",
       "minecraft:trees_birch_and_oak",
-      "cliffs_under_trees:trees_sparse_forest_extra",
+      "clifftree:trees_sparse_forest_extra",
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
@@ -88,8 +88,8 @@
       "minecraft:patch_pumpkin"
     ],
     [ 
-      "cliffs_under_trees:extra_gold_remove",
-      "cliffs_under_trees:extra_emerald_remove",
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
