@@ -11467,7 +11467,7 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
+              -0.05
             ],
             "continentalness": [
               -0.11,
@@ -12251,11 +12251,161 @@
             ],
             "continentalness": [
               -0.2,
-              1
+              -0.11
             ],
             "erosion": [
               -1,
-              -0.375
+              0.55
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:frozen_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.2,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:cold_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.2,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.2,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lukewarm_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.2,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:warm_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
             ],
             "temperature": [
               -1,
@@ -12271,7 +12421,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:glacier_valley"
+          "biome": "minecraft:frozen_river"
         },
         {
           "parameters": {
@@ -12280,7 +12430,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12310,7 +12460,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12340,7 +12490,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12370,7 +12520,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12400,7 +12550,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12430,7 +12580,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12460,7 +12610,7 @@
               0.05
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.03
             ],
             "erosion": [
@@ -12487,15 +12637,15 @@
           "parameters": {
             "weirdness": [
               -0.05,
-              0.05
+              0.26666668
             ],
             "continentalness": [
-              -0.2,
+              0.03,
               1
             ],
             "erosion": [
-              -0.375,
-              0.55
+              -1,
+              -0.375
             ],
             "temperature": [
               -1,
@@ -12511,7 +12661,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:frozen_river"
+          "biome": "clifftree:glacier_valley"
         },
         {
           "parameters": {
@@ -13112,6 +13262,36 @@
             "offset": 0
           },
           "biome": "minecraft:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:frozen_river"
         },
         {
           "parameters": {
@@ -14132,6 +14312,36 @@
             "offset": 0
           },
           "biome": "clifftree:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:glacier_valley"
         },
         {
           "parameters": {
