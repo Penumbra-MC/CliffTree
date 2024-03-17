@@ -1231,7 +1231,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -1291,7 +1291,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -9421,7 +9421,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -9481,7 +9481,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -11281,7 +11281,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -11341,7 +11341,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -13741,7 +13741,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -13801,7 +13801,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -27841,7 +27841,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -27901,7 +27901,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -33661,7 +33661,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -33721,7 +33721,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -35101,7 +35101,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -35161,7 +35161,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {
@@ -35881,7 +35881,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_beach"
+          "biome": "clifftree:gravelly_beach"
         },
         {
           "parameters": {
@@ -35941,7 +35941,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_beach"
+          "biome": "clifftree:temperate_beach"
         },
         {
           "parameters": {

@@ -1638,8 +1638,8 @@
                                   },
                                   {
                                     "if_true": {
-                                      "noise": "minecraft:gravel",
-                                      "min_threshold": 0.2,
+                                      "noise": "minecraft:surface",
+                                      "min_threshold": 0.05,
                                       "max_threshold": 0.4,
                                       "type": "minecraft:noise_threshold"
                                     },
@@ -1824,7 +1824,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:beach",
-                                  "clifftree:lukewarm_beach",
+                                  "clifftree:temperate_beach",
                                   "minecraft:warm_ocean",
                                   "minecraft:lukewarm_ocean",
                                   "minecraft:deep_lukewarm_ocean"
@@ -1864,7 +1864,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:snowy_beach",
-                                  "clifftree:cold_beach"
+                                  "clifftree:gravelly_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2946,8 +2946,8 @@
                                   },
                                   {
                                     "if_true": {
-                                      "noise": "minecraft:gravel",
-                                      "min_threshold": 0.2,
+                                      "noise": "minecraft:surface",
+                                      "min_threshold": 0.05,
                                       "max_threshold": 0.4,
                                       "type": "minecraft:noise_threshold"
                                     },
@@ -3135,7 +3135,7 @@
                                   "minecraft:lukewarm_ocean",
                                   "deep_lukewarm_ocean",
                                   "minecraft:beach",
-                                  "clifftree:lukewarm_beach"
+                                  "clifftree:temperate_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3172,7 +3172,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:snowy_beach",
-                                  "clifftree:cold_beach"
+                                  "clifftree:gravelly_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3526,7 +3526,7 @@
                         "lukewarm_ocean",
                         "deep_lukewarm_ocean",
                         "minecraft:beach",
-                        "clifftree:lukewarm_beach"
+                        "clifftree:temperate_beach"
                       ],
                       "type": "minecraft:biome"
                     },
@@ -3553,7 +3553,7 @@
                       "biome_is": [
                         
                         "minecraft:snowy_beach",
-                        "clifftree:cold_beach"
+                        "clifftree:gravelly_beach"
                       ],
                       "type": "minecraft:biome"
                     },

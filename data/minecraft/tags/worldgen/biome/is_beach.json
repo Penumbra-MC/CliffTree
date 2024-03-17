@@ -1,7 +1,7 @@
 {
   "values": [
-    "clifftree:lukewarm_beach",
-    "clifftree:cold_beach",
+    "clifftree:temperate_beach",
+    "clifftree:gravelly_beach",
     "minecraft:beach",
     "minecraft:snowy_beach"
   ]
