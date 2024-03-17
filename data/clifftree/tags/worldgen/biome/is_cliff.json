@@ -1,8 +1,8 @@
 {
   "values": [
-    "clifftree:cold_stony_shore",
-    "clifftree:snowy_stony_shore",
-    "clifftree:lukewarm_stony_shore",
+    "clifftree:diorite_shore",
+    "clifftree:snowy_diorite_shore",
+    "clifftree:granite_shore",
     "minecraft:stony_shore",
     "clifftree:glacier_cliff",
     "clifftree:desert_cliff"

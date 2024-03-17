@@ -79,7 +79,7 @@
     "g": 245,
     "b": 88
   },
-  "clifftree:cold_stony_shore": {
+  "clifftree:diorite_shore": {
     "r": 136,
     "g": 136,
     "b": 136
@@ -89,12 +89,12 @@
     "g": 143,
     "b": 132
   },
-  "clifftree:lukewarm_stony_shore": {
+  "clifftree:granite_shore": {
     "r": 143,
     "g": 136,
     "b": 129
   },
-  "clifftree:snowy_stony_shore": {
+  "clifftree:snowy_diorite_shore": {
     "r": 136,
     "g": 141,
     "b": 153

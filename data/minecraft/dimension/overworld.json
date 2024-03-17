@@ -391,7 +391,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -421,7 +421,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -481,7 +481,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {
@@ -9271,7 +9271,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -9301,7 +9301,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -9361,7 +9361,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {
@@ -13561,7 +13561,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -13591,7 +13591,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -13651,7 +13651,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {
@@ -24841,7 +24841,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -24871,7 +24871,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -24931,7 +24931,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {
@@ -27241,7 +27241,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -27271,7 +27271,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -27331,7 +27331,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {
@@ -33481,7 +33481,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -33511,7 +33511,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -33571,7 +33571,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {
@@ -42661,7 +42661,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:snowy_stony_shore"
+          "biome": "clifftree:snowy_diorite_shore"
         },
         {
           "parameters": {
@@ -42691,7 +42691,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_stony_shore"
+          "biome": "clifftree:diorite_shore"
         },
         {
           "parameters": {
@@ -42751,7 +42751,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_stony_shore"
+          "biome": "clifftree:granite_shore"
         },
         {
           "parameters": {

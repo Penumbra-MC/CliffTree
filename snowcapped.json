@@ -4080,7 +4080,7 @@
     },
     {
       "key": "biome_lrl31acw",
-      "name": "clifftree:cold_stony_shore",
+      "name": "clifftree:diorite_shore",
       "color": "#888888"
     },
     {
@@ -4090,12 +4090,12 @@
     },
     {
       "key": "biome_lrl32a94",
-      "name": "clifftree:lukewarm_stony_shore",
+      "name": "clifftree:granite_shore",
       "color": "#8f8881"
     },
     {
       "key": "biome_lrl32vke",
-      "name": "clifftree:snowy_stony_shore",
+      "name": "clifftree:snowy_diorite_shore",
       "color": "#888d99"
     },
     {
