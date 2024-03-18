@@ -71,6 +71,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "clifftree:trees_temperate_beach",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
