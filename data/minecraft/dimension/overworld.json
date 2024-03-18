@@ -27401,7 +27401,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.2225,
@@ -27491,7 +27491,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.2225,
@@ -27503,7 +27503,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.1
             ],
             "depth": [
               0.2,
@@ -27522,6 +27522,36 @@
             "continentalness": [
               -0.2,
               0.3
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              -0.2,
+              0.8
             ],
             "erosion": [
               -0.2225,
@@ -27671,7 +27701,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.2225,
@@ -28631,7 +28661,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -28721,7 +28751,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -28733,7 +28763,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.1
             ],
             "depth": [
               0.2,
@@ -28752,6 +28782,36 @@
             "continentalness": [
               0.03,
               0.3
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -28901,7 +28961,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -29118,36 +29178,6 @@
               -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
@@ -29157,11 +29187,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -29182,16 +29212,16 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.7
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:old_growth_spruce_taiga"
         },
         {
           "parameters": {
@@ -29213,15 +29243,15 @@
             ],
             "humidity": [
               -0.1,
-              0.7
+              0.3
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -29239,7 +29269,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -29251,13 +29281,13 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
             "weirdness": [
               -1,
-              -0.26666668
+              -0.93333334
             ],
             "continentalness": [
               0.3,
@@ -29277,41 +29307,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -29324,16 +29324,16 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
-              0.45
+              -0.78,
+              0.55
             ],
             "temperature": [
-              -0.72,
-              -0.45
+              0.2,
+              0.55
             ],
             "humidity": [
-              -1,
-              -0.1
+              0.3,
+              0.7
             ],
             "depth": [
               0.2,
@@ -29341,7 +29341,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:tundra"
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -29392,7 +29392,7 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.3
             ],
             "depth": [
@@ -29402,36 +29402,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_spruce_taiga"
         },
         {
           "parameters": {
@@ -29552,36 +29522,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -29753,7 +29693,7 @@
             ],
             "humidity": [
               -1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -29762,36 +29702,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.7666667
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:glacier_cliff"
         },
         {
           "parameters": {
@@ -29843,7 +29753,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -29852,36 +29762,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.7666667
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -30212,36 +30092,6 @@
             "offset": 0
           },
           "biome": "clifftree:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.7666667
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              0.05,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -30705,7 +30555,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -30735,7 +30585,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -30757,7 +30607,7 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
-              -0.4
+              1
             ],
             "continentalness": [
               0.03,
@@ -30765,7 +30615,7 @@
             ],
             "erosion": [
               -0.375,
-              -0.2225
+              0.45
             ],
             "temperature": [
               -0.72,
@@ -30777,11 +30627,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "clifftree:tundra"
         },
         {
           "parameters": {
@@ -30807,11 +30657,41 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:taiga"
         },
         {
           "parameters": {
@@ -30832,16 +30712,16 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.7
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:old_growth_spruce_taiga"
         },
         {
           "parameters": {
@@ -30863,15 +30743,45 @@
             ],
             "humidity": [
               -0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:meadow"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.3,
               0.7
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -30889,7 +30799,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -30901,29 +30811,29 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
             "weirdness": [
               -0.93333334,
-              1
+              -0.4
             ],
             "continentalness": [
               0.03,
               0.8
             ],
             "erosion": [
-              0.05,
-              0.45
+              -0.375,
+              -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
+              0.2,
+              0.55
             ],
             "humidity": [
-              -1,
-              -0.1
+              -0.1,
+              0.3
             ],
             "depth": [
               0.2,
@@ -30931,7 +30841,37 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:tundra"
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -30967,7 +30907,7 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
-              -0.05
+              1
             ],
             "continentalness": [
               0.03,
@@ -30982,7 +30922,7 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.3
             ],
             "depth": [
@@ -31147,36 +31087,6 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
               -0.4
             ],
             "continentalness": [
@@ -31248,36 +31158,6 @@
               0.05
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
@@ -31287,11 +31167,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -31312,16 +31192,16 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.7
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:old_growth_spruce_taiga"
         },
         {
           "parameters": {
@@ -31343,15 +31223,15 @@
             ],
             "humidity": [
               -0.1,
-              0.7
+              0.3
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -31369,7 +31249,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -31381,7 +31261,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
@@ -31407,41 +31287,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -31523,36 +31373,6 @@
             ],
             "humidity": [
               -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.3,
               0.7
             ],
             "depth": [
@@ -31687,36 +31507,6 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:glacier_cliff"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
               -0.4
             ],
             "continentalness": [
@@ -31763,7 +31553,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -31772,36 +31562,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -32102,36 +31862,6 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.8
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -32586,66 +32316,6 @@
         {
           "parameters": {
             "weirdness": [
-              -0.7666667,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:glacier_cliff"
-        },
-        {
-          "parameters": {
-            "weirdness": [
               -0.56666666,
               -0.4
             ],
@@ -32693,7 +32363,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -32702,36 +32372,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -33058,66 +32698,6 @@
             "depth": [
               0.2,
               0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
             ],
             "offset": 0
           },
@@ -34211,7 +33791,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -34271,7 +33851,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -34283,6 +33863,36 @@
             ],
             "humidity": [
               -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
               0.3
             ],
             "depth": [
@@ -34301,7 +33911,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -34451,7 +34061,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -34548,36 +34158,6 @@
               -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
@@ -34587,11 +34167,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -34612,16 +34192,16 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.7
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:old_growth_spruce_taiga"
         },
         {
           "parameters": {
@@ -34643,15 +34223,15 @@
             ],
             "humidity": [
               -0.1,
-              0.7
+              0.3
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -34669,7 +34249,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -34681,29 +34261,29 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
             "weirdness": [
               -0.4,
-              0.4
+              -0.26666668
             ],
             "continentalness": [
               0.3,
               0.8
             ],
             "erosion": [
-              -0.2225,
-              0.45
+              -0.78,
+              -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
+              0.2,
+              0.55
             ],
             "humidity": [
-              -1,
-              -0.1
+              -0.1,
+              0.3
             ],
             "depth": [
               0.2,
@@ -34711,7 +34291,37 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:tundra"
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -34747,7 +34357,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              0.4
             ],
             "continentalness": [
               0.3,
@@ -34762,7 +34372,7 @@
               -0.15
             ],
             "humidity": [
-              -0.1,
+              0.1,
               0.3
             ],
             "depth": [
@@ -34772,36 +34382,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.05
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_spruce_taiga"
         },
         {
           "parameters": {
@@ -34897,7 +34477,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              0.4
+              1
             ],
             "continentalness": [
               0.3,
@@ -34922,36 +34502,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -37781,37 +37331,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -38088,50 +37608,20 @@
               -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
             "humidity": [
               -1,
-              0.1
+              -0.35
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
@@ -38152,16 +37642,16 @@
               -0.15
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              0.3
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -38182,16 +37672,46 @@
               0.2
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              -0.1
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -38209,7 +37729,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -38221,13 +37741,13 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
             "weirdness": [
               0.26666668,
-              1
+              0.4
             ],
             "continentalness": [
               0.3,
@@ -38247,17 +37767,17 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
             "weirdness": [
               0.26666668,
-              1
+              0.4
             ],
             "continentalness": [
               0.3,
@@ -38277,11 +37797,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_caves"
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -38312,66 +37832,6 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_pine_taiga"
         },
         {
           "parameters": {
@@ -38543,7 +38003,7 @@
             ],
             "humidity": [
               -1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -38603,7 +38063,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -38612,36 +38072,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -39198,36 +38628,6 @@
               1
             ],
             "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.8
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
               -0.45,
               -0.15
             ],
@@ -39795,7 +39195,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -39825,7 +39225,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -39858,50 +39258,20 @@
               -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.8
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
             "humidity": [
               -1,
-              0.1
+              -0.35
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
@@ -39922,16 +39292,46 @@
               -0.15
             ],
             "humidity": [
-              0.1,
+              -0.35,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:meadow"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.3,
               0.7
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:old_growth_pine_taiga"
         },
         {
           "parameters": {
@@ -39952,16 +39352,46 @@
               0.2
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              -0.1
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -39979,7 +39409,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -39991,29 +39421,29 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
             "weirdness": [
               0.4,
-              1
+              0.93333334
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
-              -0.2225,
-              0.45
+              -0.375,
+              -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
+              0.2,
+              0.55
             ],
             "humidity": [
-              -1,
-              -0.1
+              -0.1,
+              0.3
             ],
             "depth": [
               0.2,
@@ -40021,7 +39451,37 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:tundra"
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -40121,37 +39581,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.2225,
@@ -40172,36 +39602,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -40308,50 +39708,20 @@
               0.05
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
             "humidity": [
               -1,
-              0.1
+              -0.35
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
@@ -40372,16 +39742,16 @@
               -0.15
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              0.3
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -40402,16 +39772,46 @@
               0.2
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              -0.1
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -40429,7 +39829,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -40441,7 +39841,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
@@ -40467,11 +39867,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -40497,11 +39897,11 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:lukewarm_caves"
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -40532,66 +39932,6 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_pine_taiga"
         },
         {
           "parameters": {
@@ -40793,36 +40133,6 @@
             ],
             "humidity": [
               -1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -1,
-              0.2
-            ],
-            "humidity": [
-              0.3,
               0.7
             ],
             "depth": [
@@ -41003,7 +40313,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -41012,36 +40322,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -41402,36 +40682,6 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -41797,36 +41047,6 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:glacier_cliff"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
               0.93333334
             ],
             "continentalness": [
@@ -41873,7 +41093,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.7
             ],
             "depth": [
               0.2,
@@ -41882,36 +41102,6 @@
             "offset": 0
           },
           "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:snowy_taiga"
         },
         {
           "parameters": {
@@ -42348,36 +41538,6 @@
               1
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              0.45,
-              1
-            ],
-            "temperature": [
               -0.45,
               -0.15
             ],
@@ -42392,36 +41552,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -43601,7 +42731,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -43721,7 +42851,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -43811,7 +42941,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -43841,7 +42971,7 @@
             ],
             "continentalness": [
               0.03,
-              0.3
+              0.8
             ],
             "erosion": [
               -0.78,
@@ -43998,50 +43128,20 @@
               -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.2,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.78,
-              -0.2225
-            ],
-            "temperature": [
               -0.45,
               0.2
             ],
             "humidity": [
               -1,
-              0.1
+              -0.35
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
         },
         {
           "parameters": {
@@ -44062,16 +43162,16 @@
               -0.15
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              0.3
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:meadow"
         },
         {
           "parameters": {
@@ -44092,16 +43192,46 @@
               0.2
             ],
             "humidity": [
-              0.1,
-              0.7
+              -0.35,
+              -0.1
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
+          "biome": "minecraft:cherry_grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:old_growth_birch_forest"
         },
         {
           "parameters": {
@@ -44119,7 +43249,7 @@
             ],
             "temperature": [
               0.2,
-              1
+              0.55
             ],
             "humidity": [
               -1,
@@ -44131,7 +43261,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "minecraft:savanna_plateau"
         },
         {
           "parameters": {
@@ -44144,16 +43274,16 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
-              0.45
+              -0.78,
+              -0.2225
             ],
             "temperature": [
-              -0.72,
-              -0.45
+              0.2,
+              0.55
             ],
             "humidity": [
-              -1,
-              -0.1
+              -0.1,
+              0.3
             ],
             "depth": [
               0.2,
@@ -44161,7 +43291,37 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:tundra"
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              0.7
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -44268,36 +43428,6 @@
               0.45
             ],
             "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
               -0.15,
               0.2
             ],
@@ -44342,66 +43472,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              0.8
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              0.7
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -46147,6 +45217,36 @@
           "parameters": {
             "weirdness": [
               -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.93333334
             ],
             "continentalness": [
@@ -46484,7 +45584,7 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
+              -0.375,
               1
             ],
             "temperature": [
@@ -46514,7 +45614,7 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
+              -0.375,
               1
             ],
             "temperature": [
@@ -46544,7 +45644,7 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
+              -0.375,
               1
             ],
             "temperature": [
@@ -46554,6 +45654,36 @@
             "humidity": [
               0.3,
               0.7
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
             ],
             "depth": [
               0.29,
@@ -46592,6 +45722,36 @@
             "offset": 0
           },
           "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
         },
         {
           "parameters": {
@@ -46673,36 +45833,6 @@
             ],
             "humidity": [
               -1,
-              0.7
-            ],
-            "depth": [
-              0.29,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
               0.7
             ],
             "depth": [
@@ -46883,36 +46013,6 @@
             ],
             "humidity": [
               -1,
-              0.7
-            ],
-            "depth": [
-              0.29,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
               0.7
             ],
             "depth": [
@@ -48276,6 +47376,36 @@
         {
           "parameters": {
             "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.78,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
               0.4,
               0.93333334
             ],
@@ -48554,7 +47684,7 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
+              -0.375,
               1
             ],
             "temperature": [
@@ -48584,7 +47714,7 @@
               0.8
             ],
             "erosion": [
-              -0.2225,
+              -0.375,
               1
             ],
             "temperature": [
@@ -48594,6 +47724,66 @@
             "humidity": [
               0.3,
               0.7
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93333334
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
             ],
             "depth": [
               0.29,
@@ -48653,36 +47843,6 @@
             ],
             "humidity": [
               -1,
-              0.7
-            ],
-            "depth": [
-              0.29,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
               0.7
             ],
             "depth": [
@@ -48803,36 +47963,6 @@
             ],
             "humidity": [
               -1,
-              0.7
-            ],
-            "depth": [
-              0.29,
-              0.895
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
               0.7
             ],
             "depth": [

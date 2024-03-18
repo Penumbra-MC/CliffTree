@@ -2216,7 +2216,7 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "layout_lrq586p0",
+          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
@@ -2224,7 +2224,7 @@
           "layout_lrq586p0",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "layout_lrq586p0",
+          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
@@ -2266,51 +2266,51 @@
       "name": "Surface plateau caves",
       "array": [
         [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
           "layout_lsqku3dj"
         ],
         [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
           "layout_lsqku3dj"
         ],
         [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
           "layout_lsqku3dj"
         ],
         [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_lsqku3dj"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
           "layout_lsqku3dj"
         ],
         [
           "biome_lpygnpus",
           "biome_lpygnpus",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj"
-        ],
-        [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
           "layout_lsqku3dj"
         ]
       ]
