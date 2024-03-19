@@ -1418,9 +1418,9 @@
           "layout_ktoepeor"
         ],
         [
+          "minecraft:cherry_grove",
           "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
+          "minecraft:taiga",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor"
@@ -1428,8 +1428,8 @@
         [
           "minecraft:flower_forest",
           "layout_ktoepeor",
-          "minecraft:birch_forest/biome_lpyemplu",
-          "layout_ktoepeor",
+          "biome_lpyemplu",
+          "minecraft:birch_forest",
           "layout_ktoepeor",
           "layout_ktoepeor"
         ],
@@ -1437,9 +1437,9 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "minecraft:plains",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
+          "minecraft:jungle_edge",
+          "minecraft:bamboo_jungle",
+          "minecraft:bamboo_jungle"
         ],
         [
           "layout_ktoikw89",
