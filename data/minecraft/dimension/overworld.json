@@ -3383,7 +3383,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -3408,12 +3408,42 @@
               0.55
             ],
             "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:windswept_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
               -0.15,
               0.2
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -6923,7 +6953,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -6948,12 +6978,42 @@
               0.55
             ],
             "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:windswept_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
               -0.15,
               0.2
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -9697,7 +9757,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -9709,7 +9769,7 @@
             ],
             "temperature": [
               -0.15,
-              0.2
+              0.55
             ],
             "humidity": [
               -0.1,
@@ -9782,36 +9842,6 @@
             "offset": 0
           },
           "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.26666668
-            ],
-            "continentalness": [
-              -0.11,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -10567,7 +10597,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               0.03,
@@ -10579,7 +10609,7 @@
             ],
             "temperature": [
               -0.15,
-              0.2
+              0.55
             ],
             "humidity": [
               -0.1,
@@ -11775,7 +11805,7 @@
             ],
             "erosion": [
               -1,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.15,
@@ -11791,7 +11821,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:sparse_forest"
+          "biome": "minecraft:birch_forest"
         },
         {
           "parameters": {
@@ -11958,7 +11988,7 @@
               0.55
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
@@ -18593,7 +18623,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -18618,12 +18648,42 @@
               0.55
             ],
             "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:windswept_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
               -0.15,
               0.2
             ],
             "humidity": [
               -1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -22703,7 +22763,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.7
             ],
             "depth": [
               0,
@@ -22728,12 +22788,42 @@
               0.55
             ],
             "temperature": [
+              -1,
+              0.2
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:windswept_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
               -0.15,
               0.2
             ],
             "humidity": [
               0.3,
-              1
+              0.7
             ],
             "depth": [
               0,

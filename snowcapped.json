@@ -489,7 +489,7 @@
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
-          "minecraft:extreme_hills"
+          "minecraft:wooded_mountains"
         ],
         [
           "minecraft:gravelly_hills",
@@ -497,7 +497,7 @@
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
-          "minecraft:extreme_hills"
+          "minecraft:wooded_mountains"
         ],
         [
           "minecraft:gravelly_hills",
@@ -505,7 +505,7 @@
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
-          "minecraft:extreme_hills"
+          "minecraft:wooded_mountains"
         ],
         [
           "minecraft:extreme_hills",
@@ -513,7 +513,7 @@
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
-          "minecraft:extreme_hills"
+          "minecraft:wooded_mountains"
         ],
         [
           "layout_ktoepeor",
@@ -1428,7 +1428,7 @@
         [
           "minecraft:flower_forest",
           "layout_ktoepeor",
-          "biome_lpyemplu",
+          "minecraft:birch_forest/biome_lpyemplu",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor"
