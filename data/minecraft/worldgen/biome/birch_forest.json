@@ -22,6 +22,7 @@
       "sound": "minecraft:music.overworld.forest"
     },
     "sky_color": 6073571,
+    "grass_color": 9355614,
     "water_color": 1073063,
     "water_fog_color": 198410
   },
@@ -31,7 +32,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "clifftree:sparse_forest_rock"
     ],
     [
       "minecraft:monster_room",
@@ -80,7 +82,7 @@
       "minecraft:forest_flowers",
       "minecraft:trees_birch",
       "minecraft:flower_default",
-      "minecraft:patch_grass_forest",
+      "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
