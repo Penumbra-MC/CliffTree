@@ -1398,60 +1398,6 @@
       ]
     },
     {
-      "key": "layout_lrq5rnqs",
-      "name": "Fjord",
-      "array": [
-        [
-          "biome_lrq56h9a",
-          "biome_lrq56h9a",
-          "biome_lrq56h9a",
-          "biome_lrq56h9a",
-          "biome_lrq56h9a",
-          "biome_lrq56h9a"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ]
-      ]
-    },
-    {
       "key": "layout_lrr8mjn3",
       "name": "Valley",
       "array": [
@@ -2476,6 +2422,60 @@
           "minecraft:lush_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_ltxy18kz",
+      "name": "River shore",
+      "array": [
+        [
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
+        ],
+        [
+          "biome_lpyej6tt",
+          "biome_lpyej6tt",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
+        ],
+        [
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk"
+        ],
+        [
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk"
+        ],
+        [
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk"
+        ],
+        [
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk",
+          "layout_ktoin4kk"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2520,12 +2520,12 @@
           "layout_ktoin4kk"
         ],
         [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
           "layout_ktoiz1xt"
         ],
         [
