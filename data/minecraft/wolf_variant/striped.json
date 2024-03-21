@@ -2,5 +2,5 @@
   "angry_texture": "minecraft:textures/entity/wolf/wolf_striped_angry.png",
   "biomes": "#clifftree:wolf_biomes/striped",
   "tame_texture": "minecraft:textures/entity/wolf/wolf_striped_tame.png",
-  "texture": "minecraft:textures/entity/wolf/wolf_striped.png"
+  "wild_texture": "minecraft:textures/entity/wolf/wolf_striped.png"
 }

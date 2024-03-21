@@ -2,5 +2,5 @@
   "angry_texture": "minecraft:textures/entity/wolf/wolf_ashen_angry.png",
   "biomes": "#clifftree:wolf_biomes/ashen",
   "tame_texture": "minecraft:textures/entity/wolf/wolf_ashen_tame.png",
-  "texture": "minecraft:textures/entity/wolf/wolf_ashen.png"
+  "wild_texture": "minecraft:textures/entity/wolf/wolf_ashen.png"
 }
