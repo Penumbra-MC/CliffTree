@@ -1,6 +1,6 @@
 {
-  "angry_texture": "minecraft:textures/entity/wolf/wolf_spotted_angry.png",
+  "angry_texture": "minecraft:entity/wolf/wolf_spotted_angry.png",
   "biomes": "#clifftree:wolf_biomes/spotted",
-  "tame_texture": "minecraft:textures/entity/wolf/wolf_spotted_tame.png",
-  "wild_texture": "minecraft:textures/entity/wolf/wolf_spotted.png"
+  "tame_texture": "minecraft:entity/wolf/wolf_spotted_tame.png",
+  "wild_texture": "minecraft:entity/wolf/wolf_spotted.png"
 }
