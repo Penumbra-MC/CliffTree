@@ -80,8 +80,7 @@
     ],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:spring_cherry_cliff"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
