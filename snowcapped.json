@@ -3079,8 +3079,8 @@
           "layout_lt2ms3x3"
         ],
         [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
@@ -3088,8 +3088,8 @@
           "layout_lt2ms3x3"
         ],
         [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
@@ -4220,6 +4220,11 @@
       "color": "#888888"
     },
     {
+      "key": "biome_lrq56h9a",
+      "name": "clifftree:glacier_valley",
+      "color": "#60c5f4"
+    },
+    {
       "key": "biome_lrl31mp7",
       "name": "clifftree:desert_cliff",
       "color": "#9b8f84"
@@ -4233,11 +4238,6 @@
       "key": "biome_lrl32vke",
       "name": "clifftree:snowy_diorite_shore",
       "color": "#888d99"
-    },
-    {
-      "key": "biome_lrq56h9a",
-      "name": "clifftree:glacier_valley",
-      "color": "#60c5f4"
     },
     {
       "key": "biome_lrq571rk",
