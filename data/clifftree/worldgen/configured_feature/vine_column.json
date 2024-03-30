@@ -16,10 +16,8 @@
               {
                 "height": {
                   "type": "minecraft:biased_to_bottom",
-                  "value": {
                     "min_inclusive": 5,
                     "max_inclusive": 12
-                  }
                 },
                 "provider": {
                   "type": "minecraft:simple_state_provider",
@@ -73,10 +71,8 @@
               {
                 "height": {
                   "type": "minecraft:uniform",
-                  "value": {
                     "min_inclusive": 5,
                     "max_inclusive": 16
-                  }
                 },
                 "provider": {
                   "type": "minecraft:simple_state_provider",
@@ -130,10 +126,8 @@
               {
                 "height": {
                   "type": "minecraft:uniform",
-                  "value": {
                     "min_inclusive": 5,
                     "max_inclusive": 16
-                  }
                 },
                 "provider": {
                   "type": "minecraft:simple_state_provider",
@@ -187,10 +181,8 @@
               {
                 "height": {
                   "type": "minecraft:uniform",
-                  "value": {
                     "min_inclusive": 5,
                     "max_inclusive": 16
-                  }
                 },
                 "provider": {
                   "type": "minecraft:simple_state_provider",

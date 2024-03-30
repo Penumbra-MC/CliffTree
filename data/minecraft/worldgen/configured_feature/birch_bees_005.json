@@ -50,10 +50,8 @@
               "type": "minecraft:cherry_foliage_placer",
               "radius": {
                 "type": "minecraft:biased_to_bottom",
-                "value": {
                   "min_inclusive": 3,
                   "max_inclusive": 4
-                }
               },
               "offset": 0,
               "height": 5,

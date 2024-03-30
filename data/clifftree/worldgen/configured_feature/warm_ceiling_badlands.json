@@ -4,10 +4,8 @@
       "surface": "ceiling",
       "depth": {
           "type": "minecraft:uniform",
-          "value": {
               "min_inclusive": 8,
               "max_inclusive": 12
-          }
       },
       "vertical_range": 12,
       "extra_bottom_block_chance": 0.8,

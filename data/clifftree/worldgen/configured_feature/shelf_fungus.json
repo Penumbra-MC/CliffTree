@@ -64,10 +64,8 @@
                 "type": "minecraft:acacia_foliage_placer",
                 "radius": {
                   "type": "minecraft:biased_to_bottom",
-                  "value": {
                     "min_inclusive": 2,
                     "max_inclusive": 3
-                  }
                 },
                 "offset": 0
               },
@@ -138,10 +136,8 @@
             "type": "minecraft:acacia_foliage_placer",
             "radius": {
               "type": "minecraft:biased_to_bottom",
-              "value": {
                 "min_inclusive": 2,
                 "max_inclusive": 3
-              }
             },
             "offset": 0
           },

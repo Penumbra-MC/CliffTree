@@ -53,10 +53,8 @@
               },
               "trunk_offset_y": {
                 "type": "minecraft:uniform",
-                "value": {
                   "min_inclusive": 3,
                   "max_inclusive": 7
-                }
               },
               "above_root_placement": {
                 "above_root_provider": {
@@ -94,17 +92,13 @@
               "height_rand_b": 9,
               "extra_branch_steps": {
                 "type": "minecraft:uniform",
-                "value": {
                   "min_inclusive": 1,
                   "max_inclusive": 6
-                }
               },
               "extra_branch_length": {
                 "type": "minecraft:uniform",
-                "value": {
                   "min_inclusive": 0,
                   "max_inclusive": 1
-                }
               },
               "place_branch_per_log_probability": 0.5,
               "can_grow_through": "#minecraft:mangrove_logs_can_grow_through"
@@ -113,18 +107,14 @@
               "type": "minecraft:cherry_foliage_placer",
               "radius": {
                 "type": "minecraft:uniform",
-                "value": {
                   "min_inclusive": 3,
                   "max_inclusive": 3
-                }
               },
               "offset": 1,
               "height": {
                 "type": "minecraft:uniform",
-                "value": {
                   "min_inclusive": 4,
                   "max_inclusive": 4
-                }
               },
               "wide_bottom_layer_hole_chance": 0.5,
               "corner_hole_chance": 0.8,
@@ -143,10 +133,8 @@
                   "property": "age",
                   "values": {
                     "type": "minecraft:uniform",
-                    "value": {
                       "min_inclusive": 0,
                       "max_inclusive": 4
-                    }
                   },
                   "source": {
                     "type": "minecraft:simple_state_provider",

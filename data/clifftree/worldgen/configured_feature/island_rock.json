@@ -44,10 +44,8 @@
       "offset": 0,
       "height": {
         "type": "minecraft:biased_to_bottom",
-        "value": {
           "min_inclusive": 5,
           "max_inclusive": 7
-        }
       },
       "wide_bottom_layer_hole_chance": 0.4,
       "corner_hole_chance": 0.4,

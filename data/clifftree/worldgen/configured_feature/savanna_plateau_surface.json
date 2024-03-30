@@ -4,10 +4,8 @@
     "surface": "floor",
     "depth": {
       "type": "minecraft:uniform",
-      "value": {
         "min_inclusive": 1,
         "max_inclusive": 1
-      }
     },
     "vertical_range": 2,
     "extra_bottom_block_chance": 0,
@@ -15,10 +13,8 @@
     "vegetation_chance": 0,
     "xz_radius": {
       "type": "minecraft:uniform",
-      "value": {
         "min_inclusive": 1,
         "max_inclusive": 4
-      }
     },
     "replaceable": "#clifftree:savanna_terracotta",
     "ground_state": {
