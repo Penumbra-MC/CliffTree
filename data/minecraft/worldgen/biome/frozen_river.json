@@ -19,7 +19,7 @@
       "options": {
         "type": "minecraft:snowflake"
       },
-      "probability": 0.0008
+      "probability": 0.0004
     },
     "grass_color": 7911573,
     "sky_color": 10009068,
