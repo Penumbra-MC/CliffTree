@@ -20,6 +20,12 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.deep_dark"
     },
+    "particle": {
+      "options": {
+        "type": "minecraft:trial_spawner_detection_ominous"
+      },
+      "probability": 0.0008
+    },
     "sky_color": 740477,
     "fog_color": 1052968,
     "water_color": 2630773,
