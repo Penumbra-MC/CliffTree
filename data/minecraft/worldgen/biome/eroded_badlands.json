@@ -109,12 +109,6 @@
     ],
     "axolotls": [],
     "creature": [
-      {
-        "type": "minecraft:armadillo",
-        "maxCount": 2,
-        "minCount": 2,
-        "weight": 10
-      }
       ],
     "misc": [],
     "monster": [
