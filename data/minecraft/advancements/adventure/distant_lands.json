@@ -11,9 +11,9 @@
       "text": "Discover every single biome the overworld has to offer."
     },
     "frame": "challenge",
-    "hidden": false
+    "hidden": true
   },
-  "parent": "minecraft:adventure/sleep_in_bed",
+  "parent": "minecraft:adventure/adventuring_time",
   "criteria": {
     "minecraft:badlands": {
       "trigger": "minecraft:location",
