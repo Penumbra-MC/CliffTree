@@ -6,21 +6,15 @@
       "entries": [
         {
           "data": {
-            "Name": "minecraft:air"
-          },
-          "weight": 10
-        },
-        {
-          "data": {
             "Name": "minecraft:moss_carpet"
           },
-          "weight": 25
+          "weight": 15
         },
         {
           "data": {
             "Name": "minecraft:short_grass"
           },
-          "weight": 50
+          "weight": 30
         },
         {
           "data": {
@@ -29,7 +23,7 @@
               "half": "lower"
             }
           },
-          "weight": 2
+          "weight": 5
         },
         {
           "data": {
@@ -40,7 +34,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 1
+          "weight": 2
         },
         {
           "data": {
@@ -51,7 +45,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 1
+          "weight": 2
         },
         {
           "data": {
@@ -62,7 +56,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 1
+          "weight": 2
         },
         {
           "data": {
@@ -73,7 +67,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 1
+          "weight": 2
         }
       ]
     }
