@@ -2,8 +2,10 @@
   "feature": "minecraft:trees_taiga",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 2
+      "type": "minecraft:noise_based_count",
+      "noise_to_count_ratio": 7,
+      "noise_factor": 200,
+      "noise_offset": 0.1
     },
     {
       "type": "minecraft:in_square"

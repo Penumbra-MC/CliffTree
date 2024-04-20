@@ -79,6 +79,7 @@
       "minecraft:glow_lichen",
       "minecraft:patch_large_fern",
       "minecraft:trees_taiga",
+      "clifftree:trees_taiga_density",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",
       "minecraft:patch_grass_plain",
@@ -140,9 +141,9 @@
       },
       {
         "type": "minecraft:fox",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 5
       }
     ],
     "misc": [],
