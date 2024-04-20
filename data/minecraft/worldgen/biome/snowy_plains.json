@@ -27,7 +27,7 @@
       "options": {
         "type": "minecraft:snowflake"
       },
-      "probability": 0.0004
+      "probability": 0.0006
     },
     "sky_color": 10009068,
     "water_color": 8303069,
