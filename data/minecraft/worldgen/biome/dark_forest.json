@@ -87,8 +87,9 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin"
     ],
-    [ "clifftree:extra_gold_remove",
-    "clifftree:extra_emerald_remove",
+    [ 
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
