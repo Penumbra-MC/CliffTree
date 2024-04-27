@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:trees_taiga",
+  "feature": "clifftree:trees_bog",
   "placement": [
     {
       "type": "minecraft:count",
@@ -8,10 +8,10 @@
         "distribution": [
           {
             "data": 0,
-            "weight": 9
+            "weight": 20
           },
           {
-            "data": 2,
+            "data": 3,
             "weight": 1
           }
         ]

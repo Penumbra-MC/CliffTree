@@ -2477,6 +2477,60 @@
           "layout_ktoin4kk"
         ]
       ]
+    },
+    {
+      "key": "layout_lvhui0v0",
+      "name": "Windswept Savanna or Middle or shattered",
+      "array": [
+        [
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot"
+        ],
+        [
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot"
+        ],
+        [
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez"
+        ],
+        [
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez"
+        ],
+        [
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez"
+        ],
+        [
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2526,7 +2580,7 @@
           "layout_ltxy18kz",
           "layout_ltxy18kz",
           "layout_ltxy18kz",
-          "layout_ltxy18kz",
+          "layout_ktoiz1xt",
           "layout_ktoiz1xt"
         ],
         [
@@ -2535,7 +2589,7 @@
           "layout_ltxy18kz",
           "layout_ltxy18kz",
           "layout_ltxy18kz",
-          "layout_ltxy18kz",
+          "layout_ktoiz1xt",
           "layout_ktoiz1xt"
         ],
         [
@@ -2544,7 +2598,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_ktoiz1xt",
           "layout_ktoiz1xt"
         ],
         [
@@ -2622,7 +2676,7 @@
           "layout_lrl300xn",
           "layout_ktoepeos",
           "layout_ktoepeos",
-          "layout_ktoepeos/layout_ktoj2qez",
+          "layout_lvhui0v0",
           "layout_ktoiz1xt"
         ],
         [
@@ -2631,7 +2685,7 @@
           "layout_lrl300xn",
           "layout_ktoepeos",
           "layout_ktoepeos",
-          "layout_ktoepeos/layout_ktoj2qez",
+          "layout_lvhui0v0",
           "layout_ktoiz1xt"
         ],
         [
@@ -2640,7 +2694,7 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoj2qez",
+          "layout_lvhui0v0",
           "layout_ktoiz1xt"
         ],
         [
@@ -2718,8 +2772,8 @@
           "layout_lrl300xn",
           "layout_ktoepeor",
           "layout_ktoepeos/layout_ktoepeor",
-          "layout_ktoepeos/layout_ktoj2qez",
-          "layout_ktoepeos/layout_ktoiz1xt"
+          "layout_ktoepeos",
+          "layout_ktoiz1xt"
         ],
         [
           "layout_lrl300xn",
@@ -2727,8 +2781,8 @@
           "layout_lrl300xn",
           "layout_ktoepeor",
           "layout_ktoepeos/layout_ktoepeor",
-          "layout_ktoepeos/layout_ktoj2qez",
-          "layout_ktoepeos/layout_ktoiz1xt"
+          "layout_ktoepeos",
+          "layout_ktoiz1xt"
         ],
         [
           "layout_ktoj0p0e",
