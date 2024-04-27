@@ -79,13 +79,13 @@
     [
       "minecraft:glow_lichen",
       "minecraft:forest_flowers",
-      "clifftree:trees_sparse_forest_extra",
       "minecraft:trees_birch_and_oak",
-      "minecraft:patch_grass_forest",
+      "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "clifftree:grass_skylight"
     ],
     [ 
       "clifftree:extra_gold_remove",
