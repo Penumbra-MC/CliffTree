@@ -81,7 +81,7 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_grass_plain",
-      "minecraft:trees_mudflat",
+      "clifftree:trees_bog",
       "minecraft:patch_dead_bush",
       "minecraft:seagrass_swamp"
     ],
