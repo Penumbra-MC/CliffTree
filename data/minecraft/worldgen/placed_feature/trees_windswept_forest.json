@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:trees_windswept_hills",
+  "feature": "clifftree:trees_windswept_forest",
   "placement": [
     {
       "type": "minecraft:count",
@@ -11,7 +11,7 @@
             "weight": 9
           },
           {
-            "data": 6,
+            "data": 4,
             "weight": 1
           }
         ]
