@@ -36,8 +36,8 @@
       "clifftree:ore_diamond_tuff"
     ],
     [ 
-      "minecraft:fossil_upper",
-      "minecraft:fossil_lower",
+      "clifftree:fossil_upper_warm",
+      "clifftree:fossil_lower_warm",
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
