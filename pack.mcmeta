@@ -3,8 +3,19 @@
 		"pack_format": 32,
 		"supported_formats": {
 			"min_inclusive": 32,
-			"max_inclusive": 32767
+			"max_inclusive": 42
 		},
 		"description": "§6Cliff under a Tree §fby §3Konci & Walls"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "pack_42",
+				"formats": {
+					"min_inclusive": 42,
+					"max_inclusive": 32767
+				}
+			}
+		]
 	}
 }
