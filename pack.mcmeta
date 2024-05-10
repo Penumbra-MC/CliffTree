@@ -15,6 +15,13 @@
 					"min_inclusive": 42,
 					"max_inclusive": 32767
 				}
+			},
+			{
+				"directory": "pack_43",
+				"formats": {
+					"min_inclusive": 43,
+					"max_inclusive": 32767
+				}
 			}
 		]
 	}
