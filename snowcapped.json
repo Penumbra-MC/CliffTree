@@ -2429,52 +2429,52 @@
       "name": "River shore",
       "array": [
         [
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river"
+          "minecraft:wooded_badlands_plateau/minecraft:frozen_river",
+          "biome_lri7mibv/minecraft:frozen_river",
+          "minecraft:the_end/minecraft:frozen_river",
+          "biome_lrk7fw1v/minecraft:frozen_river",
+          "minecraft:desert/minecraft:frozen_river",
+          "minecraft:small_end_islands/minecraft:frozen_river"
         ],
         [
-          "biome_lpyej6tt",
-          "biome_lpyej6tt",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river",
-          "minecraft:frozen_river"
+          "minecraft:badlands/biome_lpyej6tt",
+          "minecraft:wooded_badlands_plateau/biome_lpyej6tt",
+          "biome_lri7mibv/minecraft:frozen_river",
+          "minecraft:the_end/minecraft:frozen_river",
+          "biome_lrk7fw1v/minecraft:frozen_river",
+          "minecraft:desert/minecraft:frozen_river"
         ],
         [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "minecraft:crimson_forest/layout_ktoin4kk",
+          "minecraft:badlands/layout_ktoin4kk",
+          "minecraft:wooded_badlands_plateau/layout_ktoin4kk",
+          "biome_lri7mibv/layout_ktoin4kk",
+          "minecraft:the_end/layout_ktoin4kk",
+          "biome_lrk7fw1v/layout_ktoin4kk"
         ],
         [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "minecraft:eroded_badlands/layout_ktoin4kk",
+          "minecraft:crimson_forest/layout_ktoin4kk",
+          "minecraft:badlands/layout_ktoin4kk",
+          "minecraft:wooded_badlands_plateau/layout_ktoin4kk",
+          "biome_lri7mibv/layout_ktoin4kk",
+          "minecraft:the_end/layout_ktoin4kk"
         ],
         [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "minecraft:nether_wastes/layout_ktoin4kk",
+          "minecraft:eroded_badlands/layout_ktoin4kk",
+          "minecraft:crimson_forest/layout_ktoin4kk",
+          "minecraft:badlands/layout_ktoin4kk",
+          "minecraft:wooded_badlands_plateau/layout_ktoin4kk",
+          "biome_lri7mibv/layout_ktoin4kk"
         ],
         [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "biome_lq4ljl12/layout_ktoin4kk",
+          "minecraft:nether_wastes/layout_ktoin4kk",
+          "minecraft:eroded_badlands/layout_ktoin4kk",
+          "minecraft:crimson_forest/layout_ktoin4kk",
+          "minecraft:badlands/layout_ktoin4kk",
+          "minecraft:wooded_badlands_plateau/layout_ktoin4kk"
         ]
       ]
     },
@@ -2529,6 +2529,168 @@
           "layout_ktoj2qez",
           "layout_ktoj2qez",
           "layout_ktoj2qez"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lwe1ojy0",
+      "name": "Middle or badlands caves",
+      "array": [
+        [
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lwe1s4ke",
+      "name": "Middle or badlands or slopes caves",
+      "array": [
+        [
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0"
+        ],
+        [
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0"
+        ],
+        [
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_lwe1ojy0"
+        ],
+        [
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_lwe1ojy0"
+        ],
+        [
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_lwe1ojy0"
+        ],
+        [
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0"
+        ]
+      ]
+    },
+    {
+      "key": "layout_lwe1v213",
+      "name": "Valley caves",
+      "array": [
+        [
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstlfb65"
         ]
       ]
     }
@@ -3030,15 +3192,6 @@
         [
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
-          "layout_lss109m2",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
           "layout_lt2ms3x3",
@@ -3055,12 +3208,21 @@
           "layout_lt2ms3x3"
         ],
         [
+          "layout_lt2ms3x3",
+          "layout_lt2ms3x3",
+          "layout_lt2ms3x3",
+          "layout_lt2ms3x3",
+          "layout_lt2ms3x3",
+          "layout_lt2ms3x3",
+          "layout_lt2ms3x3"
+        ],
+        [
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
+          "layout_lrooluic",
+          "layout_lrooluic",
           "layout_lrooluic"
         ],
         [
@@ -3068,8 +3230,8 @@
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
+          "layout_lrooluic",
+          "layout_lrooluic",
           "layout_lrooluic"
         ],
         [
@@ -3348,7 +3510,7 @@
           "layout_lstm17cr",
           "layout_lstlxsit",
           "layout_lstlxsit",
-          "layout_lstlxsit/layout_lstlfb65",
+          "layout_lstlxsit/layout_lstm9w6y",
           "layout_lstluytq"
         ],
         [
@@ -3357,32 +3519,32 @@
           "layout_lstm17cr",
           "layout_lstlxsit",
           "layout_lstlxsit",
-          "layout_lstlxsit/layout_lstlfb65",
+          "layout_lstlxsit/layout_lstm9w6y",
           "layout_lstluytq"
         ],
         [
+          "layout_lwe1v213",
+          "layout_lwe1v213",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
+          "layout_lstm9w6y",
+          "layout_lstluytq"
+        ],
+        [
+          "layout_lwe1v213",
+          "layout_lwe1v213",
           "layout_lstlfb65",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstluytq"
         ],
         [
+          "layout_lwe1v213",
+          "layout_lwe1v213",
           "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstluytq"
@@ -3444,8 +3606,8 @@
           "layout_lstm17cr",
           "layout_lstlfb65",
           "layout_lstlxsit/layout_lstlfb65",
-          "layout_lstlxsit/layout_lstlfb65",
-          "layout_lstlxsit/layout_lstluytq"
+          "layout_lstlxsit",
+          "layout_lstluytq"
         ],
         [
           "layout_lstm17cr",
@@ -3453,12 +3615,12 @@
           "layout_lstm17cr",
           "layout_lstlfb65",
           "layout_lstlxsit/layout_lstlfb65",
-          "layout_lstlxsit/layout_lstlfb65",
-          "layout_lstlxsit/layout_lstluytq"
+          "layout_lstlxsit",
+          "layout_lstluytq"
         ],
         [
           "layout_lsng6fnq",
-          "layout_lstlfb65",
+          "layout_lwe1s4ke",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
@@ -3467,9 +3629,9 @@
         ],
         [
           "layout_lsng6fnq",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
+          "layout_lwe1s4ke",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_lstluytq"
@@ -3478,7 +3640,7 @@
           "layout_lsng6fnq",
           "layout_lsxqdqal",
           "layout_lsxqdqal",
-          "layout_lstlfb65",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_lstluytq"
@@ -3554,7 +3716,7 @@
         ],
         [
           "layout_lsng6fnq",
-          "layout_lstlfb65",
+          "layout_lwe1s4ke",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
@@ -3565,7 +3727,7 @@
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsxqdqal",
-          "layout_lstlfb65",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_lstlfb65"
@@ -3650,7 +3812,7 @@
         ],
         [
           "layout_lsng6fnq",
-          "layout_lstlfb65",
+          "layout_lwe1s4ke",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
@@ -4328,6 +4490,22 @@
     {
       "key": "minecraft:the_void",
       "name": "minecraft:the_void"
+    },
+    {
+      "key": "minecraft:nether_wastes",
+      "name": "minecraft:nether_wastes"
+    },
+    {
+      "key": "minecraft:the_end",
+      "name": "minecraft:the_end"
+    },
+    {
+      "key": "minecraft:end_barrens",
+      "name": "minecraft:end_barrens"
+    },
+    {
+      "key": "minecraft:small_end_islands",
+      "name": "minecraft:small_end_islands"
     }
   ],
   "targetVersion": "1_19",
