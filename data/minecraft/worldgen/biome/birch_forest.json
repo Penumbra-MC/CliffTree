@@ -89,8 +89,9 @@
       "minecraft:patch_pumpkin",
       "clifftree:mushroom_on_log"
     ],
-    [ "clifftree:extra_gold_remove",
-    "clifftree:extra_emerald_remove",
+    [ 
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
