@@ -1,8 +1,8 @@
 {
 	"pack": {
-		"pack_format": 32,
+		"pack_format": 41,
 		"supported_formats": {
-			"min_inclusive": 32,
+			"min_inclusive": 41,
 			"max_inclusive": 32767
 		},
 		"description": "§6Cliff under a Tree §fby §3Konci & Walls"
@@ -10,16 +10,9 @@
 	"overlays": {
 		"entries": [
 			{
-				"directory": "pack_42",
+				"directory": "pack_1-21",
 				"formats": {
-					"min_inclusive": 42,
-					"max_inclusive": 32767
-				}
-			},
-			{
-				"directory": "pack_43",
-				"formats": {
-					"min_inclusive": 43,
+					"min_inclusive": 45,
 					"max_inclusive": 32767
 				}
 			}
