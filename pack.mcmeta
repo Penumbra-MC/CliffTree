@@ -12,7 +12,7 @@
 			{
 				"directory": "pack_1-21",
 				"formats": {
-					"min_inclusive": 45,
+					"min_inclusive": 47,
 					"max_inclusive": 32767
 				}
 			}
