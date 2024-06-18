@@ -30,12 +30,11 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground",
-      "clifftree:cherry_pool"
+      "minecraft:lake_lava_underground"
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:fallen_log_cherry"
+      "clifftree:cherry_pool"
     ],
     [
       "minecraft:monster_room",
@@ -83,6 +82,7 @@
       "minecraft:spring_lava"
     ],
     [
+      "clifftree:fallen_log_cherry",
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
@@ -170,7 +170,7 @@
         "type": "minecraft:creeper",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 80
       },
       {
         "type": "minecraft:slime",
