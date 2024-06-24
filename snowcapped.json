@@ -487,25 +487,17 @@
         [
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
-          "minecraft:extreme_hills",
-          "minecraft:extreme_hills",
-          "minecraft:extreme_hills",
+          "minecraft:gravelly_hills",
+          "minecraft:gravelly_hills",
+          "minecraft:wooded_mountains",
           "minecraft:wooded_mountains"
         ],
         [
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
-          "minecraft:extreme_hills",
-          "minecraft:extreme_hills",
-          "minecraft:extreme_hills",
-          "minecraft:wooded_mountains"
-        ],
-        [
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
-          "minecraft:extreme_hills",
-          "minecraft:extreme_hills",
-          "minecraft:extreme_hills",
+          "minecraft:wooded_mountains",
           "minecraft:wooded_mountains"
         ],
         [
@@ -513,7 +505,15 @@
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
+          "minecraft:wooded_mountains",
+          "minecraft:wooded_mountains"
+        ],
+        [
           "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:wooded_mountains",
           "minecraft:wooded_mountains"
         ],
         [
