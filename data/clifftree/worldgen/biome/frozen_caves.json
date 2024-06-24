@@ -124,9 +124,9 @@
     "monster": [
       {
         "type": "minecraft:spider",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 50
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 40
       },
       {
         "type": "minecraft:zombie",

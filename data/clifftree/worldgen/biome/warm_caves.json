@@ -119,7 +119,7 @@
         "type": "minecraft:spider",
         "maxCount": 8,
         "minCount": 6,
-        "weight": 115
+        "weight": 175
       },
       {
         "type": "minecraft:zombie",
