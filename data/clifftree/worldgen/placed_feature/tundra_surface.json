@@ -30,7 +30,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -43,7 +43,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -56,7 +56,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -69,7 +69,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -82,7 +82,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -95,7 +95,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -108,7 +108,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -121,7 +121,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					},
@@ -134,7 +134,7 @@
 						],
 						"blocks": [
 							"minecraft:air",
-							"minecraft:short_grass",
+							"minecraft:grass",
 							"minecraft:tall_grass"
 						]
 					}
