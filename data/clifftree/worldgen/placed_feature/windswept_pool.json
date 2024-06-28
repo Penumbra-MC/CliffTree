@@ -1,21 +1,5 @@
 {
-  "feature": {
-    "type": "minecraft:lake",
-    "config": {
-      "fluid": {
-        "type": "minecraft:simple_state_provider",
-        "state": {
-          "Name": "minecraft:water"
-        }
-      },
-      "barrier": {
-        "type": "minecraft:simple_state_provider",
-        "state": {
-          "Name": "minecraft:grass_block"
-        }
-      }
-    }
-  },
+  "feature": "clifftree:windswept_pool",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
