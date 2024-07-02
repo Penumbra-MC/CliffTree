@@ -10,7 +10,6 @@
     -0.11,
     0.03,
     0.3,
-    0.8,
     1
   ],
   "erosions": [
@@ -54,7 +53,6 @@
     -0.1,
     0.1,
     0.3,
-    0.7,
     1
   ],
   "depths": [
@@ -219,15 +217,13 @@
           "minecraft:snowy_tundra",
           "minecraft:snowy_tundra",
           "minecraft:ice_spikes",
-          "minecraft:ice_spikes",
-          "minecraft:snowy_taiga"
+          "minecraft:ice_spikes"
         ],
         [
           "biome_lrqjz648",
           "biome_lrqjz648",
           "minecraft:snowy_tundra",
           "minecraft:snowy_taiga",
-          "biome_lrq697ns",
           "biome_lrq697ns"
         ],
         [
@@ -235,7 +231,6 @@
           "minecraft:plains",
           "minecraft:taiga/minecraft:forest",
           "minecraft:taiga",
-          "minecraft:giant_spruce_taiga/minecraft:giant_tree_taiga",
           "minecraft:giant_spruce_taiga/minecraft:giant_tree_taiga"
         ],
         [
@@ -243,7 +238,6 @@
           "minecraft:plains",
           "biome_lpyemplu/minecraft:forest",
           "minecraft:tall_birch_forest",
-          "minecraft:dark_forest",
           "minecraft:dark_forest"
         ],
         [
@@ -251,12 +245,10 @@
           "minecraft:savanna",
           "biome_lpyemplu/minecraft:plains",
           "minecraft:jungle/minecraft:jungle_edge",
-          "minecraft:jungle/minecraft:bamboo_jungle",
           "minecraft:jungle/minecraft:bamboo_jungle"
         ],
         [
           "biome_lri7mpc8",
-          "minecraft:desert",
           "minecraft:desert",
           "minecraft:desert",
           "minecraft:desert",
@@ -273,7 +265,6 @@
           "minecraft:snowy_tundra",
           "minecraft:snowy_tundra",
           "minecraft:ice_spikes",
-          "minecraft:snowy_taiga",
           "minecraft:snowy_taiga"
         ],
         [
@@ -281,7 +272,6 @@
           "biome_lrqjz648",
           "minecraft:snowy_tundra",
           "minecraft:snowy_taiga",
-          "biome_lrq697ns",
           "biome_lrq697ns"
         ],
         [
@@ -289,7 +279,6 @@
           "minecraft:meadow",
           "minecraft:taiga/minecraft:meadow",
           "minecraft:giant_spruce_taiga/minecraft:meadow",
-          "minecraft:giant_spruce_taiga/minecraft:giant_tree_taiga",
           "minecraft:giant_spruce_taiga/minecraft:giant_tree_taiga"
         ],
         [
@@ -297,7 +286,6 @@
           "minecraft:meadow/minecraft:cherry_grove",
           "minecraft:meadow/minecraft:tall_birch_forest",
           "minecraft:meadow/minecraft:tall_birch_forest",
-          "minecraft:dark_forest",
           "minecraft:dark_forest"
         ],
         [
@@ -305,11 +293,9 @@
           "minecraft:savanna_plateau",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:jungle",
           "minecraft:jungle"
         ],
         [
-          "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
@@ -327,21 +313,11 @@
           "minecraft:snowy_slopes",
           "minecraft:grove",
           "minecraft:grove",
-          "minecraft:grove",
           "minecraft:grove"
         ],
         [
           "minecraft:snowy_slopes",
           "minecraft:snowy_slopes",
-          "minecraft:grove",
-          "minecraft:grove",
-          "minecraft:grove",
-          "minecraft:grove"
-        ],
-        [
-          "minecraft:snowy_slopes",
-          "minecraft:snowy_slopes",
-          "minecraft:grove",
           "minecraft:grove",
           "minecraft:grove",
           "minecraft:grove"
@@ -351,11 +327,16 @@
           "minecraft:snowy_slopes",
           "minecraft:grove",
           "minecraft:grove",
+          "minecraft:grove"
+        ],
+        [
+          "minecraft:snowy_slopes",
+          "minecraft:snowy_slopes",
+          "minecraft:grove",
           "minecraft:grove",
           "minecraft:grove"
         ],
         [
-          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
@@ -363,7 +344,6 @@
           "layout_ktoj9oab"
         ],
         [
-          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
@@ -381,20 +361,10 @@
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:snowcapped_peaks"
         ],
         [
           "minecraft:lofty_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
-          "minecraft:snowcapped_peaks"
-        ],
-        [
-          "minecraft:lofty_peaks",
-          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
@@ -405,11 +375,16 @@
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
+          "minecraft:snowcapped_peaks"
+        ],
+        [
+          "minecraft:lofty_peaks",
+          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
+          "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:lofty_peaks/minecraft:snowcapped_peaks",
           "minecraft:snowcapped_peaks"
         ],
         [
-          "minecraft:stony_peaks",
           "minecraft:stony_peaks",
           "minecraft:stony_peaks",
           "minecraft:stony_peaks",
@@ -417,7 +392,6 @@
           "minecraft:stony_peaks"
         ],
         [
-          "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
@@ -435,11 +409,9 @@
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
           "minecraft:mushroom_fields"
         ],
         [
-          "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
@@ -451,11 +423,9 @@
           "minecraft:mushroom_fields",
           "biome_lpyew918",
           "biome_lpyew918",
-          "minecraft:mushroom_fields",
           "minecraft:deep_lukewarm_ocean"
         ],
         [
-          "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
@@ -467,14 +437,12 @@
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
           "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
           "minecraft:cherry_grove"
         ],
         [
           "minecraft:badlands/minecraft:eroded_badlands",
           "minecraft:badlands/minecraft:eroded_badlands",
           "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
           "minecraft:wooded_badlands_plateau",
           "minecraft:wooded_badlands_plateau"
         ]
@@ -489,14 +457,12 @@
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
-          "minecraft:gravelly_hills",
           "minecraft:wooded_mountains"
         ],
         [
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
-          "minecraft:wooded_mountains",
           "minecraft:wooded_mountains",
           "minecraft:wooded_mountains"
         ],
@@ -505,11 +471,9 @@
           "minecraft:extreme_hills",
           "minecraft:wooded_mountains/minecraft:extreme_hills",
           "minecraft:wooded_mountains",
-          "minecraft:wooded_mountains",
           "minecraft:wooded_mountains"
         ],
         [
-          "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:extreme_hills",
@@ -521,11 +485,9 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -543,7 +505,6 @@
           "minecraft:the_void/minecraft:frozen_river",
           "minecraft:forest/minecraft:frozen_river",
           "minecraft:plains/minecraft:frozen_river",
-          "minecraft:the_void/minecraft:frozen_river",
           "minecraft:the_void/minecraft:frozen_river"
         ],
         [
@@ -551,7 +512,6 @@
           "minecraft:the_void/biome_lpyej6tt",
           "biome_lpyemplu/minecraft:frozen_river",
           "minecraft:forest/minecraft:frozen_river",
-          "minecraft:the_void/minecraft:frozen_river",
           "minecraft:the_void/minecraft:frozen_river"
         ],
         [
@@ -559,12 +519,10 @@
           "minecraft:forest/minecraft:river",
           "minecraft:the_void/minecraft:river",
           "minecraft:the_void/biome_lpyej6tt",
-          "biome_lpyemplu/biome_lpyej6tt",
           "minecraft:forest/biome_lpyej6tt"
         ],
         [
           "minecraft:forest/minecraft:river",
-          "minecraft:the_void/minecraft:river",
           "minecraft:the_void/minecraft:river",
           "minecraft:the_void/minecraft:river",
           "minecraft:the_void/minecraft:river",
@@ -575,7 +533,6 @@
           "minecraft:the_void/minecraft:river",
           "minecraft:the_void/minecraft:river",
           "minecraft:the_void/biome_lpyejvpt",
-          "minecraft:the_void/biome_lpyejvpt",
           "minecraft:forest/biome_lpyejvpt"
         ],
         [
@@ -583,7 +540,6 @@
           "minecraft:the_void/biome_lpyeka0y",
           "minecraft:forest/biome_lpyeka0y",
           "biome_lpyemplu/biome_lpyeka0y",
-          "minecraft:the_void/biome_lpyeka0y",
           "biome_lpyemplu/biome_lpyeka0y"
         ]
       ]
@@ -597,7 +553,6 @@
           "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean"
         ],
         [
@@ -605,11 +560,9 @@
           "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
           "minecraft:deep_frozen_ocean"
         ],
         [
-          "minecraft:deep_cold_ocean",
           "minecraft:deep_cold_ocean",
           "minecraft:deep_cold_ocean",
           "minecraft:deep_cold_ocean",
@@ -621,7 +574,6 @@
           "minecraft:deep_ocean",
           "minecraft:deep_ocean",
           "minecraft:deep_ocean",
-          "minecraft:deep_ocean",
           "minecraft:deep_ocean"
         ],
         [
@@ -629,11 +581,9 @@
           "minecraft:deep_lukewarm_ocean",
           "minecraft:deep_lukewarm_ocean",
           "minecraft:deep_lukewarm_ocean",
-          "minecraft:deep_lukewarm_ocean",
           "minecraft:deep_lukewarm_ocean"
         ],
         [
-          "minecraft:warm_ocean",
           "minecraft:warm_ocean",
           "minecraft:warm_ocean",
           "minecraft:warm_ocean",
@@ -651,7 +601,6 @@
           "minecraft:frozen_ocean",
           "minecraft:frozen_ocean",
           "minecraft:frozen_ocean",
-          "minecraft:frozen_ocean",
           "minecraft:frozen_ocean"
         ],
         [
@@ -659,11 +608,9 @@
           "minecraft:frozen_ocean",
           "minecraft:frozen_ocean",
           "minecraft:frozen_ocean",
-          "minecraft:frozen_ocean",
           "minecraft:frozen_ocean"
         ],
         [
-          "minecraft:cold_ocean",
           "minecraft:cold_ocean",
           "minecraft:cold_ocean",
           "minecraft:cold_ocean",
@@ -675,7 +622,6 @@
           "minecraft:ocean",
           "minecraft:ocean",
           "minecraft:ocean",
-          "minecraft:ocean",
           "minecraft:ocean"
         ],
         [
@@ -683,11 +629,9 @@
           "minecraft:lukewarm_ocean",
           "minecraft:lukewarm_ocean",
           "minecraft:lukewarm_ocean",
-          "minecraft:lukewarm_ocean",
           "minecraft:lukewarm_ocean"
         ],
         [
-          "minecraft:warm_ocean",
           "minecraft:warm_ocean",
           "minecraft:warm_ocean",
           "minecraft:warm_ocean",
@@ -705,7 +649,6 @@
           "minecraft:snowy_beach",
           "minecraft:snowy_beach",
           "minecraft:snowy_beach",
-          "minecraft:snowy_beach",
           "minecraft:snowy_beach"
         ],
         [
@@ -713,11 +656,9 @@
           "minecraft:snowy_beach",
           "minecraft:snowy_beach",
           "minecraft:snowy_beach",
-          "minecraft:snowy_beach",
           "minecraft:snowy_beach"
         ],
         [
-          "biome_lrk7bbqw",
           "biome_lrk7bbqw",
           "biome_lrk7bbqw",
           "biome_lrk7bbqw",
@@ -729,7 +670,6 @@
           "minecraft:beach",
           "minecraft:beach",
           "minecraft:beach",
-          "minecraft:beach",
           "minecraft:beach"
         ],
         [
@@ -737,11 +677,9 @@
           "biome_lrk7fw1v",
           "biome_lrk7fw1v",
           "biome_lrk7fw1v",
-          "biome_lrk7fw1v",
           "biome_lrk7fw1v"
         ],
         [
-          "minecraft:desert",
           "minecraft:desert",
           "minecraft:desert",
           "minecraft:desert",
@@ -759,6 +697,12 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor"
         ],
@@ -767,15 +711,6 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -783,7 +718,6 @@
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -791,7 +725,6 @@
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -799,7 +732,6 @@
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
           "layout_ktoepeor/minecraft:shattered_savanna",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ]
       ]
@@ -813,6 +745,12 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
+          "layout_ktoepeot"
+        ],
+        [
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot"
         ],
@@ -821,15 +759,6 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot"
-        ],
-        [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
           "layout_ktoepeot"
         ],
         [
@@ -837,7 +766,6 @@
           "layout_ktoepeot/minecraft:shattered_savanna",
           "layout_ktoepeot/minecraft:shattered_savanna",
           "layout_ktoepeot/minecraft:shattered_savanna",
-          "layout_ktoepeot",
           "layout_ktoepeot"
         ],
         [
@@ -845,7 +773,6 @@
           "layout_ktoepeot/minecraft:shattered_savanna",
           "layout_ktoepeot/minecraft:shattered_savanna",
           "layout_ktoepeot/minecraft:shattered_savanna",
-          "layout_ktoepeot",
           "layout_ktoepeot"
         ],
         [
@@ -853,7 +780,6 @@
           "layout_ktoepeot/minecraft:shattered_savanna",
           "layout_ktoepeot/minecraft:shattered_savanna",
           "layout_ktoepeot/minecraft:shattered_savanna",
-          "layout_ktoepeot",
           "layout_ktoepeot"
         ]
       ]
@@ -867,7 +793,6 @@
           "minecraft:frozen_river",
           "minecraft:frozen_river",
           "minecraft:frozen_river",
-          "minecraft:frozen_river",
           "minecraft:frozen_river"
         ],
         [
@@ -875,7 +800,6 @@
           "minecraft:frozen_river",
           "minecraft:frozen_river",
           "minecraft:frozen_river",
-          "minecraft:frozen_river",
           "minecraft:frozen_river"
         ],
         [
@@ -883,6 +807,12 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
+          "layout_ktoiz1xt"
+        ],
+        [
+          "layout_ktoiz1xt",
+          "layout_ktoiz1xt",
+          "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt"
         ],
@@ -891,19 +821,9 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
           "layout_ktoiz1xt"
         ],
         [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
@@ -921,7 +841,6 @@
           "biome_lpyi22hi",
           "biome_lpyi22hi",
           "biome_lpyi22hi",
-          "biome_lpyi22hi",
           "biome_lpyi22hi"
         ],
         [
@@ -929,11 +848,9 @@
           "biome_lpyi22hi",
           "biome_lpyi22hi",
           "biome_lpyi22hi",
-          "biome_lpyi22hi",
           "biome_lpyi22hi"
         ],
         [
-          "minecraft:swamp",
           "minecraft:swamp",
           "minecraft:swamp",
           "minecraft:swamp",
@@ -945,11 +862,9 @@
           "minecraft:swamp",
           "minecraft:swamp",
           "minecraft:swamp",
-          "minecraft:swamp",
           "minecraft:swamp"
         ],
         [
-          "minecraft:mangrove_swamp",
           "minecraft:mangrove_swamp",
           "minecraft:mangrove_swamp",
           "minecraft:mangrove_swamp",
@@ -957,7 +872,6 @@
           "minecraft:mangrove_swamp"
         ],
         [
-          "minecraft:mangrove_swamp",
           "minecraft:mangrove_swamp",
           "minecraft:mangrove_swamp",
           "minecraft:mangrove_swamp",
@@ -975,11 +889,9 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
+          "minecraft:snowy_taiga"
         ],
         [
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -990,7 +902,6 @@
           "layout_ktoepeor",
           "layout_ktoepeor/minecraft:meadow",
           "layout_ktoepeor/minecraft:meadow",
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor"
         ],
@@ -999,11 +910,9 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -1013,7 +922,6 @@
         [
           "layout_ktoikw89",
           "layout_ktoikw89",
-          "layout_ktoikw89/biome_lri7mibv",
           "layout_ktoikw89/biome_lri7mibv",
           "layout_ktoikw89/biome_lri7mibv",
           "layout_ktoikw89/layout_ktoepeor"
@@ -1029,7 +937,6 @@
           "layout_ktoj0p0e",
           "layout_ktoj0p0e",
           "layout_ktoj0p0e",
-          "layout_ktoj0p0e",
           "layout_ktoj0p0e"
         ],
         [
@@ -1037,14 +944,12 @@
           "biome_lrqjz648",
           "minecraft:snowy_taiga",
           "minecraft:snowy_taiga",
-          "biome_lrq697ns",
           "biome_lrq697ns"
         ],
         [
           "minecraft:meadow/minecraft:cherry_grove",
           "minecraft:meadow",
           "layout_ktoepeor/minecraft:meadow",
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor"
         ],
@@ -1053,7 +958,6 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -1061,14 +965,12 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
-          "layout_ktoikw89/biome_lri7mibv",
           "layout_ktoikw89/biome_lri7mibv",
           "layout_ktoikw89/biome_lri7mibv"
         ]
@@ -1083,15 +985,6 @@
           "layout_ktoj0p0e",
           "layout_ktoj0p0e",
           "layout_ktoj0p0e",
-          "layout_ktoj0p0e",
-          "layout_ktoj0p0e"
-        ],
-        [
-          "layout_ktoj0p0e",
-          "layout_ktoj0p0e",
-          "layout_ktoj0p0e",
-          "layout_ktoj0p0e",
-          "layout_ktoj0p0e",
           "layout_ktoj0p0e"
         ],
         [
@@ -1099,6 +992,12 @@
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab"
         ],
@@ -1107,7 +1006,6 @@
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
-          "layout_ktoj9oab",
           "layout_ktoj9oab"
         ],
         [
@@ -1115,11 +1013,9 @@
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
-          "layout_ktoj9oab",
           "layout_ktoj9oab"
         ],
         [
-          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
@@ -1137,7 +1033,6 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "unassigned",
           "minecraft:lush_caves"
         ],
         [
@@ -1145,19 +1040,9 @@
           "unassigned",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "minecraft:lush_caves"
-        ],
-        [
-          "unassigned",
           "unassigned",
           "unassigned",
           "unassigned",
@@ -1169,11 +1054,16 @@
           "unassigned",
           "unassigned",
           "unassigned",
+          "minecraft:lush_caves"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
           "unassigned",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -1191,11 +1081,9 @@
           "biome_lrq571rk",
           "biome_lrq571rk",
           "biome_lrq571rk",
-          "biome_lrq571rk",
           "biome_lrq571rk"
         ],
         [
-          "biome_lrl32vke",
           "biome_lrl32vke",
           "biome_lrl32vke",
           "biome_lrl32vke",
@@ -1207,11 +1095,9 @@
           "biome_lrl31acw",
           "biome_lrl31acw",
           "biome_lrl31acw",
-          "biome_lrl31acw",
           "biome_lrl31acw"
         ],
         [
-          "minecraft:stone_shore",
           "minecraft:stone_shore",
           "minecraft:stone_shore",
           "minecraft:stone_shore",
@@ -1223,11 +1109,9 @@
           "biome_lrl32a94",
           "biome_lrl32a94",
           "biome_lrl32a94",
-          "biome_lrl32a94",
           "biome_lrl32a94"
         ],
         [
-          "biome_lrl31mp7",
           "biome_lrl31mp7",
           "biome_lrl31mp7",
           "biome_lrl31mp7",
@@ -1245,13 +1129,11 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "biome_lpyhxbye"
         ],
         [
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye"
@@ -1261,11 +1143,9 @@
           "biome_lpyet24u",
           "biome_lpygpfek/biome_lpyet24u",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "biome_lpygpfek"
         ],
         [
-          "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
@@ -1277,11 +1157,9 @@
           "biome_lpyhw0gu",
           "biome_lpyet24u",
           "biome_lpyhw0gu",
-          "biome_lpyhw0gu",
           "biome_lpyhw0gu"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -1299,19 +1177,9 @@
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd"
         ],
         [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
@@ -1323,11 +1191,16 @@
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd"
         ],
         [
           "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
+        ],
+        [
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
@@ -1336,7 +1209,6 @@
         ],
         [
           "minecraft:lush_caves",
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
@@ -1353,7 +1225,6 @@
           "biome_lrq571rk",
           "biome_lrq571rk",
           "biome_lrq571rk",
-          "biome_lrq571rk",
           "biome_lrq571rk"
         ],
         [
@@ -1361,7 +1232,6 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "minecraft:snowy_taiga",
           "minecraft:snowy_taiga"
         ],
         [
@@ -1369,7 +1239,6 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -1377,7 +1246,6 @@
           "layout_ktoepeor/minecraft:cherry_grove",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -1385,11 +1253,9 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
-          "biome_lrl31mp7",
           "biome_lrl31mp7",
           "biome_lrl31mp7",
           "biome_lrl31mp7",
@@ -1407,11 +1273,9 @@
           "biome_lrq56h9a",
           "biome_lrq56h9a",
           "biome_lrq56h9a",
-          "biome_lrq56h9a",
           "biome_lrq56h9a"
         ],
         [
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -1423,7 +1287,6 @@
           "layout_ktoepeor",
           "minecraft:taiga",
           "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -1431,7 +1294,6 @@
           "layout_ktoepeor",
           "biome_lpyemplu",
           "minecraft:birch_forest",
-          "layout_ktoepeor",
           "layout_ktoepeor"
         ],
         [
@@ -1439,11 +1301,9 @@
           "layout_ktoepeor",
           "minecraft:plains",
           "minecraft:jungle_edge",
-          "minecraft:bamboo_jungle",
           "minecraft:bamboo_jungle"
         ],
         [
-          "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
@@ -1461,19 +1321,9 @@
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
-          "layout_lromy0zh",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "minecraft:lush_caves"
-        ],
-        [
-          "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
@@ -1485,6 +1335,12 @@
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
           "layout_lromy0zh",
           "minecraft:lush_caves"
         ],
@@ -1493,11 +1349,9 @@
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
-          "layout_lromy0zh",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh",
@@ -1515,19 +1369,9 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "biome_lpyhxbye",
-          "minecraft:lush_caves"
-        ],
-        [
-          "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
@@ -1539,6 +1383,12 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
+          "minecraft:lush_caves"
+        ],
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
           "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
@@ -1547,11 +1397,9 @@
           "layout_lsqku3dj",
           "layout_lsqku3dj",
           "layout_lsqku3dj",
-          "layout_lsqku3dj",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -1569,19 +1417,9 @@
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
-          "layout_lsng6fnq",
           "biome_lpyhxbye"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "biome_lpyhxbye"
-        ],
-        [
-          "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
@@ -1593,11 +1431,16 @@
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
+          "biome_lpyhxbye"
+        ],
+        [
+          "layout_lsng6fnq",
+          "layout_lsng6fnq",
+          "layout_lsng6fnq",
           "layout_lsng6fnq",
           "biome_lpyhxbye"
         ],
         [
-          "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
@@ -1605,7 +1448,6 @@
           "minecraft:dripstone_caves"
         ],
         [
-          "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
@@ -1623,19 +1465,9 @@
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "layout_lsng6fnq"
         ],
         [
-          "biome_lpygpfek",
-          "biome_lpygpfek",
-          "biome_lpygpfek",
-          "biome_lpygpfek",
-          "biome_lpygpfek",
-          "layout_lsng6fnq"
-        ],
-        [
-          "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
@@ -1647,6 +1479,12 @@
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
+          "layout_lsng6fnq"
+        ],
+        [
+          "biome_lpygpfek",
+          "biome_lpygpfek",
+          "biome_lpygpfek",
           "biome_lpygpfek",
           "layout_lsng6fnq"
         ],
@@ -1655,11 +1493,9 @@
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
-          "layout_lsng6fnq",
           "layout_lsng6fnq"
         ],
         [
-          "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsng6fnq",
@@ -1677,6 +1513,12 @@
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
+          "layout_lsjdp0dd"
+        ],
+        [
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
+          "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd"
         ],
@@ -1685,19 +1527,9 @@
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd"
         ],
         [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
@@ -1709,11 +1541,9 @@
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "biome_lpyet24u",
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd"
         ],
         [
-          "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
           "layout_lsjdp0dd",
@@ -1731,13 +1561,11 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "biome_lpyhxbye"
         ],
         [
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye"
@@ -1747,7 +1575,6 @@
           "biome_lpyet24u",
           "biome_lpygpfek/biome_lpyet24u",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "biome_lpygpfek"
         ],
         [
@@ -1755,7 +1582,6 @@
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "biome_lpyet24u",
           "biome_lpyet24u"
         ],
         [
@@ -1763,11 +1589,9 @@
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "biome_lpyet24u",
           "biome_lpyet24u"
         ],
         [
-          "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
@@ -1785,7 +1609,6 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
@@ -1793,19 +1616,9 @@
           "layout_ktoepeor",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "minecraft:lush_caves"
-        ],
-        [
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -1817,11 +1630,16 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
           "layout_ktoepeor",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -1839,7 +1657,6 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -1847,7 +1664,6 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -1855,7 +1671,6 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -1863,7 +1678,6 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -1871,7 +1685,6 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -1879,7 +1692,6 @@
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
           "layout_ktoiz1xt",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ]
       ]
@@ -1893,19 +1705,9 @@
           "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
-          "layout_ktoepeos",
           "minecraft:lush_caves"
         ],
         [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "minecraft:lush_caves"
-        ],
-        [
-          "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
@@ -1917,6 +1719,12 @@
           "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_ktoepeos",
+          "layout_ktoepeos",
+          "layout_ktoepeos",
           "layout_ktoepeos",
           "minecraft:lush_caves"
         ],
@@ -1925,11 +1733,9 @@
           "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
-          "layout_ktoepeos",
           "minecraft:lush_caves"
         ],
         [
-          "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
           "layout_ktoepeos",
@@ -1947,19 +1753,9 @@
           "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
-          "layout_lrl300xn",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "minecraft:lush_caves"
-        ],
-        [
-          "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
@@ -1971,6 +1767,12 @@
           "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_lrl300xn",
+          "layout_lrl300xn",
+          "layout_lrl300xn",
           "layout_lrl300xn",
           "minecraft:lush_caves"
         ],
@@ -1979,11 +1781,9 @@
           "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
-          "layout_lrl300xn",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
           "layout_lrl300xn",
@@ -2001,19 +1801,9 @@
           "layout_lvhui0v0",
           "layout_lvhui0v0",
           "layout_lvhui0v0",
-          "layout_lvhui0v0",
           "layout_lrooluic"
         ],
         [
-          "layout_lvhui0v0",
-          "layout_lvhui0v0",
-          "layout_lvhui0v0",
-          "layout_lvhui0v0",
-          "layout_lvhui0v0",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lvhui0v0",
           "layout_lvhui0v0",
           "layout_lvhui0v0",
           "layout_lvhui0v0",
@@ -2025,11 +1815,16 @@
           "layout_lvhui0v0",
           "layout_lvhui0v0",
           "layout_lvhui0v0",
-          "layout_lvhui0v0",
           "layout_lrooluic"
         ],
         [
           "layout_lvhui0v0",
+          "layout_lvhui0v0",
+          "layout_lvhui0v0",
+          "layout_lvhui0v0",
+          "layout_lrooluic"
+        ],
+        [
           "layout_lvhui0v0",
           "layout_lvhui0v0",
           "layout_lvhui0v0",
@@ -2041,7 +1836,6 @@
           "layout_lrooluic/layout_liiyphg6",
           "layout_lrooluic/layout_liiyphg6",
           "layout_lrooluic/layout_liiyphg6",
-          "layout_lrooluic",
           "layout_lrooluic"
         ]
       ]
@@ -2055,19 +1849,9 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
-          "layout_ktoepeot",
           "layout_lrooluic"
         ],
         [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
@@ -2079,6 +1863,12 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
+          "layout_lrooluic"
+        ],
+        [
+          "layout_ktoepeot",
+          "layout_ktoepeot",
+          "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_lrooluic"
         ],
@@ -2087,11 +1877,9 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
-          "layout_ktoepeot",
           "layout_lrooluic"
         ],
         [
-          "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
@@ -2109,11 +1897,9 @@
           "layout_liiyphg6",
           "layout_liiyphg6",
           "layout_liiyphg6",
-          "layout_liiyphg6",
           "layout_lrooluic"
         ],
         [
-          "layout_liiyphg6",
           "layout_liiyphg6",
           "layout_liiyphg6",
           "layout_liiyphg6",
@@ -2125,6 +1911,12 @@
           "layout_lstm8ffh",
           "layout_liiyphg6",
           "layout_liiyphg6",
+          "layout_lrooluic"
+        ],
+        [
+          "layout_liiyphg6",
+          "layout_liiyphg6",
+          "layout_liiyphg6",
           "layout_liiyphg6",
           "layout_lrooluic"
         ],
@@ -2133,15 +1925,6 @@
           "layout_liiyphg6",
           "layout_liiyphg6",
           "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
           "layout_lrooluic"
         ],
         [
@@ -2149,7 +1932,6 @@
           "layout_lrooluic/layout_liiyphg6",
           "layout_lrooluic/layout_liiyphg6",
           "layout_lrooluic/layout_liiyphg6",
-          "layout_lrooluic",
           "layout_lrooluic"
         ]
       ]
@@ -2163,7 +1945,6 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
@@ -2171,19 +1952,9 @@
           "layout_lrq586p0",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "minecraft:lush_caves"
         ],
         [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "minecraft:lush_caves"
-        ],
-        [
-          "layout_lrq586p0",
           "layout_lrq586p0",
           "layout_lrq586p0",
           "layout_lrq586p0",
@@ -2195,11 +1966,16 @@
           "layout_lrq586p0",
           "layout_lrq586p0",
           "layout_lrq586p0",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_lrq586p0",
+          "layout_lrq586p0",
+          "layout_lrq586p0",
           "layout_lrq586p0",
           "minecraft:lush_caves"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -2217,7 +1993,6 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "layout_lsqku3dj"
         ],
         [
@@ -2225,19 +2000,9 @@
           "layout_ktoj9oab",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "layout_lsqku3dj"
         ],
         [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_lsqku3dj"
-        ],
-        [
-          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
@@ -2249,11 +2014,16 @@
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
+          "layout_lsqku3dj"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_lsqku3dj"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -2271,7 +2041,6 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "biome_lpyhxbye"
         ],
         [
@@ -2279,11 +2048,9 @@
           "biome_lpyhxbye",
           "biome_lpyhxbye",
           "biome_lpyhxbye",
-          "biome_lpyhxbye",
           "biome_lpyhxbye"
         ],
         [
-          "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
@@ -2295,7 +2062,6 @@
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "biome_lpyet24u",
           "biome_lpyet24u"
         ],
         [
@@ -2303,11 +2069,9 @@
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
-          "biome_lpyhw0gu",
           "biome_lpyhw0gu"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -2325,11 +2089,9 @@
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "biome_lpygpfek"
         ],
         [
-          "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
@@ -2341,11 +2103,9 @@
           "biome_lpyet24u",
           "biome_lpygpfek/biome_lpyet24u",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "biome_lpygpfek"
         ],
         [
-          "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
@@ -2357,11 +2117,9 @@
           "biome_lpyhw0gu",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "biome_lpyhw0gu",
           "biome_lpyhw0gu"
         ],
         [
-          "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
           "biome_lpygnpus",
@@ -2379,7 +2137,6 @@
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -2387,7 +2144,6 @@
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -2395,7 +2151,6 @@
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -2403,7 +2158,6 @@
           "biome_lpyet24u",
           "biome_lpyet24u",
           "biome_lpyet24u",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -2411,7 +2165,6 @@
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ],
         [
@@ -2419,7 +2172,6 @@
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
           "biome_lpyhw0gu",
-          "minecraft:lush_caves",
           "minecraft:lush_caves"
         ]
       ]
@@ -2433,7 +2185,6 @@
           "biome_lri7mibv/minecraft:frozen_river",
           "minecraft:the_end/minecraft:frozen_river",
           "biome_lrk7fw1v/minecraft:frozen_river",
-          "minecraft:desert/minecraft:frozen_river",
           "minecraft:small_end_islands/minecraft:frozen_river"
         ],
         [
@@ -2441,7 +2192,6 @@
           "minecraft:wooded_badlands_plateau/biome_lpyej6tt",
           "biome_lri7mibv/minecraft:frozen_river",
           "minecraft:the_end/minecraft:frozen_river",
-          "biome_lrk7fw1v/minecraft:frozen_river",
           "minecraft:desert/minecraft:frozen_river"
         ],
         [
@@ -2449,7 +2199,6 @@
           "minecraft:badlands/layout_ktoin4kk",
           "minecraft:wooded_badlands_plateau/layout_ktoin4kk",
           "biome_lri7mibv/layout_ktoin4kk",
-          "minecraft:the_end/layout_ktoin4kk",
           "biome_lrk7fw1v/layout_ktoin4kk"
         ],
         [
@@ -2457,7 +2206,6 @@
           "minecraft:crimson_forest/layout_ktoin4kk",
           "minecraft:badlands/layout_ktoin4kk",
           "minecraft:wooded_badlands_plateau/layout_ktoin4kk",
-          "biome_lri7mibv/layout_ktoin4kk",
           "minecraft:the_end/layout_ktoin4kk"
         ],
         [
@@ -2465,7 +2213,6 @@
           "minecraft:eroded_badlands/layout_ktoin4kk",
           "minecraft:crimson_forest/layout_ktoin4kk",
           "minecraft:badlands/layout_ktoin4kk",
-          "minecraft:wooded_badlands_plateau/layout_ktoin4kk",
           "biome_lri7mibv/layout_ktoin4kk"
         ],
         [
@@ -2473,7 +2220,6 @@
           "minecraft:nether_wastes/layout_ktoin4kk",
           "minecraft:eroded_badlands/layout_ktoin4kk",
           "minecraft:crimson_forest/layout_ktoin4kk",
-          "minecraft:badlands/layout_ktoin4kk",
           "minecraft:wooded_badlands_plateau/layout_ktoin4kk"
         ]
       ]
@@ -2487,7 +2233,6 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
-          "layout_ktoepeot",
           "layout_ktoepeot"
         ],
         [
@@ -2495,7 +2240,6 @@
           "layout_ktoepeot",
           "layout_ktoepeot",
           "layout_ktoepeot",
-          "layout_ktoepeot",
           "layout_ktoepeot"
         ],
         [
@@ -2503,6 +2247,12 @@
           "layout_ktoj2qez",
           "layout_ktoj2qez",
           "layout_ktoj2qez",
+          "layout_ktoj2qez"
+        ],
+        [
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
+          "layout_ktoj2qez",
           "layout_ktoj2qez",
           "layout_ktoj2qez"
         ],
@@ -2511,19 +2261,9 @@
           "layout_ktoj2qez",
           "layout_ktoj2qez",
           "layout_ktoj2qez",
-          "layout_ktoj2qez",
           "layout_ktoj2qez"
         ],
         [
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez"
-        ],
-        [
-          "layout_ktoj2qez",
           "layout_ktoj2qez",
           "layout_ktoj2qez",
           "layout_ktoj2qez",
@@ -2541,7 +2281,6 @@
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
-          "layout_lstlfb65",
           "layout_lstlfb65"
         ],
         [
@@ -2549,19 +2288,9 @@
           "layout_ktoikj2n",
           "layout_lstlfb65",
           "layout_lstlfb65",
-          "layout_lstlfb65",
           "layout_lstlfb65"
         ],
         [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_ktoikj2n",
           "layout_ktoikj2n",
           "layout_ktoikj2n",
           "layout_ktoikj2n",
@@ -2573,11 +2302,16 @@
           "layout_ktoikj2n",
           "layout_ktoikj2n",
           "layout_ktoikj2n",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
           "layout_ktoikj2n",
           "layout_lstlfb65"
         ],
         [
-          "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
@@ -2595,7 +2329,6 @@
           "layout_lwe1ojy0",
           "layout_lwe1ojy0",
           "layout_lwe1ojy0",
-          "layout_lwe1ojy0",
           "layout_lwe1ojy0"
         ],
         [
@@ -2603,19 +2336,9 @@
           "layout_ktoj0a9e",
           "layout_lwe1ojy0",
           "layout_lwe1ojy0",
-          "layout_lwe1ojy0",
           "layout_lwe1ojy0"
         ],
         [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_lwe1ojy0"
-        ],
-        [
-          "layout_ktoj0a9e",
           "layout_ktoj0a9e",
           "layout_ktoj0a9e",
           "layout_ktoj0a9e",
@@ -2627,11 +2350,16 @@
           "layout_ktoj0a9e",
           "layout_ktoj0a9e",
           "layout_ktoj0a9e",
+          "layout_lwe1ojy0"
+        ],
+        [
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
           "layout_ktoj0a9e",
           "layout_lwe1ojy0"
         ],
         [
-          "layout_lwe1ojy0",
           "layout_lwe1ojy0",
           "layout_lwe1ojy0",
           "layout_lwe1ojy0",
@@ -2649,7 +2377,6 @@
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
-          "layout_lstlfb65",
           "layout_lstlfb65"
         ],
         [
@@ -2657,19 +2384,9 @@
           "layout_lrr8mjn3",
           "layout_lstlfb65",
           "layout_lstlfb65",
-          "layout_lstlfb65",
           "layout_lstlfb65"
         ],
         [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lrr8mjn3",
           "layout_lrr8mjn3",
           "layout_lrr8mjn3",
           "layout_lrr8mjn3",
@@ -2681,11 +2398,16 @@
           "layout_lrr8mjn3",
           "layout_lrr8mjn3",
           "layout_lrr8mjn3",
+          "layout_lstlfb65"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
           "layout_lrr8mjn3",
           "layout_lstlfb65"
         ],
         [
-          "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
           "layout_lstlfb65",
@@ -2703,7 +2425,6 @@
           "biome_lpyej6tt",
           "biome_lpyej6tt",
           "biome_lpyej6tt",
-          "biome_lpyej6tt",
           "biome_lpyej6tt"
         ],
         [
@@ -2711,7 +2432,6 @@
           "biome_lpyej6tt",
           "biome_lpyej6tt",
           "biome_lpyej6tt",
-          "biome_lpyej6tt",
           "biome_lpyej6tt"
         ],
         [
@@ -2719,6 +2439,12 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p"
         ],
@@ -2727,19 +2453,9 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p",
           "layout_ktoij44p"
         ],
         [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
@@ -2757,7 +2473,6 @@
           "biome_lpygpfek",
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "layout_lrooluic"
         ],
         [
@@ -2765,19 +2480,9 @@
           "layout_lrooluic",
           "biome_lpygpfek",
           "biome_lpygpfek",
-          "biome_lpygpfek",
           "layout_lrooluic"
         ],
         [
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
@@ -2789,6 +2494,12 @@
           "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
+          "layout_lrooluic"
+        ],
+        [
+          "layout_lrooluic",
+          "layout_lrooluic",
+          "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic"
         ],
@@ -2797,8 +2508,103 @@
           "layout_lrooluic",
           "layout_lrooluic",
           "layout_lrooluic",
-          "layout_lrooluic",
           "layout_lrooluic"
+        ]
+      ]
+    },
+    {
+      "key": "layout_ly3mjzak",
+      "name": "Dripston Surface",
+      "array": [
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ]
+      ]
+    },
+    {
+      "key": "layout_ly3mkysw",
+      "name": "Dripstone Slope",
+      "array": [
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
         ]
       ]
     }
@@ -2869,15 +2675,6 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoiz1xt",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_lxxtdbcq",
           "layout_ktoiz1xt"
         ],
         [
@@ -2984,15 +2781,6 @@
           "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoepeor",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoiz1xt"
         ]
       ]
     },
@@ -3067,15 +2855,6 @@
           "layout_ktoj0p0e",
           "layout_ktoj0a9e",
           "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoj0p0e",
-          "layout_ktojcwxi",
-          "layout_ktoj9oab",
           "layout_ktoikj2n",
           "layout_ktoepeor",
           "layout_ktoepeot",
@@ -3176,15 +2955,6 @@
           "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktoj0p0e",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoepeor"
         ]
       ]
     },
@@ -3272,15 +3042,6 @@
           "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoepeor"
         ]
       ]
     },
@@ -3347,15 +3108,6 @@
           "layout_lsjdp0dd",
           "layout_lrooluic",
           "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
           "layout_lrooluic",
           "layout_lxy09cjs",
           "layout_lt2n6awx"
@@ -3464,15 +3216,6 @@
           "biome_lq4ljl12",
           "biome_lq4ljl12",
           "biome_lq4ljl12"
-        ],
-        [
-          "minecraft:deep_dark",
-          "minecraft:deep_dark",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12",
-          "biome_lq4ljl12"
         ]
       ]
     },
@@ -3542,15 +3285,6 @@
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk"
         ],
         [
           "layout_lromy0zh",
@@ -3649,20 +3383,11 @@
           "layout_lstluytq"
         ],
         [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
-          "layout_lstlfb65",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstluytq"
-        ],
-        [
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves"
         ]
@@ -3745,20 +3470,11 @@
           "layout_lstluytq"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lsxqdqal",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstluytq"
-        ],
-        [
           "layout_lsngd4i0",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
+          "layout_ly3mkysw",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves"
         ]
@@ -3841,22 +3557,13 @@
           "layout_lstlfb65"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lsxqdqal",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstlfb65"
-        ],
-        [
           "layout_lsngd4i0",
           "layout_lsngd4i0",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
           "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves"
+          "layout_ly3mjzak"
         ]
       ]
     },
@@ -3937,22 +3644,13 @@
           "layout_lstlfb65"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lsxqdqal",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstlfb65"
-        ],
-        [
           "layout_lsngd4i0",
           "layout_lsngd4i0",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
+          "layout_ly3mjzak",
           "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves",
-          "minecraft:dripstone_caves"
+          "layout_ly3mjzak"
         ]
       ]
     },
@@ -4027,15 +3725,6 @@
           "layout_lsqk90o1",
           "layout_kvu3cyig",
           "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
           "layout_kvu3cyig",
           "layout_kvu3cyig",
           "layout_kvu3cyig",
@@ -4129,15 +3818,6 @@
           "layout_lrooluic"
         ],
         [
-          "layout_lsqk90o1",
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_lrooluic"
-        ],
-        [
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
@@ -4220,15 +3900,6 @@
           "layout_lsqk90o1",
           "layout_lsqku3dj",
           "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_kvu3cyig",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
           "layout_kvu3cyig",
           "layout_kvu3cyig",
           "layout_lrooluic"
@@ -4620,6 +4291,7 @@
   "exportSplines": false,
   "exportBiomeColors": false,
   "noiseSettingsName": "minecraft:overworld",
+  "dimensionTypeName": "minecraft:overworld",
   "splines": {
     "offset": {
       "continentalnesses": [
