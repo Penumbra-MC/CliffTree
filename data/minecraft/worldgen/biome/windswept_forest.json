@@ -24,8 +24,7 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground",
-      "clifftree:windswept_pool"
+      "minecraft:lake_lava_underground"
     ],
     [
       "minecraft:amethyst_geode",
