@@ -14,12 +14,7 @@
                 "stage": "0",
                 "waterlogged": "false"
               }
-            },
-          "values": {
-            "type": "minecraft:uniform",
-              "max_inclusive": 4,
-              "min_inclusive": 0
-          }
+            }
         },
         "directions": [
           "down"

@@ -1,0 +1,21 @@
+{
+  "feature": "minecraft:amethyst_geode-large",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 85
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 26
+        },
+        "min_inclusive": {
+          "above_bottom": 10
+        }
+      }
+    }
+  ]
+}

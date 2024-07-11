@@ -70,7 +70,7 @@
               "data": {
                 "Name": "minecraft:cave_vines",
                 "Properties": {
-                  "age": "0",
+                  "age": "25",
                   "berries": "false"
                 }
               },
@@ -80,7 +80,7 @@
               "data": {
                 "Name": "minecraft:cave_vines",
                 "Properties": {
-                  "age": "0",
+                  "age": "25",
                   "berries": "true"
                 }
               },
