@@ -37,6 +37,8 @@
     ],
     [
       "minecraft:amethyst_geode",
+      "perlinescent:amethyst_geode-large",
+      "perlinescent:amethyst_geode-massive",
       "clifftree:ore_diamond_tuff"
     ],
     [ 
@@ -98,6 +100,7 @@
     ],
     [ 
       "minecraft:glow_lichen",
+	    "perlinescent:glow_lichen-aquifer",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "clifftree:seagrass_cave",
