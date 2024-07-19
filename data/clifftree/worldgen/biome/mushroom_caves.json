@@ -91,10 +91,9 @@
 	    "perlinescent:glow_lichen-aquifer",
 	    "perlinescent:vegetation-aquifer",
       "clifftree:glow_lichen_shroom",
-      "clifftree:red_mushroom_cave_island",
-      "clifftree:brown_mushroom_cave_island",
       "clifftree:seagrass_cave",
-      "clifftree:shelf_fungus_cave"
+      "clifftree:shelf_fungus_cave",
+      "clifftree:island_cave_mushroom"
     ],
     [
       "minecraft:freeze_top_layer"
