@@ -18,7 +18,7 @@
     "sky_color": 6073571,
     "water_color": 2983612,
     "water_fog_color": 198410,
-    "grass_color": 10538824
+    "grass_color": 11983713
   },
   "features": [
     [],
@@ -110,13 +110,13 @@
         "type": "minecraft:pig",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 8
       },
       {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 8
       },
       {
         "type": "minecraft:cow",
@@ -128,7 +128,7 @@
         "type": "minecraft:rabbit",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 8
+        "weight": 12
       }
     ],
     "misc": [],
