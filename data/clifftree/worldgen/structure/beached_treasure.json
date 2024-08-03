@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#minecraft:is_beach",
+  "biomes": "#clifftree:has_structure/beached_treasure",
   "max_distance_from_center": 10,
   "size": 1,
   "spawn_overrides": {},
