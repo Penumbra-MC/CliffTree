@@ -2,7 +2,7 @@
   "processors": [
 	{
       "processor_type": "minecraft:gravity",
-	  "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+	  "heightmap": "OCEAN_FLOOR",
 	  "offset": -4
 	},
 	{
@@ -62,7 +62,7 @@
 				}
 			]
 		},
-		"limit": 1
+		"limit": 4
 	},
 	{
 		"processor_type": "rule",
@@ -99,10 +99,23 @@
 				},
 				"location_predicate": {
 					"predicate_type": "block_match",
-					"block": "minecraft:sandstone"
+					"block": "minecraft:grass_block"
 				},
 				"output_state": {
-					"Name": "minecraft:sandstone",
+					"Name": "minecraft:grass_block",
+					"Properties": {}
+				}
+			},
+			{
+				"input_predicate": {
+					"predicate_type": "always_true"
+				},
+				"location_predicate": {
+					"predicate_type": "block_match",
+					"block": "minecraft:dirt"
+				},
+				"output_state": {
+					"Name": "minecraft:dirt",
 					"Properties": {}
 				}
 			}
