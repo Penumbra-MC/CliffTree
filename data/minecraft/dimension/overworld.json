@@ -26007,7 +26007,7 @@
             ],
             "depth": [
               0.2,
-              0.895
+              0.29
             ],
             "offset": 0
           },
@@ -26021,6 +26021,36 @@
             ],
             "continentalness": [
               -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:stone_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26050,7 +26080,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26080,7 +26110,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26110,7 +26140,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26140,7 +26170,7 @@
               -0.05
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26170,7 +26200,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26200,7 +26230,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -26230,7 +26260,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -33640,7 +33670,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -33670,7 +33700,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -39490,7 +39520,67 @@
               1
             ],
             "continentalness": [
+              -1.2,
+              -1.05
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:mushroom_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
               -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.29,
+              0.895
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:dirt_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -39520,7 +39610,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -39550,7 +39640,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.17
             ],
             "erosion": [
@@ -39580,7 +39670,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               0.5
             ],
             "erosion": [
@@ -39610,7 +39700,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -39640,7 +39730,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -42731,6 +42821,36 @@
             ],
             "continentalness": [
               -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:dirt_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
               0.03
             ],
             "erosion": [
@@ -42760,7 +42880,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -42790,7 +42910,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -42820,7 +42940,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               1
             ],
             "erosion": [
@@ -42850,7 +42970,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               1
             ],
             "erosion": [
@@ -42880,7 +43000,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               -0.2
             ],
             "erosion": [
@@ -42910,7 +43030,7 @@
               1
             ],
             "continentalness": [
-              -1.05,
+              -0.9,
               1
             ],
             "erosion": [
@@ -43399,126 +43519,6 @@
             ],
             "temperature": [
               -1,
-              -0.45
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.05,
-              -0.9
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.05,
-              -0.9
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.05,
-              -0.9
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              1.1,
-              1.1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1.05,
-              -0.9
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.55,
               1
             ],
             "humidity": [
@@ -43531,7 +43531,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:warm_caves"
+          "biome": "clifftree:dirt_caves"
         },
         {
           "parameters": {

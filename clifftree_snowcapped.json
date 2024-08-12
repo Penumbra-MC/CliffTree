@@ -3050,22 +3050,22 @@
       "name": "Caves",
       "array": [
         [
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_fields"
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918",
+          "biome_lpyew918"
         ],
         [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl"
         ],
         [
           "layout_lt2ms3x3",
@@ -3146,13 +3146,13 @@
           "biome_lpyew918"
         ],
         [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl"
         ],
         [
           "minecraft:deep_dark",
@@ -3233,13 +3233,13 @@
           "biome_lpyew918"
         ],
         [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl",
+          "biome_lzqiowxl"
         ],
         [
           "layout_lt2ms3x3",
@@ -3320,13 +3320,13 @@
           "minecraft:mushroom_fields"
         ],
         [
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
         ],
         [
           "layout_lss109m2",
@@ -3407,13 +3407,13 @@
           "minecraft:mushroom_fields"
         ],
         [
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
         ],
         [
           "layout_lss109m2",
@@ -3494,13 +3494,13 @@
           "minecraft:mushroom_fields"
         ],
         [
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
         ],
         [
           "layout_lss109m2",
@@ -3581,13 +3581,13 @@
           "minecraft:mushroom_fields"
         ],
         [
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8",
+          "biome_lszdtpt8"
         ],
         [
           "layout_lss109m2",
@@ -4285,6 +4285,11 @@
     {
       "key": "minecraft:small_end_islands",
       "name": "minecraft:small_end_islands"
+    },
+    {
+      "key": "biome_lzqiowxl",
+      "name": "clifftree:dirt_caves",
+      "color": "#876c52"
     }
   ],
   "targetVersion": "1_19",

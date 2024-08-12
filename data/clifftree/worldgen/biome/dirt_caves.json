@@ -84,9 +84,9 @@
     [
       "minecraft:glow_lichen",
       "clifftree:glow_lichen_shroom",
-      "clifftree:seagrass_cave",
-      "clifftree:shelf_fungus_cave",
-      "clifftree:island_cave_mushroom"
+      "clifftree:red_mushroom_cave",
+      "clifftree:brown_mushroom_cave",
+      "clifftree:seagrass_cave"
     ],
     [
       "minecraft:freeze_top_layer"
