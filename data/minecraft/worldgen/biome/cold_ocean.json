@@ -1,11 +1,9 @@
 {
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
   "downfall": 0.5,
   "effects": {
     "grass_color": 15190639,
@@ -77,7 +75,6 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:seagrass_cold",
-      "minecraft:seagrass_simple",
       "minecraft:kelp_cold"
     ],
     [

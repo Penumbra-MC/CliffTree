@@ -1,12 +1,10 @@
 {
-  "carvers": {
-    "air": [
+  "carvers": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
       "minecraft:canyon",
       "minecraft:nether_cave"
-    ]
-  },
+    ],
   "downfall": 0.4,
   "effects": {
     "fog_color": 1315858,

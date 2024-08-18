@@ -14,7 +14,7 @@
     "surface": "floor",
     "vegetation_chance": 0.02,
     "vegetation_feature": {
-      "feature": "minecraft:seagrass_simple",
+      "feature": "minecraft:seagrass_mid",
       "placement": []
     },
     "vertical_range": 5,

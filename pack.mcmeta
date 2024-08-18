@@ -1,21 +1,10 @@
 {
 	"pack": {
-		"pack_format": 41,
+		"pack_format": 49,
 		"supported_formats": {
-			"min_inclusive": 41,
+			"min_inclusive": 49,
 			"max_inclusive": 32767
 		},
-		"description": "§6Cliff under a Tree §fby §3Konci & Walls"
-	},
-	"overlays": {
-		"entries": [
-			{
-				"directory": "pack_1-21",
-				"formats": {
-					"min_inclusive": 47,
-					"max_inclusive": 32767
-				}
-			}
-		]
+		"description": "clifftree snapshots"
 	}
 }
