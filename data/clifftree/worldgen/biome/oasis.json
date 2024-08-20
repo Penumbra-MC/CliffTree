@@ -135,7 +135,7 @@
     "monster": [
       {
         "type": "minecraft:spider",
-        "weight": 100,
+        "weight": 120,
         "minCount": 4,
         "maxCount": 6
       },

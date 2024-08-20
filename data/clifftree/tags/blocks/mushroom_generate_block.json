@@ -2,6 +2,7 @@
   "values": [
     "minecraft:mycelium",
     "minecraft:podzol",
+    "#minecraft:base_stone_nether",
     "minecraft:crimson_nylium",
     "minecraft:warped_nylium",
     "minecraft:mud",

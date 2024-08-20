@@ -1,22 +1,19 @@
 {
-  "feature": "minecraft:basalt_pillar",
+  "feature": "clifftree:island_cave_mushroom",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 30
-    },
-    {
-      "type": "minecraft:in_square"
+      "type": "minecraft:count_on_every_layer",
+      "count": 20
     },
     {
       "type": "minecraft:height_range",
       "height": {
         "type": "minecraft:uniform",
-        "max_inclusive": {
-          "below_top": 0
-        },
         "min_inclusive": {
           "above_bottom": 0
+        },
+        "max_inclusive": {
+          "absolute": 256
         }
       }
     },

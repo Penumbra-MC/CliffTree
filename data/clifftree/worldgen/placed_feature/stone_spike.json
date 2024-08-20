@@ -74,7 +74,7 @@
         "type": "minecraft:matching_fluids",
         "offset": [
           0,
-          16,
+          15,
           0
         ],
         "fluids": "minecraft:water"

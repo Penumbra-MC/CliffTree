@@ -46,10 +46,6 @@
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
-      "minecraft:ore_granite_upper",
-      "minecraft:ore_granite_lower",
-      "minecraft:ore_diorite_upper",
-      "minecraft:ore_diorite_lower",
       "minecraft:ore_andesite_upper",
       "minecraft:ore_andesite_lower",
       "minecraft:ore_tuff",
@@ -68,6 +64,7 @@
       "minecraft:ore_diamond_buried",
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
@@ -75,10 +72,11 @@
       "clifftree:ore_andesite_extra",
       "clifftree:tuff_noise",
       "clifftree:tuff_noise_ceiling",
+      "clifftree:dirt_cave",
+      "clifftree:dirt_noise_ceiling",
       "clifftree:ore_gravel_deep"
     ],
-    [
-    ],
+    [],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -86,10 +84,9 @@
     [
       "minecraft:glow_lichen",
       "clifftree:glow_lichen_shroom",
-      "clifftree:red_mushroom_cave_island",
-      "clifftree:brown_mushroom_cave_island",
       "clifftree:seagrass_cave",
-      "clifftree:shelf_fungus_cave"
+      "clifftree:shelf_fungus_cave",
+      "clifftree:island_cave_mushroom"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -97,7 +94,7 @@
   ],
   "has_precipitation": true,
   "spawn_costs": {
-    "minecraft:skeleton": {
+    "minecraft:bogged": {
       "charge": 1.0,
       "energy_budget": 0.12
     }
@@ -116,7 +113,7 @@
     "misc": [],
     "monster": [
       {
-        "type": "minecraft:skeleton",
+        "type": "minecraft:bogged",
         "maxCount": 4,
         "minCount": 4,
         "weight": 50

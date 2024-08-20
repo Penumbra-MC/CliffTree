@@ -90,7 +90,8 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "clifftree:mushroom_on_log",
-      "clifftree:grass_skylight"
+      "clifftree:grass_skylight",
+      "clifftree:forest_fern"
     ],
     [ "clifftree:extra_gold_remove",
       "clifftree:extra_emerald_remove",

@@ -8,13 +8,13 @@
           "data": {
             "Name": "minecraft:moss_carpet"
           },
-          "weight": 15
+          "weight": 45
         },
         {
           "data": {
             "Name": "minecraft:grass"
           },
-          "weight": 30
+          "weight": 90
         },
         {
           "data": {
@@ -23,7 +23,7 @@
               "half": "lower"
             }
           },
-          "weight": 5
+          "weight": 15
         },
         {
           "data": {
@@ -34,7 +34,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "data": {
@@ -45,7 +45,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "data": {
@@ -56,7 +56,7 @@
               "waterlogged": "false"
             }
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "data": {
@@ -67,7 +67,19 @@
               "waterlogged": "false"
             }
           },
-          "weight": 2
+          "weight": 6
+        },
+        {
+          "data": {
+            "Name": "minecraft:azalea"
+          },
+          "weight": 3
+        },
+        {
+          "data": {
+            "Name": "minecraft:flowering_azalea"
+          },
+          "weight": 1
         }
       ]
     }

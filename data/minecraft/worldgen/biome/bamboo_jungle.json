@@ -125,7 +125,7 @@
         "type": "minecraft:panda",
         "maxCount": 6,
         "minCount": 4,
-        "weight": 80
+        "weight": 90
       }
     ],
     "misc": [],

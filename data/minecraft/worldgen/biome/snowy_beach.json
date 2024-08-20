@@ -109,7 +109,7 @@
         "type": "minecraft:spider",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 80
+        "weight": 20
       },
       {
         "type": "minecraft:zombie",

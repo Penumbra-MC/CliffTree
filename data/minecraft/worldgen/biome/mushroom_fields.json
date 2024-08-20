@@ -82,7 +82,9 @@
       "clifftree:patch_mushroom_mud",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "clifftree:shelf_fungus"
+      "clifftree:shelf_fungus",
+      "clifftree:shelf_fungus_cave",
+      "clifftree:island_cave_mushroom"
     ],
     [
       "minecraft:freeze_top_layer"
