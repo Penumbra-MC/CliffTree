@@ -76,7 +76,9 @@
       "clifftree:tuff_noise_ceiling",
       "clifftree:ore_gravel_deep"
     ],
-    [],
+    [
+      "clifftree:ore_infested"
+    ],
     [
       "minecraft:spring_water",
       "clifftree:vine_column"

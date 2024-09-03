@@ -77,7 +77,8 @@
     ],
     [
       "minecraft:dripstone_cluster",
-      "minecraft:pointed_dripstone"
+      "minecraft:pointed_dripstone",
+      "clifftree:ore_infested"
     ],
     [
       "minecraft:spring_water",
