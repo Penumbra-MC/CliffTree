@@ -73,13 +73,13 @@
           "data": {
             "Name": "minecraft:azalea"
           },
-          "weight": 3
+          "weight": 12
         },
         {
           "data": {
             "Name": "minecraft:flowering_azalea"
           },
-          "weight": 1
+          "weight": 4
         }
       ]
     }
