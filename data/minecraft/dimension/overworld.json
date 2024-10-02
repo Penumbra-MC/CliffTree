@@ -10087,7 +10087,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -10657,7 +10657,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               0.03,
@@ -11801,11 +11801,11 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -1,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.15,
@@ -11821,7 +11821,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
@@ -12092,6 +12092,36 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -12422,36 +12452,6 @@
             "offset": 0
           },
           "biome": "clifftree:sparse_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
-              -0.05
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -13471,7 +13471,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
@@ -15251,11 +15251,11 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -1,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.15,
@@ -15271,7 +15271,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
@@ -15787,6 +15787,36 @@
           "parameters": {
             "weirdness": [
               0.05,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dark_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
               1
             ],
             "continentalness": [
@@ -16095,7 +16125,7 @@
             ],
             "erosion": [
               -0.375,
-              0.45
+              0.05
             ],
             "temperature": [
               -0.15,
@@ -16111,7 +16141,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
@@ -16322,6 +16352,36 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -18007,7 +18067,7 @@
           "parameters": {
             "weirdness": [
               0.26666668,
-              0.56666666
+              1
             ],
             "continentalness": [
               -0.11,
@@ -18015,7 +18075,7 @@
             ],
             "erosion": [
               -0.78,
-              0.55
+              -0.375
             ],
             "temperature": [
               -0.15,
@@ -18031,7 +18091,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
@@ -18765,7 +18825,7 @@
             ],
             "erosion": [
               -0.78,
-              0.45
+              0.05
             ],
             "temperature": [
               -0.15,
@@ -18781,7 +18841,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
@@ -23261,7 +23321,7 @@
             ],
             "continentalness": [
               -0.17,
-              0.03
+              -0.11
             ],
             "erosion": [
               -0.78,
@@ -23552,6 +23612,36 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dark_forest"
         },
         {
           "parameters": {
@@ -25450,36 +25540,6 @@
               1
             ],
             "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
               0.03,
               1
             ],
@@ -25995,7 +26055,7 @@
             ],
             "erosion": [
               -0.78,
-              0.45
+              0.05
             ],
             "temperature": [
               -0.15,
@@ -26011,7 +26071,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:dark_forest"
+          "biome": "minecraft:pale_garden"
         },
         {
           "parameters": {
