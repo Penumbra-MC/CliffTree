@@ -80,7 +80,7 @@
       "minecraft:pale_garden_vegetation",
       "minecraft:patch_grass_forest",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "clifftree:patch_pumpkin_pale_garden"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -121,7 +121,7 @@
       },
       {
         "type": "minecraft:skeleton",
-        "maxCount": 1,
+        "maxCount": 2,
         "minCount": 1,
         "weight": 100
       },
