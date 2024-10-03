@@ -1325,6 +1325,7 @@
                               "minecraft:birch_forest",
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
+                              "minecraft:pale_garden",
                               "minecraft:cherry_grove",
                               "clifftree:sparse_forest"
                             ],
@@ -2867,6 +2868,7 @@
                               "minecraft:birch_forest",
                               "minecraft:old_growth_birch_forest",
                               "minecraft:dark_forest",
+                              "minecraft:pale_garden",
                               "minecraft:cherry_grove",
                               "clifftree:sparse_forest"
                             ],

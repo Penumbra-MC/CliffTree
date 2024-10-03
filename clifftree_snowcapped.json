@@ -999,7 +999,7 @@
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
-          "layout_ktoj9oab",
+          "minecraft:taiga",
           "layout_ktoj9oab"
         ],
         [
@@ -1007,7 +1007,7 @@
           "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoj9oab",
-          "layout_ktoj9oab"
+          "minecraft:dark_forest"
         ],
         [
           "minecraft:savanna_plateau",
@@ -2560,6 +2560,102 @@
           "minecraft:dripstone_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_m1sqagjn",
+      "name": "Slopes or plateau surface",
+      "array": [
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_ktojcwxi",
+          "layout_kvu3ce1q"
+        ],
+        [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m1sqvy9t",
+      "name": "Valley River",
+      "array": [
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "biome_m1s00ll4"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2622,8 +2718,8 @@
           "layout_ktoiz1xt"
         ],
         [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_m1sqvy9t",
+          "layout_m1sqvy9t",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
@@ -3505,7 +3601,7 @@
         ],
         [
           "layout_lsng6fnq",
-          "layout_lwe1s4ke",
+          "layout_m1sqagjn",
           "layout_lwe1ojy0",
           "layout_lwe1ojy0",
           "layout_lstlfb65",
