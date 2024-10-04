@@ -30,15 +30,16 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode",
-      "clifftree:sparse_forest_rock"
+      "minecraft:amethyst_geode"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [],
-    [],
+    [
+      "clifftree:stone_cliff"
+    ],
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
@@ -77,6 +78,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "clifftree:sparse_forest_rock",
       "minecraft:forest_flowers",
       "minecraft:trees_birch",
       "minecraft:patch_grass_plain",
