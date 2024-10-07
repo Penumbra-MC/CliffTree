@@ -40,7 +40,9 @@
       "minecraft:monster_room_deep"
     ],
     [],
-    [],
+    [
+      "clifftree:stone_cliff"
+    ],
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
@@ -113,6 +115,12 @@
         "type": "minecraft:chicken",
         "maxCount": 8,
         "minCount": 6,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:armadillo",
+        "maxCount": 2,
+        "minCount": 2,
         "weight": 10
       },
       {

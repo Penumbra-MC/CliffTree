@@ -32,15 +32,16 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode",
-      "clifftree:fallen_log_birch"
+      "minecraft:amethyst_geode"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [],
-    [],
+    [
+      "clifftree:stone_cliff"
+    ],
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
@@ -79,6 +80,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "clifftree:fallen_log_birch",
       "minecraft:forest_flowers",
       "minecraft:birch_tall",
       "minecraft:flower_plains",

@@ -38,7 +38,9 @@
       "minecraft:monster_room_deep"
     ],
     [],
-    [],
+    [
+      "clifftree:stone_cliff"
+    ],
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
@@ -112,7 +114,7 @@
         "type": "minecraft:chicken",
         "maxCount": 8,
         "minCount": 4,
-        "weight": 25
+        "weight": 20
       },
       {
         "type": "minecraft:pig",
@@ -124,13 +126,13 @@
         "type": "minecraft:parrot",
         "maxCount": 8,
         "minCount": 4,
-        "weight": 40
+        "weight": 30
       },
       {
         "type": "minecraft:panda",
         "maxCount": 3,
         "minCount": 3,
-        "weight": 6
+        "weight": 5
       }
     ],
     "misc": [],

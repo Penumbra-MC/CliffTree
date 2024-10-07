@@ -2,13 +2,12 @@
   "feature": "clifftree:dirt_noise_ceiling",
   "placement": [
     {
-      "type": "minecraft:carving_mask",
-      "step": "air"
-    },
-    {
-      "type": "rarity_filter",
-      "chance": 3
-    },
+			"type": "minecraft:count",
+			"count": 125
+		},
+		{
+			"type": "minecraft:in_square"
+		},
     {
       "type": "minecraft:height_range",
       "height": {
