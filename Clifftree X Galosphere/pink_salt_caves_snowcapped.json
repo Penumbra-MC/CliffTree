@@ -2,14 +2,6 @@
   "dimensionName": "minecraft:overworld",
   "continentalnesses": [
     -1.2,
-    -1.05,
-    -0.9,
-    -0.455,
-    -0.2,
-    -0.17,
-    -0.11,
-    0.03,
-    0.3,
     0.52,
     1
   ],
@@ -17,8 +9,6 @@
     -1,
     -0.78,
     -0.375,
-    -0.2225,
-    0.05,
     0.45,
     0.55,
     1
@@ -72,19 +62,19 @@
     "name": "Biomes",
     "array": [
       [
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
-        "slice_ktojsso9",
-        "slice_ktojmnu2",
-        "slice_ktoj3nad",
-        "slice_ktoip0qu",
-        "slice_ktoi8ht1",
-        "slice_ktoip0qu",
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
-        "slice_ktojsso9",
-        "slice_ktojmnu2",
-        "slice_ktoj3nad"
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61"
       ],
       [
         "unassigned",
@@ -147,19 +137,19 @@
         "unassigned"
       ],
       [
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo",
-        "layout_lroojjxo"
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61"
       ],
       [
         "unassigned",
@@ -177,19 +167,19 @@
         "unassigned"
       ],
       [
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4",
-        "layout_l3c9y1z4"
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61",
+        "biome_m23skg61"
       ]
     ]
   },
@@ -1074,370 +1064,34 @@
       ]
     },
     {
-      "key": "layout_lrl300xn",
-      "name": "Stoney shore",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lromy0zh",
-      "name": "Generic caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lrooluic",
-      "name": "Oasis lush cave",
-      "array": [
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "biome_m23skg61",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lrq586p0",
-      "name": "Cliffs",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoepeor/biome_m23skg61",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktoepeor/biome_m23skg61",
-          "layout_ktoepeor/biome_m23skg61",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lrr8mjn3",
-      "name": "Valley",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor"
-        ],
-        [
-          "biome_m23skg61",
-          "layout_ktoepeor",
-          "biome_m23skg61",
-          "layout_ktoepeor",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lsjdp0dd",
-      "name": "Lush or generic caves",
-      "array": [
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lsng6fnq",
-      "name": "Mountain caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "layout_lsqku3dj",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
       "key": "layout_lsngd4i0",
       "name": "Mountain caves and dripstone",
       "array": [
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61"
         ],
         [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61"
         ],
@@ -1454,1014 +1108,6 @@
           "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lsqk90o1",
-      "name": "Mountain caves 2",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsng6fnq"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsng6fnq"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsng6fnq"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsng6fnq"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsng6fnq"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lsqku3dj",
-      "name": "Plateau caves",
-      "array": [
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "biome_m23ylcvc",
-          "layout_lsjdp0dd"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lss109m2",
-      "name": "Deep Caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstlfb65",
-      "name": "Middle Caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstluytq",
-      "name": "Swamp caves",
-      "array": [
-        [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstlxsit",
-      "name": "Beach Caves",
-      "array": [
-        [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstm17cr",
-      "name": "Stony shore caves",
-      "array": [
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstm5lmx",
-      "name": "Windswept savanna or middle caves",
-      "array": [
-        [
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "layout_ktoj2qez",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lrooluic/layout_liiyphg6",
-          "layout_lrooluic/layout_liiyphg6",
-          "layout_lrooluic/layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstm8ffh",
-      "name": "Shattered caves",
-      "array": [
-        [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "layout_ktoepeot",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstm9w6y",
-      "name": "Windswept savanna or shattered caves",
-      "array": [
-        [
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_liiyphg6",
-          "layout_lstm8ffh",
-          "layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lrooluic/layout_liiyphg6",
-          "layout_lrooluic/layout_liiyphg6",
-          "layout_lrooluic/layout_liiyphg6",
-          "biome_m23ylcvc",
-          "layout_lrooluic"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lstmgfx0",
-      "name": "Cliffs caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lsxqdqal",
-      "name": "Surface plateau caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsqku3dj"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsqku3dj"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "biome_m23ylcvc",
-          "layout_lsqku3dj"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "biome_m23ylcvc",
-          "layout_lsqku3dj"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "biome_m23ylcvc",
-          "layout_lsqku3dj"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "layout_lsqku3dj"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lt2ms3x3",
-      "name": "Ocean caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lt2mv6mk",
-      "name": "Inferno borders",
-      "array": [
-        [
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn"
-        ],
-        [
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn"
-        ],
-        [
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn",
-          "biome_m23yg7sn"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lt2n6awx",
-      "name": "Swamp deeper caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_ltxy18kz",
-      "name": "River shore",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lwe1ojy0",
-      "name": "Middle or badlands caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lwe1s4ke",
-      "name": "Middle or badlands or slopes caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "layout_ktoj0a9e",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lwe1v213",
-      "name": "Valley caves",
-      "array": [
-        [
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "biome_m23ylcvc",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "biome_m23ylcvc",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "biome_m23ylcvc",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lxxtdbcq",
-      "name": "Windswept River",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p"
-        ]
-      ]
-    },
-    {
-      "key": "layout_lxy09cjs",
-      "name": "Windswept caves",
-      "array": [
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
         ]
       ]
     },
@@ -2560,54 +1206,6 @@
           "biome_m23yq2y1"
         ]
       ]
-    },
-    {
-      "key": "layout_m1sqagjn",
-      "name": "Slopes or plateau surface",
-      "array": [
-        [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
-        ],
-        [
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
-        ],
-        [
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_kvu3ce1q"
-        ],
-        [
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_kvu3ce1q"
-        ],
-        [
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_ktojcwxi",
-          "layout_kvu3ce1q"
-        ],
-        [
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q",
-          "layout_kvu3ce1q"
-        ]
-      ]
     }
   ],
   "slices": [
@@ -2620,8 +1218,6 @@
           "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
           "biome_m23skg61"
         ],
         [
@@ -2629,81 +1225,7 @@
           "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
           "biome_m23skg61"
-        ],
-        [
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ltxy18kz",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoiz1xt",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_lxxtdbcq",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_lxxtdbcq",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_ktoij44p",
-          "layout_lxxtdbcq",
-          "layout_ktoiz1xt"
         ]
       ]
     },
@@ -2714,90 +1236,14 @@
         [
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos/layout_ktoj2qez",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoj2qez",
           "layout_ktoiz1xt"
         ],
         [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
+          "biome_m23skg61",
+          "biome_m23skg61",
           "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrr8mjn3",
-          "layout_lrr8mjn3",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoiz1xt"
         ]
@@ -2808,92 +1254,16 @@
       "name": "Mid Slice",
       "array": [
         [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoepeos",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_lrl300xn",
-          "layout_ktoepeor",
+          "layout_ktoj0p0e",
+          "layout_ktoj0a9e",
           "layout_ktoepeor",
           "layout_ktoj2qez",
           "layout_ktoiz1xt"
         ],
         [
           "layout_ktoj0p0e",
-          "layout_ktoj0a9e",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoj2qez",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoj0p0e",
-          "layout_ktoj0a9e",
-          "layout_ktoikj2n",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoj0p0e",
           "layout_ktojcwxi",
-          "layout_ktoj9oab",
           "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoiz1xt"
-        ],
-        [
-          "layout_ktoj0p0e",
-          "layout_ktojcwxi",
-          "layout_ktoj9oab",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoiz1xt"
         ]
@@ -2904,65 +1274,9 @@
       "name": "High Slice",
       "array": [
         [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoj2qez",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoj2qez",
-          "layout_ktoepeor"
-        ],
-        [
           "layout_ktoj0p0e",
           "layout_ktoj0a9e",
           "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_ktoj2qez",
           "layout_ktoepeor"
         ],
@@ -2970,26 +1284,6 @@
           "layout_ktojr3tg",
           "layout_ktoj0p0e",
           "layout_ktoj9oab",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktoj0p0e",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktoj0p0e",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoepeor"
         ]
@@ -3000,65 +1294,9 @@
       "name": "Peaks",
       "array": [
         [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n",
-          "layout_ktoint2n"
-        ],
-        [
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk",
-          "layout_ktoin4kk"
-        ],
-        [
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_liiyphg6",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_lrq586p0",
-          "layout_lrq586p0",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_liiyphg6",
-          "layout_ktoepeor"
-        ],
-        [
           "layout_ktojr3tg",
           "layout_ktoj0a9e",
           "layout_ktoepeor",
-          "layout_ktoepeor",
-          "layout_ktoepeor",
           "layout_liiyphg6",
           "layout_ktoepeor"
         ],
@@ -3066,26 +1304,6 @@
           "layout_ktojr3tg",
           "layout_ktojr3tg",
           "layout_ktoj9oab",
-          "layout_ktoikj2n",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoepeor",
-          "layout_ktoepeot",
-          "layout_ktoepeor"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoepeor"
         ]
@@ -3096,89 +1314,13 @@
       "name": "Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "biome_m23yq2y1",
-          "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
@@ -3196,8 +1338,6 @@
           "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
           "biome_m23skg61"
         ],
         [
@@ -3205,81 +1345,7 @@
           "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
           "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2",
-          "layout_lss109m2"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lromy0zh"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lromy0zh"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lromy0zh"
         ]
       ]
     },
@@ -3292,8 +1358,6 @@
           "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
           "biome_m23skg61"
         ],
         [
@@ -3301,81 +1365,7 @@
           "biome_m23skg61",
           "biome_m23skg61",
           "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
           "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61",
-          "biome_m23skg61"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh"
-        ],
-        [
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh",
-          "layout_lromy0zh"
-        ],
-        [
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lromy0zh"
-        ],
-        [
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lromy0zh"
-        ],
-        [
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lt2mv6mk",
-          "layout_lromy0zh"
         ]
       ]
     },
@@ -3384,89 +1374,13 @@
       "name": "Low Surface Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstlxsit",
-          "layout_lstlxsit",
-          "layout_lstlxsit",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstlxsit",
-          "layout_lstlxsit",
-          "layout_lstlxsit/layout_lstm5lmx",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm5lmx",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
-          "layout_lwe1ojy0",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
-          "layout_lwe1ojy0",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_ly3mjzak",
-          "layout_ly3mjzak",
           "layout_ly3mjzak",
           "layout_ly3mjzak",
           "layout_ly3mjzak",
@@ -3480,91 +1394,15 @@
       "name": "Mid Surface Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstlxsit",
-          "layout_lstlxsit",
-          "layout_lstlxsit",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstm17cr",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm9w6y",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lwe1s4ke",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm9w6y",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lwe1s4ke",
-          "layout_lwe1ojy0",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_m1sqagjn",
-          "layout_lwe1ojy0",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstluytq"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
           "layout_lsngd4i0",
           "layout_ly3mkysw",
-          "layout_ly3mjzak",
-          "layout_ly3mjzak",
           "layout_ly3mjzak",
           "biome_m23skg61",
           "biome_m23skg61"
@@ -3576,91 +1414,15 @@
       "name": "High Surface Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm5lmx",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm5lmx",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lwe1s4ke",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm5lmx",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstlfb65"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
           "layout_lsngd4i0",
           "layout_lsngd4i0",
-          "layout_ly3mjzak",
-          "layout_ly3mjzak",
           "layout_ly3mjzak",
           "biome_m23skg61",
           "layout_ly3mjzak"
@@ -3672,91 +1434,15 @@
       "name": "Peaks Surface Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm9w6y",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lstmgfx0",
-          "layout_lstmgfx0",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm9w6y",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lwe1s4ke",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstlfb65",
-          "layout_lstm9w6y",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstlfb65"
-        ],
-        [
-          "layout_lsng6fnq",
-          "layout_lsng6fnq",
-          "layout_lsxqdqal",
-          "layout_lwe1ojy0",
-          "layout_lstlfb65",
-          "layout_lstm8ffh",
-          "layout_lstlfb65"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
           "layout_lsngd4i0",
           "layout_lsngd4i0",
-          "layout_ly3mjzak",
-          "layout_ly3mjzak",
           "layout_ly3mjzak",
           "biome_m23skg61",
           "layout_ly3mjzak"
@@ -3768,89 +1454,13 @@
       "name": "Mid Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lt2n6awx"
-        ],
-        [
-          "biome_m23yq2y1",
-          "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
@@ -3864,89 +1474,13 @@
       "name": "High Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "biome_m23yq2y1",
-          "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
@@ -3960,89 +1494,13 @@
       "name": "Peaks Caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "layout_lsqk90o1",
-          "layout_lsqk90o1",
-          "layout_lsqku3dj",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lrooluic"
-        ],
-        [
-          "biome_m23yq2y1",
-          "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
@@ -4056,91 +1514,15 @@
       "name": "Valley surface caves",
       "array": [
         [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc",
-          "biome_m23ylcvc"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3",
-          "layout_lt2ms3x3"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lstluytq",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lstluytq",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lstluytq"
-        ],
-        [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
-          "layout_lsjdp0dd",
-          "layout_lsjdp0dd",
-          "layout_lrooluic",
-          "layout_lxy09cjs",
-          "layout_lstluytq"
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61",
+          "biome_m23skg61"
         ],
         [
           "layout_ly3mjzak",
           "layout_ly3mjzak",
-          "biome_m23yq2y1",
-          "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1",
           "biome_m23yq2y1"

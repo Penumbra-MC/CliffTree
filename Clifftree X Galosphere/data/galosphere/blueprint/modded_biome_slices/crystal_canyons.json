@@ -1,0 +1,311 @@
+{
+  "levels": [
+    "minecraft:overworld"
+  ],
+  "provider": {
+    "type": "blueprint:multi_noise",
+    "biomes": [
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            -1.2,
+            1
+          ],
+          "erosion": [
+            -1,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            0,
+            0.895
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            -1.2,
+            0.03
+          ],
+          "erosion": [
+            -1,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1,
+            1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            -1,
+            0.55
+          ],
+          "temperature": [
+            -1,
+            -0.15
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1,
+            1
+          ],
+          "offset": 0
+        },
+        "biome": "galosphere:crystal_canyons"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            -1,
+            1
+          ],
+          "temperature": [
+            -0.15,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1,
+            1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            0.55,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1,
+            1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            -1.2,
+            0.03
+          ],
+          "erosion": [
+            -1,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1.1,
+            1.1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            -1,
+            -0.375
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1.1,
+            1.1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            -0.375,
+            0.55
+          ],
+          "temperature": [
+            -1,
+            -0.15
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1.1,
+            1.1
+          ],
+          "offset": 0
+        },
+        "biome": "galosphere:crystal_canyons"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            -0.375,
+            1
+          ],
+          "temperature": [
+            -0.15,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1.1,
+            1.1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.03,
+            1
+          ],
+          "erosion": [
+            0.55,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            1.1,
+            1.1
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      }
+    ]
+  },
+  "weight": 20
+}
