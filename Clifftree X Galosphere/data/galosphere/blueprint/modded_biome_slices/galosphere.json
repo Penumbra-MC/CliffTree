@@ -43,6 +43,36 @@
           ],
           "continentalness": [
             -1.2,
+            -0.9
+          ],
+          "erosion": [
+            -1,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            -1,
+            1
+          ],
+          "depth": [
+            0.2,
+            0.895
+          ],
+          "offset": 0
+        },
+        "biome": "galosphere:lichen_caves"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            -0.9,
             0.52
           ],
           "erosion": [
@@ -55,26 +85,26 @@
           ],
           "humidity": [
             -1,
+            0.1
+          ],
+          "depth": [
+            0.2,
+            0.895
+          ],
+          "offset": 0
+        },
+        "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            -0.9,
             0.3
           ],
-          "depth": [
-            0.2,
-            0.895
-          ],
-          "offset": 0
-        },
-        "biome": "blueprint:original_source_marker"
-      },
-      {
-        "parameters": {
-          "weirdness": [
-            -1,
-            1
-          ],
-          "continentalness": [
-            -1.2,
-            -0.2
-          ],
           "erosion": [
             -1,
             1
@@ -84,37 +114,7 @@
             1
           ],
           "humidity": [
-            0.3,
-            1
-          ],
-          "depth": [
-            0.2,
-            0.895
-          ],
-          "offset": 0
-        },
-        "biome": "blueprint:original_source_marker"
-      },
-      {
-        "parameters": {
-          "weirdness": [
-            -1,
-            1
-          ],
-          "continentalness": [
-            -0.2,
-            -0.11
-          ],
-          "erosion": [
-            -1,
-            1
-          ],
-          "temperature": [
-            -1,
-            1
-          ],
-          "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -132,7 +132,7 @@
             1
           ],
           "continentalness": [
-            -0.11,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -144,67 +144,7 @@
             1
           ],
           "humidity": [
-            0.3,
-            1
-          ],
-          "depth": [
-            0.2,
-            0.895
-          ],
-          "offset": 0
-        },
-        "biome": "galosphere:lichen_caves"
-      },
-      {
-        "parameters": {
-          "weirdness": [
-            -1,
-            -0.26666668
-          ],
-          "continentalness": [
-            -0.11,
-            0.03
-          ],
-          "erosion": [
-            -0.78,
-            -0.375
-          ],
-          "temperature": [
-            -1,
-            1
-          ],
-          "humidity": [
-            0.3,
-            1
-          ],
-          "depth": [
-            0.2,
-            0.29
-          ],
-          "offset": 0
-        },
-        "biome": "blueprint:original_source_marker"
-      },
-      {
-        "parameters": {
-          "weirdness": [
-            -1,
-            1
-          ],
-          "continentalness": [
-            -0.11,
-            0.52
-          ],
-          "erosion": [
-            -0.375,
-            1
-          ],
-          "temperature": [
-            -1,
-            1
-          ],
-          "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -222,7 +162,7 @@
             -0.93333334
           ],
           "continentalness": [
-            0.03,
+            0.3,
             1
           ],
           "erosion": [
@@ -234,7 +174,7 @@
             -0.45
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -252,7 +192,7 @@
             -0.93333334
           ],
           "continentalness": [
-            0.03,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -264,7 +204,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -274,6 +214,36 @@
           "offset": 0
         },
         "biome": "blueprint:original_source_marker"
+      },
+      {
+        "parameters": {
+          "weirdness": [
+            -1,
+            1
+          ],
+          "continentalness": [
+            0.3,
+            0.52
+          ],
+          "erosion": [
+            -0.375,
+            1
+          ],
+          "temperature": [
+            -1,
+            1
+          ],
+          "humidity": [
+            0.1,
+            1
+          ],
+          "depth": [
+            0.2,
+            0.895
+          ],
+          "offset": 0
+        },
+        "biome": "galosphere:lichen_caves"
       },
       {
         "parameters": {
@@ -522,7 +492,7 @@
             -0.4
           ],
           "continentalness": [
-            0.03,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -534,7 +504,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -702,7 +672,7 @@
             -0.26666668
           ],
           "continentalness": [
-            0.03,
+            0.3,
             1
           ],
           "erosion": [
@@ -714,7 +684,7 @@
             -0.45
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -732,7 +702,7 @@
             -0.26666668
           ],
           "continentalness": [
-            0.03,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -744,7 +714,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -822,7 +792,7 @@
             0.26666668
           ],
           "continentalness": [
-            -0.11,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -834,7 +804,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -999,40 +969,10 @@
         "parameters": {
           "weirdness": [
             0.26666668,
-            1
-          ],
-          "continentalness": [
-            -0.11,
-            0.03
-          ],
-          "erosion": [
-            -0.78,
-            -0.375
-          ],
-          "temperature": [
-            -1,
-            1
-          ],
-          "humidity": [
-            0.3,
-            1
-          ],
-          "depth": [
-            0.2,
-            0.29
-          ],
-          "offset": 0
-        },
-        "biome": "blueprint:original_source_marker"
-      },
-      {
-        "parameters": {
-          "weirdness": [
-            0.26666668,
             0.4
           ],
           "continentalness": [
-            0.03,
+            0.3,
             1
           ],
           "erosion": [
@@ -1044,7 +984,7 @@
             -0.45
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -1062,7 +1002,7 @@
             0.4
           ],
           "continentalness": [
-            0.03,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -1074,7 +1014,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -1212,7 +1152,7 @@
             0.93333334
           ],
           "continentalness": [
-            0.03,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -1224,7 +1164,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -1392,7 +1332,7 @@
             1
           ],
           "continentalness": [
-            0.03,
+            0.3,
             1
           ],
           "erosion": [
@@ -1404,7 +1344,7 @@
             -0.45
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -1422,7 +1362,7 @@
             1
           ],
           "continentalness": [
-            0.03,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -1434,7 +1374,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -1512,7 +1452,7 @@
             1
           ],
           "continentalness": [
-            -0.11,
+            0.3,
             0.52
           ],
           "erosion": [
@@ -1524,7 +1464,7 @@
             1
           ],
           "humidity": [
-            0.3,
+            0.1,
             1
           ],
           "depth": [
@@ -1611,7 +1551,7 @@
           ],
           "temperature": [
             -1,
-            -0.45
+            -0.15
           ],
           "humidity": [
             -1,
@@ -1640,7 +1580,7 @@
             1
           ],
           "temperature": [
-            -0.45,
+            -0.15,
             1
           ],
           "humidity": [
@@ -1761,7 +1701,7 @@
           ],
           "temperature": [
             -1,
-            -0.45
+            -0.15
           ],
           "humidity": [
             -1,
@@ -1790,7 +1730,7 @@
             1
           ],
           "temperature": [
-            -0.45,
+            -0.15,
             1
           ],
           "humidity": [
