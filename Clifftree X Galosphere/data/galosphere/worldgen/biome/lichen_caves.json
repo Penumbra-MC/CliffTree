@@ -3,13 +3,12 @@
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
-      "minecraft:canyon",
-      "minecraft:nether_cave"
+      "minecraft:canyon"
     ]
   },
-  "downfall": 0.4,
+  "downfall": 0.5,
   "effects": {
-    "fog_color": 1315858,
+    "fog_color": 8895487,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -20,26 +19,17 @@
       "max_delay": 24000,
       "min_delay": 12000,
       "replace_current_music": false,
-      "sound": "minecraft:music.overworld.dripstone_caves"
+      "sound": "galosphere:music.biome.lichen_caves"
     },
-    "particle": {
-      "options": {
-        "type": "minecraft:white_ash"
-      },
-      "probability": 0.02
-    },
-    "sky_color": 4282000,
-    "water_color": 6530034,
-    "water_fog_color": 6864102
+    "sky_color": 5939143,
+    "water_color": 3189732,
+    "water_fog_color": 791420
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_underground"
-    ],
+    [],
     [
       "minecraft:amethyst_geode",
-      "clifftree:inferno_caves_delta",
       "clifftree:ore_diamond_tuff"
     ],
     [ 
@@ -61,6 +51,7 @@
       "minecraft:ore_andesite_lower",
       "minecraft:ore_tuff",
       "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lush",
       "minecraft:ore_coal_lower",
       "minecraft:ore_iron_upper",
       "minecraft:ore_iron_middle",
@@ -77,25 +68,25 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
+      "minecraft:ore_clay",
       "minecraft:disk_gravel",
-      "clifftree:spring_closed",
-      "clifftree:ore_basalt",
-      "clifftree:ore_inferno_iron",
+      "clifftree:ore_andesite_extra",
       "clifftree:tuff_noise",
       "clifftree:tuff_noise_ceiling",
       "clifftree:ore_gravel_deep"
     ],
     [
-      "clifftree:ore_infested",
-      "clifftree:ore_magma"
+      "clifftree:ore_infested"
     ],
     [
-      "clifftree:inferno_caves_lava_spring",
+      "minecraft:spring_water",
       "minecraft:spring_lava"
     ],
-    [],
+    [
+      "minecraft:glow_lichen",
+      "minecraft:patch_tall_grass_2",
+      "clifftree:seagrass_cave"
+    ],
     [
       "minecraft:freeze_top_layer"
     ]
@@ -119,25 +110,25 @@
         "type": "minecraft:spider",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 70
+        "weight": 100
       },
       {
         "type": "minecraft:zombie",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 80
+        "weight": 95
       },
       {
         "type": "minecraft:zombie_villager",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 1,
+        "minCount": 1,
         "weight": 5
       },
       {
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 80
+        "weight": 100
       },
       {
         "type": "minecraft:creeper",
@@ -156,6 +147,12 @@
         "maxCount": 4,
         "minCount": 1,
         "weight": 10
+      },
+      {
+        "type": "minecraft:witch",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
       }
     ],
     "underground_water_creature": [
@@ -169,5 +166,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 0.5
 }
