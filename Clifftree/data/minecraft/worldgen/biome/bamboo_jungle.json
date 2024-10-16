@@ -39,7 +39,8 @@
     ],
     [],
     [
-      "clifftree:stone_cliff"
+      "clifftree:stone_cliff",
+      "clifftree:stone_cliff_podzol"
     ],
     [
       "minecraft:ore_dirt",

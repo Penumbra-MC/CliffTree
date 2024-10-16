@@ -7,11 +7,11 @@
     "ground_state": {
       "type": "simple_state_provider",
       "state": {
-        "Name": "grass_block",
+        "Name": "podzol",
         "Properties": {}
       }
     },
-    "replaceable": "#clifftree:grass_block",
+    "replaceable": "#clifftree:podzol",
     "surface": "floor",
     "vegetation_chance": 1,
     "vegetation_feature": {

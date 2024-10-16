@@ -1389,8 +1389,8 @@
                           "if_true": {
                             "biome_is": [
                               "clifftree:glacier_cliff",
-                              "frozen_ocean",
-                              "deep_frozen_ocean"
+                              "minecraft:frozen_ocean",
+                              "minecraft:deep_frozen_ocean"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1779,8 +1779,8 @@
                                 "biome_is": [
                                   "clifftree:diorite_shore",
                                   "clifftree:snowy_diorite_shore",
-                                  "cold_ocean",
-                                  "deep_cold_ocean"
+                                  "minecraft:cold_ocean",
+                                  "minecraft:deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2011,6 +2011,7 @@
                             {
                               "if_true": {
                                 "biome_is": [
+                                  "minecraft:lush_caves",
                                   "minecraft:dripstone_caves",
                                   "clifftree:caves",
                                   "clifftree:warm_caves",
@@ -2018,10 +2019,10 @@
                                   "clifftree:cold_caves",
                                   "clifftree:frozen_caves",
                                   "clifftree:mushroom_caves",
-                                  "deep_lukewarm_ocean",
-                                  "deep_ocean",
-                                  "cold_ocean",
-                                  "deep_cold_ocean"
+                                  "minecraft:deep_lukewarm_ocean",
+                                  "minecraft:deep_ocean",
+                                  "minecraft:cold_ocean",
+                                  "minecraft:deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2374,7 +2375,7 @@
                           "if_true": {
                             "biome_is": [
                               "minecraft:ice_spikes",
-                              "frozen_peaks"
+                              "minecraft:frozen_peaks"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2973,8 +2974,8 @@
                                   "clifftree:stone_ocean",
                                   "minecraft:ocean",
                                   "minecraft:deep_ocean",
-                                  "frozen_ocean",
-                                  "deep_frozen_ocean"
+                                  "minecraft:frozen_ocean",
+                                  "minecraft:deep_frozen_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3196,8 +3197,8 @@
                                 "biome_is": [
                                   "clifftree:diorite_shore",
                                   "clifftree:snowy_diorite_shore",
-                                  "cold_ocean",
-                                  "deep_cold_ocean"
+                                  "minecraft:cold_ocean",
+                                  "minecraft:deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3315,7 +3316,7 @@
                                 "biome_is": [
                                   "minecraft:warm_ocean",
                                   "minecraft:lukewarm_ocean",
-                                  "deep_lukewarm_ocean",
+                                  "minecraft:deep_lukewarm_ocean",
                                   "minecraft:beach",
                                   "clifftree:temperate_beach"
                                 ],
@@ -3469,10 +3470,10 @@
                                   "clifftree:lukewarm_caves",
                                   "clifftree:cold_caves",
                                   "clifftree:mushroom_caves",
-                                  "cold_ocean",
-                                  "deep_lukewarm_ocean",
-                                  "deep_ocean",
-                                  "deep_cold_ocean"
+                                  "minecraft:cold_ocean",
+                                  "minecraft:deep_lukewarm_ocean",
+                                  "minecraft:deep_ocean",
+                                  "minecraft:deep_cold_ocean"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3705,8 +3706,8 @@
                     "if_true": {
                       "biome_is": [
                         "minecraft:warm_ocean",
-                        "lukewarm_ocean",
-                        "deep_lukewarm_ocean",
+                        "minecraft:lukewarm_ocean",
+                        "minecraft:deep_lukewarm_ocean",
                         "minecraft:beach",
                         "clifftree:temperate_beach"
                       ],
