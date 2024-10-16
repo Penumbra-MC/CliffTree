@@ -12,7 +12,7 @@
                 "to_place": {
                   "type": "simple_state_provider",
                   "state": {
-                    "Name": "minecraft:moss_block",
+                    "Name": "minecraft:pale_moss_block",
                     "Properties": {}
                   }
                 }
@@ -104,9 +104,9 @@
           },
           "features": [
             {
-              "chance": 0.5,
+              "chance": 0.3,
               "feature": {
-                "feature": "minecraft:moss_vegetation_bonemeal",
+                "feature": "minecraft:pale_moss_vegetation",
                 "placement": [
                   {
                     "type": "minecraft:block_predicate_filter",
@@ -125,7 +125,7 @@
                             {
                               "type": "matching_blocks",
                               "blocks": [
-                                "moss_block"
+                                "pale_moss_block"
                               ],
                               "offset": [
                                 0,
@@ -142,9 +142,9 @@
               }
             },
             {
-              "chance": 0.5,
+              "chance": 0.3,
               "feature": {
-                "feature": "minecraft:moss_vegetation_bonemeal_ceiling",
+                "feature": "minecraft:pale_hanging_moss",
                 "placement": [
                   {
                     "type": "minecraft:block_predicate_filter",
@@ -163,7 +163,7 @@
                             {
                               "type": "matching_blocks",
                               "blocks": [
-                                "moss_block"
+                                "pale_moss_block"
                               ],
                               "offset": [
                                 0,
@@ -184,8 +184,8 @@
       },
       "placement": []
     },
-    "xz_spread": 2,
-    "y_spread": 2,
-    "tries": 512
+    "xz_spread": 3,
+    "y_spread": 6,
+    "tries": 1024
   }
 }

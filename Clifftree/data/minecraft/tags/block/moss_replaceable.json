@@ -1,7 +1,7 @@
 {
+  "replace": true,
   "values": [
     "#minecraft:base_stone_overworld",
-    "#minecraft:cave_vines",
     "#clifftree:true_dirt"
   ]
 }
