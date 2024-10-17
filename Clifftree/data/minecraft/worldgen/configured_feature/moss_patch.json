@@ -104,9 +104,9 @@
           },
           "features": [
             {
-              "chance": 0.5,
+              "chance": 0.3,
               "feature": {
-                "feature": "minecraft:moss_vegetation_bonemeal",
+                "feature": "minecraft:moss_vegetation",
                 "placement": [
                   {
                     "type": "minecraft:block_predicate_filter",
@@ -120,19 +120,14 @@
                           ]
                         },
                         {
-                          "type": "all_of",
-                          "predicates": [
-                            {
-                              "type": "matching_blocks",
-                              "blocks": [
-                                "moss_block"
-                              ],
-                              "offset": [
-                                0,
-                                -1,
-                                0
-                              ]
-                            }
+                          "type": "matching_blocks",
+                          "blocks": [
+                            "moss_block"
+                          ],
+                          "offset": [
+                            0,
+                            -1,
+                            0
                           ]
                         }
                       ]
@@ -142,9 +137,9 @@
               }
             },
             {
-              "chance": 0.5,
+              "chance": 0.05,
               "feature": {
-                "feature": "minecraft:moss_vegetation_bonemeal_ceiling",
+                "feature": "minecraft:moss_vegetation_ceiling",
                 "placement": [
                   {
                     "type": "minecraft:block_predicate_filter",
@@ -158,19 +153,14 @@
                           ]
                         },
                         {
-                          "type": "all_of",
-                          "predicates": [
-                            {
-                              "type": "matching_blocks",
-                              "blocks": [
-                                "moss_block"
-                              ],
-                              "offset": [
-                                0,
-                                1,
-                                0
-                              ]
-                            }
+                          "type": "matching_blocks",
+                          "blocks": [
+                            "moss_block"
+                          ],
+                          "offset": [
+                            0,
+                            1,
+                            0
                           ]
                         }
                       ]
@@ -184,8 +174,8 @@
       },
       "placement": []
     },
-    "xz_spread": 2,
-    "y_spread": 2,
-    "tries": 512
+    "xz_spread": 7,
+    "y_spread": 4,
+    "tries": 2048
   }
 }
