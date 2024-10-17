@@ -32,28 +32,70 @@
                   "type": "any_of",
                   "predicates": [
                     {
-                      "type": "has_sturdy_face",
-                      "direction": "up"
+                      "type": "matching_blocks",
+                      "blocks": [
+                        "air"
+                      ],
+                      "offset": [
+                        0,
+                        1,
+                        0
+                      ]
                     },
                     {
-                      "type": "has_sturdy_face",
-                      "direction": "down"
+                      "type": "matching_blocks",
+                      "blocks": [
+                        "air"
+                      ],
+                      "offset": [
+                        0,
+                        -1,
+                        0
+                      ]
                     },
                     {
-                      "type": "has_sturdy_face",
-                      "direction": "north"
+                      "type": "matching_blocks",
+                      "blocks": [
+                        "air"
+                      ],
+                      "offset": [
+                        1,
+                        0,
+                        0
+                      ]
                     },
                     {
-                      "type": "has_sturdy_face",
-                      "direction": "south"
+                      "type": "matching_blocks",
+                      "blocks": [
+                        "air"
+                      ],
+                      "offset": [
+                        -1,
+                        0,
+                        0
+                      ]
                     },
                     {
-                      "type": "has_sturdy_face",
-                      "direction": "west"
+                      "type": "matching_blocks",
+                      "blocks": [
+                        "air"
+                      ],
+                      "offset": [
+                        0,
+                        0,
+                        1
+                      ]
                     },
                     {
-                      "type": "has_sturdy_face",
-                      "direction": "east"
+                      "type": "matching_blocks",
+                      "blocks": [
+                        "air"
+                      ],
+                      "offset": [
+                        0,
+                        0,
+                        -1
+                      ]
                     }
                   ]
                 }
