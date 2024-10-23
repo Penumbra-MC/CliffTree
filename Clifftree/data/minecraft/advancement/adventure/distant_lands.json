@@ -18,22 +18,6 @@
   },
   "parent": "minecraft:adventure/adventuring_time",
   "criteria": {
-    "minecraft:pale_garden": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "location": {
-                "biomes": "minecraft:pale_garden"
-              }
-            }
-          }
-        ]
-      }
-    },
     "minecraft:badlands": {
       "trigger": "minecraft:location",
       "conditions": {

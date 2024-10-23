@@ -1,22 +1,11 @@
 {
-	"features": {
-	  "enabled": [
-		"minecraft:winter_drop"
-	  ]
-	},
 	"pack": {
 		"pack_format": 57,
-		"description": "§6Cliff under a Tree §fby §3Konci & Walls §eIncludes Experimental"
-	},
-	"overlays": {
-		"entries": [
-			{
-				"formats": {
-					"max_inclusive": 59,
-					"min_inclusive": 56
-				},
-				"directory": "vanilla_experimental"
-			}
-		]
+		"supported_formats":
+		{
+			"max_inclusive": 59,
+			"min_inclusive": 56
+		},
+		"description": "§6Cliff under a Tree §fby §3Konci & Walls"
 	}
 }
