@@ -1,9 +1,9 @@
 {
-  "feature": "minecraft:delta",
+  "feature": "clifftree:inferno_delta",
   "placement": [
     {
       "type": "minecraft:count_on_every_layer",
-      "count": 15
+      "count": 5
     },
     {
       "type": "minecraft:biome"

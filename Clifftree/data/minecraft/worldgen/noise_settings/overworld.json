@@ -1123,8 +1123,102 @@
                         {
                           "if_true": {
                             "biome_is": [
+                              "minecraft:ice_spikes"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "sequence": [
+                              {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:noise_threshold",
+                                  "max_threshold": 0.6,
+                                  "min_threshold": 0.35,
+                                  "noise": "minecraft:powder_snow"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:condition",
+                                  "if_true": {
+                                    "type": "minecraft:water",
+                                    "add_stone_depth": false,
+                                    "offset": 0,
+                                    "surface_depth_multiplier": 0
+                                  },
+                                  "then_run": {
+                                    "type": "minecraft:block",
+                                    "result_state": {
+                                      "Name": "minecraft:powder_snow"
+                                    }
+                                  }
+                                }
+                              },
+                              {
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:packed_ice"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "noise": "minecraft:packed_ice",
+                                  "min_threshold": 0.0,
+                                  "max_threshold": 0.2,
+                                  "type": "minecraft:noise_threshold"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:packed_ice"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "noise": "minecraft:ice",
+                                  "min_threshold": 0.0,
+                                  "max_threshold": 0.025,
+                                  "type": "minecraft:noise_threshold"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:ice"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "offset": 0,
+                                  "surface_depth_multiplier": 0,
+                                  "add_stone_depth": false,
+                                  "type": "minecraft:water"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:snow_block"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              }
+                            ],
+                            "type": "minecraft:sequence"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
                               "minecraft:frozen_peaks",
-                              "minecraft:ice_spikes",
                               "clifftree:frozen_caves"
                             ],
                             "type": "minecraft:biome"
@@ -2571,8 +2665,102 @@
                         {
                           "if_true": {
                             "biome_is": [
+                              "minecraft:ice_spikes"
+                            ],
+                            "type": "minecraft:biome"
+                          },
+                          "then_run": {
+                            "sequence": [
+                              {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:noise_threshold",
+                                  "max_threshold": 0.58,
+                                  "min_threshold": 0.45,
+                                  "noise": "minecraft:powder_snow"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:condition",
+                                  "if_true": {
+                                    "type": "minecraft:water",
+                                    "add_stone_depth": false,
+                                    "offset": 0,
+                                    "surface_depth_multiplier": 0
+                                  },
+                                  "then_run": {
+                                    "type": "minecraft:block",
+                                    "result_state": {
+                                      "Name": "minecraft:powder_snow"
+                                    }
+                                  }
+                                }
+                              },
+                              {
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:packed_ice"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "noise": "minecraft:packed_ice",
+                                  "min_threshold": -0.5,
+                                  "max_threshold": 0.2,
+                                  "type": "minecraft:noise_threshold"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:packed_ice"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "noise": "minecraft:ice",
+                                  "min_threshold": -0.0625,
+                                  "max_threshold": 0.025,
+                                  "type": "minecraft:noise_threshold"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:ice"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              },
+                              {
+                                "if_true": {
+                                  "offset": 0,
+                                  "surface_depth_multiplier": 0,
+                                  "add_stone_depth": false,
+                                  "type": "minecraft:water"
+                                },
+                                "then_run": {
+                                  "result_state": {
+                                    "Name": "minecraft:snow_block"
+                                  },
+                                  "type": "minecraft:block"
+                                },
+                                "type": "minecraft:condition"
+                              }
+                            ],
+                            "type": "minecraft:sequence"
+                          },
+                          "type": "minecraft:condition"
+                        },
+                        {
+                          "if_true": {
+                            "biome_is": [
                               "minecraft:frozen_peaks",
-                              "minecraft:ice_spikes",
                               "clifftree:frozen_caves"
                             ],
                             "type": "minecraft:biome"

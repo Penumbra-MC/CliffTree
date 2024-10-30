@@ -85,11 +85,11 @@
       "clifftree:tuff_noise_ceiling",
       "clifftree:ore_gravel_deep",
       "clifftree:scattered_ice",
-      "clifftree:snow_cave",
       "clifftree:snow_melter"
     ],
     [
-      "clifftree:ore_infested"
+      "clifftree:ore_infested",
+      "clifftree:snow_cave"
     ],
     [
       "minecraft:spring_water"

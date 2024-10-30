@@ -33,11 +33,11 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "minecraft:lake_lava_underground",
+      "clifftree:inferno_caves_delta"
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:inferno_caves_delta",
       "clifftree:ore_diamond_tuff"
     ],
     [ 
@@ -79,7 +79,6 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "clifftree:spring_closed",
-      "clifftree:ore_basalt",
       "clifftree:ore_inferno_iron",
       "clifftree:tuff_noise",
       "clifftree:tuff_noise_ceiling",
@@ -87,7 +86,7 @@
     ],
     [
       "clifftree:ore_infested",
-      "clifftree:ore_magma"
+      "clifftree:inferno_rock"
     ],
     [
       "clifftree:inferno_caves_lava_spring",
