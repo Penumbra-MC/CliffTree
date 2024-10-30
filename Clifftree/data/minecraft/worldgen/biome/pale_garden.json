@@ -15,12 +15,8 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "music": {
-      "max_delay": 24000,
-      "min_delay": 12000,
-      "replace_current_music": false,
-      "sound": "minecraft:music.overworld.forest"
-    },
+    "music": [],
+    "music_volume": 0.0,
     "sky_color": 12171705,
     "water_color": 7768221,
     "water_fog_color": 5597568
@@ -80,9 +76,11 @@
     [
       "minecraft:glow_lichen",
       "minecraft:pale_garden_vegetation",
+      "minecraft:pale_moss_patch",
+      "minecraft:pale_garden_flowers",
+      "minecraft:flower_pale_garden",
       "minecraft:patch_grass_forest",
       "minecraft:patch_sugar_cane",
-      "minecraft:pale_moss",
       "clifftree:patch_pumpkin_pale_garden"
     ],
     [
