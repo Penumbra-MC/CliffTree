@@ -2475,7 +2475,7 @@
             ],
             "erosion": [
               -0.78,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -3203,7 +3203,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -3615,7 +3615,7 @@
             ],
             "erosion": [
               -0.78,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -5955,7 +5955,7 @@
             ],
             "erosion": [
               0.05,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -6113,7 +6113,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -7065,7 +7065,7 @@
             ],
             "erosion": [
               -0.375,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -8243,7 +8243,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -8252,6 +8252,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -11985,7 +12015,7 @@
             ],
             "erosion": [
               -0.78,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -13845,7 +13875,7 @@
             ],
             "erosion": [
               -1,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -17243,7 +17273,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -17252,6 +17282,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.42,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -17745,7 +17805,7 @@
             ],
             "erosion": [
               -1,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -21345,7 +21405,7 @@
             ],
             "erosion": [
               -0.78,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -22125,7 +22185,7 @@
             ],
             "erosion": [
               -0.78,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -23895,7 +23955,7 @@
             ],
             "erosion": [
               0.05,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -24855,7 +24915,7 @@
             ],
             "erosion": [
               -0.375,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -25673,7 +25733,7 @@
             ],
             "humidity": [
               -0.1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -25682,6 +25742,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -29415,7 +29505,7 @@
             ],
             "erosion": [
               -0.78,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,

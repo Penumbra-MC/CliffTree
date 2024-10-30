@@ -481,7 +481,7 @@
           "minecraft:extreme_hills",
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
-          "minecraft:gravelly_hills"
+          "biome_lrq697ns"
         ],
         [
           "minecraft:extreme_hills",
@@ -8511,11 +8511,6 @@
                 "derivative": 0
               },
               {
-                "location": -1.30000004,
-                "value": 0.5728644073226762,
-                "derivative": 0
-              },
-              {
                 "location": -0.28333336,
                 "value": 0.5728644073226762,
                 "derivative": 0
@@ -8716,11 +8711,6 @@
                 "derivative": 0
               },
               {
-                "location": -1.30000004,
-                "value": 0.625,
-                "derivative": 0
-              },
-              {
                 "location": -0.28333336,
                 "value": 0.625,
                 "derivative": 0
@@ -8921,11 +8911,6 @@
                 "derivative": 0
               },
               {
-                "location": -1.30000004,
-                "value": 0.625,
-                "derivative": 0
-              },
-              {
                 "location": -0.28333336,
                 "value": 0.625,
                 "derivative": 0
@@ -8948,11 +8933,6 @@
               {
                 "location": 1.30000004,
                 "value": 0.625,
-                "derivative": 0
-              },
-              {
-                "location": 1.30000004,
-                "value": 5.08,
                 "derivative": 0
               }
             ]
