@@ -124,15 +124,15 @@
       },
       {
         "type": "minecraft:skeleton",
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
-        "weight": 100
+        "weight": 80
       },
       {
         "type": "minecraft:creeper",
         "maxCount": 1,
         "minCount": 1,
-        "weight": 30
+        "weight": 20
       },
       {
         "type": "minecraft:slime",
@@ -144,13 +144,13 @@
         "type": "minecraft:enderman",
         "maxCount": 4,
         "minCount": 1,
-        "weight": 15
+        "weight": 20
       },
       {
         "type": "minecraft:witch",
         "maxCount": 1,
         "minCount": 1,
-        "weight": 15
+        "weight": 10
       }
     ],
     "underground_water_creature": [
