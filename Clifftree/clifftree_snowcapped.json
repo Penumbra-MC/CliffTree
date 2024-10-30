@@ -477,21 +477,21 @@
           "minecraft:gravelly_hills"
         ],
         [
-          "minecraft:extreme_hills",
+          "layout_ktoepeor/minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:gravelly_hills",
           "minecraft:gravelly_hills",
           "biome_lrq697ns"
         ],
         [
-          "minecraft:extreme_hills",
+          "layout_ktoepeor/minecraft:extreme_hills",
           "minecraft:extreme_hills",
           "minecraft:wooded_mountains",
           "minecraft:wooded_mountains",
           "minecraft:wooded_mountains"
         ],
         [
-          "minecraft:flower_forest",
+          "layout_ktoepeor/minecraft:flower_forest",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -505,7 +505,7 @@
           "layout_ktoepeor"
         ],
         [
-          "biome_lri7mibv",
+          "layout_ktoepeor/biome_lri7mibv",
           "biome_lri7mibv",
           "biome_lri7mibv",
           "biome_lri7mibv",
@@ -2528,6 +2528,54 @@
           "layout_ktoij44p"
         ]
       ]
+    },
+    {
+      "key": "layout_m2w51p9g",
+      "name": "Middle Spots",
+      "array": [
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "minecraft:plains/layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ],
+        [
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeor"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2708,7 +2756,7 @@
           "layout_lrr8mjn3",
           "layout_ktoikj2n",
           "layout_ktoikj2n",
-          "layout_ktoepeor",
+          "layout_m2w51p9g",
           "layout_ktoepeot",
           "layout_ktoiz1xt"
         ],
