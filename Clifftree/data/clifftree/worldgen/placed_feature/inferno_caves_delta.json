@@ -1,9 +1,20 @@
 {
-  "feature": "clifftree:inferno_delta",
+  "feature": {
+    "type": "random_patch",
+    "config": {
+      "feature": {
+        "feature": "clifftree:inferno_delta",
+        "placement": []
+      },
+      "tries": 3,
+      "xz_spread": 3,
+      "y_spread": 2
+    }
+  },
   "placement": [
     {
       "type": "minecraft:count_on_every_layer",
-      "count": 5
+      "count": 2
     },
     {
       "type": "minecraft:biome"
