@@ -70,8 +70,7 @@
     ],
     [],
     [
-      "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:spring_water"
     ],
     [
       "minecraft:glow_lichen",
@@ -84,11 +83,42 @@
       "clifftree:patch_pumpkin_pale_garden"
     ],
     [
+      "clifftree:extra_gold_remove",
+      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
-  "spawn_costs": {},
+  "spawn_costs": {
+    "minecraft:spider": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    },
+    "minecraft:zombie": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    },
+    "minecraft:zombie_villager": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    },
+    "minecraft:skeleton": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    },
+    "minecraft:creeper": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    },
+    "minecraft:enderman": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    },
+    "minecraft:witch": {
+      "energy_budget": 0.5,
+      "charge": 0.7
+    }
+  },
   "spawners": {
     "ambient": [
       {

@@ -92,9 +92,9 @@
           },
           "features": [
             {
-              "chance": 0.3,
+              "chance": 0.15,
               "feature": {
-                "feature": "minecraft:pale_moss_vegetation",
+                "feature": "clifftree:pale_moss_vegetation",
                 "placement": [
                   {
                     "type": "minecraft:block_predicate_filter",
