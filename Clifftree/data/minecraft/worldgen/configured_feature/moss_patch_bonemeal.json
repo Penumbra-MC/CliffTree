@@ -130,7 +130,7 @@
               }
             },
             {
-              "chance": 0.5,
+              "chance": 0.1,
               "feature": {
                 "feature": "minecraft:moss_vegetation_bonemeal_ceiling",
                 "placement": [
