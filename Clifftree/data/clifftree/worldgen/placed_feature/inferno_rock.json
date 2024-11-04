@@ -4,7 +4,7 @@
     {
       "type": "noise_based_count",
       "noise_factor": 120,
-      "noise_to_count_ratio": 30,
+      "noise_to_count_ratio": 60,
       "noise_offset": 0.5
     },
     {
@@ -24,6 +24,11 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "type": "random_offset",
+      "xz_spread": 4,
+      "y_spread": 8
     }
   ]
 }
