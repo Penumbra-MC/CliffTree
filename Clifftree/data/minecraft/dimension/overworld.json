@@ -32547,7 +32547,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -32577,7 +32577,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -32697,7 +32697,7 @@
             ],
             "depth": [
               0.2,
-              0.29
+              0.9475
             ],
             "offset": 0
           },
@@ -33027,7 +33027,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -33037,7 +33037,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.05
             ],
             "continentalness": [
               -0.11,
@@ -33045,7 +33045,7 @@
             ],
             "erosion": [
               -0.375,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               0.55,
@@ -33083,36 +33083,6 @@
             ],
             "humidity": [
               -0.35,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.52
-            ],
-            "erosion": [
-              0.42,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
               0.3
             ],
             "depth": [
@@ -33217,7 +33187,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.05
             ],
             "continentalness": [
               0.03,
@@ -33225,7 +33195,7 @@
             ],
             "erosion": [
               0.05,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               0.55,
@@ -33897,7 +33867,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -33927,7 +33897,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -33975,7 +33945,7 @@
             ],
             "erosion": [
               0.05,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               0.55,
@@ -34013,36 +33983,6 @@
             ],
             "humidity": [
               -0.35,
-              0.3
-            ],
-            "depth": [
-              0.2,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.42,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
               0.3
             ],
             "depth": [
@@ -34193,6 +34133,36 @@
             ],
             "humidity": [
               -1,
+              -0.35
+            ],
+            "depth": [
+              0.2,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
               0.3
             ],
             "depth": [
@@ -34811,7 +34781,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.52
+              1
             ],
             "erosion": [
               0.5750000000000001,
@@ -34827,7 +34797,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              0.29
             ],
             "offset": 0
           },
@@ -34901,7 +34871,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.52
+              1
             ],
             "erosion": [
               0.5750000000000001,
@@ -34917,7 +34887,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              0.29
             ],
             "offset": 0
           },
@@ -35183,11 +35153,41 @@
             ],
             "humidity": [
               -1,
+              -0.35
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.2,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -0.35,
               0.3
             ],
             "depth": [
               0.2,
-              1
+              0.29
             ],
             "offset": 0
           },
@@ -35367,7 +35367,7 @@
             ],
             "depth": [
               0.2,
-              0.29
+              0.9475
             ],
             "offset": 0
           },
@@ -36157,7 +36157,7 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
+              -0.05
             ],
             "continentalness": [
               -0.11,
@@ -36165,7 +36165,7 @@
             ],
             "erosion": [
               -1,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               0.55,
@@ -36657,7 +36657,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -36717,7 +36717,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -37297,6 +37297,36 @@
           "parameters": {
             "weirdness": [
               -0.05,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.42
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
               1
             ],
             "continentalness": [
@@ -37806,6 +37836,36 @@
         {
           "parameters": {
             "weirdness": [
+              -0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.52
+            ],
+            "erosion": [
+              0.05,
+              0.42
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0.2,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
               0.26666668,
               1
             ],
@@ -37827,7 +37887,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -37857,7 +37917,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -38291,6 +38351,36 @@
             ],
             "continentalness": [
               -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.42
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0.2,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -38402,6 +38492,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.42,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -38607,7 +38727,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -38637,7 +38757,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -39431,7 +39551,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.52
+              1
             ],
             "erosion": [
               0.5750000000000001,
@@ -39447,7 +39567,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              0.29
             ],
             "offset": 0
           },
@@ -39491,7 +39611,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.52
+              1
             ],
             "erosion": [
               0.5750000000000001,
@@ -39507,7 +39627,7 @@
             ],
             "depth": [
               0.2,
-              0.9475
+              0.29
             ],
             "offset": 0
           },
@@ -39747,7 +39867,7 @@
             ],
             "depth": [
               0.2,
-              1
+              0.29
             ],
             "offset": 0
           },
@@ -39927,7 +40047,7 @@
             ],
             "depth": [
               0.2,
-              0.29
+              0.9475
             ],
             "offset": 0
           },
@@ -40857,7 +40977,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -40917,7 +41037,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41127,7 +41247,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41167,7 +41287,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.05
             ],
             "continentalness": [
               -0.2,
@@ -41175,7 +41295,7 @@
             ],
             "erosion": [
               -0.375,
-              0.42
+              0.5750000000000001
             ],
             "temperature": [
               0.55,
@@ -41231,37 +41351,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.42,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:warm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
+              -0.11
             ],
             "erosion": [
               0.5750000000000001,
@@ -41277,7 +41367,7 @@
             ],
             "depth": [
               0.29,
-              1
+              0.9475
             ],
             "offset": 0
           },
@@ -41287,41 +41377,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              1
             ],
             "continentalness": [
               -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              -1,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:lush_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
+              -0.11
             ],
             "erosion": [
               0.5750000000000001,
@@ -41347,11 +41407,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              1
             ],
             "continentalness": [
               -0.2,
-              0.52
+              -0.11
             ],
             "erosion": [
               0.5750000000000001,
@@ -41377,11 +41437,11 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              1
             ],
             "continentalness": [
               -0.2,
-              0.52
+              -0.11
             ],
             "erosion": [
               0.5750000000000001,
@@ -41427,7 +41487,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41457,7 +41517,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41577,7 +41637,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41637,7 +41697,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41754,6 +41814,126 @@
             "humidity": [
               0.1,
               0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.1
             ],
             "depth": [
               0.29,
@@ -41787,7 +41967,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41817,7 +41997,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41937,7 +42117,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -41977,10 +42157,10 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
-              -0.4
+              -0.7666667
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -41989,79 +42169,19 @@
             ],
             "temperature": [
               -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              -0.45,
               -0.15
             ],
             "humidity": [
-              -0.1,
-              0.3
+              0.1,
+              1
             ],
             "depth": [
               0.29,
-              1
+              0.9475
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
+          "biome": "minecraft:lush_caves"
         },
         {
           "parameters": {
@@ -42070,7 +42190,7 @@
               -0.4
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42100,7 +42220,7 @@
               -0.4
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42130,7 +42250,7 @@
               -0.4
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42147,41 +42267,11 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
           "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -42217,7 +42307,7 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
-              -0.4
+              1
             ],
             "continentalness": [
               0.03,
@@ -42225,7 +42315,7 @@
             ],
             "erosion": [
               -0.375,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -1,
@@ -42237,7 +42327,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -42247,7 +42337,7 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
-              -0.4
+              1
             ],
             "continentalness": [
               0.03,
@@ -42255,7 +42345,7 @@
             ],
             "erosion": [
               -0.375,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -42267,7 +42357,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -42417,11 +42507,41 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
           "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              -0.11
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
         },
         {
           "parameters": {
@@ -42457,7 +42577,7 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              -0.4
+              1
             ],
             "continentalness": [
               -0.17,
@@ -42465,7 +42585,7 @@
             ],
             "erosion": [
               -0.78,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -1,
@@ -42477,7 +42597,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -42487,7 +42607,7 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              -0.4
+              1
             ],
             "continentalness": [
               -0.17,
@@ -42495,7 +42615,7 @@
             ],
             "erosion": [
               -0.78,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.72,
@@ -42507,7 +42627,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -42577,7 +42697,7 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              -0.4
+              1
             ],
             "continentalness": [
               -0.17,
@@ -42585,7 +42705,7 @@
             ],
             "erosion": [
               -0.78,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.15,
@@ -42607,7 +42727,7 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              -0.4
+              1
             ],
             "continentalness": [
               -0.17,
@@ -42615,7 +42735,7 @@
             ],
             "erosion": [
               -0.78,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               0.2,
@@ -42627,7 +42747,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -42636,191 +42756,11 @@
         {
           "parameters": {
             "weirdness": [
-              -0.56666666,
-              -0.4
+              -0.7666667,
+              -0.56666666
             ],
             "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.56666666,
-              -0.4
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42829,11 +42769,71 @@
             ],
             "temperature": [
               -1,
-              -0.45
+              -0.72
             ],
             "humidity": [
               -1,
-              0.1
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.1,
+              0.3
             ],
             "depth": [
               0.29,
@@ -42846,11 +42846,191 @@
         {
           "parameters": {
             "weirdness": [
-              -0.4,
-              0.4
+              -0.56666666,
+              0.56666666
             ],
             "continentalness": [
-              -0.2,
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42859,7 +43039,37 @@
             ],
             "temperature": [
               -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
               1
+            ],
+            "temperature": [
+              -1,
+              -0.15
             ],
             "humidity": [
               0.1,
@@ -42876,11 +43086,11 @@
         {
           "parameters": {
             "weirdness": [
-              -0.4,
+              -0.56666666,
               1
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42910,7 +43120,7 @@
               0.4
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42940,7 +43150,7 @@
               0.4
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -42967,14 +43177,14 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              0.56666666
+              0.4
             ],
             "continentalness": [
-              -0.17,
-              -0.11
+              0.03,
+              0.52
             ],
             "erosion": [
-              -1,
+              -0.78,
               0.5750000000000001
             ],
             "temperature": [
@@ -42983,66 +43193,6 @@
             ],
             "humidity": [
               -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
               0.3
             ],
             "depth": [
@@ -43051,66 +43201,6 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -0.78,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
           "biome": "clifftree:frozen_caves"
         },
         {
@@ -43137,7 +43227,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -43257,7 +43347,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -43287,7 +43377,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -43317,7 +43407,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -43437,7 +43527,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -43507,6 +43597,36 @@
           "parameters": {
             "weirdness": [
               -0.05,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.42
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
               0.56666666
             ],
             "continentalness": [
@@ -43562,6 +43682,36 @@
             "offset": 0
           },
           "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              0.52
+            ],
+            "erosion": [
+              0.42,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -43660,97 +43810,7 @@
               0.93333334
             ],
             "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -43780,7 +43840,7 @@
               0.93333334
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -43810,7 +43870,7 @@
               0.93333334
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -43827,41 +43887,11 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
           "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.2,
-              0.52
-            ],
-            "erosion": [
-              0.5750000000000001,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -43892,66 +43922,6 @@
             "offset": 0
           },
           "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -0.375,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -0.375,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -44067,7 +44037,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -44107,66 +44077,6 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
               1
             ],
             "continentalness": [
@@ -44197,220 +44107,10 @@
           "parameters": {
             "weirdness": [
               0.56666666,
-              0.93333334
+              0.7666667
             ],
             "continentalness": [
-              -0.17,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              0.03
-            ],
-            "erosion": [
-              -0.78,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              1
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -1,
-              0.1
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.7666667,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -44419,11 +44119,71 @@
             ],
             "temperature": [
               -1,
-              -0.45
+              -0.72
             ],
             "humidity": [
               -1,
-              0.1
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              0.1,
+              0.3
             ],
             "depth": [
               0.29,
@@ -44436,11 +44196,161 @@
         {
           "parameters": {
             "weirdness": [
-              0.93333334,
+              0.7666667,
               1
             ],
             "continentalness": [
-              -0.2,
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.29,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -44449,7 +44359,37 @@
             ],
             "temperature": [
               -1,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "depth": [
+              0.29,
+              0.9475
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:cold_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
               1
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.15
             ],
             "humidity": [
               0.1,
@@ -44470,7 +44410,7 @@
               1
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -44500,7 +44440,7 @@
               1
             ],
             "continentalness": [
-              -0.2,
+              -0.11,
               0.52
             ],
             "erosion": [
@@ -44530,126 +44470,6 @@
               1
             ],
             "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.17,
-              -0.11
-            ],
-            "erosion": [
-              -1,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.29,
-              0.9475
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
               0.03,
               0.52
             ],
@@ -44667,7 +44487,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -44697,7 +44517,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -44787,7 +44607,7 @@
             ],
             "depth": [
               0.29,
-              0.9475
+              1
             ],
             "offset": 0
           },
@@ -44805,44 +44625,14 @@
             ],
             "erosion": [
               -1,
-              -0.2225
+              1
             ],
             "temperature": [
               -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.9475,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "temperature": [
-              -0.72,
               -0.45
             ],
             "humidity": [
-              -0.1,
+              0.3,
               1
             ],
             "depth": [
@@ -44925,14 +44715,14 @@
             ],
             "erosion": [
               -1,
-              -0.2225
+              1
             ],
             "temperature": [
               0.2,
               0.55
             ],
             "humidity": [
-              0.1,
+              0.3,
               1
             ],
             "depth": [
@@ -45014,15 +44804,45 @@
               1
             ],
             "erosion": [
-              -0.2225,
+              0.5750000000000001,
               1
             ],
             "temperature": [
               -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.72,
               -0.45
             ],
             "humidity": [
-              -1,
+              -0.1,
               1
             ],
             "depth": [
@@ -45031,67 +44851,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:cold_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.9475,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0.9475,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:lukewarm_caves"
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45173,7 +44933,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.1
             ],
             "depth": [
               0.9475,
@@ -45182,6 +44942,96 @@
             "offset": 0
           },
           "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {
@@ -45242,6 +45092,36 @@
             "offset": 0
           },
           "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
@@ -45408,6 +45288,66 @@
               1
             ],
             "temperature": [
+              -1,
+              -0.72
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.72,
+              -0.45
+            ],
+            "humidity": [
+              -0.1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:frozen_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
               -0.45,
               0.2
             ],
@@ -45452,6 +45392,36 @@
             "offset": 0
           },
           "biome": "clifftree:caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.17,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0.9475,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:lukewarm_caves"
         },
         {
           "parameters": {
