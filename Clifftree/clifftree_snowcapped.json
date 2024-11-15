@@ -971,7 +971,7 @@
           "layout_ktoepeor"
         ],
         [
-          "layout_ktoepeor/minecraft:cherry_grove",
+          "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
@@ -1308,7 +1308,7 @@
         ],
         [
           "minecraft:flower_forest",
-          "minecraft:sunflower_plains",
+          "layout_ktoepeor",
           "biome_lpyemplu",
           "minecraft:birch_forest",
           "minecraft:pale_garden"
