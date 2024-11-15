@@ -2497,7 +2497,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -2617,7 +2617,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -13537,7 +13537,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               0.03,
@@ -13657,7 +13657,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              -0.26666668
             ],
             "continentalness": [
               0.03,
@@ -15525,7 +15525,7 @@
             ],
             "erosion": [
               -1,
-              0.5750000000000001
+              -0.375
             ],
             "temperature": [
               -0.15,
@@ -15541,7 +15541,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:sparse_forest"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -15645,7 +15645,7 @@
             ],
             "erosion": [
               -1,
-              0.42
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -15661,7 +15661,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -15862,6 +15862,36 @@
               0.2
             ],
             "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:sparse_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              -0.375,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
               0.1,
               0.3
             ],
@@ -15872,6 +15902,36 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.52
+            ],
+            "erosion": [
+              -0.375,
+              0.42
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -16237,7 +16297,7 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              -0.05
+              0.26666668
             ],
             "continentalness": [
               0.52,
@@ -16245,7 +16305,7 @@
             ],
             "erosion": [
               -1,
-              0.5750000000000001
+              -0.375
             ],
             "temperature": [
               -0.15,
@@ -16261,7 +16321,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:sparse_forest"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -16327,7 +16387,7 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              -0.05
+              0.26666668
             ],
             "continentalness": [
               0.52,
@@ -16335,7 +16395,7 @@
             ],
             "erosion": [
               -1,
-              0.42
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -16351,7 +16411,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -16492,6 +16552,36 @@
               0.2
             ],
             "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:sparse_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              0.52,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
               0.1,
               0.3
             ],
@@ -16502,6 +16592,36 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              0.52,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.42
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -17281,7 +17401,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:sparse_forest"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -17371,7 +17491,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -17868,36 +17988,6 @@
               -0.375
             ],
             "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.52,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
               0.2,
               0.55
             ],
@@ -17912,36 +18002,6 @@
             "offset": 0
           },
           "biome": "minecraft:savanna"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.52,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -19425,7 +19485,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              0.5750000000000001
             ],
             "temperature": [
               -0.15,
@@ -19441,7 +19501,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:sparse_forest"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -19515,7 +19575,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              0.42
             ],
             "temperature": [
               0.2,
@@ -19531,7 +19591,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -19841,36 +19901,6 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              1
-            ],
-            "continentalness": [
-              -0.11,
               0.52
             ],
             "erosion": [
@@ -19922,36 +19952,6 @@
             "offset": 0
           },
           "biome": "minecraft:dark_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              0.42
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -20197,36 +20197,6 @@
           "parameters": {
             "weirdness": [
               0.05,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
               1
             ],
             "continentalness": [
@@ -20252,36 +20222,6 @@
             "offset": 0
           },
           "biome": "minecraft:pale_garden"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.42
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -20672,66 +20612,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              0.52
-            ],
-            "erosion": [
-              -0.375,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              0.52
-            ],
-            "erosion": [
-              -0.375,
-              0.42
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -37035,7 +36915,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              0.5750000000000001
             ],
             "temperature": [
               -0.15,
@@ -37051,7 +36931,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:sparse_forest"
+          "biome": "minecraft:forest"
         },
         {
           "parameters": {
@@ -37125,7 +37005,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              0.42
             ],
             "temperature": [
               0.2,
@@ -37141,7 +37021,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:plains"
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -37271,36 +37151,6 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              1
-            ],
-            "continentalness": [
-              -0.11,
               0.52
             ],
             "erosion": [
@@ -37322,36 +37172,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_birch_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              0.42
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -37502,66 +37322,6 @@
             "offset": 0
           },
           "biome": "minecraft:plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -0.375,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -0.375,
-              0.42
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.1,
-              0.1
-            ],
-            "depth": [
-              0.2,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {
@@ -38492,6 +38252,66 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              0.52
+            ],
+            "erosion": [
+              -0.375,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              0.52
+            ],
+            "erosion": [
+              -0.375,
+              0.42
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:sparse_forest"
         },
         {
           "parameters": {

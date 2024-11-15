@@ -1309,14 +1309,14 @@
         [
           "minecraft:flower_forest",
           "layout_ktoepeor",
-          "biome_lpyemplu",
+          "minecraft:forest",
           "minecraft:birch_forest",
           "minecraft:pale_garden"
         ],
         [
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "minecraft:plains",
+          "biome_lpyemplu",
           "minecraft:jungle_edge",
           "minecraft:bamboo_jungle"
         ],
