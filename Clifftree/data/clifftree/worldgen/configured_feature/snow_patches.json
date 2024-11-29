@@ -16,7 +16,9 @@
                   "type": "minecraft:simple_state_provider",
                   "state": {
                     "Name": "minecraft:snow",
-                    "Properties": {"layers":"1"}
+                    "Properties": {
+                      "layers": "1"
+                    }
                   }
                 }
               }
@@ -28,7 +30,10 @@
                   "type": "not",
                   "predicate": {
                     "type": "matching_blocks",
-                    "blocks": "grass_block",
+                    "blocks": [
+                      "grass_block",
+                      "minecraft:podzol"
+                    ],
                     "offset": [
                       0,
                       -1,
@@ -41,7 +46,7 @@
           },
           "features": [
             {
-              "chance": 0.5,
+              "chance": 0.3,
               "feature": {
                 "feature": {
                   "type": "block_column",
@@ -62,7 +67,9 @@
                           "type": "minecraft:simple_state_provider",
                           "state": {
                             "Name": "minecraft:snow",
-                            "Properties": {"layers":"1"}
+                            "Properties": {
+                              "layers": "1"
+                            }
                           }
                         }
                       },
@@ -72,7 +79,9 @@
                           "type": "minecraft:simple_state_provider",
                           "state": {
                             "Name": "minecraft:grass_block",
-                            "Properties": {"snowy":"true"}
+                            "Properties": {
+                              "snowy": "true"
+                            }
                           }
                         }
                       }
@@ -86,6 +95,66 @@
                     "predicate": {
                       "type": "matching_blocks",
                       "blocks": "grass_block",
+                      "offset": [
+                        0,
+                        -1,
+                        0
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "chance": 0.3,
+              "feature": {
+                "feature": {
+                  "type": "block_column",
+                  "config": {
+                    "allowed_placement": {
+                      "type": "inside_world_bounds",
+                      "offset": [
+                        0,
+                        1,
+                        0
+                      ]
+                    },
+                    "direction": "down",
+                    "layers": [
+                      {
+                        "height": 1,
+                        "provider": {
+                          "type": "minecraft:simple_state_provider",
+                          "state": {
+                            "Name": "minecraft:snow",
+                            "Properties": {
+                              "layers": "1"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "height": 1,
+                        "provider": {
+                          "type": "minecraft:simple_state_provider",
+                          "state": {
+                            "Name": "minecraft:podzol",
+                            "Properties": {
+                              "snowy": "true"
+                            }
+                          }
+                        }
+                      }
+                    ],
+                    "prioritize_tip": false
+                  }
+                },
+                "placement": [
+                  {
+                    "type": "block_predicate_filter",
+                    "predicate": {
+                      "type": "matching_blocks",
+                      "blocks": "podzol",
                       "offset": [
                         0,
                         -1,

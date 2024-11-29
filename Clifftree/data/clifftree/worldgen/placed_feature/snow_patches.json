@@ -2,11 +2,11 @@
   "feature": "clifftree:snow_patches",
   "placement": [
     {
-      "type": "minecraft:count_on_every_layer",
-      "count": 10
+      "type": "minecraft:count",
+      "count": 128
     },
     {
-      "type": "minecraft:in_square"
+      "type":"in_square"
     },
     {
       "type": "minecraft:heightmap",
