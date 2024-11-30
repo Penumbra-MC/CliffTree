@@ -3083,7 +3083,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -3092,6 +3092,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.42,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -6683,7 +6713,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -6692,6 +6722,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.42,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -10193,7 +10253,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -10202,6 +10262,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.56666666
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -16999,40 +17089,10 @@
             ],
             "temperature": [
               -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0.05
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:frozen_ocean"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.05
-            ],
-            "continentalness": [
-              -0.2,
-              -0.11
-            ],
-            "erosion": [
-              0.42,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.72,
               -0.45
             ],
             "humidity": [
-              -0.1,
+              -1,
               0.3
             ],
             "depth": [
@@ -17058,7 +17118,7 @@
               0.5750000000000001
             ],
             "temperature": [
-              -0.72,
+              -1,
               -0.45
             ],
             "humidity": [
@@ -17183,7 +17243,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               0,
@@ -17212,7 +17272,7 @@
               -0.15
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -17242,8 +17302,38 @@
               0.2
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
+            ],
+            "depth": [
+              0,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -17359,40 +17449,10 @@
             ],
             "temperature": [
               -1,
-              -0.72
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0.05
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:cold_river"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.05
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.42,
-              0.5750000000000001
-            ],
-            "temperature": [
-              -0.72,
               -0.45
             ],
             "humidity": [
-              -0.1,
+              -1,
               0.3
             ],
             "depth": [
@@ -18083,7 +18143,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               0,
@@ -18112,7 +18172,7 @@
               -0.15
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
             ],
             "depth": [
@@ -18142,8 +18202,38 @@
               0.2
             ],
             "humidity": [
-              0.1,
+              -0.1,
               1
+            ],
+            "depth": [
+              0,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
             ],
             "depth": [
               0,
@@ -18893,7 +18983,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -18902,6 +18992,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.2,
+              1
+            ],
+            "erosion": [
+              0.42,
+              0.5750000000000001
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -18978,36 +19098,6 @@
               0.5750000000000001
             ],
             "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:snowy_old_growth_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              1
-            ],
-            "continentalness": [
-              -0.2,
-              1
-            ],
-            "erosion": [
-              0.42,
-              0.5750000000000001
-            ],
-            "temperature": [
               -0.45,
               -0.15
             ],
@@ -28103,7 +28193,7 @@
             ],
             "humidity": [
               -1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -28112,6 +28202,36 @@
             "offset": 0
           },
           "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:snowy_old_growth_taiga"
         },
         {
           "parameters": {
@@ -33893,7 +34013,7 @@
             ],
             "humidity": [
               -1,
-              0.1
+              -0.1
             ],
             "depth": [
               0.05,
@@ -33922,7 +34042,7 @@
               -0.15
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
             ],
             "depth": [
@@ -33952,8 +34072,38 @@
               0.2
             ],
             "humidity": [
-              0.1,
+              -0.1,
               0.3
+            ],
+            "depth": [
+              0.05,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              0.03,
+              0.52
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.1,
+              0.1
             ],
             "depth": [
               0.05,
