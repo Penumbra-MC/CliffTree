@@ -7,7 +7,6 @@
     "clifftree:glacier_cliff",
     "clifftree:glacier_valley",
     "clifftree:snowy_old_growth_taiga",
-    "clifftree:tundra",
-    "minecraft:windswept_gravelly_hills"
+    "clifftree:tundra"
   ]
 }
