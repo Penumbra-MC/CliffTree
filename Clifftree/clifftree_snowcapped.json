@@ -2624,6 +2624,102 @@
           "layout_m337p7gk"
         ]
       ]
+    },
+    {
+      "key": "layout_m43onllr",
+      "name": "Shattered river",
+      "array": [
+        [
+          "biome_lpyej6tt",
+          "biome_lpyej6tt",
+          "biome_lpyej6tt",
+          "biome_lpyej6tt",
+          "biome_lpyej6tt"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "biome_lpyej6tt",
+          "biome_lpyej6tt",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m43opj5u",
+      "name": "Shattered river shore",
+      "array": [
+        [
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean"
+        ],
+        [
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "layout_ltxy18kz"
+        ],
+        [
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz"
+        ],
+        [
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_m43onllr"
+        ],
+        [
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz"
+        ],
+        [
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_ltxy18kz",
+          "layout_m43onllr"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2673,7 +2769,7 @@
           "layout_ltxy18kz",
           "layout_ltxy18kz",
           "layout_ltxy18kz",
-          "layout_ltxy18kz",
+          "layout_m43opj5u",
           "layout_ktoiz1xt"
         ],
         [
@@ -2682,7 +2778,7 @@
           "layout_ltxy18kz",
           "layout_ltxy18kz",
           "layout_ltxy18kz",
-          "layout_ltxy18kz",
+          "layout_m43opj5u",
           "layout_ktoiz1xt"
         ],
         [
@@ -2691,7 +2787,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_m43onllr",
           "layout_ktoiz1xt"
         ],
         [
@@ -2700,7 +2796,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_m43onllr",
           "layout_ktoiz1xt"
         ],
         [
@@ -2709,7 +2805,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_m43onllr",
           "layout_ktoiz1xt"
         ],
         [
@@ -2718,7 +2814,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "layout_ktoij44p",
+          "layout_m43onllr",
           "layout_ktoiz1xt"
         ]
       ]
