@@ -59,6 +59,7 @@
   "depths": [
     0,
     0,
+    0.05,
     0.2,
     0.29,
     0.895,
@@ -103,13 +104,28 @@
         "slice_ktoj3nad"
       ],
       [
+        "slice_ktoj3nad",
+        "slice_ktojmnu2",
+        "slice_ktojsso9",
+        "slice_ktojmnu2",
+        "slice_ktoj3nad",
+        "slice_ktoip0qu",
+        "layout_m0frgwav",
+        "slice_ktoip0qu",
+        "slice_ktoj3nad",
+        "slice_ktojmnu2",
+        "slice_ktojsso9",
+        "slice_ktojmnu2",
+        "slice_ktoj3nad"
+      ],
+      [
         "layout_lsng8zvu",
         "layout_lsng90zg",
         "layout_lsng9419",
         "layout_lsng90zg",
         "layout_lsng8zvu",
         "layout_lsjdn3r8",
-        "layout_lsjdn3r8",
+        "layout_m0frgwav",
         "layout_lsjdn3r8",
         "layout_lsng8zvu",
         "layout_lsng90zg",
@@ -2720,6 +2736,54 @@
           "layout_m43onllr"
         ]
       ]
+    },
+    {
+      "key": "layout_m44puz58",
+      "name": "Cave river",
+      "array": [
+        [
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "biome_lpyhxbye",
+          "biome_lpyhxbye",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "minecraft:lush_caves"
+        ],
+        [
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "minecraft:lush_caves"
+        ],
+        [
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "biome_lpygnpus",
+          "minecraft:lush_caves"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -4231,8 +4295,8 @@
           "layout_lstluytq"
         ],
         [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
+          "layout_m44puz58",
+          "layout_m44puz58",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_lrooluic",
@@ -4240,8 +4304,8 @@
           "layout_lstluytq"
         ],
         [
-          "layout_lwe1v213",
-          "layout_lwe1v213",
+          "layout_m44puz58",
+          "layout_m44puz58",
           "layout_kvu3ce1q",
           "layout_kvu3ce1q",
           "layout_lrooluic",
