@@ -198,7 +198,7 @@
           }
         }
       },
-      "argument2": "clifftree:overworld/extra_density/underground_rivers/total"
+      "argument2": "clifftree:cave_rivers"
     },
     "vein_toggle": {
       "argument": {
@@ -363,7 +363,7 @@
     },
     "fluid_level_floodedness": {
       "type": "minecraft:range_choice",
-      "input": "clifftree:overworld/extra_density/underground_rivers/parameters",
+      "input": "clifftree:cave_rivers_parameters",
       "min_inclusive": 0.9,
       "max_exclusive": 1.1,
       "when_in_range": 1,
@@ -376,7 +376,7 @@
     },
     "fluid_level_spread": {
       "type": "minecraft:range_choice",
-      "input": "clifftree:overworld/extra_density/underground_rivers/parameters",
+      "input": "clifftree:cave_rivers_parameters",
       "min_inclusive": 0.9,
       "max_exclusive": 1.1,
       "when_in_range": 0.5,
