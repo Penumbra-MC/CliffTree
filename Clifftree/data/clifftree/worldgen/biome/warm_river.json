@@ -74,7 +74,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
-      "minecraft:seagrass_river"
+      "minecraft:seagrass_river",
+      "clifftree:glow_lichen_cave_river"
     ],
     [ "clifftree:extra_gold_remove",
     "clifftree:extra_emerald_remove",

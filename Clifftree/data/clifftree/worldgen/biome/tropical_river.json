@@ -78,7 +78,8 @@
       "minecraft:vines",
       "minecraft:patch_melon_sparse",
       "minecraft:seagrass_deep_warm",
-      "minecraft:seagrass_river"
+      "minecraft:seagrass_river",
+      "clifftree:glow_lichen_cave_river"
     ],
     [ "clifftree:extra_gold_remove",
       "clifftree:extra_emerald_remove",

@@ -82,7 +82,9 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
-      "clifftree:snow_patches"
+      "clifftree:snow_patches",
+      "clifftree:snow_river_ceiling",
+      "clifftree:glow_lichen_cave_river"
     ],
     [
       "clifftree:extra_gold_remove",
