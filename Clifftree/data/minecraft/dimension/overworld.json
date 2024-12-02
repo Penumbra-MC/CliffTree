@@ -33833,6 +33833,36 @@
             ],
             "humidity": [
               -1,
+              0.1
+            ],
+            "depth": [
+              0.05,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:warm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
               0.3
             ],
             "depth": [
@@ -33983,7 +34013,7 @@
             ],
             "humidity": [
               -1,
-              0.3
+              0.1
             ],
             "depth": [
               0.05,
@@ -33992,6 +34022,36 @@
             "offset": 0
           },
           "biome": "minecraft:frozen_river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.05
+            ],
+            "continentalness": [
+              0.03,
+              0.52
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.29
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
         },
         {
           "parameters": {
@@ -34043,7 +34103,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.1
             ],
             "depth": [
               0.05,
@@ -34103,7 +34163,7 @@
             ],
             "humidity": [
               -0.1,
-              0.3
+              0.1
             ],
             "depth": [
               0.05,
@@ -34129,36 +34189,6 @@
             ],
             "temperature": [
               -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              0.3
-            ],
-            "depth": [
-              0.05,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:river"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.05
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
               0.55
             ],
             "humidity": [
@@ -34172,36 +34202,6 @@
             "offset": 0
           },
           "biome": "minecraft:river"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.05
-            ],
-            "continentalness": [
-              0.03,
-              0.52
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0.05,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:tropical_river"
         },
         {
           "parameters": {
@@ -39803,6 +39803,36 @@
             ],
             "humidity": [
               -0.35,
+              0.1
+            ],
+            "depth": [
+              0.2,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:warm_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
               0.3
             ],
             "depth": [
@@ -39872,6 +39902,36 @@
             "offset": 0
           },
           "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              0.52
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
@@ -40472,6 +40532,36 @@
             "offset": 0
           },
           "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.52
+            ],
+            "erosion": [
+              -1,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0.2,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:warm_caves"
         },
         {
           "parameters": {
