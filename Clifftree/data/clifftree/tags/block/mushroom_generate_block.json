@@ -12,6 +12,10 @@
     "#minecraft:birch_logs",
     "#minecraft:jungle_logs",
     "#minecraft:mangrove_logs",
-    "#minecraft:cherry_logs"
+    "#minecraft:cherry_logs",
+    "#minecraft:base_stone_nether",
+    "#minecraft:nylium",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil"
   ]
 }
