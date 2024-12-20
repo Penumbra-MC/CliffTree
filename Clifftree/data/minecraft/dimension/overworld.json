@@ -34001,7 +34001,7 @@
             ],
             "continentalness": [
               0.03,
-              0.52
+              1
             ],
             "erosion": [
               -1,
@@ -34091,7 +34091,7 @@
             ],
             "continentalness": [
               0.03,
-              0.52
+              1
             ],
             "erosion": [
               -1,
@@ -34549,10 +34549,10 @@
             ],
             "temperature": [
               -1,
-              -0.72
+              -0.45
             ],
             "humidity": [
-              -1,
+              0.1,
               1
             ],
             "depth": [
@@ -34561,7 +34561,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:frozen_caves"
+          "biome": "minecraft:frozen_river"
         },
         {
           "parameters": {
@@ -34592,36 +34592,6 @@
             "offset": 0
           },
           "biome": "minecraft:dripstone_caves"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.05
-            ],
-            "continentalness": [
-              0.52,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              -0.72,
-              -0.45
-            ],
-            "humidity": [
-              -0.1,
-              1
-            ],
-            "depth": [
-              0.05,
-              0.29
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:frozen_caves"
         },
         {
           "parameters": {

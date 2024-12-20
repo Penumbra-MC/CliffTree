@@ -2784,6 +2784,54 @@
           "minecraft:lush_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_m4wl59fu",
+      "name": "Dripstone Cave river",
+      "array": [
+        [
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river",
+          "minecraft:frozen_river"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ],
+        [
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves",
+          "minecraft:dripstone_caves"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -4313,8 +4361,8 @@
           "layout_lstluytq"
         ],
         [
-          "layout_ly3mjzak",
-          "layout_ly3mjzak",
+          "layout_m4wl59fu",
+          "layout_m4wl59fu",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
