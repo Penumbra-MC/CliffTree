@@ -59,7 +59,7 @@
       "minecraft:ore_andesite_lower",
       "minecraft:ore_tuff",
       "minecraft:ore_coal_upper",
-      "minecraft:ore_coal_lush",
+      "clifftree:ore_coal_lush",
       "minecraft:ore_coal_lower",
       "minecraft:ore_iron_upper",
       "minecraft:ore_iron_middle",
@@ -85,7 +85,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_mangrove_worldgen",
+      "clifftree:trees_mangrove_worldgen",
       "clifftree:flower_mangrove_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",

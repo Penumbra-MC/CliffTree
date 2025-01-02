@@ -1503,9 +1503,6 @@
                               },
                               "then_run": {
                                 "result_state": {
-                                  "Properties": {
-                                    "snowy": "false"
-                                  },
                                   "Name": "minecraft:snow_block"
                                 },
                                 "type": "minecraft:block"
@@ -3781,7 +3778,6 @@
                   {
                     "if_true": {
                       "biome_is": [
-                        
                         "minecraft:snowy_beach",
                         "clifftree:gravelly_beach"
                       ],
@@ -3975,26 +3971,10 @@
     "type": "minecraft:sequence"
   },
   "noise": {
-    "top_slide": {
-      "target": -0.078125,
-      "size": 2,
-      "offset": 0
-    },
-    "bottom_slide": {
-      "target": 0.1171875,
-      "size": 3,
-      "offset": 0
-    },
     "size_horizontal": 1,
     "size_vertical": 2,
     "min_y": -64,
-    "height": 384,
-    "sampling": {
-      "xz_scale": 1.0,
-      "y_scale": 1.0,
-      "xz_factor": 80.0,
-      "y_factor": 160.0
-    }
+    "height": 384
   },
   "default_block": {
     "Name": "minecraft:stone"
