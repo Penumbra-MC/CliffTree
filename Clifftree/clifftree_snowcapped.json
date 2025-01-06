@@ -319,7 +319,7 @@
           "minecraft:meadow/minecraft:cherry_grove",
           "minecraft:meadow/minecraft:tall_birch_forest",
           "minecraft:meadow/minecraft:tall_birch_forest",
-          "minecraft:dark_forest/minecraft:pale_garden"
+          "minecraft:dark_forest"
         ],
         [
           "minecraft:savanna_plateau",
@@ -943,7 +943,7 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor/minecraft:pale_garden"
+          "layout_ktoepeor"
         ],
         [
           "layout_ktoepeor",
@@ -991,7 +991,7 @@
           "layout_ktoepeor",
           "layout_ktoepeor",
           "layout_ktoepeor",
-          "layout_ktoepeor/minecraft:pale_garden"
+          "layout_ktoepeor"
         ],
         [
           "layout_ktoepeor",
@@ -1327,7 +1327,7 @@
           "layout_ktoepeor",
           "minecraft:forest",
           "minecraft:birch_forest",
-          "minecraft:pale_garden"
+          "minecraft:dark_forest"
         ],
         [
           "layout_ktoepeor",
@@ -2383,7 +2383,7 @@
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
-          "minecraft:pale_garden"
+          "layout_ktoij44p"
         ],
         [
           "layout_ktoij44p",
@@ -4765,10 +4765,6 @@
       "key": "biome_lzqiowxl",
       "name": "clifftree:dirt_caves",
       "color": "#876c52"
-    },
-    {
-      "key": "minecraft:pale_garden",
-      "name": "minecraft:pale_garden"
     }
   ],
   "targetVersion": "1_19",
