@@ -3,7 +3,7 @@
       "minecraft:cave",
       "minecraft:cave_extra_underground",
       "minecraft:canyon",
-      "minecraft:nether_cave"
+      "clifftree:inferno_cave"
     ],
   "downfall": 0.4,
   "effects": {
