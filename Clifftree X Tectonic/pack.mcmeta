@@ -1,10 +1,10 @@
 {
 	"pack": {
-		"pack_format": 49,
+		"pack_format": 48,
 		"supported_formats": {
-			"min_inclusive": 49,
-			"max_inclusive": 32767
+			"min_inclusive": 48,
+			"max_inclusive": 61
 		},
-		"description": "Clifftree X Tectonic"
+		"description": "Clifftree X Tectonic, requires both packs installed."
 	}
 }
