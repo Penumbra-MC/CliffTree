@@ -1,0 +1,11 @@
+{
+  "values": [
+    "clifftree:oasis",
+    "clifftree:shrubland",
+    "clifftree:warm_river",
+    "clifftree:tropical_river",
+    "clifftree:temperate_beach",
+    "minecraft:desert",
+    "minecraft:mangrove_swamp"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:birch_bees_0002",
+  "feature": "clifftree:birch_bees_0002",
   "placement": [
     {
       "type": "minecraft:noise_based_count",

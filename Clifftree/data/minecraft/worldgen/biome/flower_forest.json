@@ -84,9 +84,10 @@
     [
       "minecraft:glow_lichen",
       "minecraft:flower_forest_flowers",
+      "clifftree:wildflowers_flower_forest",
       "minecraft:trees_flower_forest",
       "minecraft:flower_flower_forest",
-      "minecraft:patch_grass_badlands",
+      "minecraft:patch_grass_meadow",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
@@ -118,10 +119,16 @@
         "weight": 10
       },
       {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
+      {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 5
+        "weight": 4
       },
       {
         "type": "minecraft:cow",

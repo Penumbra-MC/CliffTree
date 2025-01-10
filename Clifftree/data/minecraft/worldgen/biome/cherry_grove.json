@@ -95,8 +95,7 @@
       "minecraft:flower_cherry",
       "minecraft:trees_cherry",
       "clifftree:flower_pink_tulip",
-      "clifftree:cherry_snow",
-      "clifftree:flower_cherry_snow"
+      "clifftree:cherry_snow"
     ],
     [ "clifftree:extra_gold_remove",
       "minecraft:freeze_top_layer"

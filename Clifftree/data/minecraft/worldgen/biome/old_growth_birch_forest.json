@@ -86,6 +86,7 @@
       "minecraft:glow_lichen",
       "clifftree:fallen_log_birch",
       "minecraft:forest_flowers",
+      "minecraft:wildflowers_birch_forest",
       "minecraft:birch_tall",
       "minecraft:flower_plains",
       "minecraft:patch_grass_plain",
@@ -120,25 +121,25 @@
         "type": "minecraft:sheep",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 12
+        "weight": 10
       },
       {
         "type": "minecraft:pig",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 2
       },
       {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 4
       },
       {
         "type": "minecraft:cow",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 4
+        "weight": 10
       },
       {
         "type": "minecraft:rabbit",

@@ -7,8 +7,8 @@
   "downfall": 0.0,
   "effects": {
     "fog_color": 15587250,
-    "foliage_color": 8688720,
-    "grass_color": 8421963,
+    "foliage_color": 12092997,
+    "grass_color": 10189901,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -131,10 +131,16 @@
         "weight": 10
       },
       {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
         "type": "minecraft:wolf",
         "maxCount": 8,
         "minCount": 4,
-        "weight": 2
+        "weight": 4
       }
     ],
     "misc": [],
