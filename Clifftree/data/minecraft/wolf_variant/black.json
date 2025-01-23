@@ -1,6 +1,16 @@
 {
-  "angry_texture": "minecraft:entity/wolf/wolf_black_angry",
-  "biomes": "#clifftree:wolf_biomes/black",
-  "tame_texture": "minecraft:entity/wolf/wolf_black_tame",
-  "wild_texture": "minecraft:entity/wolf/wolf_black"
+  "assets": {
+      "angry": "minecraft:entity/wolf/wolf_black_angry",
+      "tame": "minecraft:entity/wolf/wolf_black_tame",
+      "wild": "minecraft:entity/wolf/wolf_black"
+  },
+  "spawn_conditions": [
+      {
+          "condition": {
+              "type": "minecraft:biome",
+              "biomes": "#clifftree:wolf_biomes/black"
+          },
+          "priority": 1
+      }
+  ]
 }
