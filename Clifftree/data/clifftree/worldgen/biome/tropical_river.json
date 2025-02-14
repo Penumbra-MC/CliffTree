@@ -69,11 +69,13 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_sparse_jungle",
+      "minecraft:patch_bush",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
+      "minecraft:patch_firefly_bush_near_water",
       "minecraft:patch_pumpkin",
       "minecraft:vines",
       "minecraft:patch_melon_sparse",

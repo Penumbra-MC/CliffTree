@@ -329,7 +329,7 @@
     "g": 155,
     "b": 145
   },
-  "clifftree:temperate_beach": {
+  "clifftree:tropical_beach": {
     "r": 233,
     "g": 227,
     "b": 122
@@ -383,5 +383,15 @@
     "r": 135,
     "g": 108,
     "b": 82
+  },
+  "clifftree:coniferous_badlands": {
+    "r": 198,
+    "g": 186,
+    "b": 43
+  },
+  "clifftree:temperate_beach": {
+    "r": 136,
+    "g": 136,
+    "b": 136
   }
 }

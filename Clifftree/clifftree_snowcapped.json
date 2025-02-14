@@ -476,8 +476,8 @@
           "minecraft:badlands/minecraft:eroded_badlands",
           "minecraft:badlands/minecraft:eroded_badlands",
           "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
-          "minecraft:wooded_badlands_plateau"
+          "minecraft:wooded_badlands_plateau/biome_m6u6p274",
+          "minecraft:wooded_badlands_plateau/biome_m6u6p274"
         ]
       ]
     },
@@ -957,7 +957,7 @@
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89",
-          "layout_ktoepeor"
+          "layout_ktoikw89"
         ]
       ]
     },
@@ -4713,7 +4713,7 @@
     },
     {
       "key": "biome_lrk7fw1v",
-      "name": "clifftree:temperate_beach",
+      "name": "clifftree:tropical_beach",
       "color": "#e9e37a"
     },
     {
@@ -4769,6 +4769,16 @@
     {
       "key": "minecraft:pale_garden",
       "name": "minecraft:pale_garden"
+    },
+    {
+      "key": "biome_m6u6p274",
+      "name": "clifftree:coniferous_badlands",
+      "color": "#c6ba2b"
+    },
+    {
+      "key": "biome_m6u6s8pu",
+      "name": "clifftree:temperate_beach",
+      "color": "#888888"
     }
   ],
   "targetVersion": "1_19",

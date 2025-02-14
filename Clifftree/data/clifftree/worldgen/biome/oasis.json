@@ -122,6 +122,31 @@
     ],
     "axolotls": [],
     "creature": [
+      
+      {
+        "type": "minecraft:sheep",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
+      {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
+      {
+        "type": "minecraft:cow",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
       {
         "type": "minecraft:armadillo",
         "maxCount": 3,
@@ -136,9 +161,9 @@
       },
       {
         "type": "minecraft:camel",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 5
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 8
       }
     ],
     "misc": [],

@@ -8,7 +8,7 @@
         "feature": "minecraft:spruce_checked"
       },
       {
-        "chance": 0.75,
+        "chance": 1.0,
         "feature": "minecraft:oak_leaf_litter"
       }
     ]

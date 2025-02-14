@@ -70,11 +70,13 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_water",
+      "minecraft:patch_bush",
       "minecraft:flower_plains",
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
+      "minecraft:patch_firefly_bush_near_water",
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_cold",
       "minecraft:seagrass_river",

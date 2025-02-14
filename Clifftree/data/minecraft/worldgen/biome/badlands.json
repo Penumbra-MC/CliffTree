@@ -91,7 +91,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "clifftree:patch_grass_red_sand",
+      "minecraft:patch_dry_grass_badlands",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",

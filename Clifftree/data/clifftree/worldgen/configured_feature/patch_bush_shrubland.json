@@ -1,6 +1,9 @@
 {
   "type": "minecraft:random_patch",
   "config": {
+    "tries": 96,
+    "xz_spread": 4,
+    "y_spread": 3,
     "feature": {
       "feature": {
         "type": "minecraft:simple_block",
@@ -8,7 +11,7 @@
           "to_place": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:short_grass"
+              "Name": "minecraft:bush"
             }
           }
         }
@@ -30,15 +33,12 @@
               -1,
               0
             ],
-            "blocks": "minecraft:sand"
+            "blocks": "minecraft:coarse_dirt"
               }
             ]
           }
         }
       ]
-    },
-    "tries": 12,
-    "xz_spread": 2,
-    "y_spread": 2
+    }
   }
 }

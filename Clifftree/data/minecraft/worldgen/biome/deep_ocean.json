@@ -7,7 +7,6 @@
   "downfall": 0.5,
   "effects": {
     "fog_color": 11457020,
-    "grass_color": 15190639,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -77,7 +76,7 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "clifftree:patch_grass_beach",
+      "clifftree:patch_dry_grass_beach",
       "minecraft:seagrass_deep",
       "clifftree:deep_kelp_cold"
     ],

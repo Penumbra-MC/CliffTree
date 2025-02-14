@@ -7,7 +7,8 @@
   "downfall": 0.3,
   "effects": {
     "fog_color": 13098953,
-    "grass_color": 15190639,
+    "grass_color": 9874287,
+    "foliage_color": 9020503,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -75,7 +76,7 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "clifftree:patch_grass_beach"
+      "clifftree:patch_dry_grass_beach"
     ],
     [
       "clifftree:extra_gold_remove",

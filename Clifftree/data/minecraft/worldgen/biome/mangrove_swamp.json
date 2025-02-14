@@ -90,6 +90,8 @@
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",
       "minecraft:patch_waterlily",
+      "minecraft:patch_firefly_bush_swamp",
+      "minecraft:patch_firefly_bush_near_water_swamp",
       "clifftree:sea_pickle_mangrove",
       "minecraft:seagrass_swamp"
     ],

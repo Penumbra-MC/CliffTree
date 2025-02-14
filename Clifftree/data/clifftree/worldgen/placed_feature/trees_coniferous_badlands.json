@@ -1,5 +1,5 @@
 {
-  "feature": "clifftree:jungle_tree_alt",
+  "feature": "clifftree:trees_coniferous_badlands",
   "placement": [
     {
       "type": "minecraft:count",
@@ -7,11 +7,11 @@
         "type": "minecraft:weighted_list",
         "distribution": [
           {
-            "data": 0,
-            "weight": 24
+            "data": 5,
+            "weight": 9
           },
           {
-            "data": 1,
+            "data": 6,
             "weight": 1
           }
         ]
@@ -30,6 +30,19 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_block_tag",
+        "tag": "clifftree:true_dirt",
+        "offset": [
+            0,
+            -1,
+            0
+        ]
+
+      }
     }
   ]
 }

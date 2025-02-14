@@ -1331,7 +1331,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              0.03
             ],
             "erosion": [
               -0.2225,
@@ -1621,7 +1621,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -1651,7 +1651,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -4365,7 +4365,7 @@
             ],
             "erosion": [
               -0.78,
-              0.5750000000000001
+              -0.375
             ],
             "temperature": [
               0.55,
@@ -4463,7 +4463,7 @@
             ],
             "humidity": [
               0.1,
-              0.3
+              1
             ],
             "depth": [
               0,
@@ -4592,6 +4592,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -4845,7 +4875,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              0.05
             ],
             "temperature": [
               0.55,
@@ -5162,36 +5192,6 @@
             "offset": 0
           },
           "biome": "minecraft:sparse_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -8085,7 +8085,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              0.05
             ],
             "temperature": [
               0.55,
@@ -8852,36 +8852,6 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
         },
         {
           "parameters": {
@@ -12931,7 +12901,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -12961,7 +12931,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -13957,7 +13927,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.05
+              0.4
             ],
             "continentalness": [
               0.03,
@@ -13965,7 +13935,7 @@
             ],
             "erosion": [
               -0.78,
-              0.5750000000000001
+              -0.375
             ],
             "temperature": [
               0.55,
@@ -13977,7 +13947,7 @@
             ],
             "depth": [
               0,
-              0.2
+              0.05
             ],
             "offset": 0
           },
@@ -14492,36 +14462,6 @@
             "offset": 0
           },
           "biome": "minecraft:sparse_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              -0.05
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -15211,7 +15151,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -15241,7 +15181,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -15881,7 +15821,7 @@
             ],
             "continentalness": [
               -0.11,
-              1
+              0.03
             ],
             "erosion": [
               -1,
@@ -16082,6 +16022,36 @@
             "offset": 0
           },
           "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -17917,36 +17887,6 @@
           "parameters": {
             "weirdness": [
               -0.05,
-              0.26666668
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.05
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:shrubland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
               0.05
             ],
             "continentalness": [
@@ -18811,7 +18751,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -18841,7 +18781,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -19931,7 +19871,7 @@
             ],
             "continentalness": [
               -0.11,
-              1
+              0.03
             ],
             "erosion": [
               -1,
@@ -20453,7 +20393,7 @@
             ],
             "humidity": [
               0.1,
-              0.3
+              1
             ],
             "depth": [
               0,
@@ -20461,7 +20401,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "clifftree:coniferous_badlands"
         },
         {
           "parameters": {
@@ -20642,6 +20582,36 @@
             "offset": 0
           },
           "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.5750000000000001
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -21641,7 +21611,7 @@
             ],
             "continentalness": [
               -0.2,
-              0.3
+              0.03
             ],
             "erosion": [
               -0.2225,
@@ -21931,7 +21901,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -21961,7 +21931,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -22321,7 +22291,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "clifftree:coniferous_badlands"
         },
         {
           "parameters": {
@@ -22351,7 +22321,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "clifftree:coniferous_badlands"
         },
         {
           "parameters": {
@@ -23612,36 +23582,6 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -23985,7 +23925,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              0.05
             ],
             "temperature": [
               0.55,
@@ -24001,7 +23941,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "clifftree:coniferous_badlands"
         },
         {
           "parameters": {
@@ -24242,36 +24182,6 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -26265,7 +26175,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              0.05
             ],
             "temperature": [
               0.55,
@@ -26281,7 +26191,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "clifftree:coniferous_badlands"
         },
         {
           "parameters": {
@@ -26860,36 +26770,6 @@
               0.93333334
             ],
             "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
               0.52,
               1
             ],
@@ -27361,7 +27241,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:wooded_badlands"
+          "biome": "clifftree:coniferous_badlands"
         },
         {
           "parameters": {
@@ -30331,7 +30211,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -30361,7 +30241,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -31305,7 +31185,7 @@
             ],
             "erosion": [
               -0.78,
-              0.5750000000000001
+              -0.375
             ],
             "temperature": [
               0.55,
@@ -31892,36 +31772,6 @@
             "offset": 0
           },
           "biome": "minecraft:bamboo_jungle"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.5750000000000001
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0.2
-            ],
-            "offset": 0
-          },
-          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -32980,6 +32830,36 @@
               -0.05
             ],
             "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              -0.05
+            ],
+            "continentalness": [
               0.3,
               0.52
             ],
@@ -33122,6 +33002,36 @@
             "offset": 0
           },
           "biome": "minecraft:pale_garden"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              -0.05
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -35140,6 +35050,36 @@
               0.26666668
             ],
             "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.26666668
+            ],
+            "continentalness": [
               0.52,
               1
             ],
@@ -35612,6 +35552,36 @@
             "offset": 0
           },
           "biome": "minecraft:mangrove_swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:shrubland"
         },
         {
           "parameters": {
@@ -40681,7 +40651,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {
@@ -43291,7 +43261,7 @@
             ],
             "offset": 0
           },
-          "biome": "clifftree:temperate_beach"
+          "biome": "clifftree:tropical_beach"
         },
         {
           "parameters": {

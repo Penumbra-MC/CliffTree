@@ -695,7 +695,10 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "minecraft:wooded_badlands"
+                "biomes": [
+                  "minecraft:wooded_badlands",
+                  "clifftree:coniferous_badlands"
+                          ]
               }
             }
           }

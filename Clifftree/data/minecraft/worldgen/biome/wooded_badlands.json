@@ -92,7 +92,7 @@
       "minecraft:glow_lichen",
       "minecraft:trees_badlands",
       "minecraft:patch_grass_plain",
-      "clifftree:patch_grass_red_sand",
+      "minecraft:patch_dry_grass_badlands",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
@@ -128,19 +128,31 @@
         "type": "minecraft:armadillo",
         "maxCount": 4,
         "minCount": 2,
-        "weight": 10
+        "weight": 6
+      },
+      {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 6
+      },
+      {
+        "type": "minecraft:cow",
+        "maxCount": 8,
+        "minCount": 6,
+        "weight": 12
       },
       {
         "type": "minecraft:pig",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 6
       },
       {
         "type": "minecraft:wolf",
         "maxCount": 8,
         "minCount": 4,
-        "weight": 4
+        "weight": 6
       }
     ],
     "misc": [],
