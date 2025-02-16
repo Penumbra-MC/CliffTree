@@ -12,7 +12,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "north",
-                  "segment_amount": "1"
+                  "segment_amount": "3"
                 }
               },
               "weight": 1
@@ -22,7 +22,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "east",
-                  "segment_amount": "1"
+                  "segment_amount": "3"
                 }
               },
               "weight": 1
@@ -32,7 +32,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "south",
-                  "segment_amount": "1"
+                  "segment_amount": "3"
                 }
               },
               "weight": 1
@@ -42,7 +42,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "west",
-                  "segment_amount": "1"
+                  "segment_amount": "3"
                 }
               },
               "weight": 1
@@ -52,7 +52,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "north",
-                  "segment_amount": "2"
+                  "segment_amount": "4"
                 }
               },
               "weight": 1
@@ -62,7 +62,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "east",
-                  "segment_amount": "2"
+                  "segment_amount": "4"
                 }
               },
               "weight": 1
@@ -72,7 +72,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "south",
-                  "segment_amount": "2"
+                  "segment_amount": "4"
                 }
               },
               "weight": 1
@@ -82,47 +82,7 @@
                 "Name": "minecraft:leaf_litter",
                 "Properties": {
                   "facing": "west",
-                  "segment_amount": "2"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "north",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "east",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "south",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "west",
-                  "segment_amount": "3"
+                  "segment_amount": "4"
                 }
               },
               "weight": 1
@@ -130,10 +90,10 @@
           ]
         },
         "height": 2,
-        "radius": 4,
-        "tries": 96
+        "radius": 2,
+        "tries": 128
       },
-      {
+{
         "type": "minecraft:place_on_ground",
         "block_state_provider": {
           "type": "minecraft:weighted_state_provider",
@@ -217,92 +177,12 @@
                 }
               },
               "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "north",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "east",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "south",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "west",
-                  "segment_amount": "3"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "north",
-                  "segment_amount": "4"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "east",
-                  "segment_amount": "4"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "south",
-                  "segment_amount": "4"
-                }
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "Name": "minecraft:leaf_litter",
-                "Properties": {
-                  "facing": "west",
-                  "segment_amount": "4"
-                }
-              },
-              "weight": 1
             }
           ]
         },
         "height": 2,
-        "radius": 2,
-        "tries": 150
+        "radius": 4,
+        "tries": 64
       }
     ],
     "dirt_provider": {

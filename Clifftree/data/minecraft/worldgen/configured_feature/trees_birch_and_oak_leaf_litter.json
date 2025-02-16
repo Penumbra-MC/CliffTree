@@ -4,10 +4,6 @@
     "default": "clifftree:oak_bees_0002",
     "features": [
       {
-        "chance": 0.2,
-        "feature": "clifftree:oak_bees_0002"
-      },
-      {
         "chance": 0.1,
         "feature": "clifftree:birch_bees_0002"
       },
@@ -16,11 +12,11 @@
         "feature": "minecraft:birch_bees_0002_leaf_litter"
       },
       {
-        "chance": 0.1,
+        "chance": 0.05,
         "feature": "minecraft:fancy_oak_bees_0002_leaf_litter"
       },
       {
-        "chance": 0.2,
+        "chance": 0.3,
         "feature": "minecraft:oak_bees_0002_leaf_litter"
       }
     ]

@@ -8,7 +8,10 @@
           "to_place": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:bush"
+              "Name": "minecraft:large_fern",
+              "Properties": {
+                "half": "lower"
+              }
             }
           }
         }
@@ -25,20 +28,20 @@
               },
               {
                 "type": "minecraft:matching_block_tag",
-            "offset": [
-              0,
-              -1,
-              0
-            ],
-            "tag": "clifftree:dirt_and_snow"
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ],
+                "tag": "clifftree:dirt_and_snow"
               }
             ]
           }
         }
       ]
     },
-    "tries": 48,
-    "xz_spread": 5,
+    "tries": 96,
+    "xz_spread": 7,
     "y_spread": 3
   }
 }
