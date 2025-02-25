@@ -1,0 +1,16 @@
+{
+    "assets": {
+      "angry": "minecraft:entity/wolf/wolf_charcoal_angry",
+      "tame": "minecraft:entity/wolf/wolf_charcoal_tame",
+      "wild": "clifftree:entity/wolf/wolf_charcoal"
+    },
+    "spawn_conditions": [
+      {
+        "condition": {
+          "type": "minecraft:biome",
+          "biomes": "clifftree:snowy_old_growth_taiga"
+        },
+        "priority": 2
+      }
+    ]
+  }

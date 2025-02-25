@@ -1,0 +1,13 @@
+{
+  "model": "cold",
+  "asset_id": "clifftree:entity/chicken/swamphen",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:spawns_swamphen"
+      },
+      "priority": 2
+    }
+  ]
+}
