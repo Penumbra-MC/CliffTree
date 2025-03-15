@@ -5,7 +5,7 @@
     "argument": {
       "type": "noise",
       "noise": "clifftree:pillars",
-      "xz_scale": 0.5,
+      "xz_scale": 0.4,
       "y_scale": 0
     }
   }
