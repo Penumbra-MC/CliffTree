@@ -84,8 +84,8 @@
         "slice_ktoip0qu",
         "slice_ktoj3nad",
         "slice_ktojmnu2",
-        "slice_ktojsso9",
-        "slice_ktojmnu2",
+        "layout_m89w6xbv",
+        "layout_m89w7n3d",
         "slice_ktoj3nad"
       ],
       [
@@ -2832,6 +2832,54 @@
           "minecraft:dripstone_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_m89wd69u",
+      "name": "Pillars",
+      "array": [
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -4370,6 +4418,198 @@
           "minecraft:dripstone_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_m89w6xbv",
+      "name": "Pillars Peaks",
+      "array": [
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "layout_m89wd69u",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ],
+        [
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "layout_m89wd69u",
+          "slice_ktojsso9",
+          "slice_ktojsso9",
+          "slice_ktojsso9"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m89w7n3d",
+      "name": "Pillars High",
+      "array": [
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "layout_m89wd69u",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "layout_m89wd69u",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ]
+      ]
     }
   ],
   "biomes": [
@@ -4779,6 +5019,10 @@
       "key": "biome_m6u6s8pu",
       "name": "clifftree:temperate_beach",
       "color": "#888888"
+    },
+    {
+      "key": "minecraft:the_void",
+      "name": "minecraft:the_void"
     }
   ],
   "targetVersion": "1_19",
