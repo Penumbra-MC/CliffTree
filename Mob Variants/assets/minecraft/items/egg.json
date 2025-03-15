@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "model": "minecraft:item/egg",
+    "property": "minecraft:component",
+    "component": "minecraft:enchantments",
+    "cases": [
+      {
+        "when": {
+          "clifftree:chicken_eggs/swamphen": 1
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/gray_egg"
+        }
+      },
+      {
+        "when": {
+          "clifftree:chicken_eggs/junglefowl": 1
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/red_egg"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/egg"
+    }
+  }
+}

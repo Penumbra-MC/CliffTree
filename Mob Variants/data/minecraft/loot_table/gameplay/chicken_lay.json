@@ -1,0 +1,134 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.red_egg",
+                      "fallback": "Red Egg",
+                      "color": "white"
+                    },
+                    "minecraft:enchantments": {
+                      "clifftree:chicken_eggs/junglefowl": 1
+                    },
+                    "minecraft:enchantment_glint_override": false,
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:enchantments"
+                      ]
+                    }
+                  }
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "clifftree:junglefowl"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.gray_egg",
+                      "fallback": "Gray Egg",
+                      "color": "white"
+                    },
+                    "minecraft:enchantments": {
+                      "clifftree:chicken_eggs/swamphen": 1
+                    },
+                    "minecraft:enchantment_glint_override": false,
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:enchantments"
+                      ]
+                    }
+                  }
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "clifftree:swamphen"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "minecraft:temperate"
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:egg"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "minecraft:warm"
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:brown_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "minecraft:cold"
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:blue_egg"
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/chicken_lay"
+}
