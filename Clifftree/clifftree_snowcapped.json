@@ -84,7 +84,7 @@
         "slice_ktoip0qu",
         "slice_ktoj3nad",
         "slice_ktojmnu2",
-        "layout_m89w6xbv",
+        "slice_ktojsso9",
         "layout_m89w7n3d",
         "slice_ktoj3nad"
       ],
@@ -4420,102 +4420,6 @@
       ]
     },
     {
-      "key": "layout_m89w6xbv",
-      "name": "Pillars Peaks",
-      "array": [
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "layout_m89wd69u",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ],
-        [
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "layout_m89wd69u",
-          "slice_ktojsso9",
-          "slice_ktojsso9",
-          "slice_ktojsso9"
-        ]
-      ]
-    },
-    {
       "key": "layout_m89w7n3d",
       "name": "Pillars High",
       "array": [
@@ -4595,7 +4499,7 @@
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_m89wd69u",
+          "slice_ktojmnu2/layout_m89wd69u",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2"
@@ -4604,7 +4508,7 @@
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_m89wd69u",
+          "slice_ktojmnu2/layout_m89wd69u",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2"
