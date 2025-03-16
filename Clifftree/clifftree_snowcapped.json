@@ -76,7 +76,7 @@
     "array": [
       [
         "slice_ktoj3nad",
-        "layout_m89w7n3d",
+        "slice_ktojmnu2",
         "slice_ktojsso9",
         "slice_ktojmnu2",
         "slice_ktoj3nad",
@@ -91,7 +91,7 @@
       ],
       [
         "slice_ktoj3nad",
-        "layout_m89w7n3d",
+        "slice_ktojmnu2",
         "slice_ktojsso9",
         "slice_ktojmnu2",
         "slice_ktoj3nad",
@@ -116,7 +116,7 @@
         "slice_ktoj3nad",
         "slice_ktojmnu2",
         "slice_ktojsso9",
-        "slice_ktojmnu2",
+        "layout_m89w7n3d",
         "slice_ktoj3nad"
       ],
       [
@@ -131,7 +131,7 @@
         "layout_lsng8zvu",
         "layout_lsng90zg",
         "layout_lsng9419",
-        "layout_lsng90zg",
+        "layout_m8ax00wi",
         "layout_lsng8zvu"
       ],
       [
@@ -2833,54 +2833,6 @@
           "minecraft:dripstone_caves"
         ]
       ]
-    },
-    {
-      "key": "layout_m89wd69u",
-      "name": "Pillars",
-      "array": [
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab"
-        ],
-        [
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab",
-          "layout_ktoj9oab"
-        ]
-      ]
     }
   ],
   "slices": [
@@ -4033,7 +3985,7 @@
           "layout_lsng6fnq",
           "layout_lsng6fnq",
           "layout_lsxqdqal",
-          "layout_lwe1ojy0",
+          "layout_lsxqdqal",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_m2yhmsll"
@@ -4582,7 +4534,7 @@
     },
     {
       "key": "layout_m89w7n3d",
-      "name": "Pillars High",
+      "name": "Pillars",
       "array": [
         [
           "slice_ktojmnu2",
@@ -4667,9 +4619,9 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "slice_ktojmnu2/layout_m89wd69u",
-          "slice_ktojmnu2/layout_m89wd69u",
-          "slice_ktojmnu2/layout_m89wd69u",
+          "layout_ktoj9oab",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2"
@@ -4677,12 +4629,118 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "slice_ktojmnu2/layout_m89wd69u",
-          "slice_ktojmnu2/layout_m89wd69u",
-          "slice_ktojmnu2/layout_m89wd69u",
+          "layout_ktoj9oab",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m8ax00wi",
+      "name": "Pillars surface caves",
+      "array": [
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsxqdqal",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_ly3mjzak",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
         ]
       ]
     }
