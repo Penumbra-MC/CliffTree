@@ -54,25 +54,69 @@
     "argument1": {
       "type": "minecraft:spline",
       "spline": {
-        "coordinate": "minecraft:overworld/ridges",
+        "coordinate": {
+          "xz_scale": 0.25,
+          "y_scale": 0.0,
+          "noise": "minecraft:temperature",
+          "shift_x": "minecraft:shift_x",
+          "shift_y": 0.0,
+          "shift_z": "minecraft:shift_z",
+          "type": "minecraft:shifted_noise"
+        },
         "points": [
           {
-            "location": 0.767,
             "derivative": 0,
-            "value": 0
+            "location": 0.54,
+            "value": {
+              "coordinate": "minecraft:overworld/ridges",
+              "points": [
+                {
+                  "location": 0.767,
+                  "derivative": 0,
+                  "value": 0
+                },
+                {
+                  "location": 0.8,
+                  "derivative": 0,
+                  "value": 0.5
+                },
+                {
+                  "location": 0.85,
+                  "derivative": 0,
+                  "value": 1
+                }
+              ]
+            }
           },
           {
-            "location": 0.8,
             "derivative": 0,
-            "value": 0.5
-          },
-          {
-            "location": 0.85,
-            "derivative": 0,
-            "value": 1
+            "location": 0.57,
+            "value": {
+              "coordinate": {
+                "type": "abs",
+                "argument": "minecraft:overworld/ridges"
+              },
+              "points": [
+                {
+                  "location": 0.567,
+                  "derivative": 0,
+                  "value": 0
+                },
+                {
+                  "location": 0.610,
+                  "derivative": 0,
+                  "value": 0.5
+                },
+                {
+                  "location": 0.85,
+                  "derivative": 0,
+                  "value": 1
+                }
+              ]
+            }
           }
         ]
-      }
+      }      
     },
     "argument2": {
       "type": "minecraft:mul",

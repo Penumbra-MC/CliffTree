@@ -9,6 +9,7 @@
     -0.17,
     -0.11,
     0.03,
+    0.11,
     0.3,
     0.52,
     1
@@ -75,8 +76,8 @@
     "name": "Biomes",
     "array": [
       [
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
+        "layout_m8b6m83f",
+        "layout_m89w7n3d",
         "slice_ktojsso9",
         "slice_ktojmnu2",
         "slice_ktoj3nad",
@@ -87,11 +88,11 @@
         "slice_ktojmnu2",
         "slice_ktojsso9",
         "layout_m89w7n3d",
-        "slice_ktoj3nad"
+        "layout_m8b6m83f"
       ],
       [
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
+        "layout_m8b6m83f",
+        "layout_m89w7n3d",
         "slice_ktojsso9",
         "slice_ktojmnu2",
         "slice_ktoj3nad",
@@ -102,11 +103,11 @@
         "slice_ktojmnu2",
         "slice_ktojsso9",
         "layout_m89w7n3d",
-        "slice_ktoj3nad"
+        "layout_m8b6m83f"
       ],
       [
-        "slice_ktoj3nad",
-        "slice_ktojmnu2",
+        "layout_m8b6m83f",
+        "layout_m89w7n3d",
         "slice_ktojsso9",
         "slice_ktojmnu2",
         "slice_ktoj3nad",
@@ -117,11 +118,11 @@
         "slice_ktojmnu2",
         "slice_ktojsso9",
         "layout_m89w7n3d",
-        "slice_ktoj3nad"
+        "layout_m8b6m83f"
       ],
       [
         "layout_lsng8zvu",
-        "layout_lsng90zg",
+        "layout_m8ax00wi",
         "layout_lsng9419",
         "layout_lsng90zg",
         "layout_lsng8zvu",
@@ -326,7 +327,7 @@
           "minecraft:savanna_plateau",
           "minecraft:savanna_plateau",
           "minecraft:forest",
-          "minecraft:forest",
+          "minecraft:forest/minecraft:jungle",
           "minecraft:jungle"
         ],
         [
@@ -474,8 +475,8 @@
           "unassigned"
         ],
         [
-          "minecraft:badlands/minecraft:eroded_badlands",
-          "minecraft:badlands/minecraft:eroded_badlands",
+          "minecraft:badlands",
+          "minecraft:badlands",
           "minecraft:badlands",
           "minecraft:wooded_badlands_plateau/biome_m6u6p274",
           "minecraft:wooded_badlands_plateau/biome_m6u6p274"
@@ -2833,6 +2834,150 @@
           "minecraft:dripstone_caves"
         ]
       ]
+    },
+    {
+      "key": "layout_m8b6hww4",
+      "name": "Pillars Plateau",
+      "array": [
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab",
+          "layout_ktoj9oab"
+        ],
+        [
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "layout_ktoj9oab"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m8b7ni65",
+      "name": "Pillars slope",
+      "array": [
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e"
+        ],
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e"
+        ],
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e"
+        ],
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e"
+        ],
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e"
+        ],
+        [
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "layout_ktoj0p0e"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m8b9w37j",
+      "name": "Pillars peaks",
+      "array": [
+        [
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg"
+        ],
+        [
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg"
+        ],
+        [
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg"
+        ],
+        [
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg"
+        ],
+        [
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg",
+          "layout_ktojr3tg"
+        ],
+        [
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "minecraft:eroded_badlands",
+          "layout_ktojr3tg"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2904,6 +3049,16 @@
           "layout_m1sqvy9t",
           "layout_m1sqvy9t",
           "layout_m1sqvy9t",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_ktoij44p",
+          "layout_m43onllr",
+          "layout_ktoiz1xt"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
           "layout_ktoij44p",
           "layout_ktoij44p",
           "layout_ktoij44p",
@@ -3032,6 +3187,16 @@
           "layout_lrr8mjn3",
           "layout_ktoikj2n",
           "layout_ktoikj2n",
+          "layout_ktoepeor",
+          "layout_ktoepeot",
+          "layout_ktoiz1xt"
+        ],
+        [
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_lrr8mjn3",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
           "layout_m2w51p9g",
           "layout_ktoepeot",
           "layout_ktoiz1xt"
@@ -3118,6 +3283,16 @@
           "layout_ktoj0a9e",
           "layout_ktoepeor",
           "layout_ktoepeor",
+          "layout_ktoepeor",
+          "layout_ktoepeot",
+          "layout_ktoiz1xt"
+        ],
+        [
+          "layout_ktoj0p0e",
+          "layout_ktoj0a9e",
+          "layout_ktoj0a9e",
+          "layout_ktoikj2n",
+          "layout_ktoikj2n",
           "layout_ktoepeor",
           "layout_ktoepeot",
           "layout_ktoiz1xt"
@@ -3243,6 +3418,16 @@
           "layout_ktoj0p0e",
           "layout_ktoj0p0e",
           "layout_ktoj9oab",
+          "layout_ktoikj2n",
+          "layout_ktoepeor",
+          "layout_ktoepeot",
+          "layout_m2yhljhj"
+        ],
+        [
+          "layout_ktojr3tg",
+          "layout_ktoj0p0e",
+          "layout_ktoj0p0e",
+          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoepeor",
           "layout_ktoepeot",
@@ -3347,8 +3532,18 @@
         [
           "layout_ktojr3tg",
           "layout_ktojr3tg",
+          "layout_m8b9w37j",
+          "layout_m8b6hww4",
+          "layout_ktoikj2n",
+          "layout_ktoepeor",
+          "layout_ktoepeot",
+          "layout_ktoepeot"
+        ],
+        [
           "layout_ktojr3tg",
-          "layout_ktoj9oab",
+          "layout_ktojr3tg",
+          "layout_m8b9w37j",
+          "layout_m8b6hww4",
           "layout_ktoj9oab",
           "layout_ktoepeor",
           "layout_ktoepeot",
@@ -3357,8 +3552,8 @@
         [
           "layout_ktojr3tg",
           "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktoj9oab",
+          "layout_m8b9w37j",
+          "layout_m8b6hww4",
           "layout_ktoj9oab",
           "layout_m2w51p9g",
           "layout_ktoepeot",
@@ -3461,6 +3656,16 @@
           "layout_lt2n6awx"
         ],
         [
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_lrooluic",
+          "layout_m337p7gk",
+          "layout_lt2n6awx"
+        ],
+        [
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
@@ -3495,6 +3700,16 @@
           "biome_lzqiowxl",
           "biome_lzqiowxl",
           "biome_lzqiowxl"
+        ],
+        [
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "minecraft:deep_dark",
+          "biome_lq4ljl12/minecraft:deep_dark",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12",
+          "biome_lq4ljl12"
         ],
         [
           "minecraft:deep_dark",
@@ -3681,6 +3896,16 @@
           "layout_lromy0zh",
           "layout_lromy0zh",
           "layout_lromy0zh"
+        ],
+        [
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh",
+          "layout_lromy0zh"
         ]
       ]
     },
@@ -3754,6 +3979,16 @@
           "layout_lwe1v213",
           "layout_lstlfb65",
           "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstm8ffh",
+          "layout_lstluytq"
+        ],
+        [
+          "layout_lwe1v213",
+          "layout_lwe1v213",
+          "layout_lwe1v213",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_lstluytq"
@@ -3876,6 +4111,16 @@
         ],
         [
           "layout_lsng6fnq",
+          "layout_lwe1s4ke",
+          "layout_lwe1s4ke",
+          "layout_lwe1ojy0",
+          "layout_lwe1ojy0",
+          "layout_lstlfb65",
+          "layout_lstm8ffh",
+          "layout_lstluytq"
+        ],
+        [
+          "layout_lsng6fnq",
           "layout_m1sqagjn",
           "layout_m1sqagjn",
           "layout_lwe1ojy0",
@@ -3966,6 +4211,16 @@
           "layout_lwe1s4ke",
           "layout_lstlfb65",
           "layout_lstlfb65",
+          "layout_lstlfb65",
+          "layout_lstm8ffh",
+          "layout_m2yhmsll"
+        ],
+        [
+          "layout_lsng6fnq",
+          "layout_lsng6fnq",
+          "layout_lsng6fnq",
+          "layout_lsxqdqal",
+          "layout_lwe1ojy0",
           "layout_lstlfb65",
           "layout_lstm8ffh",
           "layout_m2yhmsll"
@@ -4097,6 +4352,16 @@
           "layout_lstm8ffh"
         ],
         [
+          "layout_lsng6fnq",
+          "layout_lsng6fnq",
+          "layout_lsng6fnq",
+          "layout_lsxqdqal",
+          "layout_lwe1ojy0",
+          "layout_lstlfb65",
+          "layout_lstm8ffh",
+          "layout_lstm8ffh"
+        ],
+        [
           "layout_lsngd4i0",
           "layout_lsngd4i0",
           "layout_lsngd4i0",
@@ -4178,6 +4443,16 @@
           "layout_kvu3ce1q",
           "layout_lrooluic",
           "layout_lrooluic",
+          "layout_lrooluic",
+          "layout_m337p7gk",
+          "layout_lt2n6awx"
+        ],
+        [
+          "layout_lsqk90o1",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
           "layout_lrooluic",
           "layout_m337p7gk",
           "layout_lt2n6awx"
@@ -4309,6 +4584,16 @@
           "layout_m337sp3z"
         ],
         [
+          "layout_lsqk90o1",
+          "layout_lsqk90o1",
+          "layout_lsqk90o1",
+          "layout_lsqku3dj",
+          "layout_kvu3ce1q",
+          "layout_lrooluic",
+          "layout_m337p7gk",
+          "layout_m337sp3z"
+        ],
+        [
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
           "minecraft:dripstone_caves",
@@ -4390,6 +4675,16 @@
           "layout_kvu3ce1q",
           "layout_lrooluic",
           "layout_lrooluic",
+          "layout_lrooluic",
+          "layout_m337p7gk",
+          "layout_m337p7gk"
+        ],
+        [
+          "layout_lsqk90o1",
+          "layout_lsqk90o1",
+          "layout_lsqk90o1",
+          "layout_lsqku3dj",
+          "layout_kvu3ce1q",
           "layout_lrooluic",
           "layout_m337p7gk",
           "layout_m337p7gk"
@@ -4521,6 +4816,16 @@
           "layout_lstluytq"
         ],
         [
+          "layout_m44puz58",
+          "layout_m44puz58",
+          "layout_m44puz58",
+          "layout_kvu3ce1q",
+          "layout_kvu3ce1q",
+          "layout_lrooluic",
+          "layout_m337p7gk",
+          "layout_lstluytq"
+        ],
+        [
           "layout_m4wl59fu",
           "layout_m4wl59fu",
           "layout_m4wl59fu",
@@ -4619,8 +4924,8 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_ktoj9oab",
-          "slice_ktojmnu2",
+          "layout_m8b7ni65/layout_m8b6hww4",
+          "layout_m8b6hww4",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
@@ -4629,8 +4934,18 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_ktoj9oab",
+          "layout_m8b7ni65/layout_m8b6hww4",
+          "layout_m8b6hww4",
           "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "slice_ktojmnu2"
+        ],
+        [
+          "slice_ktojmnu2",
+          "slice_ktojmnu2",
+          "layout_m8b7ni65/layout_m8b6hww4",
+          "layout_m8b6hww4",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
@@ -4725,7 +5040,7 @@
         [
           "layout_lsng90zg",
           "layout_lsng90zg",
-          "layout_lsxqdqal",
+          "layout_lsng90zg/layout_lsxqdqal",
           "layout_lsng90zg",
           "layout_lsng90zg",
           "layout_lsng90zg",
@@ -4735,12 +5050,138 @@
         [
           "layout_lsng90zg",
           "layout_lsng90zg",
-          "layout_ly3mjzak",
+          "layout_lsng90zg/layout_lsxqdqal",
           "layout_lsng90zg",
           "layout_lsng90zg",
           "layout_lsng90zg",
           "layout_lsng90zg",
           "layout_lsng90zg"
+        ],
+        [
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg/layout_ly3mjzak",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg",
+          "layout_lsng90zg"
+        ]
+      ]
+    },
+    {
+      "key": "layout_m8b6m83f",
+      "name": "Pillars middle",
+      "array": [
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "layout_m8b6hww4",
+          "layout_m8b6hww4",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
+        ],
+        [
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "layout_m8b6hww4",
+          "layout_m8b6hww4",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad",
+          "slice_ktoj3nad"
         ]
       ]
     }
