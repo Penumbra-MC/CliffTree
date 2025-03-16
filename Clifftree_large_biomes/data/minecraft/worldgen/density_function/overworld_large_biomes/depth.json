@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:add",
+  "argument1": "clifftree:ocean_shape_large_biomes",
+  "argument2": {
+    "type": "minecraft:add",
+    "argument1": "clifftree:pillars_large_biomes",
+    "argument2": "minecraft:overworld_large_biomes/offset"
+  }
+}
