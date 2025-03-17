@@ -4,8 +4,20 @@
     "default": "minecraft:jungle_tree",
     "features": [
       {
+        "chance": 0.005,
+        "feature": "minecraft:fancy_oak_bees"
+      },
+      {
+        "chance": 0.04,
+        "feature": "minecraft:fancy_oak_checked"
+      },
+      {
         "chance": 0.2,
         "feature": "minecraft:jungle_bush"
+      },
+      {
+        "chance": 0.1,
+        "feature": "clifftree:jungle_tree_alt"
       },
       {
         "chance": 0.6,

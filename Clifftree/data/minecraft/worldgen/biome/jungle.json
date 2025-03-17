@@ -29,7 +29,7 @@
     "water_color": 1350060,
     "water_fog_color": 270369,
     "grass_color": 6140979,
-    "foliage_color": 5160738
+    "foliage_color": 3515162
   },
   "features": [
     [],
@@ -85,10 +85,11 @@
     [
       "minecraft:glow_lichen",
       "clifftree:fallen_log_jungle",
-      "clifftree:sparse_forest_flowers",
+      "clifftree:jungle_flowers",
       "minecraft:patch_large_fern",
       "minecraft:bamboo_light",
       "minecraft:trees_jungle",
+      "clifftree:jungle_bushes",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_old_growth",
@@ -100,7 +101,9 @@
       "minecraft:vines",
       "minecraft:patch_melon",
       "clifftree:mushroom_on_log",
-      "clifftree:cocoa_age"
+      "clifftree:cocoa_age",
+      "clifftree:grass_skylight",
+      "clifftree:patch_bush_jungle"
     ],
     [
       "clifftree:extra_gold_remove",
