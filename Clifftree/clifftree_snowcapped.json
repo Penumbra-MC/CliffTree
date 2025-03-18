@@ -955,8 +955,8 @@
           "layout_ktoepeor"
         ],
         [
-          "layout_ktoikw89",
-          "layout_ktoikw89",
+          "layout_ktoikw89/minecraft:eroded_badlands",
+          "layout_ktoikw89/minecraft:eroded_badlands",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "layout_ktoikw89"
@@ -1003,8 +1003,8 @@
           "layout_ktoepeor"
         ],
         [
-          "layout_ktoikw89",
-          "layout_ktoikw89",
+          "layout_ktoikw89/minecraft:eroded_badlands",
+          "layout_ktoikw89/minecraft:eroded_badlands",
           "layout_ktoikw89",
           "layout_ktoikw89",
           "biome_lri7mibv"
@@ -1341,7 +1341,7 @@
         [
           "minecraft:badlands",
           "minecraft:badlands",
-          "minecraft:wooded_badlands_plateau",
+          "minecraft:badlands",
           "minecraft:wooded_badlands_plateau",
           "biome_lri7mibv"
         ]
@@ -2878,13 +2878,13 @@
           "minecraft:eroded_badlands",
           "minecraft:eroded_badlands",
           "minecraft:eroded_badlands",
-          "minecraft:eroded_badlands",
+          "layout_ktoj9oab",
           "layout_ktoj9oab"
         ]
       ]
     },
     {
-      "key": "layout_m8b7ni65",
+      "key": "layout_m8e5xyyi",
       "name": "Pillars slope",
       "array": [
         [
@@ -2926,56 +2926,8 @@
           "minecraft:eroded_badlands",
           "minecraft:eroded_badlands",
           "minecraft:eroded_badlands",
-          "minecraft:eroded_badlands",
+          "layout_ktoj0p0e",
           "layout_ktoj0p0e"
-        ]
-      ]
-    },
-    {
-      "key": "layout_m8b9w37j",
-      "name": "Pillars peaks",
-      "array": [
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg"
-        ],
-        [
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg",
-          "layout_ktojr3tg"
-        ],
-        [
-          "minecraft:eroded_badlands",
-          "minecraft:eroded_badlands",
-          "minecraft:eroded_badlands",
-          "minecraft:eroded_badlands",
-          "layout_ktojr3tg"
         ]
       ]
     }
@@ -3532,8 +3484,8 @@
         [
           "layout_ktojr3tg",
           "layout_ktojr3tg",
-          "layout_m8b9w37j",
-          "layout_m8b6hww4",
+          "layout_ktojr3tg",
+          "layout_ktoj9oab",
           "layout_ktoikj2n",
           "layout_ktoepeor",
           "layout_ktoepeot",
@@ -3542,8 +3494,8 @@
         [
           "layout_ktojr3tg",
           "layout_ktojr3tg",
-          "layout_m8b9w37j",
-          "layout_m8b6hww4",
+          "layout_ktojr3tg",
+          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_ktoepeor",
           "layout_ktoepeot",
@@ -3552,8 +3504,8 @@
         [
           "layout_ktojr3tg",
           "layout_ktojr3tg",
-          "layout_m8b9w37j",
-          "layout_m8b6hww4",
+          "layout_ktojr3tg",
+          "layout_ktoj9oab",
           "layout_ktoj9oab",
           "layout_m2w51p9g",
           "layout_ktoepeot",
@@ -4924,7 +4876,7 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_m8b7ni65/layout_m8b6hww4",
+          "layout_m8e5xyyi/layout_m8b6hww4",
           "layout_m8b6hww4",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
@@ -4934,7 +4886,7 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_m8b7ni65/layout_m8b6hww4",
+          "layout_m8e5xyyi/layout_m8b6hww4",
           "layout_m8b6hww4",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
@@ -4944,7 +4896,7 @@
         [
           "slice_ktojmnu2",
           "slice_ktojmnu2",
-          "layout_m8b7ni65/layout_m8b6hww4",
+          "layout_m8e5xyyi/layout_m8b6hww4",
           "layout_m8b6hww4",
           "slice_ktojmnu2",
           "slice_ktojmnu2",
