@@ -1,9 +1,9 @@
 {
-  "feature": "minecraft:lake_lava",
+  "feature": "clifftree:lake_lava_deepslate",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
-      "chance": 16
+      "chance": 12
     },
     {
       "type": "minecraft:in_square"
@@ -13,10 +13,10 @@
       "height": {
         "type": "minecraft:uniform",
         "max_inclusive": {
-          "absolute": 32
+          "absolute": 0
         },
         "min_inclusive": {
-          "absolute": 1
+          "absolute": -50
         }
       }
     },

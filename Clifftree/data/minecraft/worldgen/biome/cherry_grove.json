@@ -38,7 +38,8 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:cherry_pool"
+      "clifftree:cherry_pool",
+      "clifftree:fallen_log_cherry"
     ],
     [
       "minecraft:monster_room",
@@ -88,7 +89,6 @@
       "minecraft:spring_lava"
     ],
     [
-      "clifftree:fallen_log_cherry",
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",

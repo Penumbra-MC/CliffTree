@@ -36,7 +36,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:fallen_log_spruce"
+      "clifftree:fallen_log_spruce_moss"
     ],
     [
       "minecraft:monster_room",
@@ -93,8 +93,7 @@
       "minecraft:red_mushroom_taiga",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_berry_common",
-      "clifftree:moss_on_log"
+      "minecraft:patch_berry_common"
     ],
     [
       "clifftree:extra_gold_remove",

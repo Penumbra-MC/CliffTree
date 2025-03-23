@@ -17,6 +17,7 @@
     "water_color": 3105423,
     "water_fog_color": 197898,
     "grass_color": 9874287,
+    "dry_foliage_color": 9796426,
     "foliage_color": 9020503
   },
   "features": [
@@ -85,8 +86,7 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-      "clifftree:mushroom_on_log"
+      "minecraft:patch_pumpkin"
     ],
     [
       "clifftree:extra_gold_remove",

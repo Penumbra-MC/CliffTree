@@ -36,7 +36,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "clifftree:fallen_log_birch"
     ],
     [
       "minecraft:monster_room",
@@ -84,7 +85,6 @@
     ],
     [
       "minecraft:glow_lichen",
-      "clifftree:sparse_forest_rock",
       "minecraft:forest_flowers",
       "minecraft:wildflowers_birch_forest",
       "minecraft:trees_birch",
@@ -94,8 +94,7 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-      "clifftree:mushroom_on_log"
+      "minecraft:patch_pumpkin"
     ],
     [ 
       "clifftree:extra_gold_remove",

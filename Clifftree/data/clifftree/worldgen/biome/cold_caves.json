@@ -33,6 +33,7 @@
     [],
     [
       "minecraft:lake_lava_underground",
+      "clifftree:lake_lava_underground_deepslate",
       "minecraft:lake_lava_surface"
     ],
     [
