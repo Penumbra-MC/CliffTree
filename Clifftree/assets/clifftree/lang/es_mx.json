@@ -24,5 +24,7 @@
   "biome.clifftree.tundra": "Tundra",
   "biome.clifftree.warm_caves": "Cuevas Calientes",
   "biome.clifftree.warm_river": "Rio Caliente",
-  "biome.clifftree.dirt_caves": "Cuevas de Tierra"
+  "biome.clifftree.dirt_caves": "Cuevas de Tierra",
+  "biome.clifftree.coniferous_badlands": "Badlands conífera",
+  "biome.clifftree.tropical_beach": "Playa tropical"
 }
