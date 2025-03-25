@@ -1,21 +1,16 @@
 {
   "pack": {
-    "pack_format": 48,
-    "description": "§6CliffTree§f, vanilla-like worldgen overhaul!",
-    "supported_formats": {
-      "min_inclusive": 48,
-      "max_inclusive": 61
-    }
+    "pack_format": 61,
+    "description": "§6CliffTree§f, vanilla-like worldgen overhaul!"
   },
   "overlays": {
     "entries": [
       {
-        "directory": "overlay_1.21",
-        "formats": 48
-      },
-      {
-        "directory": "overlay_1.21.2",
-        "formats": 57
+        "directory": "deprecated",
+        "formats": {
+          "min_inclusive": 61,
+          "max_inclusive": 32768
+        }
       }
     ]
   }

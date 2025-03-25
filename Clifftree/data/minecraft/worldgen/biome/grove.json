@@ -28,13 +28,13 @@
     "grass_color": 7911573,
     "sky_color": 7706333,
     "water_color": 8303069,
-    "water_fog_color": 1319727
-  },
-  "particle": {
+    "water_fog_color": 1319727,
+    "particle": {
     "options": {
       "type": "minecraft:snowflake"
     },
     "probability": 0.0006
+  }
   },
   "features": [
     [],

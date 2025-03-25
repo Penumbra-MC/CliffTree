@@ -1,28 +1,38 @@
 {
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 6993872,
-    "water_color": 2916255,
-    "water_fog_color": 198666,
-    "fog_color": 10605533,
-    "grass_color": 12894289,
-    "foliage_color": 8428854
-  },
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
     "minecraft:canyon"
   ],
-  "features": [
-    [
-      "clifftree:savanna_terracotta",
-      "clifftree:savanna_plateau_surface"
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 15587250,
+    "foliage_color": 8688720,
+    "grass_color": 8421963,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "music": [
+      {
+        "data": {
+          "max_delay": 24000,
+          "min_delay": 12000,
+          "replace_current_music": false,
+          "sound": "minecraft:music.overworld.badlands"
+        },
+        "weight": 1
+      }
     ],
+    "music_volume": 1.0,
+    "sky_color": 6659253,
+    "water_color": 4816793,
+    "water_fog_color": 198666
+  },
+  "features": [
+    ["clifftree:badlands_terracotta"],
     [
       "minecraft:lake_lava_underground"
     ],
@@ -30,10 +40,14 @@
       "minecraft:amethyst_geode"
     ],
     [
+      "minecraft:fossil_upper",
+      "minecraft:fossil_lower",
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "clifftree:badlands_surface"
+    ],
     [],
     [
       "minecraft:ore_dirt",
@@ -62,10 +76,12 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
+      "minecraft:ore_gold_extra",
       "minecraft:disk_sand",
-      "minecraft:disk_clay",
+      "clifftree:disk_river_terracotta",
       "minecraft:disk_gravel",
-      "minecraft:ore_emerald"
+      "clifftree:disk_red_sand",
+      "clifftree:disk_red_sandstone"
     ],
     [],
     [
@@ -74,34 +90,83 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass",
-      "minecraft:trees_savanna",
-      "minecraft:flower_warm",
-      "minecraft:patch_grass_savanna",
+      "clifftree:trees_coniferous_badlands",
+      "minecraft:patch_grass_plain",
+      "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_sugar_cane_badlands",
+      "minecraft:patch_pumpkin",
+      "clifftree:patch_cactus_badlands"
     ],
     [
-      "clifftree:extra_gold_remove",
       "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
+  "has_precipitation": false,
+  "spawn_costs": {},
   "spawners": {
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "maxCount": 8,
+        "minCount": 8,
+        "weight": 10
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:rabbit",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:armadillo",
+        "maxCount": 4,
+        "minCount": 2,
+        "weight": 6
+      },
+      {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 6
+      },
+      {
+        "type": "minecraft:cow",
+        "maxCount": 8,
+        "minCount": 6,
+        "weight": 12
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 6
+      },
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 8,
+        "minCount": 4,
+        "weight": 6
+      }
+    ],
+    "misc": [],
     "monster": [
       {
         "type": "minecraft:spider",
-        "maxCount": 8,
+        "maxCount": 4,
         "minCount": 4,
-        "weight": 125
+        "weight": 100
       },
       {
         "type": "minecraft:zombie",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 80
+        "weight": 15
       },
       {
         "type": "minecraft:zombie_villager",
@@ -113,7 +178,7 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 85
+        "weight": 100
       },
       {
         "type": "minecraft:creeper",
@@ -138,82 +203,24 @@
         "maxCount": 1,
         "minCount": 1,
         "weight": 5
-      }
-    ],
-    "creature": [
+      },
       {
-        "type": "minecraft:chicken",
+        "type": "minecraft:husk",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:cow",
-        "maxCount": 8,
-        "minCount": 6,
-        "weight": 12
-      },
-      {
-        "type": "minecraft:pig",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:sheep",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 2
-      },
-      {
-        "type": "minecraft:horse",
-        "weight": 1,
-        "minCount": 2,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:armadillo",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 12
-      },
-      {
-        "type": "minecraft:llama",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:wolf",
-        "maxCount": 8,
-        "minCount": 4,
-        "weight": 10
+        "weight": 80
       }
     ],
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      }
-    ],
-    "axolotls": [],
     "underground_water_creature": [
       {
         "type": "minecraft:glow_squid",
-        "weight": 10,
+        "maxCount": 6,
         "minCount": 4,
-        "maxCount": 6
+        "weight": 10
       }
     ],
-    "water_creature": [],
     "water_ambient": [],
-    "misc": []
+    "water_creature": []
   },
-  "spawn_costs": {},
-  "has_precipitation": false,
-  "temperature": 2.0,
-  "downfall": 0.0,
-  "category": "savanna"
+  "temperature": 2.0
 }

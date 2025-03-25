@@ -118,7 +118,13 @@
         "type": "minecraft:rabbit",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 20
+        "weight": 12
+      },
+      {
+        "type": "minecraft:camel",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 1
       }
     ],
     "misc": [],

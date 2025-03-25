@@ -26,9 +26,9 @@
     "music_volume": 1.0,
     "particle": {
       "options": {
-        "type": "minecraft:trial_spawner_detection_ominous"
+        "type": "minecraft:ash"
       },
-      "probability": 0.0004
+      "probability": 0.0016
     },
     "sky_color": 740477,
     "fog_color": 1052968,

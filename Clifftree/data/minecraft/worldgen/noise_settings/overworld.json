@@ -430,7 +430,8 @@
                     "if_true": {
                       "type": "minecraft:biome",
                       "biome_is": [
-                        "minecraft:wooded_badlands"
+                        "minecraft:wooded_badlands",
+                        "clifftree:coniferous_badlands"
                       ]
                     },
                     "then_run": {
@@ -638,7 +639,8 @@
                 "biome_is": [
                   "minecraft:badlands",
                   "minecraft:eroded_badlands",
-                  "minecraft:wooded_badlands"
+                  "minecraft:wooded_badlands",
+                  "clifftree:coniferous_badlands"
                 ],
                 "type": "minecraft:biome"
               },
@@ -1908,7 +1910,7 @@
                               "if_true": {
                                 "biome_is": [
                                   "minecraft:beach",
-                                  "clifftree:temperate_beach",
+                                  "clifftree:tropical_beach",
                                   "minecraft:warm_ocean",
                                   "minecraft:lukewarm_ocean",
                                   "minecraft:deep_lukewarm_ocean"
@@ -3362,7 +3364,7 @@
                                   "minecraft:lukewarm_ocean",
                                   "minecraft:deep_lukewarm_ocean",
                                   "minecraft:beach",
-                                  "clifftree:temperate_beach"
+                                  "clifftree:tropical_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -3753,7 +3755,7 @@
                         "minecraft:lukewarm_ocean",
                         "minecraft:deep_lukewarm_ocean",
                         "minecraft:beach",
-                        "clifftree:temperate_beach"
+                        "clifftree:tropical_beach"
                       ],
                       "type": "minecraft:biome"
                     },

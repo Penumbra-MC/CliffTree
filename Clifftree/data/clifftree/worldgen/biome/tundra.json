@@ -100,7 +100,13 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:sheep",
+        "type": "minecraft:cow",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
         "weight": 5
@@ -109,7 +115,7 @@
         "type": "minecraft:rabbit",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 5
       },
       {
         "type": "minecraft:polar_bear",

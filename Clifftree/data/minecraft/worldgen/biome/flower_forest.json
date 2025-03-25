@@ -118,10 +118,16 @@
         "weight": 10
       },
       {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
+      {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 5
+        "weight": 4
       },
       {
         "type": "minecraft:cow",

@@ -32,7 +32,8 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "minecraft:lake_lava_underground",
+      "clifftree:lake_lava_underground_deepslate"
     ],
     [
       "minecraft:amethyst_geode",
