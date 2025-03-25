@@ -28841,6 +28841,36 @@
             ],
             "continentalness": [
               0.03,
+              0.11
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.56666666,
+              0.7666667
+            ],
+            "continentalness": [
+              0.11,
               1
             ],
             "erosion": [
@@ -30251,7 +30281,7 @@
             ],
             "continentalness": [
               0.03,
-              1
+              0.11
             ],
             "erosion": [
               -0.78,
@@ -30392,6 +30422,36 @@
             "offset": 0
           },
           "biome": "minecraft:grove"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              0.93333334
+            ],
+            "continentalness": [
+              0.11,
+              1
+            ],
+            "erosion": [
+              -0.78,
+              -0.5775
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
         },
         {
           "parameters": {
@@ -30847,6 +30907,36 @@
           "parameters": {
             "weirdness": [
               0.7666667,
+              0.93333334
+            ],
+            "continentalness": [
+              0.11,
+              0.3
+            ],
+            "erosion": [
+              -0.5775,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
               1
             ],
             "continentalness": [
@@ -30932,6 +31022,36 @@
             "offset": 0
           },
           "biome": "minecraft:badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.5775,
+              -0.2225
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:bamboo_jungle"
         },
         {
           "parameters": {
@@ -33285,7 +33405,7 @@
             ],
             "erosion": [
               -0.78,
-              -0.2225
+              -0.5775
             ],
             "temperature": [
               0.2,
