@@ -8,10 +8,12 @@
       }
     },
     "title": {
-      "text": "Distant Lands"
+      "translate": "clifftree.advancements.adventure.distant_lands.title",
+      "fallback": "Distant Lands"
     },
     "description": {
-      "text": "Discover every single biome the overworld has to offer."
+      "translate": "clifftree.advancements.adventure.distant_lands.description",
+      "fallback": "Discover every single biome the overworld has to offer."
     },
     "frame": "challenge",
     "hidden": true

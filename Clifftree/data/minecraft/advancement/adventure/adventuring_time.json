@@ -5,10 +5,12 @@
       "count": 1
     },
     "title": {
-      "text": "Adventuring Time"
+      "translate": "clifftree.advancements.adventure.adventuring_time.title",
+      "fallback": "Adventuring Time"
     },
     "description": {
-      "text": "Explore the world, discover biomes!"
+      "translate": "clifftree.advancements.adventure.adventuring_time.description",
+      "fallback": "Explore the world, discover biomes!"
     },
     "frame": "challenge"
   },
@@ -519,7 +521,10 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "minecraft:snowy_slopes"
+                "biomes": [
+                  "minecraft:snowy_slopes",
+                  "clifftree:glacier_valley"
+                ]
               }
             }
           }
@@ -698,7 +703,7 @@
                 "biomes": [
                   "minecraft:wooded_badlands",
                   "clifftree:coniferous_badlands"
-                          ]
+                ]
               }
             }
           }
@@ -827,22 +832,6 @@
             "predicate": {
               "location": {
                 "biomes": "clifftree:inferno"
-              }
-            }
-          }
-        ]
-      }
-    },
-    "clifftree:glacier_valley": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "location": {
-                "biomes": "clifftree:glacier_valley"
               }
             }
           }
