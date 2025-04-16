@@ -2187,7 +2187,8 @@
                         "minecraft:badlands",
                         "minecraft:eroded_badlands",
                         "minecraft:wooded_badlands",
-                        "clifftree:coniferous_badlands"
+                        "clifftree:coniferous_badlands",
+                        "clifftree:desert_cliff"
                       ]
                     },
                     "then_run": {
@@ -2229,22 +2230,6 @@
                       "type": "minecraft:block",
                       "result_state": {
                         "Name": "packed_ice",
-                        "Properties": {}
-                      }
-                    }
-                  },
-                  {
-                    "type": "minecraft:condition",
-                    "if_true": {
-                      "type": "minecraft:biome",
-                      "biome_is": [
-                        "clifftree:desert_cliff"
-                      ]
-                    },
-                    "then_run": {
-                      "type": "minecraft:block",
-                      "result_state": {
-                        "Name": "light_gray_terracotta",
                         "Properties": {}
                       }
                     }
