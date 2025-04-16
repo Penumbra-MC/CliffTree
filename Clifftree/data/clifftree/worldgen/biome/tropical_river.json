@@ -57,9 +57,7 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "clifftree:disk_sand_tropic",
-      "clifftree:disk_mud"
+      "minecraft:underwater_magma"
     ],
     [],
     [
