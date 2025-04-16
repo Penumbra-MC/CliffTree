@@ -1006,7 +1006,8 @@
                     "if_true": {
                       "biome_is": [
                         "minecraft:snowy_slopes",
-                        "minecraft:grove"
+                        "minecraft:grove",
+                        "clifftree:glacier_valley"
                       ],
                       "type": "minecraft:biome"
                     },
