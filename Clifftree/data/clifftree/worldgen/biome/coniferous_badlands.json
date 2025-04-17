@@ -85,15 +85,15 @@
     ],
     [
       "minecraft:glow_lichen",
+      "clifftree:patch_bush_badlands",
       "clifftree:trees_coniferous_badlands",
-      "minecraft:patch_grass_plain",
       "minecraft:patch_dry_grass_badlands",
-      "minecraft:patch_dead_bush_badlands",
+      "clifftree:patch_dead_bush_wooded_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_badlands",
       "minecraft:patch_pumpkin",
-      "clifftree:patch_cactus_badlands"
+      "clifftree:patch_cactus_wooded_badlands"
     ],
     [
       "clifftree:extra_emerald_remove",
