@@ -1,88 +1,27 @@
 {
   "type": "minecraft:disk",
   "config": {
+    "half_height": 1,
+    "radius": {
+      "type": "minecraft:uniform",
+      "max_inclusive": 6,
+      "min_inclusive": 2
+    },
     "state_provider": {
       "fallback": {
         "type": "minecraft:simple_state_provider",
         "state": {
-          "Name": "minecraft:dirt"
+          "Name": "minecraft:clay"
         }
       },
-      "rules": [
-        {
-          "if_true": {
-            "type": "minecraft:any_of",
-            "predicates": [
-              {
-                "type": "minecraft:matching_fluids",
-                "offset": [
-                  0,
-                  1,
-                  0
-                ],
-                "fluids": "minecraft:water"
-              },
-              {
-                "type": "minecraft:matching_blocks",
-                "offset": [
-                  0,
-                  1,
-                  0
-                ],
-                "blocks": [
-                  "minecraft:clay"
-                ]
-              }
-            ]
-          },
-          "then": {
-            "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:clay"
-            }
-          }
-        },
-        {
-          "if_true": {
-            "type": "minecraft:all_of",
-            "predicates": [
-              {
-                "type": "minecraft:matching_blocks",
-                "blocks": "minecraft:dirt"
-              },
-              {
-                "type": "minecraft:matching_blocks",
-                "offset": [
-                  0,
-                  1,
-                  0
-                ],
-                "blocks": [
-                  "minecraft:sand","clay"
-                ]
-              }
-            ]
-          },
-          "then": {
-            "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:clay"
-            }
-          }
-        }
-      ]
+      "rules": []
     },
     "target": {
       "type": "minecraft:matching_blocks",
       "blocks": [
-        "minecraft:dirt","sand"
+        "minecraft:sand",
+        "minecraft:clay"
       ]
-    },
-    "radius": {
-      "type": "minecraft:uniform",
-        "min_inclusive": 7,
-        "max_inclusive": 8
-    },
-    "half_height": 4
+    }
   }
 }

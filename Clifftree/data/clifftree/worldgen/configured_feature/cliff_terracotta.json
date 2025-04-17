@@ -37,21 +37,6 @@
           "type": "minecraft:netherrack_replace_blobs",
           "config": {
             "state": {
-              "Name": "minecraft:sand"
-            },
-            "target": {
-              "Name": "minecraft:brown_terracotta"
-            },
-			"radius": 12
-          }
-        },
-        "placement": []
-      },
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
-            "state": {
               "Name": "minecraft:light_gray_terracotta"
             },
             "target": {

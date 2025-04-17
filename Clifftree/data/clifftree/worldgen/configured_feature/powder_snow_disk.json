@@ -20,7 +20,10 @@
     },
     "target": {
       "type": "minecraft:matching_blocks",
-      "blocks": "snow_block"
+      "blocks": [
+        "snow_block",
+        "powder_snow"
+      ]
     }
   }
 }

@@ -75,12 +75,7 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:ore_gold_extra",
-      "minecraft:disk_sand",
-      "clifftree:disk_river_terracotta",
-      "minecraft:disk_gravel",
-      "clifftree:disk_red_sand",
-      "clifftree:disk_red_sandstone"
+      "minecraft:ore_gold_extra"
     ],
     [],
     [
