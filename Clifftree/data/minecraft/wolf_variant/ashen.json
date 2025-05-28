@@ -8,7 +8,7 @@
       {
           "condition": {
               "type": "minecraft:biome",
-              "biomes": "#clifftree:wolf_biomes/ashen"
+              "biomes": "#c:has_wolf_variant/ashen"
           },
           "priority": 1
       }

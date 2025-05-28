@@ -8,7 +8,7 @@
       {
           "condition": {
               "type": "minecraft:biome",
-              "biomes": "#clifftree:wolf_biomes/snowy"
+              "biomes": "#c:has_wolf_variant/snowy"
           },
           "priority": 1
       }

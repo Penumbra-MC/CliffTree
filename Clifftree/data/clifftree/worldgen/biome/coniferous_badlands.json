@@ -114,12 +114,6 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:rabbit",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
-      },
-      {
         "type": "minecraft:armadillo",
         "maxCount": 4,
         "minCount": 2,
@@ -147,7 +141,7 @@
         "type": "minecraft:wolf",
         "maxCount": 8,
         "minCount": 4,
-        "weight": 6
+        "weight": 12
       }
     ],
     "misc": [],

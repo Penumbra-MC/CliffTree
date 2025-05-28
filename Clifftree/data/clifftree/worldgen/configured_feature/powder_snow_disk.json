@@ -1,7 +1,7 @@
 {
   "type": "minecraft:disk",
   "config": {
-    "half_height": 2,
+    "half_height": 1,
     "radius": {
       "type": "minecraft:uniform",
         "max_inclusive": 4,
@@ -21,8 +21,8 @@
     "target": {
       "type": "minecraft:matching_blocks",
       "blocks": [
-        "snow_block",
-        "powder_snow"
+        "powder_snow",
+        "snow_block"
       ]
     }
   }

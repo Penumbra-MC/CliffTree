@@ -8,7 +8,7 @@
       {
           "condition": {
               "type": "minecraft:biome",
-              "biomes": "#clifftree:wolf_biomes/rusty"
+              "biomes": "#c:has_wolf_variant/rusty"
           },
           "priority": 1
       }
