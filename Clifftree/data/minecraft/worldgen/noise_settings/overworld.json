@@ -1034,8 +1034,8 @@
                         {
                           "if_true": {
                             "noise": "minecraft:surface",
-                            "min_threshold": -0.1,
-                            "max_threshold": 2.5,
+                            "min_threshold": -2.5,
+                            "max_threshold": -0.1,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -1043,16 +1043,14 @@
                               {
                                 "if_true": {
                                   "offset": 0,
-                                  "surface_depth_multiplier": 0,
-                                  "add_stone_depth": false,
-                                  "type": "minecraft:water"
+                                  "add_surface_depth": false,
+                                  "secondary_depth_range": 0,
+                                  "surface_type": "ceiling",
+                                  "type": "minecraft:stone_depth"
                                 },
                                 "then_run": {
                                   "result_state": {
-                                    "Properties": {
-                                      "snowy": "false"
-                                    },
-                                    "Name": "minecraft:grass_block"
+                                    "Name": "minecraft:stone"
                                   },
                                   "type": "minecraft:block"
                                 },
@@ -1060,7 +1058,7 @@
                               },
                               {
                                 "result_state": {
-                                  "Name": "minecraft:dirt"
+                                  "Name": "minecraft:gravel"
                                 },
                                 "type": "minecraft:block"
                               }
@@ -1068,33 +1066,6 @@
                             "type": "minecraft:sequence"
                           },
                           "type": "minecraft:condition"
-                        },
-                        {
-                          "sequence": [
-                            {
-                              "if_true": {
-                                "offset": 0,
-                                "add_surface_depth": false,
-                                "secondary_depth_range": 0,
-                                "surface_type": "ceiling",
-                                "type": "minecraft:stone_depth"
-                              },
-                              "then_run": {
-                                "result_state": {
-                                  "Name": "minecraft:stone"
-                                },
-                                "type": "minecraft:block"
-                              },
-                              "type": "minecraft:condition"
-                            },
-                            {
-                              "result_state": {
-                                "Name": "minecraft:gravel"
-                              },
-                              "type": "minecraft:block"
-                            }
-                          ],
-                          "type": "minecraft:sequence"
                         }
                       ],
                       "type": "minecraft:sequence"
