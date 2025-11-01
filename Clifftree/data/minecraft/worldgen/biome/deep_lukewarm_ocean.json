@@ -2,7 +2,7 @@
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
-    "minecraft:canyon"
+    "clifftree:ocean_canyon"
   ],
   "downfall": 0.5,
   "effects": {
@@ -15,12 +15,16 @@
     },
     "sky_color": 4959724,
     "water_color": 27536,
-    "water_fog_color": 925483
+    "water_fog_color": 601140
   },
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_ravine_magma",
+      "clifftree:ocean_plateau",
+      "clifftree:ocean_spires",
+      "clifftree:ocean_arch",
+      "clifftree:ocean_rocks"
     ],
     [
       "minecraft:amethyst_geode"
@@ -58,14 +62,12 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "clifftree:ocean_shore_sand"
+      "clifftree:shore_gravel"
     ],
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_granite",
-      "clifftree:ocean_rock_granite_extra"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
@@ -77,7 +79,9 @@
       "clifftree:patch_dry_grass_beach",
       "minecraft:seagrass_deep_warm",
       "clifftree:deep_kelp_warm",
-      "clifftree:sea_pickle_lukewarm"
+      "clifftree:sea_pickle_lukewarm",
+      "clifftree:tall_seagrass_field",
+      "clifftree:tall_seagrass_rock"
     ],
     [
       "clifftree:extra_gold_remove",

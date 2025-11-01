@@ -1,0 +1,164 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:egg"
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:brown_egg"
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:blue_egg"
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.gray_egg",
+                      "fallback": "Gray Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:marsh"
+                  }
+                }
+              ]
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.black_egg",
+                      "fallback": "Black Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:roofed"
+                  }
+                }
+              ]
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:brown_egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.red_egg",
+                      "fallback": "Red Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:tropical"
+                  }
+                }
+              ]
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:brown_egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.amber_egg",
+                      "fallback": "Amber Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:mesa"
+                  }
+                }
+              ]
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:blue_egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.teal_egg",
+                      "fallback": "Teal Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:pine"
+                  }
+                }
+              ]
+            }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:blue_egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.pale_egg",
+                      "fallback": "Pale Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:frosty"
+                  }
+                }
+              ]
+            }
+      ]
+    }
+  ]
+}

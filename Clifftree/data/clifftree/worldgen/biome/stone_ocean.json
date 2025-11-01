@@ -20,7 +20,7 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_spires"
     ],
     [
       "minecraft:amethyst_geode",
@@ -60,8 +60,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_andesite"
+      "minecraft:spring_lava"
     ],
     [ 
       "clifftree:dead_coral_patch",

@@ -123,6 +123,12 @@
         "weight": 6
       },
       {
+        "type": "minecraft:cow",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 6
+      },
+      {
         "type": "minecraft:polar_bear",
         "maxCount": 4,
         "minCount": 3,

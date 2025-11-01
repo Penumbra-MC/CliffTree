@@ -1,10 +1,11 @@
 {
-	"pack": {
-		"pack_format": 66,
-		"supported_formats": {
-			"min_inclusive": 66,
-			"max_inclusive": 255
-		},
-		"description": "testing"
-	}
+  "pack": {
+    "pack_format": 71,
+    "description": "§6ButterBee§f, mob variants for CliffTree!",
+    "min_format": 71,
+    "max_format": [100, 10],
+    "pack_format": 71,
+    "supported_formats": [71, 81]
+  },
+  "overlays": {}
 }

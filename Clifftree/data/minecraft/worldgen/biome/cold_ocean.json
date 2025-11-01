@@ -14,13 +14,15 @@
     },
     "sky_color": 6725619,
     "fog_color": 13692400,
-    "water_color": 2642048,
-    "water_fog_color": 658452
+    "water_color": 1922171,
+    "water_fog_color": 658964
   },
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_ravine_magma",
+      "clifftree:ocean_arch",
+      "clifftree:ocean_rocks"
     ],
     [
       "minecraft:amethyst_geode"
@@ -63,8 +65,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_diorite"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
@@ -74,7 +75,8 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:seagrass_cold",
-      "minecraft:kelp_cold"
+      "clifftree:kelp_cold",
+      "clifftree:tall_seagrass_rock"
     ],
     [
       "clifftree:extra_gold_remove",

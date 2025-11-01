@@ -1,0 +1,13 @@
+{
+  "asset_id": "clifftree:entity/pig/mire_pig",
+  "model": "cold",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:pig/spawns_mire_pig"
+      },
+      "priority": 1
+    }
+  ]
+}

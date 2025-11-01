@@ -1,0 +1,13 @@
+{
+  "model": "cold",
+  "asset_id": "clifftree:entity/cow/light_frigid_cow",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:cow/spawns_frigid_cow"
+      },
+      "priority": 2
+    }
+  ]
+}

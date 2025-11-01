@@ -14,7 +14,7 @@
     },
     "frame": "challenge"
   },
-  "parent": "minecraft:adventure/sleep_in_bed",
+  "parent": "clifftree:adventure/clifftree",
   "criteria": {
     "minecraft:pale_garden": {
       "trigger": "minecraft:location",
@@ -880,6 +880,22 @@
             "predicate": {
               "location": {
                 "biomes": "clifftree:bog"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:kelp_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:kelp_forest"
               }
             }
           }

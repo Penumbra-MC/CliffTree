@@ -1,0 +1,79 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:item_name",
+    "cases": [
+      {
+        "when": {
+          "translate": "item.clifftree.gray_egg",
+          "fallback": "Gray Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/gray_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.black_egg",
+          "fallback": "Black Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/black_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.red_egg",
+          "fallback": "Red Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/red_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.amber_egg",
+          "fallback": "Amber Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/amber_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.teal_egg",
+          "fallback": "Teal Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/teal_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.pale_egg",
+          "fallback": "Pale Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/pale_egg"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/brown_egg"
+    }
+  }
+}

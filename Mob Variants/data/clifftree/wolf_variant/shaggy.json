@@ -1,0 +1,16 @@
+{
+    "assets": {
+      "angry": "clifftree:entity/wolf/wolf_shaggy_angry",
+      "tame": "clifftree:entity/wolf/wolf_shaggy_tame",
+      "wild": "clifftree:entity/wolf/wolf_shaggy"
+    },
+    "spawn_conditions": [
+      {
+        "condition": {
+          "type": "minecraft:biome",
+          "biomes": "#clifftree:wolf/spawns_shaggy_wolf"
+        },
+        "priority": 2
+      }
+    ]
+  }

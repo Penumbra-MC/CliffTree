@@ -255,7 +255,7 @@
             ],
             "erosion": [
               -1,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.45,
@@ -285,7 +285,7 @@
             ],
             "erosion": [
               -1,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.15,
@@ -332,6 +332,36 @@
             "offset": 0
           },
           "biome": "minecraft:lukewarm_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:kelp_forest"
         },
         {
           "parameters": {
@@ -34335,7 +34365,7 @@
             ],
             "erosion": [
               -1,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.45,
@@ -34365,7 +34395,7 @@
             ],
             "erosion": [
               -1,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.15,
@@ -34412,6 +34442,36 @@
             "offset": 0
           },
           "biome": "minecraft:lukewarm_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:kelp_forest"
         },
         {
           "parameters": {
@@ -36705,7 +36765,7 @@
             ],
             "erosion": [
               -1,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.45,
@@ -36735,7 +36795,7 @@
             ],
             "erosion": [
               -1,
-              1
+              0.5750000000000001
             ],
             "temperature": [
               -0.15,
@@ -36782,6 +36842,36 @@
             "offset": 0
           },
           "biome": "minecraft:lukewarm_ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "erosion": [
+              0.5750000000000001,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.05,
+              0.2
+            ],
+            "offset": 0
+          },
+          "biome": "clifftree:kelp_forest"
         },
         {
           "parameters": {

@@ -1,0 +1,12 @@
+{
+  "asset_id": "clifftree:entity/frog/toadstool",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:frog/spawns_toadstool"
+      },
+      "priority": 2
+    }
+  ]
+}

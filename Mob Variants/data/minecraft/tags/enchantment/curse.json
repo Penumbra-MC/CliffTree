@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "clifftree:chicken_eggs/junglefowl",
-    "clifftree:chicken_eggs/swamphen"
+    "clifftree:incubation_curse"
   ]
 }

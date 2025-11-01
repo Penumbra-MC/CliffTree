@@ -20,7 +20,7 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_ravine_magma"
     ],
     [
       "minecraft:iceberg_packed",
@@ -68,14 +68,14 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_diorite"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
       "minecraft:trees_water",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "minecraft:red_mushroom_normal",
+      "clifftree:ocean_basalt"
     ],
     [
       "clifftree:extra_gold_remove",

@@ -1,13 +1,14 @@
 {
   "model": {
     "type": "minecraft:select",
-    "model": "minecraft:item/egg",
     "property": "minecraft:component",
-    "component": "minecraft:enchantments",
+    "component": "minecraft:item_name",
     "cases": [
       {
         "when": {
-          "clifftree:chicken_eggs/swamphen": 1
+          "translate": "item.clifftree.gray_egg",
+          "fallback": "Gray Egg",
+          "color": "white"
         },
         "model": {
           "type": "minecraft:model",
@@ -16,11 +17,57 @@
       },
       {
         "when": {
-          "clifftree:chicken_eggs/junglefowl": 1
+          "translate": "item.clifftree.black_egg",
+          "fallback": "Black Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/black_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.red_egg",
+          "fallback": "Red Egg",
+          "color": "white"
         },
         "model": {
           "type": "minecraft:model",
           "model": "clifftree:item/red_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.amber_egg",
+          "fallback": "Amber Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/amber_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.teal_egg",
+          "fallback": "Teal Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/teal_egg"
+        }
+      },
+      {
+        "when": {
+          "translate": "item.clifftree.pale_egg",
+          "fallback": "Pale Egg",
+          "color": "white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "clifftree:item/pale_egg"
         }
       }
     ],

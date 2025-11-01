@@ -2213,7 +2213,7 @@
     },
     {
       "key": "layout_ly3mjzak",
-      "name": "Dripston Surface",
+      "name": "Dripstone Surface",
       "array": [
         [
           "biome_lpyhxbye",
@@ -2930,6 +2930,54 @@
           "layout_ktoj0p0e"
         ]
       ]
+    },
+    {
+      "key": "layout_mg97a155",
+      "name": "Kelp Forest or Deep Ocean",
+      "array": [
+        [
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean"
+        ],
+        [
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_frozen_ocean"
+        ],
+        [
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2"
+        ],
+        [
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2"
+        ],
+        [
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ],
+        [
+          "minecraft:warm_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:warm_ocean"
+        ]
+      ]
     }
   ],
   "slices": [
@@ -2965,7 +3013,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_ktoint2n"
+          "layout_mg97a155"
         ],
         [
           "layout_ktoin4kk",
@@ -3081,7 +3129,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_ktoint2n"
+          "layout_mg97a155"
         ],
         [
           "layout_ktoin4kk",
@@ -3197,7 +3245,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_ktoint2n"
+          "layout_mg97a155"
         ],
         [
           "layout_ktoin4kk",
@@ -3313,7 +3361,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_ktoint2n"
+          "layout_mg97a155"
         ],
         [
           "layout_ktoin4kk",
@@ -3429,7 +3477,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_ktoint2n"
+          "layout_mg97a155"
         ],
         [
           "layout_ktoin4kk",
@@ -5553,6 +5601,11 @@
     {
       "key": "minecraft:soul_sand_valley",
       "name": "minecraft:soul_sand_valley"
+    },
+    {
+      "key": "biome_mg972ax2",
+      "name": "clifftree:kelp_forest",
+      "color": "#0e834b"
     }
   ],
   "targetVersion": "1_19",

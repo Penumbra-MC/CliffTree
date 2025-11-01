@@ -1,0 +1,12 @@
+{
+    "criteria": {
+        "tick": {
+            "conditions": {},
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "clifftree:butterbee_warn"
+    },
+    "sends_telemetry_event": false
+}
