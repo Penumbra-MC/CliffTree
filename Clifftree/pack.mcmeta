@@ -1,24 +1,15 @@
 {
   "pack": {
-    "pack_format": 71,
     "description": "§6CliffTree§f, vanilla-like worldgen overhaul!",
-    "min_format": 71,
+    "min_format": 92,
     "max_format": [100, 10],
-    "pack_format": 71,
-    "supported_formats": [71, 81]
   },
   "overlays": {
     "entries": [
       {
         "directory": "deprecated",
-        "formats": [71, 81],
-        "min_format": 71,
-        "max_format": [100, 10]
-      },
-      {
-        "directory": "82",
-        "formats": [82, 100],
-        "min_format": 82,
+        "formats": [92, 100],
+        "min_format": 92,
         "max_format": [100, 10]
       }
     ]
