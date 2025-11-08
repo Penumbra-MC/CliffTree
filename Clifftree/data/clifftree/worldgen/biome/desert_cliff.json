@@ -5,18 +5,18 @@
     "minecraft:canyon"
   ],
   "downfall": 0.3,
+  "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/sky_color": "#7BBBD1",
+    "minecraft:visual/fog_color": "#DBE5CD",
+    "minecraft:visual/water_fog_color": "#03080A",
+    "minecraft:visual/fog_start_distance": -32,
+    "minecraft:visual/fog_end_distance": 768,
+    "minecraft:visual/sky_light_color": "#fffcfb",
+    "minecraft:visual/cloud_color": "#E6F5FFE6"
+  },
   "effects": {
-    "fog_color": 14411213,
-    "grass_color": 15190639,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "sky_color": 8109009,
-    "water_color": 2854026,
-    "water_fog_color": 198922
+    "water_color": "#2B8C8A"
   },
   "features": [
     [
@@ -82,7 +82,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "has_precipitation": true,
+  "has_precipitation": false,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

@@ -5,31 +5,27 @@
     "minecraft:canyon"
   ],
   "downfall": 0.0,
-  "effects": {
-    "fog_color": 14863798,
-    "foliage_color": 12092997,
-    "grass_color": 10189901,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "music": [
-      {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.overworld.badlands"
-        },
-        "weight": 1
+  "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.badlands"
       }
-    ],
-    "music_volume": 1.0,
-    "sky_color": 6659253,
-    "water_color": 4816793,
-    "water_fog_color": 198666
+    },
+    "minecraft:visual/sky_color": "#659CB5",
+    "minecraft:visual/fog_color": "#EDD7B2",
+    "minecraft:visual/fog_start_distance": -32,
+    "minecraft:visual/fog_end_distance": 768,
+    "minecraft:visual/water_fog_color": "#03080A",
+    "minecraft:visual/sky_light_color": "#fffcfb",
+    "minecraft:visual/cloud_color": "#B4FFFFE6"
+  },
+  "effects": {
+    "water_color": "#497F99",
+    "grass_color": "#9B7C4D",
+    "foliage_color": "#B88645"
   },
   "features": [
     ["clifftree:badlands_terracotta"],

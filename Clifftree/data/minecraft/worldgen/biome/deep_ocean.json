@@ -5,17 +5,13 @@
     "clifftree:ocean_canyon"
   ],
   "downfall": 0.5,
+  "attributes": {
+    "minecraft:visual/sky_color": "#57ABEC",
+    "minecraft:visual/fog_color": "#AEE3FC",
+    "minecraft:visual/water_fog_color": "#03131A"
+  },
   "effects": {
-    "fog_color": 11457020,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "sky_color": 5743084,
-    "water_color": 22918,
-    "water_fog_color": 201498
+    "water_color": "#005986"
   },
   "features": [
     [],

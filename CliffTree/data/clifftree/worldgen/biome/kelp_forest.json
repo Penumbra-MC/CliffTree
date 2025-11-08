@@ -4,18 +4,19 @@
     "minecraft:cave_extra_underground"
   ],
   "downfall": 0.5,
+  "attributes": {
+    "minecraft:visual/sky_color": "#70ABBC",
+    "minecraft:visual/fog_color": "#8CBEB8",
+    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_end_distance": 512,
+    "minecraft:visual/water_fog_color": "#172B23",
+    "minecraft:visual/water_fog_end_distance": {
+      "argument": 0.85,
+      "modifier": "multiply"
+    }
+  },
   "effects": {
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "sky_color": 7383996,
-    "fog_color": 9223864,
-    "grass_color_modifier": "swamp",
-    "water_color": 3042142,
-    "water_fog_color": 1518371
+    "water_color": "#2E6B5E"
   },
   "features": [
     [],

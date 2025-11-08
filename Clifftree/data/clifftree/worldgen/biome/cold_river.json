@@ -1,23 +1,18 @@
 {
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 8434919,
-    "fog_color": 15134448,
-    "water_color": 2642048,
-    "water_fog_color": 197898,
-    "grass_color": 8829556,
-    "foliage_color": 7382860
-  },
+  
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
     "minecraft:canyon"
   ],
+  "attributes": {
+    "minecraft:visual/sky_color": "#80B4E7",
+    "minecraft:visual/fog_color": "#E6EEF0",
+    "minecraft:visual/water_fog_color": "#03060A"
+  },
+  "effects": {
+    "water_color": "#285080"
+  },
   "features": [
     [],
     [

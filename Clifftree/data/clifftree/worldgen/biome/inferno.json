@@ -6,35 +6,33 @@
       "clifftree:inferno_cave"
     ],
   "downfall": 0.4,
-  "effects": {
-    "fog_color": 1315858,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.deep_dark"
+      }
     },
-    "music": [
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/sky_color": "#415690",
+    "minecraft:visual/fog_color": "#141412",
+    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_end_distance": 128,
+    "minecraft:visual/water_fog_color": "#576B81",
+    "minecraft:visual/ambient_particles": [
       {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.overworld.dripstone_caves"
+        "particle": {
+          "type": "minecraft:white_ash"
         },
-        "weight": 1
+        "probability": 0.02
       }
     ],
-    "music_volume": 1.0,
-    "particle": {
-      "options": {
-        "type": "minecraft:white_ash"
-      },
-      "probability": 0.02
-    },
-    "sky_color": 4282000,
-    "water_color": 6530034,
-    "water_fog_color": 6864102
+    "minecraft:visual/sunrise_sunset_color": "#00000000"
+  },
+  "effects": {
+    "water_color": "#63A3F2"
+
   },
   "features": [
     [],

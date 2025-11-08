@@ -1,17 +1,18 @@
 {
+  "attributes": {
+    "minecraft:gameplay/increased_fire_burnout": true,
+    "minecraft:visual/sky_color": "#5FAAC5",
+    "minecraft:visual/fog_color": "#93D9C8",
+    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_end_distance": 768,
+    "minecraft:visual/water_fog_color": "#04201E",
+    "minecraft:visual/sky_light_color": "#ecffed",
+    "minecraft:visual/cloud_color": "#D2E6FFF0"
+  },
   "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 7128017,
-    "fog_color": 10018544,
-    "water_color": 33161,
-    "water_fog_color": 270369,
-    "grass_color": 6210881,
-    "foliage_color": 3651091
+    "water_color": "#00818A",
+    "grass_color": "#5EC541",
+    "foliage_color": "#37B613"
   },
   "carvers": [
     "minecraft:cave",

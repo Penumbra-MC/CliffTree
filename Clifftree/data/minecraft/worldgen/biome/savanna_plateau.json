@@ -1,23 +1,21 @@
 {
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 6993872,
-    "water_color": 2916255,
-    "water_fog_color": 198666,
-    "fog_color": 10605533,
-    "grass_color": 12894289,
-    "foliage_color": 9284673
-  },
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
     "minecraft:canyon"
   ],
+  "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/sky_color": "#6AB7D0",
+    "minecraft:visual/fog_color": "#A1D3DD",
+    "minecraft:visual/water_fog_color": "#03080A",
+    "minecraft:visual/cloud_color": "#FFFAFFF0"
+  },
+  "effects": {
+    "water_color": "#2C7F9F",
+    "grass_color": "#C4C051",
+    "foliage_color": "#8DAC41"
+  },
   "features": [
     [
       "clifftree:savanna_terracotta",
@@ -211,6 +209,5 @@
   "spawn_costs": {},
   "has_precipitation": false,
   "temperature": 2.0,
-  "downfall": 0.0,
-  "category": "savanna"
+  "downfall": 0.0
 }

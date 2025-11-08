@@ -6,30 +6,26 @@
   ],
   "creature_spawn_probability": 0.07,
   "downfall": 0.5,
-  "effects": {
-    "fog_color": 14871807,
-    "grass_color": 13360856,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "music": [
-      {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.overworld.snowy_slopes"
-        },
-        "weight": 1
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.snowy_slopes"
       }
-    ],
-    "music_volume": 1.0,
-    "sky_color": 10009068,
-    "water_color": 8303069,
-    "water_fog_color": 1319727
+    },
+    "minecraft:gameplay/increased_fire_burnout": true,
+    "minecraft:visual/sky_color": "#98B9EC",
+    "minecraft:visual/fog_color": "#E2ECFF",
+    "minecraft:visual/water_fog_color": "#14232F",
+    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_end_distance": 384,
+    "minecraft:visual/sky_light_color": "#fbfeff",
+    "minecraft:visual/sunrise_sunset_color": "#7DFFFFFF"
+  },
+  "effects": {
+    "water_color": "#7EB1DD",
+    "grass_color": "#CBDED8"
   },
   "features": [
     [],

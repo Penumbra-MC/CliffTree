@@ -1,24 +1,22 @@
 {
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 8109009,
-    "fog_color": 13098953,
-    "water_color": 3311236,
-    "water_fog_color": 198922,
-    "grass_color": 12173913,
-    "foliage_color": 11252550
-  },
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
     "minecraft:canyon"
   ],
-  "features": [
+  "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/sky_color": "#7BBBD1",
+    "minecraft:visual/fog_color": "#DBE5CD",
+    "minecraft:visual/water_fog_color": "#03080A",
+    "minecraft:visual/fog_start_distance": -32,
+    "minecraft:visual/fog_end_distance": 768,
+    "minecraft:visual/sky_light_color": "#fffcfb",
+    "minecraft:visual/cloud_color": "#E6F5FFF0"
+  },
+  "effects": {
+    "water_color": "#328684"
+  },"features": [
     [],
     [
       "minecraft:lake_lava_underground"

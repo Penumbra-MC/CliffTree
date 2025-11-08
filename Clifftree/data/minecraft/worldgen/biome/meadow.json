@@ -5,30 +5,22 @@
     "minecraft:canyon"
   ],
   "downfall": 0.8,
-  "effects": {
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "music": [
-      {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.overworld.meadow"
-        },
-        "weight": 1
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.meadow"
       }
-    ],
-    "music_volume": 1.0,
-    "sky_color": 6858742,
-    "fog_color": 11457020,
-    "water_color": 937679,
-    "water_fog_color": 197898
+    },
+    "minecraft:visual/sky_color": "#68A7F6",
+    "minecraft:visual/fog_color": "#AED1FC",
+    "minecraft:visual/water_fog_color": "#03050A"
   },
+  "effects": {
+    "water_color": "#0E4ECF"
+  }
+,
   "features": [
     [],
     [
