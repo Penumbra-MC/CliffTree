@@ -201,20 +201,24 @@
           "value": "#ffffff"
         },
         {
+          "ticks": 6000,
+          "value": "#dbe1ea"
+        },
+        {
           "ticks": 11867,
           "value": "#ffffff"
         },
         {
           "ticks": 12600,
-          "value": 16765843
+          "value": "#ffd393"
         },
         {
           "ticks": 13000,
-          "value": 15824227
+          "value": "#f17563"
         },
         {
           "ticks": 13670,
-          "value": "#12101b"
+          "value": "#0f0e16"
         },
         {
           "ticks": 18000,
@@ -222,15 +226,15 @@
         },
         {
           "ticks": 22600,
-          "value": "#12101b"
+          "value": "#0f0e16"
         },
         {
           "ticks": 23200,
-          "value": 12873551
+          "value": "#c46f4f"
         },
         {
           "ticks": 23900,
-          "value": 16775387
+          "value": "#fff8db"
         }
       ],
       "modifier": "multiply"
@@ -251,7 +255,7 @@
         },
         {
           "ticks": 12600,
-          "value": 16683403
+          "value": 16750995
         },
         {
           "ticks": 14100,

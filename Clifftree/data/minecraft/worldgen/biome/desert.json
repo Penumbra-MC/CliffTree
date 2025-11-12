@@ -109,9 +109,9 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 12
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 29
       },
       {
         "type": "minecraft:camel",
@@ -144,7 +144,13 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 20
+      },
+      {
+        "type": "minecraft:parched",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 80
       },
       {
         "type": "minecraft:creeper",
@@ -188,5 +194,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.2
 }

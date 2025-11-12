@@ -15,7 +15,8 @@
     "minecraft:visual/water_fog_end_distance": {
       "argument": 0.85,
       "modifier": "multiply"
-    }
+    },
+    "minecraft:visual/cloud_color": "#DCF0E1F0"
   },
   "effects": {
     "water_color": "#605F57",
@@ -103,7 +104,7 @@
     "creature": [
       {
         "type": "minecraft:mooshroom",
-        "maxCount": 8,
+        "maxCount": 4,
         "minCount": 4,
         "weight": 8
       }
@@ -121,5 +122,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.9
+  "temperature": 0.9,
+  "creature_spawn_probability": 0.2
 }

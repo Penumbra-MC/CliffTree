@@ -188,7 +188,13 @@
         "type": "minecraft:squid",
         "maxCount": 4,
         "minCount": 1,
-        "weight": 1
+        "weight": 8
+      },
+      {
+        "type": "minecraft:nautilus",
+        "maxCount": 3,
+        "minCount": 1,
+        "weight": 5
       }
     ]
   },

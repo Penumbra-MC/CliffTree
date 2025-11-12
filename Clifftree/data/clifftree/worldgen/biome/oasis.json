@@ -182,9 +182,15 @@
       },
       {
         "type": "minecraft:skeleton",
-        "weight": 80,
-        "minCount": 2,
-        "maxCount": 4
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 20
+      },
+      {
+        "type": "minecraft:parched",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 80
       },
       {
         "type": "minecraft:creeper",
@@ -235,5 +241,6 @@
     ],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.5
 }

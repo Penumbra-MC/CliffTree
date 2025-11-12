@@ -114,7 +114,7 @@
         "type": "minecraft:armadillo",
         "maxCount": 4,
         "minCount": 2,
-        "weight": 6
+        "weight": 2
       },
       {
         "type": "minecraft:chicken",
@@ -124,7 +124,7 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 8,
+        "maxCount": 6,
         "minCount": 6,
         "weight": 6
       },
@@ -147,7 +147,7 @@
         "type": "minecraft:spider",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 120
       },
       {
         "type": "minecraft:zombie",
@@ -165,7 +165,13 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 40
+      },
+      {
+        "type": "minecraft:parched",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 40
       },
       {
         "type": "minecraft:creeper",
@@ -209,5 +215,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.15
 }

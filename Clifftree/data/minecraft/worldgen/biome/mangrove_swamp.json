@@ -120,8 +120,8 @@
     "creature": [
       {
         "type": "minecraft:frog",
-        "maxCount": 8,
-        "minCount": 5,
+        "maxCount": 5,
+        "minCount": 2,
         "weight": 10
       },
       {
@@ -212,5 +212,6 @@
     ],
     "water_creature": []
   },
-  "temperature": 0.8
+  "temperature": 0.8,
+  "creature_spawn_probability": 0.2
 }

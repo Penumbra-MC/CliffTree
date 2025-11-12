@@ -191,7 +191,7 @@
     "water_creature": [
       {
         "type": "minecraft:squid",
-        "maxCount": 2,
+        "maxCount": 4,
         "minCount": 1,
         "weight": 10
       },
@@ -200,6 +200,12 @@
         "maxCount": 2,
         "minCount": 1,
         "weight": 2
+      },
+      {
+        "type": "minecraft:nautilus",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
       }
     ]
   },

@@ -79,7 +79,7 @@
   ],
   "has_precipitation": true,
   "spawn_costs": {
-    "minecraft:drowned": {
+    "minecraft:zombie_nautilus": {
       "charge": 1.0,
       "energy_budget": 0.12
     }
@@ -150,6 +150,12 @@
         "maxCount": 4,
         "minCount": 2,
         "weight": 5
+      },
+      {
+        "type": "minecraft:zombie_nautilus",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
       }
     ],
     "underground_water_creature": [
