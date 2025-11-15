@@ -27,8 +27,9 @@
     "grass_color": "#9EB2A3"
   },
   "features": [
-    [],
+    "#clifftree:cold_terracotta",
     [
+      "clifftree:glacier_surface",
       "minecraft:lake_lava_underground"
     ],
     [
@@ -67,9 +68,10 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma"
+      "minecraft:underwater_magma",
+      "clifftree:ore_lapis_extra"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -78,11 +80,10 @@
       "minecraft:glow_lichen",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "clifftree:snow_patches"
+      "clifftree:snow_patches",
+      "clifftree:glacier_snow_top"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

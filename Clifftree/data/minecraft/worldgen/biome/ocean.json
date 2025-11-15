@@ -58,7 +58,7 @@
       "minecraft:underwater_magma",
       "clifftree:ocean_shore_sand"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -76,8 +76,8 @@
       "clifftree:tall_seagrass_rock"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],

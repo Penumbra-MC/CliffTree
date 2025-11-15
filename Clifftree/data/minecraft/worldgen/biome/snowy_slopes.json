@@ -72,9 +72,7 @@
       "minecraft:ore_emerald",
       "clifftree:ice_to_snow"
     ],
-    [
-      "minecraft:ore_infested"
-    ],
+    "#clifftree:infested_mountain",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
@@ -86,7 +84,7 @@
       "clifftree:snow_patches"
     ],
     [
-      "clifftree:extra_gold_remove",
+      
       "minecraft:freeze_top_layer",
       "clifftree:remove_snow_from_ice"
     ]

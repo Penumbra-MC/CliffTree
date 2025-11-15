@@ -19,7 +19,9 @@
     "grass_color": "#9EB2A3"
   },
   "features": [
-    [],
+    [
+      "clifftree:surface_diorite"
+    ],
     [
       "minecraft:lake_lava_underground"
     ],
@@ -62,7 +64,7 @@
       "minecraft:underwater_magma",
       "clifftree:shore_gravel"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -77,8 +79,6 @@
       "clifftree:snow_patches_gravel"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer",
       "clifftree:remove_snow_from_ice"
     ]

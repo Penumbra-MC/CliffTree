@@ -1,37 +1,48 @@
 {
-  "type": "minecraft:simple_random_selector",
+  "type": "minecraft:disk",
   "config": {
-    "features": [
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:orange_terracotta"
+        }
+      },
+      "rules": [
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:red_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:brown_terracotta"
-            },
-            "target": {
-              "Name": "minecraft:red_terracotta"
-            },
-			"radius": 12
+            }
           }
         },
-        "placement": []
-      },
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:yellow_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:orange_terracotta"
-            },
-            "target": {
-              "Name": "minecraft:yellow_terracotta"
-            },
-			"radius": 12
+            }
           }
-        },
-        "placement": []
-      }
-    ]
+        }
+      ]
+    },
+    "radius": 8,
+    "half_height": 4,
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": [
+        "minecraft:red_terracotta",
+        "minecraft:yellow_terracotta"
+      ]
+    }
   }
 }
