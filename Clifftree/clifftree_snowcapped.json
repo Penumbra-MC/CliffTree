@@ -2933,28 +2933,21 @@
     },
     {
       "key": "layout_mg97a155",
-      "name": "Kelp Forest or Deep Ocean",
+      "name": "Kelp Forest or Ocean",
       "array": [
         [
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean"
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean"
         ],
         [
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean",
-          "minecraft:deep_frozen_ocean"
-        ],
-        [
-          "biome_mg972ax2",
-          "biome_mg972ax2",
-          "biome_mg972ax2",
-          "biome_mg972ax2",
-          "biome_mg972ax2"
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_ocean"
         ],
         [
           "biome_mg972ax2",
@@ -2964,11 +2957,18 @@
           "biome_mg972ax2"
         ],
         [
-          "minecraft:deep_lukewarm_ocean",
-          "minecraft:deep_lukewarm_ocean",
-          "minecraft:deep_lukewarm_ocean",
-          "minecraft:deep_lukewarm_ocean",
-          "minecraft:deep_lukewarm_ocean"
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2",
+          "biome_mg972ax2"
+        ],
+        [
+          "minecraft:lukewarm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:lukewarm_ocean"
         ],
         [
           "minecraft:warm_ocean",
@@ -3013,7 +3013,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_mg97a155"
+          "layout_ktoint2n"
         ],
         [
           "layout_ktoin4kk",
@@ -3023,7 +3023,7 @@
           "layout_ktoin4kk",
           "layout_ktoin4kk",
           "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "layout_mg97a155"
         ],
         [
           "layout_ltxy18kz",
@@ -3129,7 +3129,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_mg97a155"
+          "layout_ktoint2n"
         ],
         [
           "layout_ktoin4kk",
@@ -3139,7 +3139,7 @@
           "layout_ktoin4kk",
           "layout_ktoin4kk",
           "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "layout_mg97a155"
         ],
         [
           "layout_lrl300xn",
@@ -3245,7 +3245,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_mg97a155"
+          "layout_ktoint2n"
         ],
         [
           "layout_ktoin4kk",
@@ -3255,7 +3255,7 @@
           "layout_ktoin4kk",
           "layout_ktoin4kk",
           "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "layout_mg97a155"
         ],
         [
           "layout_lrl300xn",
@@ -3361,7 +3361,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_mg97a155"
+          "layout_ktoint2n"
         ],
         [
           "layout_ktoin4kk",
@@ -3371,7 +3371,7 @@
           "layout_ktoin4kk",
           "layout_ktoin4kk",
           "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "layout_mg97a155"
         ],
         [
           "layout_lrq586p0",
@@ -3477,7 +3477,7 @@
           "layout_ktoint2n",
           "layout_ktoint2n",
           "layout_ktoint2n",
-          "layout_mg97a155"
+          "layout_ktoint2n"
         ],
         [
           "layout_ktoin4kk",
@@ -3487,7 +3487,7 @@
           "layout_ktoin4kk",
           "layout_ktoin4kk",
           "layout_ktoin4kk",
-          "layout_ktoin4kk"
+          "layout_mg97a155"
         ],
         [
           "layout_lrq586p0",
