@@ -75,7 +75,7 @@
       "minecraft:underwater_magma",
       "clifftree:disk_snowy_grass"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -91,8 +91,8 @@
       "clifftree:snow_patches"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer",
       "clifftree:remove_snow_from_ice"
     ]

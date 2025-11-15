@@ -20,7 +20,9 @@
     "water_fog_color": 464420
   },
   "features": [
-    [],
+    [
+      "clifftree:surface_andesite"
+    ],
     [
       "minecraft:lake_lava_underground"
     ],
@@ -62,7 +64,7 @@
       "minecraft:underwater_magma",
       "clifftree:shore_sand"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -76,8 +78,8 @@
       "clifftree:patch_dry_grass_beach"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],

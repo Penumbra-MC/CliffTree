@@ -77,7 +77,7 @@
       "minecraft:underwater_magma",
       "clifftree:disk_sand_tropic"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -104,8 +104,8 @@
       "clifftree:patch_bush_jungle"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],

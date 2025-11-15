@@ -62,7 +62,7 @@
       "minecraft:underwater_magma",
       "minecraft:ore_emerald"
     ],
-    [],
+    "#clifftree:infested_mountain",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -78,7 +78,7 @@
       "minecraft:patch_sugar_cane"
     ],
     [
-      "clifftree:extra_gold_remove",
+      
       "minecraft:freeze_top_layer"
     ]
   ],

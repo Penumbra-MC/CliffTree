@@ -32,7 +32,7 @@
     "water_fog_color": 198666
   },
   "features": [
-    ["clifftree:badlands_terracotta"],
+    "#clifftree:badlands_terracotta",
     [
       "minecraft:lake_lava_underground"
     ],
@@ -96,7 +96,7 @@
       "clifftree:patch_cactus_wooded_badlands"
     ],
     [
-      "clifftree:extra_emerald_remove",
+      
       "minecraft:freeze_top_layer"
     ]
   ],

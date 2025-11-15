@@ -72,10 +72,7 @@
       "minecraft:underwater_magma",
       "minecraft:ore_emerald"
     ],
-    [
-      "minecraft:ore_infested",
-      "clifftree:ore_infested_peaks"
-    ],
+    "#clifftree:infested_mountain_stony",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -84,7 +81,7 @@
       "minecraft:glow_lichen"
     ],
     [
-      "clifftree:extra_gold_remove",
+      
       "minecraft:freeze_top_layer"
     ]
   ],

@@ -71,12 +71,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:ore_emerald"
+      "minecraft:underwater_magma"
     ],
-    [
-      "minecraft:ore_infested"
-    ],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -90,7 +87,7 @@
       "minecraft:wildflowers_meadow"
     ],
     [
-      "clifftree:extra_gold_remove",
+      
       "minecraft:freeze_top_layer"
     ]
   ],

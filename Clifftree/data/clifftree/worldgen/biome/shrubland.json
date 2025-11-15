@@ -30,11 +30,9 @@
     "water_fog_color": 198922
   },
   "features": [
+    "#clifftree:alternate_terracotta",
     [
-      "clifftree:shrubland_terracotta",
-      "clifftree:shrubland_surface"
-    ],
-    [
+      "clifftree:shrubland_surface",
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
     ],
@@ -80,7 +78,7 @@
       "minecraft:underwater_magma",
       "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -98,8 +96,7 @@
       "minecraft:patch_pumpkin",
       "clifftree:patch_cactus_shrubland"
     ],
-    [ "clifftree:extra_gold_remove",
-    "clifftree:extra_emerald_remove",
+    [ 
       "minecraft:freeze_top_layer"
     ]
   ],

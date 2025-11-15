@@ -19,11 +19,9 @@
     "minecraft:canyon"
   ],
   "features": [
+    "#clifftree:savanna_terracotta",
     [
-      "clifftree:savanna_terracotta",
-      "clifftree:savanna_plateau_surface"
-    ],
-    [
+      "clifftree:savanna_plateau_surface",
       "minecraft:lake_lava_underground"
     ],
     [
@@ -61,10 +59,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:ore_emerald"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -81,8 +78,8 @@
       "minecraft:patch_sugar_cane"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],

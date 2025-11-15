@@ -57,7 +57,7 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -70,8 +70,6 @@
       "minecraft:seagrass_warm"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
