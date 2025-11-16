@@ -109,9 +109,9 @@
     "creature": [
       {
         "type": "minecraft:rabbit",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 29
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 4
       },
       {
         "type": "minecraft:camel",
@@ -195,5 +195,5 @@
     "water_creature": []
   },
   "temperature": 2.0,
-  "creature_spawn_probability": 0.2
+  "creature_spawn_probability": 0.07
 }

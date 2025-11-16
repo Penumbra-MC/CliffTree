@@ -209,5 +209,5 @@
     "water_creature": []
   },
   "temperature": 0.375,
-  "creature_spawn_probability": 0.2
+  "creature_spawn_probability": 0.15
 }

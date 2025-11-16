@@ -199,5 +199,6 @@
     ]
   },
   "temperature": 0.0,
-  "temperature_modifier": "frozen"
+  "temperature_modifier": "frozen",
+  "creature_spawn_probability": 0.07
 }
