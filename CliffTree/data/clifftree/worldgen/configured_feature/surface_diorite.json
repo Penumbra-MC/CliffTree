@@ -4,8 +4,8 @@
       "surface": "floor",
       "depth": {
           "type": "minecraft:uniform",
-              "min_inclusive": 4,
-              "max_inclusive": 6
+              "min_inclusive": 2,
+              "max_inclusive": 3
       },
       "vertical_range": 5,
       "extra_bottom_block_chance": 0.5,
