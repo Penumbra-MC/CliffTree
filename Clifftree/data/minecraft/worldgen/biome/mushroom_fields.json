@@ -91,8 +91,8 @@
     "ambient": [
       {
         "type": "minecraft:bat",
-        "maxCount": 8,
-        "minCount": 8,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 10
       }
     ],
@@ -118,5 +118,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.9
+  "temperature": 0.9,
+  "creature_spawn_probability": 0.15
 }

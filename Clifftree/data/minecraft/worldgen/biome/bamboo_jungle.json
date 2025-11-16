@@ -137,7 +137,7 @@
         "type": "minecraft:parrot",
         "maxCount": 6,
         "minCount": 4,
-        "weight": 12
+        "weight": 5
       },
       {
         "type": "minecraft:panda",
@@ -214,5 +214,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.95
+  "temperature": 0.95,
+  "creature_spawn_probability": 0.4
 }

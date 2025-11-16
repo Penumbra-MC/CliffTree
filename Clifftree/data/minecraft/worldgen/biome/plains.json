@@ -104,7 +104,7 @@
         "type": "minecraft:sheep",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 12
+        "weight": 8
       },
       {
         "type": "minecraft:pig",
@@ -120,8 +120,8 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 6,
+        "minCount": 6,
         "weight": 8
       },
       {
@@ -199,5 +199,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.85
+  "temperature": 0.85,
+  "creature_spawn_probability": 0.2
 }

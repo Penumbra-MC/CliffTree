@@ -118,7 +118,7 @@
         "type": "minecraft:armadillo",
         "maxCount": 4,
         "minCount": 2,
-        "weight": 6
+        "weight": 2
       },
       {
         "type": "minecraft:chicken",
@@ -213,5 +213,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.15
 }

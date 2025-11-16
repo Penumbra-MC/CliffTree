@@ -143,7 +143,7 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 8,
+        "maxCount": 6,
         "minCount": 6,
         "weight": 12
       },
@@ -167,9 +167,9 @@
       },
       {
         "type": "minecraft:armadillo",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 12
+        "maxCount": 3,
+        "minCount": 3,
+        "weight": 8
       },
       {
         "type": "minecraft:llama",
@@ -209,5 +209,5 @@
   "has_precipitation": false,
   "temperature": 2.0,
   "downfall": 0.0,
-  "category": "savanna"
+  "creature_spawn_probability": 0.2
 }
