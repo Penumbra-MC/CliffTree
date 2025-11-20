@@ -70,13 +70,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_river_terracotta",
-      "minecraft:disk_gravel",
-      "clifftree:disk_sandstone"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -92,8 +88,8 @@
       "minecraft:patch_pumpkin",
       "minecraft:patch_cactus_desert"
     ],
-    [ "clifftree:extra_gold_remove",
-    "clifftree:extra_emerald_remove",
+    [ 
+    
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -113,8 +109,14 @@
       {
         "type": "minecraft:rabbit",
         "maxCount": 4,
-        "minCount": 4,
-        "weight": 20
+        "minCount": 3,
+        "weight": 9
+      },
+      {
+        "type": "minecraft:camel",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 1
       }
     ],
     "misc": [],
@@ -185,5 +187,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.07
 }

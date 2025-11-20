@@ -69,31 +69,27 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
-      "clifftree:fallen_log_birch",
       "minecraft:forest_flowers",
       "minecraft:birch_tall",
       "minecraft:flower_plains",
       "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "clifftree:mushroom_on_log"
+      "minecraft:patch_sugar_cane"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "clifftree:super_birch_branch",
       "clifftree:birch_vine_remove",
       "minecraft:freeze_top_layer"
@@ -116,25 +112,25 @@
         "type": "minecraft:sheep",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 12
+        "weight": 10
       },
       {
         "type": "minecraft:pig",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 2
       },
       {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 10
+        "weight": 4
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 4
+        "maxCount": 6,
+        "minCount": 6,
+        "weight": 10
       },
       {
         "type": "minecraft:rabbit",
@@ -205,5 +201,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.6
+  "temperature": 0.6,
+  "creature_spawn_probability": 0.15
 }

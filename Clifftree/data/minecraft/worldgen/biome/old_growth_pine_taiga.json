@@ -20,6 +20,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.old_growth_taiga"
     },
+    "music_volume": 1.0,
     "sky_color": 8434919,
     "fog_color": 15134448,
     "water_color": 3105423,
@@ -32,8 +33,7 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:forest_rock",
-      "clifftree:fallen_log_spruce"
+      "clifftree:forest_rock"
     ],
     [
       "minecraft:monster_room",
@@ -71,11 +71,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_gravel_cold"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -91,14 +89,13 @@
       "minecraft:red_mushroom_old_growth",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_berry_common",
-      "clifftree:moss_on_log"
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_berry_common"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -132,6 +129,12 @@
         "maxCount": 6,
         "minCount": 6,
         "weight": 8
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
       },
       {
         "type": "minecraft:wolf",
@@ -214,5 +217,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.4
+  "temperature": 0.4,
+  "creature_spawn_probability": 0.15
 }

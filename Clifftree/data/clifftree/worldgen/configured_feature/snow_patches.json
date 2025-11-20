@@ -189,6 +189,10 @@
               }
             ]
           }
+        },
+        {
+          "type": "heightmap",
+          "heightmap": "MOTION_BLOCKING_NO_LEAVES"
         }
       ]
     }

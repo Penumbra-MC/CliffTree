@@ -31,8 +31,7 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode",
-      "clifftree:fallen_log_spruce"
+      "minecraft:amethyst_geode"
     ],
     [
       "minecraft:monster_room",
@@ -68,11 +67,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_gravel_cold"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -87,14 +84,13 @@
       "minecraft:patch_grass_taiga_2",
       "minecraft:brown_mushroom_taiga",
       "minecraft:red_mushroom_taiga",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_berry_common",
-      "clifftree:moss_on_log"
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_berry_common"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -128,6 +124,12 @@
         "maxCount": 4,
         "minCount": 4,
         "weight": 5
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
       },
       {
         "type": "minecraft:wolf",
@@ -210,5 +212,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.375
+  "temperature": 0.375,
+  "creature_spawn_probability": 0.15
 }

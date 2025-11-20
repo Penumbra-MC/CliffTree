@@ -60,11 +60,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_river_terracotta",
-      "minecraft:disk_gravel"
+      "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -79,8 +77,7 @@
       "minecraft:seagrass_river",
       "clifftree:glow_lichen_cave_river"
     ],
-    [ "clifftree:extra_gold_remove",
-    "clifftree:extra_emerald_remove",
+    [ 
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -142,12 +139,6 @@
       }
     ],
     "creature": [
-      {
-        "type": "minecraft:armadillo",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 10
-      }
     ],
     "ambient": [
       {

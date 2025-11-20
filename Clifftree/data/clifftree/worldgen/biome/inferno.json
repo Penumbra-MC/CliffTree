@@ -36,6 +36,7 @@
     [],
     [
       "minecraft:lake_lava_underground",
+      "clifftree:lake_lava_underground_deepslate",
       "clifftree:inferno_caves_delta"
     ],
     [
@@ -64,7 +65,6 @@
       "minecraft:ore_coal_lower",
       "minecraft:ore_iron_upper",
       "minecraft:ore_iron_middle",
-      "minecraft:ore_iron_small",
       "minecraft:ore_gold",
       "minecraft:ore_gold_lower",
       "minecraft:ore_redstone",
@@ -77,9 +77,6 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
       "clifftree:spring_closed",
       "clifftree:ore_inferno_iron",
       "clifftree:tuff_noise",

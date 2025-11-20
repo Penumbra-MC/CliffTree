@@ -1,6 +1,6 @@
 {
-  "type": "minecraft:block_column",
-  "config": {
+        "type": "minecraft:block_column",
+        "config": {
     "allowed_placement": {
       "type": "minecraft:matching_blocks",
       "blocks": "minecraft:water"
@@ -59,4 +59,4 @@
     ],
     "prioritize_tip": true
   }
-}
+      }

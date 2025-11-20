@@ -22,9 +22,9 @@
     },
     "particle": {
       "options": {
-        "type": "minecraft:trial_spawner_detection_ominous"
+        "type": "minecraft:ash"
       },
-      "probability": 0.0004
+      "probability": 0.0016
     },
     "sky_color": 740477,
     "fog_color": 1052968,
@@ -73,9 +73,6 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
       "clifftree:tuff_noise",
       "clifftree:tuff_noise_ceiling",
       "clifftree:ore_gravel_deep"
@@ -95,8 +92,8 @@
       "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -71,10 +71,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "clifftree:disk_mud"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -100,8 +99,8 @@
       "minecraft:seagrass_river"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -122,13 +121,19 @@
         "type": "minecraft:pig",
         "maxCount": 5,
         "minCount": 4,
-        "weight": 10
+        "weight": 6
+      },
+      {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 4
       },
       {
         "type": "minecraft:frog",
-        "maxCount": 8,
-        "minCount": 3,
-        "weight": 5
+        "maxCount": 5,
+        "minCount": 2,
+        "weight": 10
       }
     ],
     "misc": [],
@@ -205,5 +210,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.8
+  "temperature": 0.8,
+  "creature_spawn_probability": 0.15
 }

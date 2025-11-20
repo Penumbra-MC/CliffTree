@@ -9,7 +9,6 @@
   "downfall": 0.5,
   "effects": {
     "fog_color": 11457020,
-    "grass_color": 15190639,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -23,7 +22,7 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_spires"
     ],
     [
       "minecraft:amethyst_geode",
@@ -58,16 +57,12 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_andesite"
+      "minecraft:spring_lava"
     ],
     [ 
       "clifftree:dead_coral_patch",
@@ -77,8 +72,6 @@
       "minecraft:seagrass_warm"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -103,9 +96,57 @@
     "misc": [],
     "monster": [
       {
-        "type": "minecraft:drowned",
+        "type": "minecraft:spider",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 40
+      },
+      {
+        "type": "minecraft:zombie",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 95
+      },
+      {
+        "type": "minecraft:zombie_villager",
         "maxCount": 1,
         "minCount": 1,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:skeleton",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:creeper",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:slime",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 1,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:witch",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:drowned",
+        "maxCount": 4,
+        "minCount": 2,
         "weight": 5
       }
     ],

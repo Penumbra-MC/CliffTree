@@ -16,12 +16,6 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "particle": {
-      "options": {
-        "type": "minecraft:snowflake"
-      },
-      "probability": 0.0004
-    },
     "sky_color": 10009068,
     "water_color": 8303069,
     "water_fog_color": 1319727
@@ -67,12 +61,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -84,8 +75,8 @@
       "clifftree:snow_patches_gravel"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer",
       "clifftree:remove_snow_from_ice"
     ]

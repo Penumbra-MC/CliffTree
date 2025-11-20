@@ -15,18 +15,15 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "particle": {
-      "options": {
-        "type": "minecraft:snowflake"
-      },
-      "probability": 0.0004
-    },
+    "grass_color": 10400419,
     "sky_color": 10466533,
     "water_color": 8303069,
     "water_fog_color": 1319727
   },
   "features": [
-    [],
+    [
+      "clifftree:surface_diorite"
+    ],
     [
       "minecraft:lake_lava_underground"
     ],
@@ -67,10 +64,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_gravel",
       "clifftree:shore_gravel"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -81,12 +77,9 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "clifftree:patch_grass_beach",
       "clifftree:snow_patches_gravel"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer",
       "clifftree:remove_snow_from_ice"
     ]

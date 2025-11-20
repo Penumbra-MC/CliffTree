@@ -73,12 +73,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -97,8 +94,6 @@
       "clifftree:snow_patches"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer",
       "clifftree:remove_snow_from_ice"
     ]
@@ -123,16 +118,28 @@
         "weight": 4
       },
       {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
         "type": "minecraft:cow",
-        "maxCount": 6,
-        "minCount": 6,
-        "weight": 8
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
       },
       {
         "type": "minecraft:wolf",
         "maxCount": 6,
-        "minCount": 6,
-        "weight": 8
+        "minCount": 4,
+        "weight": 6
       },
       {
         "type": "minecraft:rabbit",
@@ -142,9 +149,9 @@
       },
       {
         "type": "minecraft:fox",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 5
       }
     ],
     "misc": [],
@@ -215,5 +222,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.0
+  "temperature": 0.0,
+  "creature_spawn_probability": 0.15
 }

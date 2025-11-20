@@ -26,11 +26,9 @@
     "water_fog_color": 198922
   },
   "features": [
+    "#clifftree:alternate_terracotta",
     [
-      "clifftree:shrubland_terracotta",
-      "clifftree:shrubland_surface"
-    ],
-    [
+      "clifftree:shrubland_surface",
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
     ],
@@ -74,19 +72,15 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_river_terracotta",
-      "minecraft:disk_gravel",
-      "clifftree:disk_sandstone"
+      "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass_2",
       "clifftree:flower_shrubland",
       "clifftree:patch_grass_shrubland",
       "minecraft:patch_grass_badlands",
@@ -97,8 +91,7 @@
       "minecraft:patch_pumpkin",
       "clifftree:patch_cactus_shrubland"
     ],
-    [ "clifftree:extra_gold_remove",
-    "clifftree:extra_emerald_remove",
+    [ 
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -119,19 +112,19 @@
         "type": "minecraft:wolf",
         "maxCount": 6,
         "minCount": 6,
+        "weight": 4
+      },
+      {
+        "type": "minecraft:cow",
+        "maxCount": 6,
+        "minCount": 4,
         "weight": 8
       },
       {
-        "type": "minecraft:armadillo",
-        "maxCount": 3,
-        "minCount": 2,
-        "weight": 2
-      },
-      {
-        "type": "minecraft:rabbit",
+        "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 20
+        "weight": 4
       }
     ],
     "misc": [],
@@ -202,5 +195,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.2
 }

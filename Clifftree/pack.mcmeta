@@ -2,5 +2,13 @@
   "pack": {
     "pack_format": 48,
     "description": "§6CliffTree§f, vanilla-like worldgen overhaul!"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "deprecated",
+        "formats": [48, 48]
+      }
+    ]
   }
 }

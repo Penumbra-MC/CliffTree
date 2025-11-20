@@ -62,12 +62,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -80,8 +77,8 @@
       "minecraft:mushroom_island_vegetation",
       "clifftree:mushroom_field_patch",
       "clifftree:patch_mushroom_mud",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane",
       "clifftree:shelf_fungus",
       "clifftree:shelf_fungus_cave",
       "clifftree:island_cave_mushroom"
@@ -96,8 +93,8 @@
     "ambient": [
       {
         "type": "minecraft:bat",
-        "maxCount": 8,
-        "minCount": 8,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 10
       }
     ],
@@ -123,5 +120,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.9
+  "temperature": 0.9,
+  "creature_spawn_probability": 0.15
 }

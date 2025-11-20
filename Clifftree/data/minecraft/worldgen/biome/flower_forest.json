@@ -67,12 +67,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -82,15 +79,15 @@
       "minecraft:flower_forest_flowers",
       "minecraft:trees_flower_forest",
       "minecraft:flower_flower_forest",
-      "minecraft:patch_grass_badlands",
+      "minecraft:patch_grass_meadow",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane"
     ],
     [ 
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -114,10 +111,16 @@
         "weight": 10
       },
       {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
+      },
+      {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 5
+        "weight": 4
       },
       {
         "type": "minecraft:cow",
@@ -194,5 +197,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.7
+  "temperature": 0.7,
+  "creature_spawn_probability": 0.15
 }

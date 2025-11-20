@@ -9,8 +9,8 @@
   "downfall": 0.0,
   "effects": {
     "fog_color": 14863798,
-    "foliage_color": 8688720,
-    "grass_color": 8421963,
+    "foliage_color": 12092997,
+    "grass_color": 10189901,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -28,7 +28,7 @@
     "water_fog_color": 198666
   },
   "features": [
-    ["clifftree:badlands_terracotta"],
+    "#clifftree:badlands_terracotta",
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -71,12 +71,7 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:ore_gold_extra",
-      "minecraft:disk_sand",
-      "clifftree:disk_river_terracotta",
-      "minecraft:disk_gravel",
-      "clifftree:disk_red_sand",
-      "clifftree:disk_red_sandstone"
+      "minecraft:ore_gold_extra"
     ],
     [],
     [
@@ -85,7 +80,6 @@
     ],
     [
       "minecraft:glow_lichen",
-      "clifftree:patch_grass_red_sand",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
@@ -94,7 +88,7 @@
       "clifftree:patch_cactus_badlands"
     ],
     [ 
-    "clifftree:extra_emerald_remove",
+    
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -111,12 +105,6 @@
     ],
     "axolotls": [],
     "creature": [
-      {
-        "type": "minecraft:armadillo",
-        "maxCount": 2,
-        "minCount": 2,
-        "weight": 10
-      }
       ],
     "misc": [],
     "monster": [
@@ -186,5 +174,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.07
 }

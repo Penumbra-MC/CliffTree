@@ -21,9 +21,7 @@
     "water_fog_color": 198922
   },
   "features": [
-    [
-      "clifftree:cliff_terracotta"
-    ],
+    "#clifftree:alternate_terracotta",
     [
       "minecraft:lake_lava_underground"
     ],
@@ -63,13 +61,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_river_terracotta",
-      "minecraft:disk_gravel",
-      "clifftree:disk_sandstone",
       "clifftree:shore_sand"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -79,12 +73,9 @@
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "clifftree:patch_grass_beach"
+      "minecraft:red_mushroom_normal"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
       "minecraft:freeze_top_layer"
     ]
   ],

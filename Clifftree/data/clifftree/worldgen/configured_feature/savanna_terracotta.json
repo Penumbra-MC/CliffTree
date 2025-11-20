@@ -1,82 +1,105 @@
 {
-  "type": "minecraft:simple_random_selector",
+  "type": "minecraft:disk",
   "config": {
-    "features": [
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:light_gray_terracotta"
+        }
+      },
+      "rules": [
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:light_gray_terracotta"
-            },
-            "target": {
-              "Name": "minecraft:terracotta"
-            },
-			"radius": 12
+            }
           }
         },
-        "placement": []
-      },
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:red_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:white_terracotta"
-            },
-            "target": {
-              "Name": "minecraft:red_terracotta"
-            },
-			"radius": 12
+            }
           }
         },
-        "placement": []
-      },
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:brown_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:coarse_dirt"
-            },
-            "target": {
-              "Name": "minecraft:brown_terracotta"
-            },
-			"radius": 12
+            }
           }
         },
-        "placement": []
-      },
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:orange_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:light_gray_terracotta"
-            },
-            "target": {
-              "Name": "minecraft:orange_terracotta"
-            },
-			"radius": 12
+            }
           }
         },
-        "placement": []
-      },
-      {
-        "feature": {
-          "type": "minecraft:netherrack_replace_blobs",
-          "config": {
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:yellow_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
             "state": {
               "Name": "minecraft:white_terracotta"
-            },
-            "target": {
-              "Name": "minecraft:yellow_terracotta"
-            },
-			"radius": 12
+            }
           }
         },
-        "placement": []
-      }
-    ]
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:light_gray_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:light_gray_terracotta"
+            }
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:white_terracotta"
+          },
+          "then": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:white_terracotta"
+            }
+          }
+        }
+      ]
+    },
+    "radius": 8,
+    "half_height": 4,
+    "target": {
+      "type": "minecraft:matching_block_tag",
+      "tag": "minecraft:badlands_terracotta"
+    }
   }
 }

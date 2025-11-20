@@ -15,12 +15,6 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "particle": {
-      "options": {
-        "type": "minecraft:snowflake"
-      },
-      "probability": 0.0004
-    },
     "sky_color": 9812717,
     "water_color": 5403556,
     "water_fog_color": 2699581
@@ -28,7 +22,7 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_ravine_magma"
     ],
     [
       "minecraft:iceberg_packed",
@@ -73,21 +67,21 @@
       "minecraft:underwater_magma",
       "clifftree:shore_gravel"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_diorite"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
       "minecraft:trees_water",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "minecraft:red_mushroom_normal",
+      "clifftree:ocean_basalt"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],

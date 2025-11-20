@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "clifftree:stone_ocean"
+    "clifftree:stone_ocean",
+    "clifftree:kelp_forest"
   ]
 }

@@ -29,6 +29,7 @@
     [],
     [
       "minecraft:lake_lava_underground",
+      "clifftree:lake_lava_underground_deepslate",
       "minecraft:lake_lava_surface"
     ],
     [
@@ -69,9 +70,6 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
       "clifftree:ore_granite_extra",
       "clifftree:cave_granite",
       "clifftree:cave_granite_ceiling",

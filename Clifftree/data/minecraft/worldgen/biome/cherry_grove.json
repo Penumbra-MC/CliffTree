@@ -70,31 +70,23 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "minecraft:ore_emerald"
+      "minecraft:underwater_magma"
     ],
-    [
-      "minecraft:ore_infested"
-    ],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
     ],
     [
-      "clifftree:fallen_log_cherry",
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
       "minecraft:flower_cherry",
       "minecraft:trees_cherry",
       "clifftree:flower_pink_tulip",
-      "clifftree:cherry_snow",
-      "clifftree:flower_cherry_snow"
+      "clifftree:cherry_snow"
     ],
-    [ "clifftree:extra_gold_remove",
+    [ 
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -204,5 +196,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.5
+  "temperature": 0.5,
+  "creature_spawn_probability": 0.15
 }

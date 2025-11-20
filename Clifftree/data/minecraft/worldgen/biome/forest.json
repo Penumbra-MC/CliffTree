@@ -8,7 +8,7 @@
   },
   "downfall": 0.8,
   "effects": {
-    "fog_color": 10868479,
+    "fog_color": 10077425,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -69,11 +69,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -86,14 +84,14 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane",
       "clifftree:grass_skylight",
       "clifftree:forest_fern"
     ],
     [ 
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -130,8 +128,8 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 6,
+        "minCount": 6,
         "weight": 10
       },
       {
@@ -209,5 +207,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.7
+  "temperature": 0.7,
+  "creature_spawn_probability": 0.15
 }

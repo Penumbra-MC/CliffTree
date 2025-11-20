@@ -26,12 +26,7 @@
     "water_color": 8303069,
     "water_fog_color": 1319727
   },
-  "particle": {
-    "options": {
-      "type": "minecraft:snowflake"
-    },
     "probability": 0.0006
-  },
   "features": [
     [],
     [
@@ -73,16 +68,11 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel",
       "clifftree:disk_snowy_podzol",
       "minecraft:ore_emerald",
       "clifftree:ice_to_snow"
     ],
-    [
-      "minecraft:ore_infested"
-    ],
+    "#clifftree:infested_mountain",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
@@ -96,7 +86,7 @@
       "clifftree:snow_patches"
     ],
     [
-      "clifftree:extra_gold_remove",
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -201,5 +191,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": -0.2
+  "temperature": -0.2,
+  "creature_spawn_probability": 0.15
 }

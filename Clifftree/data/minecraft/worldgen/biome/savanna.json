@@ -19,7 +19,7 @@
     "water_color": 2916255,
     "water_fog_color": 198666,
     "grass_color": 13547342,
-    "foliage_color": 9018678
+    "foliage_color": 10398787
   },
   "features": [
     [],
@@ -62,11 +62,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -79,12 +77,12 @@
       "minecraft:patch_grass_savanna",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],
@@ -102,12 +100,6 @@
     "axolotls": [],
     "creature": [
       {
-        "type": "minecraft:pig",
-        "maxCount": 2,
-        "minCount": 2,
-        "weight": 1
-      },
-      {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,
@@ -115,9 +107,21 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 8,
+        "maxCount": 6,
         "minCount": 6,
         "weight": 12
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:sheep",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 2
       },
       {
         "type": "minecraft:horse",
@@ -130,12 +134,6 @@
         "maxCount": 1,
         "minCount": 1,
         "weight": 1
-      },
-      {
-        "type": "minecraft:armadillo",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 12
       }
     ],
     "misc": [],
@@ -200,5 +198,6 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.2
 }

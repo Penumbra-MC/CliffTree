@@ -9,7 +9,6 @@
   "downfall": 0.4,
   "effects": {
     "fog_color": 11457020,
-    "grass_color": 15190639,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -61,10 +60,9 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_gravel"
+      "minecraft:disk_clay"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -75,13 +73,12 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "clifftree:patch_grass_beach",
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_river"
     ],
     [ 
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
       "minecraft:freeze_top_layer"
     ]
   ],

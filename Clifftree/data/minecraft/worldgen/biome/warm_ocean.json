@@ -9,7 +9,6 @@
   "downfall": 0.5,
   "effects": {
     "fog_color": 11719640,
-    "grass_color": 15190639,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2.0,
@@ -18,12 +17,14 @@
     },
     "sky_color": 4962274,
     "water_color": 33168,
-    "water_fog_color": 928299
+    "water_fog_color": 1460811
   },
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "clifftree:ocean_ravine_magma",
+      "clifftree:ocean_arch",
+      "clifftree:ocean_rocks"
     ],
     [
       "minecraft:amethyst_geode"
@@ -63,11 +64,10 @@
       "minecraft:underwater_magma",
       "clifftree:ocean_shore_sand"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "clifftree:ocean_rock_coral"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
@@ -76,15 +76,19 @@
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "clifftree:patch_grass_beach",
+      "clifftree:coral_crust",
+      "clifftree:coral_outcropping",
       "minecraft:warm_ocean_vegetation",
-      "clifftree:warm_ocean_vegetation_extra",
       "minecraft:seagrass_warm",
-      "minecraft:sea_pickle"
+      "minecraft:sea_pickle",
+      "clifftree:kelp_sparse",
+      "clifftree:tall_seagrass_rock"
     ],
     [
-      "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+      
+      
+      "clifftree:coral_color",
+      "clifftree:coral_color_wall",
       "minecraft:freeze_top_layer"
     ]
   ],

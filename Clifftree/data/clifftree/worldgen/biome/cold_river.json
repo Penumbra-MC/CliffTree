@@ -59,11 +59,9 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "clifftree:disk_gravel_cold"
+      "minecraft:underwater_magma"
     ],
-    [],
+    "#clifftree:extra_gold_remove",
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -80,8 +78,7 @@
       "minecraft:seagrass_river",
       "clifftree:glow_lichen_cave_river"
     ],
-    [ "clifftree:extra_gold_remove",
-      "clifftree:extra_emerald_remove",
+    [
       "minecraft:freeze_top_layer"
     ]
   ],

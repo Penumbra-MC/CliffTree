@@ -4,11 +4,11 @@
     "default": "minecraft:oak",
     "features": [
       {
-        "chance": 0.25,
+        "chance": 0.0,
         "feature": "minecraft:spruce_checked"
       },
       {
-        "chance": 0.75,
+        "chance": 1.0,
         "feature": "minecraft:oak"
       }
     ]
