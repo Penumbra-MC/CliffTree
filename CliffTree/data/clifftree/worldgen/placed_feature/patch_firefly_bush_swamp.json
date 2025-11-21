@@ -2,8 +2,8 @@
   "feature": "clifftree:patch_firefly_bush",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 2
+      "type": "minecraft:rarity_filter",
+      "chance": 8
     },
     {
       "type": "minecraft:in_square"
