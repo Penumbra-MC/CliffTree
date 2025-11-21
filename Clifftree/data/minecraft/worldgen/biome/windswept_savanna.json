@@ -104,6 +104,12 @@
         "weight": 12
       },
       {
+        "type": "minecraft:armadillo",
+        "maxCount": 3,
+        "minCount": 3,
+        "weight": 6
+      },
+      {
         "type": "minecraft:chicken",
         "maxCount": 4,
         "minCount": 4,

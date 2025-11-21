@@ -117,6 +117,18 @@
                       "data": {
                         "Name": "minecraft:air"
                       }
+                    },
+                    {
+                      "weight": 1,
+                      "data": {
+                        "Name": "minecraft:short_dry_grass"
+                      }
+                    },
+                    {
+                      "weight": 1,
+                      "data": {
+                        "Name": "minecraft:tall_dry_grass"
+                      }
                     }
                   ]
                 }

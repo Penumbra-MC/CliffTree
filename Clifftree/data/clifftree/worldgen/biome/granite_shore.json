@@ -74,7 +74,8 @@
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal"
+      "minecraft:red_mushroom_normal",
+      "clifftree:patch_dry_grass_beach"
     ],
     [
       "minecraft:freeze_top_layer"

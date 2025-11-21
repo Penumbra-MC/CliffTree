@@ -76,7 +76,8 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
-      "minecraft:seagrass_river"
+      "minecraft:seagrass_river",
+      "clifftree:patch_dry_grass_beach"
     ],
     [ 
       "minecraft:freeze_top_layer"

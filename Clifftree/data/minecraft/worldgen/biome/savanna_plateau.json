@@ -168,6 +168,12 @@
         "maxCount": 6
       },
       {
+        "type": "minecraft:armadillo",
+        "maxCount": 3,
+        "minCount": 3,
+        "weight": 8
+      },
+      {
         "type": "minecraft:llama",
         "weight": 12,
         "minCount": 4,

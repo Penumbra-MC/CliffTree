@@ -85,7 +85,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_badlands",
       "minecraft:patch_pumpkin",
-      "clifftree:patch_cactus_badlands"
+      "clifftree:patch_cactus_badlands",
+      "clifftree:patch_bush_badlands"
     ],
     [ 
     
@@ -105,6 +106,12 @@
     ],
     "axolotls": [],
     "creature": [
+    {
+      "type": "minecraft:armadillo",
+      "maxCount": 2,
+      "minCount": 2,
+      "weight": 10
+    }
     ],
     "misc": [],
     "monster": [

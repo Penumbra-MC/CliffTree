@@ -29,7 +29,8 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:hill_rock"
+      "clifftree:hill_rock",
+      "clifftree:fallen_log_windswept"
     ],
     [
       "minecraft:monster_room",

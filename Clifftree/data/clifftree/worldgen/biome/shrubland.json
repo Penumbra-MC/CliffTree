@@ -89,7 +89,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
-      "clifftree:patch_cactus_shrubland"
+      "clifftree:patch_cactus_shrubland",
+      "clifftree:patch_bush_shrubland"
     ],
     [ 
       "minecraft:freeze_top_layer"

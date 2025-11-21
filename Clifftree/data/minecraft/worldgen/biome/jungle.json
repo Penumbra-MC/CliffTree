@@ -33,7 +33,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "clifftree:fallen_log_jungle"
     ],
     [
       "minecraft:monster_room",
@@ -95,7 +96,8 @@
       "minecraft:vines",
       "minecraft:patch_melon",
       "clifftree:cocoa_age",
-      "clifftree:grass_skylight"
+      "clifftree:grass_skylight",
+      "clifftree:patch_bush_jungle"
     ],
     [
       

@@ -31,7 +31,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "clifftree:fallen_log_spruce_moss"
     ],
     [
       "minecraft:monster_room",

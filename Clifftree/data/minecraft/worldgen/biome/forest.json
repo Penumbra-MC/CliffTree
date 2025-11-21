@@ -21,7 +21,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.forest"
     },
-    "sky_color": 5741542,
+    "sky_color": 6073571,
     "grass_color": 7909971,
     "water_color": 417950,
     "water_fog_color": 198410
@@ -32,7 +32,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "clifftree:fallen_log_oak"
     ],
     [
       "minecraft:monster_room",
