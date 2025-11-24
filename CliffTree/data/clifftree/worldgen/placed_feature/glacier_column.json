@@ -9,7 +9,7 @@
       "type": "minecraft:block_predicate_filter",
       "predicate": {
         "type": "minecraft:matching_blocks",
-        "blocks": "minecraft:packed_ice",
+        "blocks": "minecraft:blue_ice",
         "offset": [
           0,
           -1,
