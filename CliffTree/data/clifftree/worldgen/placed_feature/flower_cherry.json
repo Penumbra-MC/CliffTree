@@ -1,13 +1,11 @@
 {
-  "feature": "minecraft:wildflowers_birch_forest",
+  "feature": "minecraft:flower_cherry",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 2
-    },
-    {
-      "type": "minecraft:rarity_filter",
-      "chance": 2
+      "type": "minecraft:noise_threshold_count",
+      "above_noise": 3,
+      "below_noise": 1,
+      "noise_level": -0.8
     },
     {
       "type": "minecraft:in_square"

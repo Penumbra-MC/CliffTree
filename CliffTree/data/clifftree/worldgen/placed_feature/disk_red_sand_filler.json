@@ -1,9 +1,9 @@
 {
-  "feature": "clifftree:patch_grass_red_sand",
+  "feature": "clifftree:disk_red_sand_filler",
   "placement": [
     {
-      "type": "minecraft:rarity_filter",
-      "chance": 2
+      "type": "minecraft:count",
+      "count": 40
     },
     {
       "type": "minecraft:in_square"

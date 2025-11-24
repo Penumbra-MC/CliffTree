@@ -27,50 +27,6 @@
         },
         {
           "data": {
-            "Name": "minecraft:small_dripleaf",
-            "Properties": {
-              "facing": "east",
-              "half": "lower",
-              "waterlogged": "false"
-            }
-          },
-          "weight": 6
-        },
-        {
-          "data": {
-            "Name": "minecraft:small_dripleaf",
-            "Properties": {
-              "facing": "west",
-              "half": "lower",
-              "waterlogged": "false"
-            }
-          },
-          "weight": 6
-        },
-        {
-          "data": {
-            "Name": "minecraft:small_dripleaf",
-            "Properties": {
-              "facing": "north",
-              "half": "lower",
-              "waterlogged": "false"
-            }
-          },
-          "weight": 6
-        },
-        {
-          "data": {
-            "Name": "minecraft:small_dripleaf",
-            "Properties": {
-              "facing": "south",
-              "half": "lower",
-              "waterlogged": "false"
-            }
-          },
-          "weight": 6
-        },
-        {
-          "data": {
             "Name": "minecraft:azalea"
           },
           "weight": 12

@@ -129,8 +129,8 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 6,
-        "minCount": 6,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 8
       },
       {
@@ -209,5 +209,5 @@
     "water_creature": []
   },
   "temperature": 0.7,
-  "creature_spawn_probability": 0.2
+  "creature_spawn_probability": 0.15
 }
