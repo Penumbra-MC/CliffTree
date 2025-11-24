@@ -1,10 +1,9 @@
 {
   "values": [
-    "minecraft:snowy_taiga",
-    "clifftree:snowy_old_growth_taiga",
     "minecraft:snowy_plains",
     "minecraft:frozen_river",
     "clifftree:bog",
-    "clifftree:tundra"
+    "clifftree:tundra",
+    "#clifftree:snowy_taigas"
   ]
 }
