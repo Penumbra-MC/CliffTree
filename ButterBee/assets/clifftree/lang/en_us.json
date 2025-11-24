@@ -1,0 +1,11 @@
+{
+  "enchantment.clifftree.incubation_curse": "Curse of Incubation",
+  "item.clifftree.amber_egg": "Amber Egg",
+  "item.clifftree.black_egg": "Black Egg",
+  "item.clifftree.gray_egg": "Gray Egg",
+  "item.clifftree.pale_egg": "Pale Egg",
+  "item.clifftree.red_egg": "Red Egg",
+  "item.clifftree.teal_egg": "Teal Egg",
+  "clifftree.advancements.husbandry.get_all_eggs.title": "Not Too Unimportant",
+  "clifftree.advancements.husbandry.get_all_eggs.description": "Hold every type of Chicken Egg in your inventory"
+}

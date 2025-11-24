@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "particle": "clifftree:item/particle/gray_egg",
+      "layer0": "clifftree:item/gray_egg"
+    }
+}

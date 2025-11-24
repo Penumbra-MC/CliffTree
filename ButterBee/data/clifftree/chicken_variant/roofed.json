@@ -1,0 +1,13 @@
+{
+  "model": "cold",
+  "asset_id": "clifftree:entity/chicken/roofed_chicken",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:chicken/spawns_roofed_chicken"
+      },
+      "priority": 2
+    }
+  ]
+}

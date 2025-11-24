@@ -1,0 +1,13 @@
+{
+  "model": "cold",
+  "asset_id": "clifftree:entity/cow/chilly_cow",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:cow/spawns_chilly_cow"
+      },
+      "priority": 2
+    }
+  ]
+}

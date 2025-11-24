@@ -1,0 +1,6 @@
+{
+      "angry_texture": "clifftree:entity/wolf/wolf_charcoal_angry",
+      "tame_texture": "clifftree:entity/wolf/wolf_charcoal_tame",
+      "wild_texture": "clifftree:entity/wolf/wolf_charcoal",
+      "biomes": "#clifftree:wolf/spawns_charcoal_wolf"
+}
