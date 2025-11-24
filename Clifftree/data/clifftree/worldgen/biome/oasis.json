@@ -5,38 +5,33 @@
     "minecraft:canyon"
   ],
   "downfall": 0.0,
-  "effects": {
-    "fog_color": 13098953,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "music": [
-      {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.overworld.desert"
-        },
-        "weight": 1
+  "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.desert"
       }
-    ],
-    "music_volume": 1.0,
-    "sky_color": 8109009,
-    "water_color": 4632228,
-    "water_fog_color": 198922,
-    "grass_color": 8503872,
-    "foliage_color": 8175394
+    },
+    "minecraft:visual/sky_color": "#7BBBD1",
+    "minecraft:visual/fog_color": "#C7DFC9",
+    "minecraft:visual/water_fog_color": "#03080A",
+    "minecraft:visual/fog_start_distance": -32,
+    "minecraft:visual/fog_end_distance": 768,
+    "minecraft:visual/sky_light_color": "#fffcfb",
+    "minecraft:visual/cloud_color": "#E6F5FFE6"
+  },
+  "effects": {
+    "water_color": "#46AEA4",
+    "grass_color": "#81C240",
+    "foliage_color": "#7CBF22"
   },
   "features": [
     "#clifftree:alternate_terracotta",
     [
       "clifftree:oasis_surface",
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface",
       "clifftree:oasis_water"
     ],
     [
@@ -182,9 +177,15 @@
       },
       {
         "type": "minecraft:skeleton",
-        "weight": 80,
-        "minCount": 2,
-        "maxCount": 4
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 20
+      },
+      {
+        "type": "minecraft:parched",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 80
       },
       {
         "type": "minecraft:creeper",
@@ -235,5 +236,6 @@
     ],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2.0,
+  "creature_spawn_probability": 0.3
 }

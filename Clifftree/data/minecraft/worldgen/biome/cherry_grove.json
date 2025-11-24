@@ -86,10 +86,11 @@
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
-      "minecraft:flower_cherry",
-      "minecraft:trees_cherry",
+      "clifftree:flower_cherry",
+      "clifftree:trees_cherry",
       "clifftree:flower_pink_tulip",
-      "clifftree:cherry_snow"
+      "clifftree:cherry_snow",
+      "clifftree:grass_skylight"
     ],
     [ 
       "minecraft:freeze_top_layer"

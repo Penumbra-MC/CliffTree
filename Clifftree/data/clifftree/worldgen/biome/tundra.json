@@ -4,7 +4,7 @@
     "minecraft:cave_extra_underground",
     "minecraft:canyon"
   ],
-  "creature_spawn_probability": 0.2,
+  "creature_spawn_probability": 0.15,
   "downfall": 0.5,
   "effects": {
     "fog_color": 15134448,

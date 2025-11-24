@@ -82,13 +82,15 @@
       "minecraft:glow_lichen",
       "minecraft:flower_forest_flowers",
       "clifftree:wildflowers_flower_forest",
+      "clifftree:pink_petals_flower_forest",
       "minecraft:trees_flower_forest",
-      "minecraft:flower_flower_forest",
+      "clifftree:flower_flower_forest",
       "minecraft:patch_grass_meadow",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_sugar_cane"
+      "minecraft:patch_sugar_cane",
+      "clifftree:grass_skylight"
     ],
     [ 
       
