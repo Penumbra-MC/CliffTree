@@ -30,7 +30,8 @@
   "features": [
     "#clifftree:badlands_terracotta",
     [
-      "minecraft:lake_lava_underground"
+      "minecraft:lake_lava_underground",
+      "clifftree:disk_red_sand_filler"
     ],
     [
       "minecraft:amethyst_geode"
@@ -124,8 +125,8 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 6,
-        "minCount": 6,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 6
       },
       {

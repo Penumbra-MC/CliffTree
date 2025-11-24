@@ -31,7 +31,8 @@
     "#clifftree:badlands_terracotta",
     [
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
+      "minecraft:lake_lava_surface",
+      "clifftree:disk_red_sand_filler"
     ],
     [
       "minecraft:amethyst_geode"

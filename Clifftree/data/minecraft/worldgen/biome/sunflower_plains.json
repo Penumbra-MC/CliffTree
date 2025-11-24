@@ -11,7 +11,8 @@
     "minecraft:visual/water_fog_color": "#03070A"
   },
   "effects": {
-    "water_color": "#2D86BC"
+    "water_color": "#2D86BC",
+    "grass_color": "#B6DB61"
   },
   "features": [
     [],
@@ -110,8 +111,8 @@
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 6,
-        "minCount": 6,
+        "maxCount": 4,
+        "minCount": 4,
         "weight": 8
       },
       {
@@ -190,5 +191,5 @@
     "water_creature": []
   },
   "temperature": 0.8,
-  "creature_spawn_probability": 0.2
+  "creature_spawn_probability": 0.15
 }

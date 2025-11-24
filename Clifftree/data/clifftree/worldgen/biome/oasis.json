@@ -32,7 +32,6 @@
     [
       "clifftree:oasis_surface",
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface",
       "clifftree:oasis_water"
     ],
     [
@@ -238,5 +237,5 @@
     "water_creature": []
   },
   "temperature": 2.0,
-  "creature_spawn_probability": 0.4
+  "creature_spawn_probability": 0.3
 }
