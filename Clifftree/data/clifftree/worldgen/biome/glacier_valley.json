@@ -30,7 +30,8 @@
     "#clifftree:cold_terracotta",
     [
       "clifftree:glacier_surface",
-      "minecraft:lake_lava_underground"
+      "minecraft:lake_lava_underground",
+      "clifftree:disk_glacier_snow"
     ],
     [
       "minecraft:amethyst_geode"

@@ -7,7 +7,7 @@
       "fallback": {
         "type": "minecraft:simple_state_provider",
         "state": {
-          "Name": "minecraft:packed_ice"
+          "Name": "minecraft:blue_ice"
         }
       },
       "rules": [
@@ -22,7 +22,7 @@
                   -7,
                   0
                 ],
-                "blocks": "minecraft:packed_ice"
+                "blocks": "minecraft:blue_ice"
               },
               {
                 "type": "minecraft:matching_blocks",
@@ -46,7 +46,7 @@
     },
     "target": {
       "type": "minecraft:matching_blocks",
-      "blocks": "minecraft:packed_ice"
+      "blocks": "minecraft:blue_ice"
     }
   }
 }
