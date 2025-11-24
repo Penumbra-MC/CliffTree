@@ -1,0 +1,12 @@
+{
+  "asset_id": "clifftree:entity/nautilus/zombie_nautilus_petrified",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:zombie_nautilus/spawns_petrified_zombie_nautilus"
+      },
+      "priority": 2
+    }
+  ]
+}

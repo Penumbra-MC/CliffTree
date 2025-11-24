@@ -1,0 +1,13 @@
+{
+  "asset_id": "clifftree:entity/pig/bog_pig",
+  "model": "cold",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:pig/spawns_bog_pig"
+      },
+      "priority": 2
+    }
+  ]
+}

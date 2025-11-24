@@ -1,0 +1,12 @@
+{
+ "asset_id": "clifftree:entity/cow/soot_cow",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:cow/spawns_soot_cow"
+      },
+      "priority": 1
+    }
+  ]
+}

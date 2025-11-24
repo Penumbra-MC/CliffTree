@@ -1,0 +1,13 @@
+{
+  "model": "cold",
+  "asset_id": "clifftree:entity/chicken/nether_chicken",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:chicken/spawns_nether_chicken"
+      },
+      "priority": 3
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+              "type": "minecraft:item",
+              "name": "minecraft:egg",
+              "functions": [
+                {
+                  "function": "minecraft:set_components",
+                  "components": {
+                    "minecraft:item_name": {
+                      "translate": "item.clifftree.black_egg",
+                      "fallback": "Black Egg",
+                      "color": "white"
+                    },
+                    "minecraft:chicken/variant": "clifftree:roofed"
+                  }
+                }
+              ]
+            }
+      ]
+    }
+  ]
+}
