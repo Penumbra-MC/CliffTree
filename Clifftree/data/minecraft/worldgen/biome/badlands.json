@@ -138,13 +138,13 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 40
+        "weight": 55
       },
       {
         "type": "minecraft:parched",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 40
+        "weight": 25
       },
       {
         "type": "minecraft:creeper",
