@@ -30,7 +30,7 @@
     [
       "clifftree:shrubland_surface",
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
+      "clifftree:lake_lava_surface_sandstone"
     ],
     [
       "minecraft:amethyst_geode"

@@ -31,7 +31,7 @@
     "#clifftree:badlands_terracotta",
     [
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface",
+      "clifftree:lake_lava_surface_red_sandstone",
       "clifftree:disk_red_sand_filler"
     ],
     [
