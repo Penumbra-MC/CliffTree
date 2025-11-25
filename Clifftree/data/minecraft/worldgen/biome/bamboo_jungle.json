@@ -91,8 +91,8 @@
       "minecraft:patch_sugar_cane",
       "minecraft:vines",
       "minecraft:patch_melon",
-      "clifftree:cocoa_age",
-      "clifftree:patch_bush_jungle"
+      "clifftree:patch_bush_jungle",
+      "clifftree:jungle_mushroom"
     ],
     [ 
     
@@ -167,7 +167,13 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 80
+        "weight": 70
+      },
+      {
+        "type": "minecraft:bogged",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
       },
       {
         "type": "minecraft:creeper",

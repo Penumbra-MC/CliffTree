@@ -91,7 +91,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
       "minecraft:patch_pumpkin",
-      "clifftree:patch_cactus_oasis"
+      "clifftree:patch_cactus_oasis",
+      "clifftree:patch_firefly_bush_skylight_near_water"
     ],
     [
       "minecraft:freeze_top_layer"
