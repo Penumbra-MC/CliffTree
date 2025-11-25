@@ -35,7 +35,8 @@
       "minecraft:lake_lava_underground"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "clifftree:flower_forest_pool"
     ],
     [
       "minecraft:monster_room",
@@ -90,7 +91,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
       "minecraft:patch_sugar_cane",
-      "clifftree:grass_skylight"
+      "clifftree:grass_skylight",
+      "clifftree:patch_firefly_bush_skylight_near_water"
     ],
     [ 
       
