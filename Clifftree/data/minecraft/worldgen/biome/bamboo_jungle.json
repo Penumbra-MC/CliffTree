@@ -34,7 +34,8 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava_underground"
+      "minecraft:lake_lava_underground",
+      "clifftree:mud_water"
     ],
     [
       "minecraft:amethyst_geode"
@@ -170,13 +171,13 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 55
+        "weight": 40
       },
       {
         "type": "minecraft:bogged",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 25
+        "weight": 40
       },
       {
         "type": "minecraft:creeper",
