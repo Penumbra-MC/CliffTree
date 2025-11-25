@@ -21,7 +21,8 @@
   "features": [
     "#clifftree:alternate_terracotta",
     [
-      "minecraft:lake_lava_underground"
+      "minecraft:lake_lava_underground",
+      "clifftree:lake_lava_surface_sandstone"
     ],
     [
       "minecraft:amethyst_geode"
