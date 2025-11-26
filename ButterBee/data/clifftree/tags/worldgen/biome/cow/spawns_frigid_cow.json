@@ -1,6 +1,6 @@
 {
   "values": [
     "minecraft:snowy_plains",
-    "clifftree:glacier_valley"
+    {"id":"clifftree:glacier_valley","required":false}
   ]
 }

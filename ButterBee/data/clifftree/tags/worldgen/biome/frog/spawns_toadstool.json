@@ -1,6 +1,6 @@
 {
   "values": [
     "minecraft:mushroom_fields",
-    "clifftree:mushroom_caves"
+    {"id":"clifftree:mushroom_caves","required":false}
   ]
 }

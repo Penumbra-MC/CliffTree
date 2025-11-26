@@ -1,6 +1,6 @@
 {
   "values": [
-    "clifftree:snowy_old_growth_taiga",
+    {"id":"clifftree:snowy_old_growth_taiga","required":false},
     "minecraft:snowy_taiga"
   ]
 }
