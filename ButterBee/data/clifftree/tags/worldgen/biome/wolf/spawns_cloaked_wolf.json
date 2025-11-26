@@ -1,5 +1,5 @@
 {
   "values": [
-    "clifftree:coniferous_badlands"
+    {"id":"clifftree:coniferous_badlands","required":false}
   ]
 }

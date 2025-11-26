@@ -1,5 +1,5 @@
 {
   "values": [
-    "clifftree:stone_ocean"
+    {"id":"clifftree:stone_ocean","required":false}
   ]
 }

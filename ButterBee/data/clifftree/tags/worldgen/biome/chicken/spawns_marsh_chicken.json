@@ -2,6 +2,6 @@
   "values": [
     "minecraft:swamp",
     "minecraft:mangrove_swamp",
-    "clifftree:kelp_forest"
+    {"id":"clifftree:kelp_forest","required":false}
   ]
 }
