@@ -12,7 +12,7 @@
   "effects": {
     "water_color": "#00818A",
     "grass_color": "#5EC541",
-    "foliage_color": "#37B613"
+    "foliage_color": "#4b9e17"
   },
   "carvers": [
     "minecraft:cave",
