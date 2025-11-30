@@ -1,6 +1,16 @@
 {
-      "angry_texture": "clifftree:entity/wolf/wolf_cloaked_angry",
-      "tame_texture": "clifftree:entity/wolf/wolf_cloaked_tame",
-      "wild_texture": "clifftree:entity/wolf/wolf_cloaked",
-      "biomes": "#clifftree:wolf/spawns_cloaked_wolf"
-}
+    "assets": {
+      "angry": "clifftree:entity/wolf/wolf_cloaked_angry",
+      "tame": "clifftree:entity/wolf/wolf_cloaked_tame",
+      "wild": "clifftree:entity/wolf/wolf_cloaked"
+    },
+    "spawn_conditions": [
+      {
+        "condition": {
+          "type": "minecraft:biome",
+          "biomes": "#clifftree:wolf/spawns_cloaked_wolf"
+        },
+        "priority": 2
+      }
+    ]
+  }
