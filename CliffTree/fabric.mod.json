@@ -1,0 +1,32 @@
+{
+    "schemaVersion": 1,
+    "id": "clifftree",
+    "version": "3.1.0",
+    "name": "CliffTree",
+    "description": "A vanilla-styled worldgen overhaul, with new biomes and touches to existing ones",
+    "authors": [
+        {
+            "name": "Konci"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "lunarbunten"
+        },
+        {
+            "name": "Apollo"
+        }
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/datapack/clifftree"
+    },
+    "license": "CC-BY-NC-SA-4.0",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+        "fabric-resource-loader-v0": "*",
+		"minecraft": "1.21.1",
+		"lithostitched": ">=1.5.2",
+        "vanillabackport": ">=1.1.5.1"
+    }
+}
