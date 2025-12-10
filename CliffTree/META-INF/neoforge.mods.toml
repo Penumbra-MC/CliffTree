@@ -1,0 +1,30 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "CC-BY-NC-SA-4.0"
+
+[[dependencies.clifftree]]
+modId = "neoforge"
+type = "required"
+mandatory = true
+versionRange = "[1,)"
+
+[[dependencies.clifftree]]
+modId = "lithostitched"
+mandatory = true
+type = "required"
+versionRange = "[1.5.2,)"
+
+[[dependencies.clifftree]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.9,)"
+
+[[mods]]
+modId = "clifftree"
+version = "3.1.0"
+displayName = "CliffTree"
+description = "A vanilla-styled worldgen overhaul, with new biomes and touches to existing ones"
+logoFile = "pack.png"
+displayURL = "https://modrinth.com/project/clifftree"
+credits = "Contributors: lunarbunten, Apollo"
+authors = "Konci"

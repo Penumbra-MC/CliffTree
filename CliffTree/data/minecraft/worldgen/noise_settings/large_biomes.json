@@ -270,7 +270,7 @@
     "depth": "minecraft:overworld_large_biomes/depth",
     "erosion": "minecraft:overworld_large_biomes/erosion",
     "ridges": "minecraft:overworld/ridges",
-    "initial_density_without_jaggedness": {
+    "preliminary_surface_level": {
       "argument1": 0.1171875,
       "argument2": {
         "argument1": {

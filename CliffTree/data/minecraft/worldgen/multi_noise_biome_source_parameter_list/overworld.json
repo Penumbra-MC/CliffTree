@@ -1,26 +1,7 @@
 {
-    "neoforge:conditions": [
-    {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "lithostitched"
-      }
-    }
-  ],
-  "fabric:load_conditions": {
-    "condition": "fabric:not",
-    "value": {
-      "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lithostitched"
-      ]
-    }
-  },
-  "type": "minecraft:overworld",
-  "generator": {
-    "biome_source": {
-      "biomes": [
+  "preset": "minecraft:overworld",
+  "lithostitched:migration_biome": "clifftree:inferno",
+  "lithostitched:biomes": [
         {
           "parameters": {
             "weirdness": [
@@ -52011,10 +51992,5 @@
           },
           "biome": "clifftree:inferno"
         }
-      ],
-      "type": "minecraft:multi_noise"
-    },
-    "settings": "minecraft:overworld",
-    "type": "minecraft:noise"
-  }
+      ]
 }
