@@ -1,20 +1,19 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:filled_map",
+      "id": "minecraft:diamond_boots",
       "count": 1
     },
     "title": {
-      "translate": "clifftree.advancements.adventure.adventuring_time.title",
-      "fallback": "Adventuring Time"
+      "translate": "minecraft.advancements.adventure.adventuring_time.title"
     },
     "description": {
-      "translate": "clifftree.advancements.adventure.adventuring_time.description",
-      "fallback": "Explore the world, discover biomes!"
+      "translate": "minecraft.advancements.adventure.adventuring_time.description"
     },
-    "frame": "challenge"
+    "frame": "challenge",
+    "hidden": false
   },
-  "parent": "clifftree:adventure/clifftree",
+  "parent": "minecraft:adventure/sleep_in_bed",
   "criteria": {
     "minecraft:pale_garden": {
       "trigger": "minecraft:location",
@@ -41,7 +40,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:dry_badlands"
+                "biomes": "minecraft:badlands"
               }
             }
           }
@@ -73,7 +72,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#minecraft:is_beach"
+                "biomes": "minecraft:beach"
               }
             }
           }
@@ -89,7 +88,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:birch_forests"
+                "biomes": "minecraft:birch_forest"
               }
             }
           }
@@ -121,7 +120,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:ocean_cold"
+                "biomes": "minecraft:cold_ocean"
               }
             }
           }
@@ -144,6 +143,22 @@
         ]
       }
     },
+    "minecraft:deep_cold_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:deep_cold_ocean"
+              }
+            }
+          }
+        ]
+      }
+    },
     "minecraft:deep_dark": {
       "trigger": "minecraft:location",
       "conditions": {
@@ -154,6 +169,54 @@
             "predicate": {
               "location": {
                 "biomes": "minecraft:deep_dark"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:deep_frozen_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:deep_frozen_ocean"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:deep_lukewarm_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:deep_lukewarm_ocean"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:deep_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:deep_ocean"
               }
             }
           }
@@ -186,6 +249,22 @@
             "predicate": {
               "location": {
                 "biomes": "minecraft:dripstone_caves"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:eroded_badlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:eroded_badlands"
               }
             }
           }
@@ -233,7 +312,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:ocean_frozen"
+                "biomes": "minecraft:frozen_ocean"
               }
             }
           }
@@ -250,6 +329,22 @@
             "predicate": {
               "location": {
                 "biomes": "minecraft:frozen_peaks"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:frozen_river": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:frozen_river"
               }
             }
           }
@@ -329,7 +424,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:ocean_lukewarm"
+                "biomes": "minecraft:lukewarm_ocean"
               }
             }
           }
@@ -393,7 +488,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:is_mushroom_island"
+                "biomes": "minecraft:mushroom_fields"
               }
             }
           }
@@ -409,7 +504,23 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:ocean"
+                "biomes": "minecraft:ocean"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:old_growth_birch_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:old_growth_birch_forest"
               }
             }
           }
@@ -425,7 +536,23 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:old_growth_taigas"
+                "biomes": "minecraft:old_growth_pine_taiga"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:old_growth_spruce_taiga": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:old_growth_spruce_taiga"
               }
             }
           }
@@ -457,7 +584,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#minecraft:is_river"
+                "biomes": "minecraft:river"
               }
             }
           }
@@ -496,6 +623,22 @@
         ]
       }
     },
+    "minecraft:snowy_beach": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:snowy_beach"
+              }
+            }
+          }
+        ]
+      }
+    },
     "minecraft:snowy_plains": {
       "trigger": "minecraft:location",
       "conditions": {
@@ -521,10 +664,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": [
-                  "minecraft:snowy_slopes",
-                  "clifftree:glacier_valley"
-                ]
+                "biomes": "minecraft:snowy_slopes"
               }
             }
           }
@@ -588,7 +728,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:is_cliff"
+                "biomes": "minecraft:stony_shore"
               }
             }
           }
@@ -668,7 +808,39 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#minecraft:is_hill"
+                "biomes": "minecraft:windswept_forest"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:windswept_gravelly_hills": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:windswept_gravelly_hills"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:windswept_hills": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:windswept_hills"
               }
             }
           }
@@ -700,10 +872,39 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": [
-                  "minecraft:wooded_badlands",
-                  "clifftree:coniferous_badlands"
-                ]
+                "biomes": "minecraft:wooded_badlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:coniferous_badlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:coniferous_badlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:warm_river": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:warm_river"
               }
             }
           }
@@ -736,6 +937,38 @@
             "predicate": {
               "location": {
                 "biomes": "clifftree:tundra"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:tropical_river": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:tropical_river"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:tropical_beach": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:tropical_beach"
               }
             }
           }
@@ -790,6 +1023,22 @@
         ]
       }
     },
+    "clifftree:snowy_diorite_shore": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:snowy_diorite_shore"
+              }
+            }
+          }
+        ]
+      }
+    },
     "clifftree:shrubland": {
       "trigger": "minecraft:location",
       "conditions": {
@@ -822,6 +1071,54 @@
         ]
       }
     },
+    "clifftree:mushroom_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:mushroom_caves"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:dirt_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:dirt_caves"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:lukewarm_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:lukewarm_caves"
+              }
+            }
+          }
+        ]
+      }
+    },
     "clifftree:inferno": {
       "trigger": "minecraft:location",
       "conditions": {
@@ -832,6 +1129,70 @@
             "predicate": {
               "location": {
                 "biomes": "clifftree:inferno"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:gravelly_beach": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:gravelly_beach"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:granite_shore": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:granite_shore"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:glacier_valley": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:glacier_valley"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:glacier_cliff": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:glacier_cliff"
               }
             }
           }
@@ -854,6 +1215,70 @@
         ]
       }
     },
+    "clifftree:diorite_shore": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:diorite_shore"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:desert_cliff": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:desert_cliff"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:cold_river": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:cold_river"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clifftree:cold_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "clifftree:cold_caves"
+              }
+            }
+          }
+        ]
+      }
+    },
     "clifftree:caves": {
       "trigger": "minecraft:location",
       "conditions": {
@@ -863,7 +1288,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "biomes": "#clifftree:generic_caves"
+                "biomes": "clifftree:caves"
               }
             }
           }
@@ -904,7 +1329,7 @@
     }
   },
   "rewards": {
-    "experience": 500
+    "experience": 1000
   },
   "sends_telemetry_event": true
 }
