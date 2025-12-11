@@ -5,10 +5,10 @@
       "count": 1
     },
     "title": {
-      "translate": "minecraft.advancements.adventure.adventuring_time.title"
+      "translate": "advancements.adventure.adventuring_time.title"
     },
     "description": {
-      "translate": "minecraft.advancements.adventure.adventuring_time.description"
+      "translate": "advancements.adventure.adventuring_time.description"
     },
     "frame": "challenge",
     "hidden": false
