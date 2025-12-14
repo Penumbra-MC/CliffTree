@@ -1,0 +1,44 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# fabric
+
+run/
+server_run/
+*.log
+*.jar
+*.ini
+logs/
+/src/main/generated/.cache/
+*.DS_Store
+
+# vye
+*.asd
+
+# bunten
+*.py
+run
+run_server
