@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "clifftree",
-    "version": "3.1.3",
+    "version": "3.1.4",
     "name": "CliffTree",
     "description": "A vanilla-styled worldgen overhaul, with new biomes and touches to existing ones",
     "authors": [
