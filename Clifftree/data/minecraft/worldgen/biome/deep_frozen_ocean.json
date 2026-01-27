@@ -6,6 +6,23 @@
   ],
   "downfall": 0.5,
   "attributes": {
+    "minecraft:audio/background_music": {
+      "creative": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.creative"
+      },
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.game"
+      },
+      "underwater": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.under_water"
+      }
+    },
     "minecraft:gameplay/increased_fire_burnout": true,
     "minecraft:visual/sky_color": "#95BAED",
     "minecraft:visual/fog_color": "#D0EDF0",

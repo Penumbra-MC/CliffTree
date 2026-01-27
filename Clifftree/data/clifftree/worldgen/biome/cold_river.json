@@ -6,6 +6,23 @@
     "minecraft:canyon"
   ],
   "attributes": {
+    "minecraft:audio/background_music": {
+      "creative": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.creative"
+      },
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.game"
+      },
+      "underwater": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.under_water"
+      }
+    },
     "minecraft:visual/sky_color": "#80B4E7",
     "minecraft:visual/fog_color": "#E6EEF0",
     "minecraft:visual/water_fog_color": "#03060A"
