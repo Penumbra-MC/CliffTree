@@ -20,7 +20,9 @@
     "water_fog_color": 658964
   },
   "features": [
-    [],
+    [
+      "clifftree:disk_gravel_deep_ocean_floor"
+    ],
     [
       "clifftree:ocean_ravine_magma",
       "clifftree:ocean_arch",
