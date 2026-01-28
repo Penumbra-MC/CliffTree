@@ -16,7 +16,7 @@
     "minecraft:gameplay/increased_fire_burnout": true,
     "minecraft:visual/sky_color": "#7096B9",
     "minecraft:visual/fog_color": "#12182B",
-    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_start_distance": 0,
     "minecraft:visual/fog_end_distance": 128,
     "minecraft:visual/water_fog_color": "#14232F",
     "minecraft:visual/ambient_particles": [
