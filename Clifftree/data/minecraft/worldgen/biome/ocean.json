@@ -31,7 +31,9 @@
     "water_color": "#005986"
   },
   "features": [
-    [],
+    [
+      "clifftree:disk_gravel_deep_ocean_floor"
+    ],
     [
       "clifftree:ocean_ravine_magma",
       "clifftree:ocean_arch",
