@@ -1,0 +1,10 @@
+{
+  "type": "lithostitched:add_surface_rule",
+  "levels": [
+    "minecraft:overworld"
+  ],
+  "surface_rule": {
+    "type": "lithostitched:reference",
+    "rules": "clifftree:clifftree"
+  }
+}
