@@ -6,6 +6,7 @@
   ],
   "downfall": 0.5,
   "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
     "minecraft:audio/background_music": {
       "default": {
         "max_delay": 24000,
