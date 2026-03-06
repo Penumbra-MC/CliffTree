@@ -13,7 +13,7 @@ versionRange = "[1,)"
 modId = "lithostitched"
 mandatory = true
 type = "required"
-versionRange = "[1.5.2,)"
+versionRange = "[1.6,)"
 
 [[dependencies.clifftree]]
 modId = "minecraft"
@@ -22,7 +22,7 @@ versionRange = "[1.21.11,)"
 
 [[mods]]
 modId = "clifftree"
-version = "3.1.4"
+version = "3.1.5"
 displayName = "CliffTree"
 description = "A vanilla-styled worldgen overhaul, with new biomes and touches to existing ones"
 logoFile = "pack.png"

@@ -5,6 +5,23 @@
   ],
   "downfall": 0.5,
   "attributes": {
+    "minecraft:audio/background_music": {
+      "creative": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.creative"
+      },
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.game"
+      },
+      "underwater": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.under_water"
+      }
+    },
     "minecraft:visual/sky_color": "#70ABBC",
     "minecraft:visual/fog_color": "#8CBEB8",
     "minecraft:visual/fog_start_distance": -16,
@@ -19,7 +36,9 @@
     "water_color": "#2E6B5E"
   },
   "features": [
-    [],
+    [
+      "clifftree:disk_gravel_deep_ocean_floor"
+    ],
     [
       "clifftree:ocean_ravine_magma"
     ],

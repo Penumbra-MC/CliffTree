@@ -1,0 +1,11 @@
+{
+  "enchantment.clifftree.incubation_curse": "孵化诅咒",
+  "item.clifftree.amber_egg": "黄褐色鸡蛋",
+  "item.clifftree.black_egg": "黑色鸡蛋",
+  "item.clifftree.gray_egg": "灰色鸡蛋",
+  "item.clifftree.pale_egg": "苍白色鸡蛋",
+  "item.clifftree.red_egg": "红色鸡蛋",
+  "item.clifftree.teal_egg": "蓝绿色鸡蛋",
+  "clifftree.advancements.husbandry.get_all_eggs.title": "也不是不重要",
+  "clifftree.advancements.husbandry.get_all_eggs.description": "在你的物品栏中集齐所有种类的鸡蛋"
+}

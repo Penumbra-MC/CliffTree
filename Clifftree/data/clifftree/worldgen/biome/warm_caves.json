@@ -6,6 +6,7 @@
   ],
   "downfall": 0.5,
   "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
     "minecraft:audio/background_music": {
       "default": {
         "max_delay": 24000,
@@ -15,7 +16,7 @@
     },
     "minecraft:visual/sky_color": "#21588B",
     "minecraft:visual/fog_color": "#202021",
-    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_start_distance": 0,
     "minecraft:visual/fog_end_distance": 128,
     "minecraft:visual/water_fog_color": "#03080A",
     "minecraft:visual/ambient_particles": [
