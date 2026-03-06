@@ -1,4 +1,8 @@
 {
+  "predicate": {
+    "type": "lithostitched:mod_loaded",
+    "mod_id": "terrablender"
+  },
   "type": "lithostitched:add_surface_rule",
   "levels": [
     "minecraft:overworld"

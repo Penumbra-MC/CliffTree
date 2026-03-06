@@ -13,7 +13,7 @@ versionRange = "[1,)"
 modId = "lithostitched"
 mandatory = true
 type = "required"
-versionRange = "[1.5.2,)"
+versionRange = "[1.6,)"
 
 [[dependencies.clifftree]]
 modId = "minecraft"
