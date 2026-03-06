@@ -393,134 +393,134 @@
               },
               "then_run": {
                 "sequence": [
-                  {
-                    "if_true": {
-                      "type": "lithostitched:any_of",
-                      "conditions": [
-                        {
-                          "type": "lithostitched:all_of",
-                          "conditions": [
-                            {
-                              "type": "lithostitched:slope",
-                              "height_difference": {
-                                "min_inclusive": 6,
-                                "max_inclusive": 320
-                              }
-                            },
-                            {
-                              "type": "minecraft:biome",
-                              "biome_is": [
-                                "minecraft:plains",
-                                "minecraft:old_growth_pine_taiga",
-                                "minecraft:old_growth_spruce_taiga",
-                                "minecraft:sunflower_plains",
-                                "minecraft:birch_forest",
-                                "minecraft:old_growth_birch_forest",
-                                "minecraft:forest",
-                                "clifftree:sparse_forest",
-                                "minecraft:flower_forest",
-                                "minecraft:river",
-                                "minecraft:snowy_taiga",
-                                "clifftree:snowy_old_growth_taiga"
-                              ]
+                {
+                  "if_true": {
+                    "type": "lithostitched:any_of",
+                    "conditions": [
+                      {
+                        "type": "lithostitched:all_of",
+                        "conditions": [
+                          {
+                            "type": "lithostitched:slope",
+                            "height_difference": {
+                              "min_inclusive": 6,
+                              "max_inclusive": 320
                             }
-                          ]
-                        },
-                        {
-                          "type": "lithostitched:all_of",
-                          "conditions": [
-                            {
-                              "type": "lithostitched:slope",
-                              "height_difference": {
-                                "min_inclusive": 3,
-                                "max_inclusive": 320
-                              }
-                            },
-                            {
-                              "type": "minecraft:biome",
-                              "biome_is": [
-                                "minecraft:jagged_peaks",
-                                "minecraft:jungle",
-                                "minecraft:cherry_grove",
-                                "minecraft:sparse_jungle",
-                                "minecraft:bamboo_jungle",
-                                "minecraft:meadow",
-                                "minecraft:taiga",
-                                "minecraft:dark_forest",
-                                "minecraft:pale_garden",
-                                "clifftree:tundra",
-                                "minecraft:mushroom_fields",
-                                "minecraft:snowy_slopes",
-                                "minecraft:windswept_forest",
-                                "minecraft:windswept_hills",
-                                "minecraft:windswept_gravelly_hills",
-                                "clifftree:cold_river",
-                                "clifftree:tropical_river"
-                              ]
+                          },
+                          {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "minecraft:plains",
+                              "minecraft:old_growth_pine_taiga",
+                              "minecraft:old_growth_spruce_taiga",
+                              "minecraft:sunflower_plains",
+                              "minecraft:birch_forest",
+                              "minecraft:old_growth_birch_forest",
+                              "minecraft:forest",
+                              "clifftree:sparse_forest",
+                              "minecraft:flower_forest",
+                              "minecraft:river",
+                              "minecraft:snowy_taiga",
+                              "clifftree:snowy_old_growth_taiga",
+                              "minecraft:jungle",
+                              "minecraft:bamboo_jungle"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "lithostitched:all_of",
+                        "conditions": [
+                          {
+                            "type": "lithostitched:slope",
+                            "height_difference": {
+                              "min_inclusive": 3,
+                              "max_inclusive": 320
                             }
-                          ]
+                          },
+                          {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "minecraft:jagged_peaks",
+                              "minecraft:cherry_grove",
+                              "minecraft:meadow",
+                              "minecraft:taiga",
+                              "minecraft:dark_forest",
+                              "minecraft:pale_garden",
+                              "clifftree:tundra",
+                              "minecraft:mushroom_fields",
+                              "minecraft:snowy_slopes",
+                              "minecraft:windswept_forest",
+                              "minecraft:windswept_hills",
+                              "minecraft:windswept_gravelly_hills",
+                              "clifftree:cold_river",
+                              "clifftree:tropical_river",
+                              "minecraft:sparse_jungle"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "then_run": {
+                    "result_state": {
+                      "Name": "minecraft:stone"
+                    },
+                    "type": "minecraft:block"
+                  },
+                  "type": "minecraft:condition"
+                },
+                {
+                  "if_true": {
+                    "biome_is": [
+                      "clifftree:glacier_valley"
+                    ],
+                    "type": "minecraft:biome"
+                  },
+                  "then_run": {
+                    "type": "lithostitched:bandlands",
+                    "options": "clifftree:cold"
+                  },
+                  "type": "minecraft:condition"
+                },
+                {
+                  "if_true": {
+                    "type": "lithostitched:all_of",
+                    "conditions": [
+                      {
+                        "type": "lithostitched:slope",
+                        "height_difference": {
+                          "min_inclusive": 6,
+                          "max_inclusive": 320
                         }
-                      ]
+                      },
+                      {
+                        "type": "minecraft:biome",
+                        "biome_is": [
+                          "minecraft:snowy_plains"
+                        ]
+                      }
+                    ]
+                  },
+                  "then_run": {
+                    "if_true": {
+                      "add_surface_depth": false,
+                      "offset": 0,
+                      "secondary_depth_range": 0,
+                      "surface_type": "floor",
+                      "type": "minecraft:stone_depth"
                     },
                     "then_run": {
                       "result_state": {
-                        "Name": "minecraft:stone"
+                        "Name": "minecraft:grass_block"
                       },
                       "type": "minecraft:block"
                     },
                     "type": "minecraft:condition"
                   },
-                  {
-                    "if_true": {
-                      "biome_is": [
-                        "clifftree:glacier_valley"
-                      ],
-                      "type": "minecraft:biome"
-                    },
-                    "then_run": {
-                      "type": "lithostitched:bandlands",
-                      "options": "clifftree:cold"
-                    },
-                    "type": "minecraft:condition"
-                  },
-                  {
-                    "if_true": {
-                      "type": "lithostitched:all_of",
-                      "conditions": [
-                        {
-                          "type": "lithostitched:slope",
-                          "height_difference": {
-                            "min_inclusive": 6,
-                            "max_inclusive": 320
-                          }
-                        },
-                        {
-                          "type": "minecraft:biome",
-                          "biome_is": [
-                            "minecraft:snowy_plains"
-                          ]
-                        }
-                      ]
-                    },
-                    "then_run": {
-                      "if_true": {
-                        "add_surface_depth": false,
-                        "offset": 0,
-                        "secondary_depth_range": 0,
-                        "surface_type": "floor",
-                        "type": "minecraft:stone_depth"
-                      },
-                      "then_run": {
-                        "result_state": {
-                          "Name": "minecraft:grass_block"
-                        },
-                        "type": "minecraft:block"
-                      },
-                      "type": "minecraft:condition"
-                    },
-                    "type": "minecraft:condition"
-                  }
-                ],
+                  "type": "minecraft:condition"
+                }
+              ],
                 "type": "minecraft:sequence"
               },
               "type": "minecraft:condition"

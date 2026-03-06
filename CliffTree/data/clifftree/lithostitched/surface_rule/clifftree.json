@@ -412,7 +412,9 @@
                               "minecraft:flower_forest",
                               "minecraft:river",
                               "minecraft:snowy_taiga",
-                              "clifftree:snowy_old_growth_taiga"
+                              "clifftree:snowy_old_growth_taiga",
+                              "minecraft:jungle",
+                              "minecraft:bamboo_jungle"
                             ]
                           }
                         ]
@@ -431,10 +433,7 @@
                             "type": "minecraft:biome",
                             "biome_is": [
                               "minecraft:jagged_peaks",
-                              "minecraft:jungle",
                               "minecraft:cherry_grove",
-                              "minecraft:sparse_jungle",
-                              "minecraft:bamboo_jungle",
                               "minecraft:meadow",
                               "minecraft:taiga",
                               "minecraft:dark_forest",
@@ -446,7 +445,8 @@
                               "minecraft:windswept_hills",
                               "minecraft:windswept_gravelly_hills",
                               "clifftree:cold_river",
-                              "clifftree:tropical_river"
+                              "clifftree:tropical_river",
+                              "minecraft:sparse_jungle"
                             ]
                           }
                         ]
