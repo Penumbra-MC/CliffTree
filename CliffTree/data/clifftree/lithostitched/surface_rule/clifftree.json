@@ -1923,8 +1923,20 @@
           },
           {
             "if_true": {
-              "type": "lithostitched:biome",
-              "biomes": "#clifftree:grass_block_surface"
+              "invert": {
+                "biome_is": [
+                  "clifftree:caves",
+                  "clifftree:warm_caves",
+                  "clifftree:lukewarm_caves",
+                  "clifftree:cold_caves",
+                  "clifftree:frozen_caves",
+                  "clifftree:mushroom_caves",
+                  "minecraft:lush_caves",
+                  "minecraft:dripstone_caves"
+                ],
+                "type": "minecraft:biome"
+              },
+              "type": "minecraft:not"
             },
             "then_run": {
               "sequence": [
