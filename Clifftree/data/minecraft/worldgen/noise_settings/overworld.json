@@ -828,12 +828,14 @@
                       "biome_is": [
                         "minecraft:jagged_peaks",
                         "minecraft:plains",
+                        "minecraft:sunflower_plains",
                         "minecraft:jungle",
                         "minecraft:cherry_grove",
                         "minecraft:sparse_jungle",
                         "minecraft:bamboo_jungle",
                         "minecraft:meadow",
                         "minecraft:taiga",
+                        "minecraft:snowy_taiga",
                         "minecraft:forest",
                         "minecraft:flower_forest",
                         "minecraft:birch_forest",
@@ -846,7 +848,13 @@
                         "minecraft:old_growth_spruce_taiga",
                         "minecraft:old_growth_pine_taiga",
                         "clifftree:snowy_old_growth_taiga",
-                        "minecraft:snowy_slopes"
+                        "minecraft:snowy_slopes",
+                        "minecraft:windswept_forest",
+                        "minecraft:windswept_gravelly_hills",
+                        "minecraft:windswept_hills",
+                        "minecraft:river",
+                        "clifftree:cold_river",
+                        "clifftree:tropical_river"
                       ],
                       "type": "minecraft:biome"
                     },
@@ -873,8 +881,7 @@
                   {
                     "if_true": {
                       "biome_is": [
-                        "minecraft:snowy_plains",
-                        "minecraft:snowy_taiga"
+                        "minecraft:snowy_plains"
                       ],
                       "type": "minecraft:biome"
                     },
