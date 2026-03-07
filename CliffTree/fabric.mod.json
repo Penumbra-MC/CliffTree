@@ -31,6 +31,6 @@
         "fabric-resource-loader-v0": "*",
 		"minecraft": "1.21.1",
 		"lithostitched": ">=1.6",
-        "vanillabackport": ">=1.1.5.1"
+        "vanillabackport": ">=1.1.5.4"
     }
 }
