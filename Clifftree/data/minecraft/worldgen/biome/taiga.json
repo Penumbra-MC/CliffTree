@@ -72,9 +72,9 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_taiga",
-      "clifftree:trees_taiga_density",
       "minecraft:patch_large_fern",
+      "clifftree:trees_taiga_density",
+      "minecraft:trees_taiga",
       "minecraft:patch_grass_plain",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",

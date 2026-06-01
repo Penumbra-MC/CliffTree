@@ -82,11 +82,11 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_large_fern",
       "minecraft:bamboo",
       "minecraft:bamboo_vegetation",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
+      "minecraft:patch_large_fern",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
