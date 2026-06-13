@@ -82,9 +82,9 @@
     ],
     [
       "clifftree:deepdark_ruins",
-      "clifftree:ore_infested",
       "minecraft:sculk_vein",
-      "minecraft:sculk_patch_deep_dark"
+      "minecraft:sculk_patch_deep_dark",
+      "clifftree:ore_infested"
     ],
     [],
     [

@@ -27,5 +27,9 @@
   "biome.clifftree.tropical_river": "Río Tropical",
   "biome.clifftree.tundra": "Tundra",
   "biome.clifftree.warm_caves": "Cuevas Calientes",
-  "biome.clifftree.warm_river": "Río Caliente"
+  "biome.clifftree.warm_river": "Río Caliente",
+  "clifftree.advancements.adventure.adventuring_time.description": "¡Explora el mundo, descubre biomas!",
+  "clifftree.advancements.adventure.adventuring_time.title": "Hora de Aventura",
+  "clifftree.advancements.adventure.distant_lands.description": "Descubre cada uno de los biomas que ofrece la Superficie",
+  "clifftree.advancements.adventure.distant_lands.title": "Tierras Lejanas"
 }
