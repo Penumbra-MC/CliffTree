@@ -1,8 +1,0 @@
-{
-  "values": [
-    "#minecraft:is_jungle",
-    {"id":"clifftree:tropical_river","required":false},
-    "minecraft:mangrove_swamp",
-    "minecraft:swamp"
-  ]
-}

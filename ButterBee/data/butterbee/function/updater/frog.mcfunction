@@ -1,1 +1,0 @@
-execute if predicate {type:"entity_properties",entity:"this",predicate:{components:{"frog/variant":"clifftree:toadstool"}}} run data merge entity @s {variant:"butterbee:toadstool"}
