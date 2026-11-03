@@ -1,20 +1,75 @@
 {
-  "feature": {
-    "type": "random_patch",
-    "config": {
-      "feature": {
-        "feature": "clifftree:inferno_delta",
-        "placement": []
-      },
-      "tries": 3,
-      "xz_spread": 3,
-      "y_spread": 2
-    }
-  },
+  "feature": "clifftree:inferno_delta",
   "placement": [
     {
-      "type": "minecraft:count_on_every_layer",
-      "count": 1
+      "type": "minecraft:count",
+      "count": 128
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 6
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 256
+        },
+        "min_inclusive": {
+          "above_bottom": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:noise_threshold_count",
+      "above_noise": 3,
+      "below_noise": 1,
+      "noise_level": -0.6
+    },
+    {
+      "type": "minecraft:offset",
+      "z": {
+        "type": "minecraft:clamped_normal",
+        "max_inclusive": 3,
+        "min_inclusive": -3,
+        "mean": 0,
+        "deviation": 1
+      },
+      "x": {
+        "type": "minecraft:clamped_normal",
+        "max_inclusive": 3,
+        "min_inclusive": -3,
+        "mean": 0,
+        "deviation": 1
+      },
+      "y": 0
+    },
+    {
+      "type": "minecraft:environment_scan",
+      "direction_of_search": "down",
+      "max_steps": 32,
+      "target_condition": {
+        "type": "has_sturdy_face",
+        "direction": "up",
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      },
+      "allowed_search_condition": {
+        "type": "matching_blocks",
+        "blocks": [
+          "air",
+          "cave_air",
+          "water",
+          "lava"
+        ]
+      }
     },
     {
       "type": "minecraft:biome"

@@ -1,0 +1,86 @@
+{
+  "type": "minecraft:disk",
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:terracotta"
+        },
+        "then": {
+          "id": "minecraft:light_gray_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:red_terracotta"
+        },
+        "then": {
+          "id": "minecraft:white_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:brown_terracotta"
+        },
+        "then": {
+          "id": "minecraft:coarse_dirt"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:orange_terracotta"
+        },
+        "then": {
+          "id": "minecraft:light_gray_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:yellow_terracotta"
+        },
+        "then": {
+          "id": "minecraft:white_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:light_gray_terracotta"
+        },
+        "then": {
+          "id": "minecraft:light_gray_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:white_terracotta"
+        },
+        "then": {
+          "id": "minecraft:white_terracotta"
+        }
+      }
+    ]
+  },
+  "radius": 8,
+  "half_height": 4,
+  "target": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "matching_block_tag",
+        "tag": "minecraft:badlands_terracotta"
+      },
+      {
+        "type": "minecraft:matching_biomes",
+        "biomes": "minecraft:savanna_plateau"
+      }
+    ]
+  }
+}

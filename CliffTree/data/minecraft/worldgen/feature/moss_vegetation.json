@@ -1,0 +1,81 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "data": "minecraft:air",
+        "weight": 2
+      },
+      {
+        "data": "minecraft:flowering_azalea",
+        "weight": 2
+      },
+      {
+        "data": "minecraft:azalea",
+        "weight": 4
+      },
+      {
+        "data": "minecraft:moss_carpet",
+        "weight": 25
+      },
+      {
+        "data": "minecraft:short_grass",
+        "weight": 50
+      },
+      {
+        "data": {
+          "id": "minecraft:tall_grass",
+          "properties": {
+            "half": "lower"
+          }
+        },
+        "weight": 6
+      },
+      {
+        "data": {
+          "id": "minecraft:small_dripleaf",
+          "properties": {
+            "facing": "east",
+            "half": "lower",
+            "waterlogged": "false"
+          }
+        },
+        "weight": 1
+      },
+      {
+        "data": {
+          "id": "minecraft:small_dripleaf",
+          "properties": {
+            "facing": "west",
+            "half": "lower",
+            "waterlogged": "false"
+          }
+        },
+        "weight": 1
+      },
+      {
+        "data": {
+          "id": "minecraft:small_dripleaf",
+          "properties": {
+            "facing": "north",
+            "half": "lower",
+            "waterlogged": "false"
+          }
+        },
+        "weight": 1
+      },
+      {
+        "data": {
+          "id": "minecraft:small_dripleaf",
+          "properties": {
+            "facing": "south",
+            "half": "lower",
+            "waterlogged": "false"
+          }
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "clifftree:mobs/slime/slime_small"
+      },
+      "weight": 9
+    },
+    {
+      "data": {
+        "id": "clifftree:mobs/slime/slime_medium"
+      },
+      "weight": 1
+    }
+  ]
+}

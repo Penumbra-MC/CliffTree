@@ -1,0 +1,53 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:lake_water_coarse_dirt",
+        "placement": []
+      },
+      "clifftree:patch_large_fern_pool",
+      "clifftree:patch/patch_seagrass_lake",
+      "clifftree:lake_disk_cave_air"
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 24
+    },
+    {
+      "type": "random_chance",
+      "chance": 0.33
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:count",
+      "count": 2
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "solid"
+        },
+        "min": [-2,-1,-2],
+        "max": [2,-1,2]
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": 3
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

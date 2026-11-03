@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 3,
+  "radius": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 6,
+    "min_inclusive": 4
+  },
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "fallback": {
+      "id": "minecraft:snow_block"
+    },
+    "rules": []
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": [
+      "minecraft:packed_ice",
+      "minecraft:snow_block"
+    ]
+  }
+}

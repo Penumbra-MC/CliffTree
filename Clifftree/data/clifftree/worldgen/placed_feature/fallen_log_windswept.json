@@ -1,15 +1,13 @@
 {
   "feature": {
     "type": "minecraft:random_boolean_selector",
-    "config": {
-      "feature_false": {
-        "feature": "clifftree:fallen_log_spruce",
-        "placement": []
-      },
-      "feature_true": {
-        "feature": "clifftree:fallen_log_oak",
-        "placement": []
-      }
+    "feature_false": {
+      "feature": "clifftree:fallen_log_spruce",
+      "placement": []
+    },
+    "feature_true": {
+      "feature": "clifftree:fallen_log_oak",
+      "placement": []
     }
   },
   "placement": [
@@ -33,9 +31,7 @@
           0,
           0
         ],
-        "state": {
-          "Name": "minecraft:short_grass"
-        }
+        "state": "minecraft:short_grass"
       }
     },
     {

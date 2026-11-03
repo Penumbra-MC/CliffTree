@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:overlay",
+  "features": [
+    {
+      "feature": {
+        "type": "minecraft:weighted_random_selector",
+        "features": [
+          {
+            "data": "clifftree:bonemeal/patches/lily_of_the_valley",
+            "weight": 1
+          },
+          {
+            "data": "clifftree:bonemeal/patches/oxeye_daisy",
+            "weight": 7
+          }
+        ]
+      },
+      "placement": [
+        {
+          "type": "random_chance",
+          "chance": 0.6
+        }
+      ]
+    },
+    {
+      "feature": "minecraft:wildflower",
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 4
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "max": 2,
+            "min": -2,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "max": 2,
+            "min": -2,
+            "plateau": 0
+          },
+          "y": 0
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:would_survive",
+                "state": "minecraft:short_grass"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:air"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

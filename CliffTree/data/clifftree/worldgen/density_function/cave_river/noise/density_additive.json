@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:clamp",
+  "input": {
+    "type": "minecraft:add",
+    "left": 0.1,
+    "right": {
+      "type": "minecraft:mul",
+      "left": 0.2,
+      "right": {
+        "type": "minecraft:noise",
+        "noise": "clifftree:cave_river/density_additive",
+        "xz_scale": 0.7,
+        "y_scale": 0.05
+      }
+    }
+  },
+  "min": 0.0,
+  "max": 0.2
+}

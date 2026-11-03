@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "clifftree:mobs/parrot/green"
+      },
+      "weight": 1
+    }
+  ]
+}

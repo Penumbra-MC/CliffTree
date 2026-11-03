@@ -10,6 +10,10 @@
       "chance": 8
     },
     {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+    {
       "type": "minecraft:biome"
     }
   ]

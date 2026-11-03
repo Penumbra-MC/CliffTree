@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:random_selector",
+  "default": {
+    "feature": {
+      "type": "simple_block",
+      "to_place": {
+        "type": "minecraft:weighted",
+        "entries": [
+          {
+            "data": "deepslate_brick_slab",
+            "weight": 2
+          },
+          {
+            "data": "cobbled_deepslate_slab",
+            "weight": 3
+          }
+        ]
+      }
+    },
+    "placement": []
+  },
+  "features": [
+    {
+      "chance": 0.35,
+      "feature": {
+        "feature": {
+          "type": "block_column",
+          "allowed_placement": {
+            "type": "matching_blocks",
+            "blocks": [
+              "deepslate",
+              "air"
+            ]
+          },
+          "direction": "up",
+          "layers": [
+            {
+              "height": {
+                "type": "uniform",
+                "max_inclusive": 3,
+                "min_inclusive": 1
+              },
+              "provider": {
+                "type": "minecraft:weighted",
+                "entries": [
+                  {
+                    "data": "deepslate_bricks",
+                    "weight": 1
+                  },
+                  {
+                    "data": "cracked_deepslate_bricks",
+                    "weight": 3
+                  },
+                  {
+                    "data": "cobbled_deepslate",
+                    "weight": 3
+                  }
+                ]
+              }
+            }
+          ],
+          "prioritize_tip": true
+        },
+        "placement": []
+      }
+    }
+  ]
+}

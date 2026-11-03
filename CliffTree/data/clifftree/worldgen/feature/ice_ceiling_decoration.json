@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "default": {
+    "feature": "clifftree:ice_column",
+    "placement": []
+  },
+  "features": [
+    {
+      "chance": 0.02,
+      "feature": {
+        "feature": "clifftree:glow_lichen_ice",
+        "placement": []
+      }
+    }
+  ]
+}

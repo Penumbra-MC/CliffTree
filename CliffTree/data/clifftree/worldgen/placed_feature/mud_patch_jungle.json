@@ -1,21 +1,29 @@
 {
   "feature": {
     "type": "minecraft:random_selector",
-    "config": {
-      "default": {
-        "feature": "clifftree:mud_patch",
-        "placement": []
-      },
-      "features": [
-        {
-          "chance": 0.1,
+    "default": {
+      "feature": "clifftree:mud_patch",
+      "placement": []
+    },
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": {
           "feature": {
-            "feature": "clifftree:mud_water",
-            "placement": []
-          }
+            "type": "minecraft:sequence",
+            "features": [
+              {
+                "feature": "clifftree:mud_water",
+                "placement": []
+              },
+              "clifftree:patch/patch_seagrass_lake",
+              "clifftree:patch/patch_waterlily_lake"
+            ]
+          },
+          "placement": []
         }
-      ]
-    }
+      }
+    ]
   },
   "placement": [
     {
@@ -24,7 +32,11 @@
     },
     {
       "type": "minecraft:rarity_filter",
-      "chance": 6
+      "chance": 9
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
     },
     {
       "type": "minecraft:biome"

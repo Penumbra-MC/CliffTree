@@ -1,0 +1,88 @@
+{
+  "type": "minecraft:rule_based",
+  "rules": [
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#overworld_natural_logs",
+        "offset": [
+          0,
+          0,
+          -1
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "vine",
+          "properties": {
+            "north": "true"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#overworld_natural_logs",
+        "offset": [
+          0,
+          0,
+          1
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "vine",
+          "properties": {
+            "south": "true"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#overworld_natural_logs",
+        "offset": [
+          1,
+          0,
+          0
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "vine",
+          "properties": {
+            "east": "true"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#overworld_natural_logs",
+        "offset": [
+          -1,
+          0,
+          0
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "vine",
+          "properties": {
+            "west": "true"
+          }
+        }
+      }
+    }
+  ],
+  "fallback": {
+    "id": "air"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:lake_water_cherry",
+        "placement": []
+      },
+      "clifftree:patch_lilac_pool",
+      "clifftree:patch/patch_seagrass_lake",
+      "clifftree:lake_disk_cave_air"
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:count",
+      "count": 2
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

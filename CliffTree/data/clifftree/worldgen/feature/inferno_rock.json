@@ -1,0 +1,16 @@
+{
+  "type": "simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "data": "minecraft:magma_block",
+        "weight": 2
+      },
+      {
+        "data": "minecraft:smooth_basalt",
+        "weight": 5
+      }
+    ]
+  }
+}

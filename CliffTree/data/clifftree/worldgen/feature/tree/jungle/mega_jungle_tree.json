@@ -1,0 +1,150 @@
+{
+  "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:tree",
+            "below_trunk_provider": {
+              "type": "minecraft:rule_based",
+              "rules": [
+                {
+                  "if_true": {
+                    "type": "minecraft:not",
+                    "predicate": {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:cannot_replace_below_tree_trunk"
+                    }
+                  },
+                  "then": {
+                    "type": "minecraft:simple",
+                    "state": {
+                      "id": "minecraft:dirt"
+                    }
+                  }
+                }
+              ]
+            },
+            "ignore_vines": false,
+            "minimum_size": {
+              "type": "minecraft:two_layers_feature_size",
+              "limit": 1,
+              "lower_size": 1,
+              "upper_size": 2
+            },
+            "trunk_provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:jungle_log",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            },
+            "foliage_provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:jungle_leaves",
+                "properties": {
+                  "distance": "7",
+                  "persistent": "false",
+                  "waterlogged": "false"
+                }
+              }
+            },
+            "trunk_placer": {
+              "type": "minecraft:mega_jungle_trunk_placer",
+              "base_height": 10,
+              "height_rand_a": 2,
+              "height_rand_b": 19
+            },
+            "foliage_placer": {
+              "type": "minecraft:jungle_foliage_placer",
+              "radius": 2,
+              "offset": 0,
+              "height": 2
+            },
+            "decorators": [
+              {
+                "type": "minecraft:leave_vine",
+                "probability": 0.25
+              }
+            ]
+        },
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "minecraft:matching_block_tag",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ],
+                "tag": "clifftree:sapling_cannot_grow_warm"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "feature": "vines",
+        "placement": [
+          {
+            "type": "count",
+            "count": 128
+          },
+          {
+            "type": "offset",
+            "x": {
+              "type": "trapezoid",
+              "max": 2,
+              "min": -2,
+              "plateau": 0
+            },
+            "z": {
+              "type": "trapezoid",
+              "max": 2,
+              "min": -2,
+              "plateau": 0
+            },
+            "y": {
+              "type": "biased_to_bottom",
+              "max_inclusive": 4,
+              "min_inclusive": 0
+            }
+          }
+        ]
+      },
+      {
+        "feature": "vines",
+        "placement": [
+          {
+            "type": "count",
+            "count": 32
+          },
+          {
+            "type": "offset",
+            "x": {
+              "type": "trapezoid",
+              "max": 2,
+              "min": -2,
+              "plateau": 0
+            },
+            "z": {
+              "type": "trapezoid",
+              "max": 2,
+              "min": -2,
+              "plateau": 0
+            },
+            "y": {
+              "type": "uniform",
+              "max_inclusive": 16,
+              "min_inclusive": 0
+            }
+          }
+        ]
+      }
+    ]
+}

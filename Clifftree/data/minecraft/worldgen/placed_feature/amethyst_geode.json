@@ -6,7 +6,18 @@
       "chance": 24
     },
     {
-      "type": "minecraft:in_square"
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:uniform",
+        "min_inclusive": -10,
+        "max_inclusive": 10
+      },
+      "z": {
+        "type": "minecraft:uniform",
+        "min_inclusive": -10,
+        "max_inclusive": 10
+      },
+      "y": 0
     },
     {
       "type": "minecraft:height_range",

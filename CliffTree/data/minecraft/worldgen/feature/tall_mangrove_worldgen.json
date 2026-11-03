@@ -1,0 +1,154 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    {
+      "feature": {
+        "type": "minecraft:tree",
+        "below_trunk_provider": {
+          "type": "minecraft:rule_based",
+          "rules": [
+            {
+              "if_true": {
+                "type": "minecraft:all_of",
+                "predicates": [
+                  {
+                    "type": "minecraft:not",
+                    "predicate": {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:cannot_replace_below_tree_trunk"
+                    }
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "tag": "minecraft:substrate_overworld"
+                  }
+                ]
+              },
+              "then": {
+                "id": "minecraft:dirt"
+              }
+            }
+          ]
+        },
+        "ignore_vines": true,
+        "minimum_size": {
+          "type": "minecraft:two_layers_feature_size",
+          "limit": 3,
+          "lower_size": 0,
+          "upper_size": 2
+        },
+        "trunk_provider": {
+          "type": "minecraft:simple",
+          "state": {
+            "id": "minecraft:mangrove_log",
+            "properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "foliage_provider": {
+          "type": "minecraft:simple",
+          "state": {
+            "id": "minecraft:mangrove_leaves",
+            "properties": {
+              "distance": "7",
+              "persistent": "false",
+              "waterlogged": "false"
+            }
+          }
+        },
+        "root_placer": {
+          "type": "minecraft:mangrove_root_placer",
+          "root_provider": {
+            "type": "minecraft:simple",
+            "state": {
+              "id": "minecraft:mangrove_roots",
+              "properties": {
+                "waterlogged": "false"
+              }
+            }
+          },
+          "trunk_offset_y": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 3,
+            "max_inclusive": 7
+          },
+          "above_root_placement": {
+            "above_root_provider": {
+              "id": "minecraft:moss_carpet"
+            },
+            "above_root_placement_chance": 0.8
+          },
+          "mangrove_root_placement": {
+            "max_root_width": 8,
+            "max_root_length": 15,
+            "random_skew_chance": 0.2,
+            "can_grow_through": "#minecraft:mangrove_roots_can_grow_through",
+            "muddy_roots_in": [
+              "minecraft:mud",
+              "minecraft:muddy_mangrove_roots"
+            ],
+            "muddy_roots_provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:muddy_mangrove_roots",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        },
+        "trunk_placer": {
+          "type": "minecraft:fancy_trunk_placer",
+          "base_height": 11,
+          "height_rand_a": 1,
+          "height_rand_b": 1
+        },
+        "foliage_placer": {
+          "type": "minecraft:cherry_foliage_placer",
+          "radius": 4,
+          "offset": 1,
+          "height": 5,
+          "wide_bottom_layer_hole_chance": 0.5,
+          "corner_hole_chance": 0.8,
+          "hanging_leaves_chance": 0.5,
+          "hanging_leaves_extension_chance": 0.5
+        },
+        "decorators": [
+          {
+            "type": "minecraft:attached_to_leaves",
+            "probability": 0.06,
+            "exclusion_radius_xz": 1,
+            "exclusion_radius_y": 0,
+            "required_empty_blocks": 2,
+            "block_provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:mangrove_propagule",
+                "properties": {
+                  "age": "4",
+                  "hanging": "true",
+                  "stage": "0",
+                  "waterlogged": "false"
+                }
+              }
+            },
+            "directions": [
+              "down"
+            ]
+          },
+          {
+            "type": "minecraft:beehive",
+            "probability": 0.01
+          },
+          {
+            "type": "minecraft:leave_vine",
+            "probability": 0.075
+          }
+        ]
+      },
+      "placement": []
+    }
+  ]
+}

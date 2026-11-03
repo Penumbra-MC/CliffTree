@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sulfur",
+    "minecraft:cinnabar",
+    "#minecraft:terracotta"
+  ]
+}

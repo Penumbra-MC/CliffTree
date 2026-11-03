@@ -1,0 +1,154 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": {
+        "feature": "minecraft:pine",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ],
+                    "blocks": [
+                      "minecraft:mud",
+                      "minecraft:muddy_mangrove_roots"
+                    ]
+                  }
+                },
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ],
+                    "tag": "clifftree:sapling_cannot_grow_cold"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 1
+    },
+    {
+      "data": {
+        "feature": "minecraft:pine",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ],
+                  "blocks": [
+                    "minecraft:snow_block",
+                    "minecraft:powder_snow"
+                  ]
+                },
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ],
+                    "tag": "clifftree:sapling_cannot_grow_cold"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "data": {
+        "feature": "clifftree:spruce",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ],
+                    "blocks": [
+                      "minecraft:mud",
+                      "minecraft:muddy_mangrove_roots"
+                    ]
+                  }
+                },
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ],
+                    "tag": "clifftree:sapling_cannot_grow_cold"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 5
+    },
+    {
+      "data": {
+        "feature": "clifftree:bog_spruce",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:matching_blocks",
+              "offset": [
+                0,
+                -1,
+                0
+              ],
+              "blocks": [
+                "minecraft:mud",
+                "minecraft:muddy_mangrove_roots"
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 5
+    }
+  ]
+}

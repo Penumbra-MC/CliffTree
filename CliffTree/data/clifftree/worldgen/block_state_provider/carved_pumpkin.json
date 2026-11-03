@@ -1,0 +1,88 @@
+{
+  "type": "minecraft:rule_based",
+  "rules": [
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#replaceable",
+        "offset": [
+          0,
+          0,
+          -1
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "carved_pumpkin",
+          "properties": {
+            "facing": "north"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#replaceable",
+        "offset": [
+          0,
+          0,
+          1
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "carved_pumpkin",
+          "properties": {
+            "facing": "south"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#replaceable",
+        "offset": [
+          1,
+          0,
+          0
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "carved_pumpkin",
+          "properties": {
+            "facing": "east"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#replaceable",
+        "offset": [
+          -1,
+          0,
+          0
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "carved_pumpkin",
+          "properties": {
+            "facing": "west"
+          }
+        }
+      }
+    }
+  ],
+  "fallback": {
+    "id": "pumpkin"
+  }
+}

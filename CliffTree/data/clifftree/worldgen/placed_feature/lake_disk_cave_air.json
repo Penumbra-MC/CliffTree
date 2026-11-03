@@ -1,0 +1,20 @@
+{
+  "feature": {
+    "type": "minecraft:disk",
+    "half_height": 4,
+    "radius": 8,
+    "state_provider": {
+      "id": "minecraft:cave_air"
+    },
+    "target": {
+      "type": "matching_block_tag",
+      "tag": "minecraft:air"
+    }
+  },
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    }
+  ]
+}

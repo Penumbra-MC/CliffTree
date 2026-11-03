@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "weight": 6,
+      "data": {
+        "feature": "clifftree:tree/poplar/poplar_bush_red",
+        "placement": []
+      }
+    },
+    {
+      "weight": 3,
+      "data": {
+        "feature": "clifftree:tree/poplar/poplar_bush_orange",
+        "placement": []
+      }
+    },
+    {
+      "weight": 1,
+      "data": {
+        "feature": "clifftree:tree/poplar/poplar_bush_yellow",
+        "placement": []
+      }
+    }
+  ]
+}

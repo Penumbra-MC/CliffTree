@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "data": "minecraft:firefly_bush",
+        "weight": 10
+      },
+      {
+        "data": "minecraft:bush",
+        "weight": 10
+      },
+      {
+        "data": "minecraft:short_grass",
+        "weight": 20
+      }
+    ]
+  }
+}

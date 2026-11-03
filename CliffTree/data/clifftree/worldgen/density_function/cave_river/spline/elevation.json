@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:clamp",
+  "input": {
+    "type": "minecraft:add",
+    "left": 0.8,
+    "right": {
+      "type": "minecraft:mul",
+      "left": "clifftree:cave_river/noise/height",
+      "right": {
+        "type": "minecraft:abs",
+        "input": {
+          "type": "minecraft:add",
+          "left": "clifftree:cave_river/noise/y_offset",
+          "right": {
+            "type": "minecraft:spline",
+            "spline": {
+              "coordinate": "minecraft:y",
+              "points": [
+                {
+                  "location": 48,
+                  "derivative": 1,
+                  "value": 40
+                },
+                {
+                  "location": 60,
+                  "derivative": 1,
+                  "value": 60
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "min": 0,
+  "max": 1
+}

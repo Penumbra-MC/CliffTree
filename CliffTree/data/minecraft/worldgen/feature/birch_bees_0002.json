@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "clifftree:tree/birch/birch_worldgen"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:clamp",
+  "input": {
+    "type": "minecraft:mul",
+    "left": 20,
+    "right": {
+      "type": "minecraft:sub",
+      "left": "minecraft:overworld/continents",
+      "right": -0.03
+    }
+  },
+  "min": 0,
+  "max": 1
+}

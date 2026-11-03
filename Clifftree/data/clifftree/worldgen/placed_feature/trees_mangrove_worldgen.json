@@ -2,10 +2,30 @@
   "feature": "minecraft:mangrove_vegetation_worldgen",
   "placement": [
     {
-      "type": "minecraft:noise_based_count",
-      "noise_to_count_ratio": 25,
-      "noise_factor": 1,
-      "noise_offset": 1
+      "type": "minecraft:noise_threshold_count",
+      "above_noise": 10,
+      "below_noise": 8,
+      "noise_level": -0.6
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "data": 1,
+            "weight": 1
+          },
+          {
+            "data": 2,
+            "weight": 4
+          },
+          {
+            "data": 3,
+            "weight": 5
+          }
+        ]
+      }
     },
     {
       "type": "minecraft:in_square"
@@ -26,8 +46,8 @@
       "predicate": {
         "type": "minecraft:would_survive",
         "state": {
-          "Name": "minecraft:mangrove_propagule",
-          "Properties": {
+          "id": "minecraft:mangrove_propagule",
+          "properties": {
             "age": "0",
             "hanging": "false",
             "stage": "0",

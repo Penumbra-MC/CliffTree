@@ -7,11 +7,11 @@
   },
   "structures": [
     {
-      "structure": "minecraft:igloo",
+      "structure": "clifftree:igloo",
       "weight": 1
     },
     {
-      "structure": "minecraft:igloo_dirt",
+      "structure": "clifftree:igloo_dirt",
       "weight": 1
     }
   ]

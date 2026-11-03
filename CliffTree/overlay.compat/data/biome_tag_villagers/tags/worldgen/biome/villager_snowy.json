@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:ice_caves",
+    "clifftree:glacier_cliff",
+    
+    "clifftree:glacier_valley",
+    "clifftree:snowy_old_growth_taiga",
+    "clifftree:snowy_diorite_shore"
+  ]
+}

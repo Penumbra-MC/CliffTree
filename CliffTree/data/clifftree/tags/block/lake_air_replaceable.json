@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#clifftree:base_overworld_terrain",
+    "#minecraft:replaceable_by_trees",
+    "minecraft:packed_mud"
+  ]
+}

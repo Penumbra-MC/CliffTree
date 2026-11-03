@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:add",
+  "left": {
+    "type": "minecraft:add",
+    "left": {
+      "type": "minecraft:gradient",
+      "axis": "y",
+      "from_coordinate": 192,
+      "to_coordinate": 193,
+      "from_value": 0,
+      "to_value": -1
+    },
+    "right": {
+      "type": "minecraft:gradient",
+      "axis": "y",
+      "from_coordinate": 315,
+      "to_coordinate": 316,
+      "from_value": 0,
+      "to_value": -0.2
+    }
+  },
+  "right": {
+    "type": "minecraft:gradient",
+    "axis": "y",
+    "from_value": 0,
+    "from_coordinate": -8,
+    "to_value": 0.38,
+    "to_coordinate": -54
+  }
+}

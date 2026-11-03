@@ -1,0 +1,388 @@
+{
+  "type": "sequence",
+  "features": [
+    {
+      "feature": {
+        "direction": "up",
+        "allowed_placement": {
+          "type": "minecraft:matching_fluids",
+          "fluids": "#minecraft:water"
+        },
+        "prioritize_tip": false,
+        "layers": [
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 1,
+              "max_inclusive": 3
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          },
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 0,
+              "max_inclusive": 3
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          },
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 0,
+              "max_inclusive": 5
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        ],
+        "type": "minecraft:block_column"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 96
+        },
+        {
+          "type": "minecraft:offset",
+          "z": {
+            "type": "minecraft:trapezoid",
+            "max": 3,
+            "min": -3,
+            "plateau": 0
+          },
+          "x": {
+            "type": "minecraft:trapezoid",
+            "max": 3,
+            "min": -3,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "fluids": "minecraft:water",
+                "offset": [
+                  0,
+                  8,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "#clifftree:ocean_floor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "direction": "up",
+        "allowed_placement": {
+          "type": "minecraft:matching_fluids",
+          "fluids": "#minecraft:water"
+        },
+        "prioritize_tip": false,
+        "layers": [
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 2,
+              "max_inclusive": 5
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        ],
+        "type": "minecraft:block_column"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 64
+        },
+        {
+          "type": "minecraft:offset",
+          "z": {
+            "type": "minecraft:trapezoid",
+            "max": 5,
+            "min": -5,
+            "plateau": 0
+          },
+          "x": {
+            "type": "minecraft:trapezoid",
+            "max": 5,
+            "min": -5,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "fluids": "minecraft:water",
+                "offset": [
+                  0,
+                  8,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "#clifftree:ocean_floor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "direction": "up",
+        "allowed_placement": {
+          "type": "minecraft:matching_fluids",
+          "fluids": "#minecraft:water"
+        },
+        "prioritize_tip": false,
+        "layers": [
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 1,
+              "max_inclusive": 2
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        ],
+        "type": "minecraft:block_column"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 64
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "max": 8,
+            "min": -8,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "max": 8,
+            "min": -8,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "fluids": "minecraft:water",
+                "offset": [
+                  0,
+                  8,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "#clifftree:ocean_floor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "type": "simple_block",
+        "to_place": {
+          "type": "simple",
+          "state": {
+            "id": "magma_block"
+          }
+        },
+        "schedule_tick": true
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 8
+        },
+        {
+          "type": "minecraft:offset",
+          "z": {
+            "type": "minecraft:trapezoid",
+            "max": 5,
+            "min": -5,
+            "plateau": 0
+          },
+          "x": {
+            "type": "minecraft:trapezoid",
+            "max": 5,
+            "min": -5,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "fluids": "minecraft:water",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "#clifftree:ocean_floor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "type": "simple_block",
+        "to_place": {
+          "type": "simple",
+          "state": {
+            "id": "magma_block"
+          }
+        },
+        "schedule_tick": true
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 24
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "max": 2,
+            "min": -2,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "max": 2,
+            "min": -2,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "fluids": "minecraft:water",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "#clifftree:ocean_floor"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

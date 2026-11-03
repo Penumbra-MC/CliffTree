@@ -1,0 +1,155 @@
+{
+  "type": "random_selector",
+  "default": {
+    "feature": {
+      "type": "minecraft:simple_block",
+      "to_place": {
+        "type": "minecraft:simple",
+        "state": {
+          "id": "minecraft:snow",
+          "properties": {
+            "layers": "1"
+          }
+        }
+      }
+    },
+    "placement": [
+      {
+        "type": "block_predicate_filter",
+        "predicate": {
+          "type": "not",
+          "predicate": {
+            "type": "matching_blocks",
+            "blocks": [
+              "grass_block",
+              "minecraft:podzol"
+            ],
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "features": [
+    {
+      "chance": 0.3,
+      "feature": {
+        "feature": {
+          "type": "block_column",
+          "allowed_placement": {
+            "type": "inside_world_bounds",
+            "offset": [
+              0,
+              1,
+              0
+            ]
+          },
+          "direction": "down",
+          "layers": [
+            {
+              "height": 1,
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:snow",
+                  "properties": {
+                    "layers": "1"
+                  }
+                }
+              }
+            },
+            {
+              "height": 1,
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:grass_block",
+                  "properties": {
+                    "snowy": "true"
+                  }
+                }
+              }
+            }
+          ],
+          "prioritize_tip": false
+        },
+        "placement": [
+          {
+            "type": "block_predicate_filter",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "grass_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "chance": 0.3,
+      "feature": {
+        "feature": {
+          "type": "block_column",
+          "allowed_placement": {
+            "type": "inside_world_bounds",
+            "offset": [
+              0,
+              1,
+              0
+            ]
+          },
+          "direction": "down",
+          "layers": [
+            {
+              "height": 1,
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:snow",
+                  "properties": {
+                    "layers": "1"
+                  }
+                }
+              }
+            },
+            {
+              "height": 1,
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:podzol",
+                  "properties": {
+                    "snowy": "true"
+                  }
+                }
+              }
+            }
+          ],
+          "prioritize_tip": false
+        },
+        "placement": [
+          {
+            "type": "block_predicate_filter",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "podzol",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

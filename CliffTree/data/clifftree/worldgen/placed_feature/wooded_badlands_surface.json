@@ -1,0 +1,66 @@
+{
+  "feature": "clifftree:wooded_badlands_surface",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "minecraft:solid"
+        },
+        "max": [2,-1,2],
+        "min": [-2,-1,-2]
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 4,
+        "min": -4,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 4,
+        "min": -4,
+        "plateau": 0
+      },
+      "y": 0
+    },
+    {
+      "type": "heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+            "type": "height_range",
+            "min_inclusive": {
+              "absolute": 75
+            },
+            "max_inclusive": {
+              "below_top": 0
+            }
+          }
+    }
+  ]
+}

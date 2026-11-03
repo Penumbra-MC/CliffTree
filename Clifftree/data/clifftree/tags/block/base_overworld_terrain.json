@@ -3,7 +3,11 @@
   "values": [
     "#minecraft:base_stone_overworld",
     "#minecraft:badlands_terracotta",
-    "#minecraft:dirt",
+    "#minecraft:substrate_overworld",
+    "minecraft:snow_block",
+    "minecraft:powder_snow",
+    "minecraft:clay",
+    "minecraft:gravel",
     "#minecraft:sand",
     "minecraft:sandstone",
     "minecraft:red_sandstone"

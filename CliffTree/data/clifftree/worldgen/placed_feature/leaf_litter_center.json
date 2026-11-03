@@ -1,0 +1,28 @@
+{
+  "feature": {
+  "type": "minecraft:disk",
+  "half_height": 1,
+  "radius": 2,
+  "state_provider": "clifftree:leaf_litter_center",
+  "target": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "matching_block_tag",
+        "tag": "clifftree:replaceable_by_leaf_litter"
+      },
+      {
+        "type": "minecraft:solid",
+        "offset":[0,-1,0]
+      }
+    ]
+  }
+}
+,
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    }
+  ]
+}

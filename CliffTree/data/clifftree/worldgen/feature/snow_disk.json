@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 1,
+  "radius": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 4,
+    "min_inclusive": 2
+  },
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "fallback": {
+      "id": "minecraft:snow_block"
+    },
+    "rules": []
+  },
+  "target": {
+    "type": "minecraft:matching_block_tag",
+    "tag": "clifftree:stone_and_deepslate"
+  }
+}

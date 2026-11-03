@@ -1,0 +1,55 @@
+{
+  "feature": "clifftree:tree/poplar/neighbor_bush_poplar",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "data": 1,
+            "weight": 9
+          },
+          {
+            "data": 2,
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:random_chance",
+      "chance": 0.5
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:surface_water_depth_filter",
+      "max_water_depth": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "matching_block_tag",
+        "tag": "minecraft:substrate_overworld",
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "matching_biomes",
+        "biomes": "#clifftree:allows_poplar_bush_generation"
+      }
+    }
+  ]
+}

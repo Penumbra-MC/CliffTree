@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:sequence",
+  "sequence": [
+    "clifftree:overworld/under_biome_surface",
+    "clifftree:overworld/under_biome_surface/default"
+  ]
+}

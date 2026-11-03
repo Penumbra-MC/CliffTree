@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block_column",
+  "allowed_placement": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "minecraft:air"
+  },
+  "direction": "up",
+  "layers": [
+    {
+      "height": {
+        "type": "minecraft:biased_to_bottom",
+        "max_inclusive": 2,
+        "min_inclusive": 1
+      },
+      "provider": {
+        "type": "minecraft:simple",
+        "state": {
+          "id": "minecraft:cactus",
+          "properties": {
+            "age": "0"
+          }
+        }
+      }
+    },
+    {
+      "height": 1,
+      "provider": {
+        "id": "minecraft:cactus_flower"
+      }
+    }
+  ],
+  "prioritize_tip": false
+}

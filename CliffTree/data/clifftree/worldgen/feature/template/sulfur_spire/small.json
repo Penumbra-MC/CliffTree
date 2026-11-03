@@ -1,0 +1,125 @@
+{
+  "type": "weighted_random_selector",
+  "features": [
+    {
+      "data": {
+        "feature": {
+          "type": "minecraft:template",
+          "templates": [
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_8"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_7"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_6"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_5"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_4"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_3"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_2"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_1"
+              },
+              "weight": 1
+            }
+          ],
+          "processors": "clifftree:sulfur_spires/yellow_plain"
+        },
+        "placement": []
+      },
+      "weight": 1
+    },
+    {
+      "data": {
+        "feature": {
+          "type": "minecraft:template",
+          "templates": [
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_8"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_7"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_6"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_5"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_4"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_3"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_2"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "id": "clifftree:sulfur_spire/small_1"
+              },
+              "weight": 1
+            }
+          ],
+          "processors": "clifftree:sulfur_spires/yellow_orange"
+        },
+        "placement": []
+      },
+      "weight": 1
+    }
+  ]
+}

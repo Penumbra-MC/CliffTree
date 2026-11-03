@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:random_selector",
+  "features": [
+    {
+      "chance": 0.2,
+      "feature": "clifftree:bonemeal/patches/poppy"
+    },
+    {
+      "chance": 0.2,
+      "feature": "clifftree:bonemeal/patches/dandelion"
+    },
+    {
+      "chance": 0.3,
+      "feature": "clifftree:bonemeal/patches/lily_of_the_valley"
+    }
+  ],
+  "default": "clifftree:bonemeal/patches/fern"
+}

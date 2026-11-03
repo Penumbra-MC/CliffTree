@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "clifftree:tree/oak/oak",
+    {
+      "feature": "clifftree:leaf_litter",
+      "placement": []
+    }
+  ]
+}

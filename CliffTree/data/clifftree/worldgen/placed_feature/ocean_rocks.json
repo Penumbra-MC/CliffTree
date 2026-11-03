@@ -1,33 +1,31 @@
 {
   "feature": {
-    "config": {
-      "features": [
-        {
-          "chance": 0.3,
-          "feature": {
-        "feature": "clifftree:ocean_rock_medium",
-        "placement": []
-      }
-        },
-        {
-          "chance": 0.1,
-          "feature": {
-        "feature": "clifftree:ocean_rock_large",
-        "placement": []
-      }
-        },
-        {
-          "chance": 0.02,
-          "feature": {
-        "feature": "clifftree:ocean_rock_cluster",
-        "placement": []
-      }
+    "features": [
+      {
+        "chance": 0.3,
+        "feature": {
+          "feature": "clifftree:ocean_rock_medium",
+          "placement": []
         }
-      ],
-      "default": {
-        "feature": "clifftree:ocean_rock_small",
-        "placement": []
+      },
+      {
+        "chance": 0.1,
+        "feature": {
+          "feature": "clifftree:ocean_rock_large",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.02,
+        "feature": {
+          "feature": "clifftree:ocean_rock_cluster",
+          "placement": []
+        }
       }
+    ],
+    "default": {
+      "feature": "clifftree:ocean_rock_small",
+      "placement": []
     },
     "type": "minecraft:random_selector"
   },

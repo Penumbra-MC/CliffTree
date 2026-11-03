@@ -1,0 +1,158 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "minecraft:melon",
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 12
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "max": 5,
+              "min": -5,
+              "plateau": 0
+            },
+            "z": {
+              "type": "minecraft:trapezoid",
+              "max": 5,
+              "min": -5,
+              "plateau": 0
+            },
+            "y": 0
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+          },
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:replaceable"
+                },
+                {
+                  "type": "minecraft:matching_fluids",
+                  "fluids": "minecraft:empty"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "#minecraft:substrate_overworld",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:patch_packed_mud",
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 6
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "max": 3,
+              "min": -3,
+              "plateau": 0
+            },
+            "z": {
+              "type": "minecraft:trapezoid",
+              "max": 3,
+              "min": -3,
+              "plateau": 0
+            },
+            "y": 0
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+          }
+        ]
+      },
+      {
+        "feature": "minecraft:dry_grass",
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 16
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "max": 7,
+              "min": -7,
+              "plateau": 0
+            },
+            "z": {
+              "type": "minecraft:trapezoid",
+              "max": 7,
+              "min": -7,
+              "plateau": 0
+            },
+            "y": 0
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+          },
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:replaceable"
+                },
+                {
+                  "type": "minecraft:matching_fluids",
+                  "fluids": "minecraft:empty"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:packed_mud",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 75
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "feature": {
+    "type": "disk",
+    "half_height": 2,
+    "radius": {
+      "type": "uniform",
+      "min_inclusive": 2,
+      "max_inclusive": 4
+    },
+    "state_provider": {
+      "id": "sulfur"
+    },
+    "target": {
+      "type": "matching_blocks",
+      "blocks": "#minecraft:terracotta"
+    }
+  },
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "minecraft:any_of",
+          "predicates": [
+            {
+              "type": "minecraft:solid"
+            },
+            {
+              "type": "minecraft:matching_blocks",
+              "blocks": "minecraft:cave_air"
+            }
+          ]
+        },
+        "min": [
+          -2,
+          -1,
+          -2
+        ],
+        "max": [
+          2,
+          -1,
+          2
+        ]
+      }
+    },
+    {
+      "type": "count",
+      "count": 32
+    },
+    {
+      "type": "offset",
+      "x": {
+        "type": "uniform",
+        "max_inclusive": 3,
+        "min_inclusive": -3
+      },
+      "z": {
+        "type": "uniform",
+        "max_inclusive": 3,
+        "min_inclusive": -3
+      },
+      "y": 0
+    }
+  ]
+}

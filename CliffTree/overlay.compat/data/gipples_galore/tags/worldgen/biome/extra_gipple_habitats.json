@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ice_caves",
+    "clifftree:cold_caves",
+    
+    "clifftree:mushroom_caves",
+    "clifftree:dirt_caves"
+  ]
+}

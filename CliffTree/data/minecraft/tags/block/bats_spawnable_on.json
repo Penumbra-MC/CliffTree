@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:base_stone_overworld",
+    "#minecraft:leaves",
+    "#minecraft:sand",
+    "#minecraft:moss_blocks",
+    "#minecraft:overworld_natural_logs",
+    "#minecraft:substrate_overworld",
+    "minecraft:bamboo",
+    "#minecraft:terracotta"
+  ]
+}

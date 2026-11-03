@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:add",
+  "left": -11,
+  "right": {
+    "type": "minecraft:mul",
+    "left": {
+      "type": "minecraft:gradient",
+      "axis": "y",
+      "from_coordinate": 64,
+      "to_coordinate": 80,
+      "from_value": 0,
+      "to_value": -10
+    },
+    "right": {
+      "type": "minecraft:clamp",
+      "input": {
+        "type": "minecraft:add",
+        "left": 0.3,
+        "right": {
+          "type": "minecraft:noise",
+          "noise": "clifftree:cave_river/roof_sharpness",
+          "xz_scale": 0.6,
+          "y_scale": 0
+        }
+      },
+      "min": 0,
+      "max": 1
+    }
+  }
+}

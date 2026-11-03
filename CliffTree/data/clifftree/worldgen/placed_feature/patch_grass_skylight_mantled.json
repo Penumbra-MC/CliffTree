@@ -1,0 +1,150 @@
+{
+  "feature": {
+    "type": "sequence",
+    "features": [
+      {
+        "feature": {
+          "type": "simple_block",
+          "to_place": {
+            "type": "weighted",
+            "entries": [
+              {
+                "data": "minecraft:short_grass",
+                "weight": 5
+              },
+              {
+                "data": "minecraft:fern",
+                "weight": 1
+              },
+              {
+                "data": "minecraft:snow",
+                "weight": 4
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "simple_block",
+          "to_place": {
+            "id": "snow_block"
+          }
+        },
+        "placement": [
+          {
+            "type": "offset",
+            "x": 0,
+            "y": -1,
+            "z": 0
+          },
+          {
+            "type": "block_predicate_filter",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "#clifftree:snow_and_substrates"
+            }
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:patch_snow_block",
+        "placement": [
+          {
+            "type": "rarity_filter",
+            "chance": 16
+          },
+          {
+            "type": "count",
+            "count": 3
+          },
+          {
+            "type": "offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "min": -1,
+              "max": 1,
+              "plateau": 0
+            },
+            "y": 0,
+            "z": {
+              "type": "minecraft:trapezoid",
+              "min": -1,
+              "max": 1,
+              "plateau": 0
+            }
+          },
+          {
+            "type": "heightmap",
+            "heightmap": "MOTION_BLOCKING"
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 4
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count",
+      "count": 48
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 5,
+        "min": -5,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 5,
+        "min": -5,
+        "plateau": 0
+      },
+      "y": {
+        "type": "minecraft:trapezoid",
+        "max": 3,
+        "min": -3,
+        "plateau": 0
+      }
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": [
+              "minecraft:air",
+              "minecraft:leaf_litter"
+            ]
+          },
+          {
+            "type": "minecraft:would_survive",
+            "state": "minecraft:short_grass"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -2,13 +2,13 @@
   "placement": {
     "type": "minecraft:random_spread",
     "salt": 165745295,
-    "frequency": 0.7,
     "separation": 4,
-    "spacing": 24
+    "spacing": 32,
+    "spread_type": "linear"
   },
   "structures": [
     {
-      "structure": "minecraft:shipwreck",
+      "structure": "clifftree:shipwreck",
       "weight": 1
     }
   ]

@@ -7,6 +7,113 @@
   "downfall": 0.8,
   "attributes": {
     "minecraft:audio/background_music": {},
+    "minecraft:gameplay/creature_world_gen_spawn_probability": 0.1,
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {
+          "minecraft:spider": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          },
+          "minecraft:zombie": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          },
+          "minecraft:zombie_villager": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          },
+          "minecraft:skeleton": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          },
+          "minecraft:creeper": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          },
+          "minecraft:enderman": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          },
+          "minecraft:witch": {
+            "energy_budget": 0.5,
+            "charge": 0.7
+          }
+        },
+        "spawns_by_category": {
+          "ambient": [
+            {
+              "type": "minecraft:bat",
+              "weight": 10,
+              "count": 8
+            }
+          ],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "minecraft:spider",
+              "weight": 100,
+              "count": 4
+            },
+            {
+              "type": "minecraft:zombie",
+              "weight": 95,
+              "count": 2
+            },
+            {
+              "type": "minecraft:zombie_villager",
+              "weight": 5,
+              "count": 1
+            },
+            {
+              "type": "minecraft:skeleton",
+              "weight": 80,
+              "count": 1
+            },
+            {
+              "type": "minecraft:creeper",
+              "weight": 20,
+              "count": 1
+            },
+            {
+              "type": "minecraft:slime",
+              "weight": 100,
+              "count": 4
+            },
+            {
+              "type": "minecraft:enderman",
+              "weight": 20,
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 1,
+                "max_inclusive": 4
+              }
+            },
+            {
+              "type": "minecraft:witch",
+              "weight": 10,
+              "count": 1
+            }
+          ],
+          "underground_water_creature": [
+            {
+              "type": "minecraft:glow_squid",
+              "weight": 10,
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 4,
+                "max_inclusive": 6
+              }
+            }
+          ],
+          "water_ambient": [],
+          "water_creature": []
+        }
+      },
+      "modifier": "overlay"
+    },
     "minecraft:audio/music_volume": 0,
     "minecraft:visual/fog_color": "#817770",
     "minecraft:visual/sky_color": "#b9b9b9",
@@ -15,7 +122,13 @@
     "minecraft:visual/fog_end_distance": 384,
     "minecraft:visual/sky_light_factor": 0.75,
     "minecraft:visual/sunrise_sunset_color": "#00000000",
-    "minecraft:visual/cloud_color": "#7DFFFFFF"
+    "minecraft:visual/cloud_color": "#7DFFFFFF",
+    "minecraft:gameplay/increased_fire_burnout": true,
+    "minecraft:visual/block_light_tint": "#ffe7b8",
+    "minecraft:visual/default_dripstone_particle": {
+      "type": "minecraft:block",
+      "block_state": "minecraft:air"
+    }
   },
   "effects": {
     "dry_foliage_color": "#a0a69c",
@@ -79,117 +192,14 @@
       "minecraft:flower_pale_garden",
       "minecraft:patch_grass_forest",
       "minecraft:patch_sugar_cane",
-      "clifftree:patch_pumpkin_pale_garden"
+      "clifftree:patch_pumpkin_pale_garden",
+      "clifftree:patch_tall_grass_extra",
+      "clifftree:bonemeal/pale_garden"
     ],
     [
-      
-      
       "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
-  "spawn_costs": {
-    "minecraft:spider": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    },
-    "minecraft:zombie": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    },
-    "minecraft:zombie_villager": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    },
-    "minecraft:skeleton": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    },
-    "minecraft:creeper": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    },
-    "minecraft:enderman": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    },
-    "minecraft:witch": {
-      "energy_budget": 0.5,
-      "charge": 0.7
-    }
-  },
-  "spawners": {
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "maxCount": 8,
-        "minCount": 8,
-        "weight": 10
-      }
-    ],
-    "axolotls": [],
-    "creature": [],
-    "misc": [],
-    "monster": [
-      {
-        "type": "minecraft:spider",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 100
-      },
-      {
-        "type": "minecraft:zombie",
-        "maxCount": 2,
-        "minCount": 2,
-        "weight": 95
-      },
-      {
-        "type": "minecraft:zombie_villager",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 5
-      },
-      {
-        "type": "minecraft:skeleton",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 80
-      },
-      {
-        "type": "minecraft:creeper",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 20
-      },
-      {
-        "type": "minecraft:slime",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 100
-      },
-      {
-        "type": "minecraft:enderman",
-        "maxCount": 4,
-        "minCount": 1,
-        "weight": 20
-      },
-      {
-        "type": "minecraft:witch",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 10
-      }
-    ],
-    "underground_water_creature": [
-      {
-        "type": "minecraft:glow_squid",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 10
-      }
-    ],
-    "water_ambient": [],
-    "water_creature": []
-  },
   "temperature": 0.7
 }

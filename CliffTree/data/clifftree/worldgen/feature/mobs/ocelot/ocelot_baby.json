@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "clifftree:mobs/ocelot/ocelot_baby"
+      },
+      "weight": 1
+    }
+  ]
+}

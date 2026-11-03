@@ -1,0 +1,41 @@
+{
+  "feature": "clifftree:mobs/parrot/red",
+  "placement": [
+    {
+      "type": "count",
+      "count": {
+        "type": "minecraft:uniform",
+        "max_inclusive": 6,
+        "min_inclusive": 4
+      }
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 2,
+        "min": -2,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 2,
+        "min": -2,
+        "plateau": 0
+      },
+      "y": 0
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "matching_blocks",
+            "blocks": "#clifftree:does_not_block_mob_generation"
+          }
+        ]
+      }
+    }
+  ]
+}

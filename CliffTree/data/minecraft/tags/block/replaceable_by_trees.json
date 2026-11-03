@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:red_shrub",
+    "minecraft:moss_carpet",
+    "minecraft:leaf_litter",
+    "minecraft:pink_petals",
+    "minecraft:wildflowers",
+    "minecraft:snow"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 4,
+  "radius": 8,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:any_of",
+          "predicates": [
+            {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:would_survive",
+                    "state": {
+                      "id": "minecraft:glow_lichen",
+                      "properties": {
+                        "down": "false",
+                        "east": "true",
+                        "north": "true",
+                        "south": "true",
+                        "west": "true"
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "minecraft:any_of",
+                  "predicates": [
+                    {
+                      "type": "matching_blocks",
+                      "blocks": "#minecraft:base_stone_overworld",
+                      "offset": [1,0,0]
+                    },
+                    {
+                      "type": "matching_blocks",
+                      "blocks": "#minecraft:base_stone_overworld",
+                      "offset": [-1,0,0]
+                    },
+                    {
+                      "type": "matching_blocks",
+                      "blocks": "#minecraft:base_stone_overworld",
+                      "offset": [0,0,1]
+                    },
+                    {
+                      "type": "matching_blocks",
+                      "blocks": "#minecraft:base_stone_overworld",
+                      "offset": [0,0,-1]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:any_of",
+              "predicates": [
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:would_survive",
+                    "state": {
+                      "id": "minecraft:glow_lichen",
+                      "properties": {
+                        "down": "false",
+                        "east": "true",
+                        "north": "true",
+                        "south": "true",
+                        "west": "true"
+                      }
+                    },
+                    "offset": [
+                      0,
+                      -3,
+                      0
+                    ]
+                  }
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "#minecraft:base_stone_overworld",
+                  "offset": [
+                    0,
+                    1,
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:stone"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_block_tag",
+    "tag": "clifftree:snow_and_substrates"
+  }
+}

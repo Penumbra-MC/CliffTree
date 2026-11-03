@@ -1,0 +1,38 @@
+{
+  "feature": {
+    "type": "minecraft:overlay",
+    "features": [
+      {
+        "feature": "minecraft:mega_spruce",
+        "placement": []
+      },
+      {
+        "feature": "clifftree:tree/decorator/shelf_mushroom_wide_trunk_low",
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 96
+          },
+          {
+            "type": "minecraft:random_chance",
+            "chance": 0.0075
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "id": "minecraft:spruce_sapling",
+          "properties": {
+            "stage": "0"
+          }
+        }
+      }
+    }
+  ]
+}

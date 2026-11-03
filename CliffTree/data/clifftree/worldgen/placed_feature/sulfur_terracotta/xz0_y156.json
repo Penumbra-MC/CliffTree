@@ -1,0 +1,17 @@
+{
+  "feature": "clifftree:sulfur_terracotta",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "absolute": 156
+      }
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 0,
+      "z": 0,
+      "y": 0
+    }
+  ]
+}

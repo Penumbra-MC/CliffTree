@@ -1,0 +1,20 @@
+{
+  "type": "lithostitched:wrap_noise_router",
+  "priority": 99999,
+  "dimension": "minecraft:overworld",
+  "target": "depth",
+  "wrapper_function": {
+    "type": "minecraft:add",
+    "left": {
+      "type": "minecraft:clamp",
+      "input": {
+        "type": "minecraft:add",
+        "left": "minecraft:overworld/depth",
+        "right": 0
+      },
+      "min": 0,
+      "max": 2
+    },
+    "right": "clifftree:sky"
+  }
+}

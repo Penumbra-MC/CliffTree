@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    {
+      "feature": "clifftree:tree/birch/birch",
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_block_tag",
+            "tag": "clifftree:sapling_growable/default",
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+          {
+            "feature": {
+              "type": "simple_block",
+              "to_place": {
+                "id": "birch_log"
+              }
+            },
+            "placement": []
+          }
+  ]
+}

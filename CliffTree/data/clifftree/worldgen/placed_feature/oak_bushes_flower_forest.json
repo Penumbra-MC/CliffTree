@@ -1,0 +1,31 @@
+{
+  "feature": "clifftree:tree/oak/oak_bush",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:surface_water_depth_filter",
+      "max_water_depth": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "matching_block_tag",
+        "tag": "minecraft:substrate_overworld",
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

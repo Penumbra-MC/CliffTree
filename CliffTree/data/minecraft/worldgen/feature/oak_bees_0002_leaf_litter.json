@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "clifftree:tree/oak/oak",
+    {
+      "feature": {
+        "type": "minecraft:overlay",
+        "features": [
+          {
+            "feature": "clifftree:leaf_litter",
+            "placement": [
+              {
+                "type": "minecraft:random_chance",
+                "chance": 0.6
+              }
+            ]
+          },
+          {
+            "feature": "clifftree:tree/decorator/bee_nest_placement",
+            "placement": [
+              {
+                "type": "minecraft:random_chance",
+                "chance": 0.002
+              }
+            ]
+          }
+        ]
+      },
+      "placement": []
+    }
+  ]
+}

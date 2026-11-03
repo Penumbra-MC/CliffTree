@@ -1,0 +1,102 @@
+{
+  "type": "minecraft:overlay",
+  "features": [
+    {
+      "feature": {
+        "type": "disk",
+        "half_height": 4,
+        "radius": {
+          "type": "uniform",
+          "min_inclusive": 6,
+          "max_inclusive": 8
+        },
+        "state_provider": {
+          "id": "basalt"
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": "deepslate"
+        }
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "disk",
+        "half_height": 4,
+        "radius": {
+          "type": "uniform",
+          "min_inclusive": 2,
+          "max_inclusive": 5
+        },
+        "state_provider": {
+          "id": "tuff"
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": ["deepslate","basalt"]
+        }
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "disk",
+        "half_height": 3,
+        "radius": {
+          "type": "uniform",
+          "min_inclusive": 1,
+          "max_inclusive": 4
+        },
+        "state_provider": {
+          "id": "cinnabar"
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": ["deepslate","tuff","basalt"]
+        }
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "disk",
+        "half_height": 2,
+        "radius": {
+          "type": "uniform",
+          "max_inclusive": 3,
+          "min_inclusive": 2
+        },
+        "state_provider": {
+          "type": "rule_based",
+          "rules": [
+            {
+              "if_true": {
+                "type": "would_survive",
+                "state": {
+                  "id": "glow_lichen",
+                  "properties": {
+                    "down": "true",
+                    "east": "true",
+                    "west": "true",
+                    "north": "true",
+                    "south": "true",
+                    "up": "false"
+                  }
+                }
+              },
+              "then": {
+                "id": "tuff"
+              }
+            }
+          ]
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": ["deepslate","smooth_basalt","tuff","cinnabar","basalt"]
+        }
+      },
+      "placement": []
+    }
+  ]
+}

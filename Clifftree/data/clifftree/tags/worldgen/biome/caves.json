@@ -4,8 +4,10 @@
     "clifftree:warm_caves",
     "clifftree:lukewarm_caves",
     "clifftree:cold_caves",
-    "clifftree:frozen_caves",
+    "minecraft:ice_caves",
+    "minecraft:sulfur_caves",
     "clifftree:mushroom_caves",
+    "clifftree:pale_grotto",
     "minecraft:lush_caves",
     "minecraft:dripstone_caves"
   ]

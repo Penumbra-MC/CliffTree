@@ -1,0 +1,104 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 4,
+  "radius": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 6,
+    "min_inclusive": 2
+  },
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "minecraft:height_range",
+              "max_inclusive": {
+                "absolute": 55
+              },
+              "min_inclusive": {
+                "above_bottom": 0
+              }
+            },
+            {
+              "type": "minecraft:solid",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            },
+            {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "matching_blocks",
+                "blocks": "clay",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        "then": {
+          "id": "gravel"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "minecraft:height_range",
+              "max_inclusive": {
+                "absolute": 55
+              },
+              "min_inclusive": {
+                "above_bottom": 0
+              }
+            },
+            {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "minecraft:solid",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            },
+            {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "matching_blocks",
+                "blocks": "clay",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        "then": {
+          "id": "stone"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": [
+      "minecraft:sand",
+      "minecraft:clay",
+      "minecraft:sandstone",
+      "minecraft:stone"
+    ]
+  }
+}

@@ -1,12 +1,14 @@
 {
   "replace": false,
   "values": [
+    "minecraft:ice_caves",
     "clifftree:bog",
-    "clifftree:frozen_caves",
     "clifftree:snowy_diorite_shore",
     "clifftree:glacier_cliff",
     "clifftree:glacier_valley",
     "clifftree:snowy_old_growth_taiga",
-    "clifftree:tundra"
+    "clifftree:tundra",
+    
+    "clifftree:mantled_forest"
   ]
 }

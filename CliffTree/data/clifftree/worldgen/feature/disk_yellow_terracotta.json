@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 1,
+  "radius": 8,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "clifftree:sulfur_crags"
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:yellow_terracotta"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "minecraft:terracotta"
+  }
+}

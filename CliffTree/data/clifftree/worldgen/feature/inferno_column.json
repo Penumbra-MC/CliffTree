@@ -1,0 +1,342 @@
+{
+  "type": "overlay",
+  "features": [
+    {
+      "feature": "clifftree:inferno_delta_ground",
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 12
+        },
+        {
+          "type": "minecraft:offset",
+          "z": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 5,
+            "min_inclusive": -5,
+            "mean": 0,
+            "deviation": 2
+          },
+          "x": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 5,
+            "min_inclusive": -5,
+            "mean": 0,
+            "deviation": 2
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "direction": "up",
+        "allowed_placement": {
+          "type": "minecraft:matching_blocks",
+          "blocks": [
+            "air",
+            "water",
+            "lava"
+          ]
+        },
+        "prioritize_tip": false,
+        "layers": [
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 1,
+              "max_inclusive": 3
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          },
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 0,
+              "max_inclusive": 3
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          },
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 0,
+              "max_inclusive": 5
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:basalt",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        ],
+        "type": "minecraft:block_column"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 256
+        },
+        {
+          "type": "minecraft:offset",
+          "z": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 3,
+            "min_inclusive": -3,
+            "mean": 0,
+            "deviation": 1
+          },
+          "x": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 3,
+            "min_inclusive": -3,
+            "mean": 0,
+            "deviation": 1
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_block_tag",
+                "tag": "clifftree:base_stone_sulfur_caves",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "matching_blocks",
+                  "blocks": "cave_air",
+                "offset": [
+                  0,
+                  4,
+                  0
+                ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "direction": "up",
+        "allowed_placement": {
+          "type": "minecraft:matching_blocks",
+          "blocks": [
+            "air",
+            "water",
+            "lava"
+          ]
+        },
+        "prioritize_tip": false,
+        "layers": [
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 2,
+              "max_inclusive": 5
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:deepslate",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        ],
+        "type": "minecraft:block_column"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 96
+        },
+        {
+          "type": "minecraft:offset",
+          "z": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 5,
+            "min_inclusive": -5,
+            "mean": 0,
+            "deviation": 2
+          },
+          "x": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 5,
+            "min_inclusive": -5,
+            "mean": 0,
+            "deviation": 2
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_block_tag",
+                "tag": "clifftree:base_stone_sulfur_caves",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "matching_blocks",
+                  "blocks": "cave_air",
+                "offset": [
+                  0,
+                  4,
+                  0
+                ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "direction": "up",
+        "allowed_placement": {
+          "type": "minecraft:matching_blocks",
+          "blocks": [
+            "air",
+            "water",
+            "lava"
+          ]
+        },
+        "prioritize_tip": false,
+        "layers": [
+          {
+            "height": {
+              "type": "minecraft:biased_to_bottom",
+              "min_inclusive": 1,
+              "max_inclusive": 2
+            },
+            "provider": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:deepslate",
+                "properties": {
+                  "axis": "y"
+                }
+              }
+            }
+          }
+        ],
+        "type": "minecraft:block_column"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 64
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 8,
+            "min_inclusive": -8,
+            "mean": 0,
+            "deviation": 4
+          },
+          "z": {
+            "type": "minecraft:clamped_normal",
+            "max_inclusive": 8,
+            "min_inclusive": -8,
+            "mean": 0,
+            "deviation": 4
+          },
+          "y": {
+            "type": "minecraft:trapezoid",
+            "max": 1,
+            "min": -1,
+            "plateau": 0
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_block_tag",
+                "tag": "clifftree:base_stone_sulfur_caves",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "matching_blocks",
+                  "blocks": "cave_air",
+                "offset": [
+                  0,
+                  4,
+                  0
+                ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

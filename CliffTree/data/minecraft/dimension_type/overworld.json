@@ -1,4 +1,6 @@
 {
+  "default_clock": "minecraft:overworld",
+  "has_ender_dragon_fight": false,
   "ambient_light": 0,
   "attributes": {
     "minecraft:audio/ambient_sounds": {
@@ -30,14 +32,16 @@
     },
     "minecraft:gameplay/nether_portal_spawns_piglin": true,
     "minecraft:gameplay/respawn_anchor_works": false,
+    "minecraft:visual/ambient_light_color": "#0a0a0a",
     "minecraft:visual/cloud_color": "#ccffffff",
     "minecraft:visual/cloud_height": 192.33,
-    "minecraft:visual/fog_color": "#AEE3FC",
-    "minecraft:visual/sky_color": "#5CACE3",
+    "minecraft:visual/fog_color": "#b0def4",
+    "minecraft:visual/sky_color": "#4590ca",
     "minecraft:visual/fog_start_distance": 16,
-    "minecraft:visual/fog_end_distance": 1024,
+    "minecraft:visual/fog_end_distance": 768,
     "minecraft:visual/sky_fog_end_distance": 192,
-    "minecraft:visual/sunrise_sunset_color": "#FFFFFFFF"
+    "minecraft:visual/sunrise_sunset_color": "#FFFFFFFF",
+    "minecraft:visual/block_light_tint": "#b5a878"
   },
   "coordinate_scale": 1,
   "has_ceiling": false,

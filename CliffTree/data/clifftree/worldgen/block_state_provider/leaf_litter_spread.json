@@ -1,0 +1,730 @@
+{
+  "type": "minecraft:rule_based",
+  "rules": [
+    {
+      "if_true": {
+        "type": "all_of",
+        "predicates": [
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [0,0,1]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [1,0,0]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [0,0,-1]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [-1,0,0]
+          }
+        ]
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "4"
+              }
+            },
+            "weight": 8
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "4"
+              }
+            },
+            "weight": 8
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "4"
+              }
+            },
+            "weight": 8
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "4"
+              }
+            },
+            "weight": 8
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    }, 
+    {
+      "if_true": {
+        "type": "all_of",
+        "predicates": [
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [0,0,1]
+            }
+          },
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [-1,0,0]
+            }
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [0,0,-1]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [1,0,0]
+          }
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "leaf_litter",
+          "properties": {
+            "segment_amount": "3",
+            "facing": "south"
+          }
+        }
+      }
+    }, 
+    {
+      "if_true": {
+        "type": "all_of",
+        "predicates": [
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [0,0,1]
+            }
+          },
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [1,0,0]
+            }
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [0,0,-1]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [-1,0,0]
+          }
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "leaf_litter",
+          "properties": {
+            "segment_amount": "3",
+            "facing": "east"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "all_of",
+        "predicates": [
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [0,0,-1]
+            }
+          },
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [1,0,0]
+            }
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [0,0,1]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [-1,0,0]
+          }
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "leaf_litter",
+          "properties": {
+            "segment_amount": "3",
+            "facing": "north"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "all_of",
+        "predicates": [
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [0,0,-1]
+            }
+          },
+          {
+            "type": "not",
+            "predicate": {
+              "type": "matching_block_tag",
+              "tag": "clifftree:leaf_litter_full_when_adjacent",
+              "offset": [-1,0,0]
+            }
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [0,0,1]
+          },
+          {
+            "type": "matching_block_tag",
+            "tag": "clifftree:leaf_litter_full_when_adjacent",
+            "offset": [1,0,0]
+          }
+        ]
+      },
+      "then": {
+        "type": "simple",
+        "state": {
+          "id": "leaf_litter",
+          "properties": {
+            "segment_amount": "3",
+            "facing": "west"
+          }
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "not",
+        "predicate": {
+        "type": "matching_block_tag",
+        "tag": "clifftree:leaf_litter_full_when_adjacent",
+        "offset": [
+          0,
+          0,
+          -1
+        ]
+      }
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "if_true": {
+        "type": "not",
+        "predicate": {
+        "type": "matching_block_tag",
+        "tag": "clifftree:leaf_litter_full_when_adjacent",
+        "offset": [
+          0,
+          0,
+          1
+        ]
+      }
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "if_true": {
+        "type": "not",
+        "predicate": {
+        "type": "matching_block_tag",
+        "tag": "clifftree:leaf_litter_full_when_adjacent",
+        "offset": [
+          1,
+          0,
+          0
+        ]
+      }
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "if_true": {
+        "type": "not",
+        "predicate": {
+        "type": "matching_block_tag",
+        "tag": "clifftree:leaf_litter_full_when_adjacent",
+        "offset": [
+          -1,
+          0,
+          1
+        ]
+      }
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 4
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "2"
+              }
+            },
+            "weight": 5
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "3"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    }
+  ],
+  "fallback": {
+    "type": "weighted",
+    "entries": [
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "north",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "south",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "east",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "id": "leaf_litter",
+              "properties": {
+                "facing": "west",
+                "segment_amount": "1"
+              }
+            },
+            "weight": 1
+          }
+    ]
+  }
+}

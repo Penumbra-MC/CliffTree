@@ -1,0 +1,50 @@
+{
+  "feature": "clifftree:inferno_cinnabar",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 128
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 256
+        },
+        "min_inclusive": {
+          "above_bottom": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:environment_scan",
+      "direction_of_search": "down",
+      "max_steps": 32,
+      "target_condition": {
+        "type": "has_sturdy_face",
+        "direction": "up",
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      },
+      "allowed_search_condition": {
+        "type": "matching_blocks",
+        "blocks": [
+          "air",
+          "cave_air",
+          "water",
+          "lava"
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

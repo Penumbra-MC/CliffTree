@@ -1,0 +1,68 @@
+{
+  "feature": "clifftree:mobs/creeper",
+  "placement": [
+    {
+      "type": "rarity_filter",
+      "chance": 16
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 2,
+        "min": -2,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 2,
+        "min": -2,
+        "plateau": 0
+      },
+      "y": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:volume_match",
+            "match": {
+              "type": "matching_blocks",
+              "blocks": "#clifftree:does_not_block_mob_generation"
+            },
+            "min": [0,0,0],
+            "max": [0,2,0]
+          },
+          {
+            "type": "minecraft:solid",
+            "offset": [0,-1,0]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
-  "feature": "minecraft:spruce_base",
+  "feature": "clifftree:spruce",
   "placement": [
     {
       "type": "minecraft:block_predicate_filter",
       "predicate": {
         "type": "minecraft:would_survive",
         "state": {
-          "Name": "minecraft:spruce_sapling",
-          "Properties": {
+          "id": "minecraft:spruce_sapling",
+          "properties": {
             "stage": "0"
           }
         }

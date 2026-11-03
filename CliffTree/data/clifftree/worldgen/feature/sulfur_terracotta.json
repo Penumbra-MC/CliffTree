@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:disk",
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:brown_terracotta"
+        },
+        "then": {
+          "id": "minecraft:yellow_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:red_terracotta"
+        },
+        "then": {
+          "id": "minecraft:orange_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:white_terracotta"
+        },
+        "then": {
+          "id": "minecraft:yellow_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:light_gray_terracotta"
+        },
+        "then": {
+          "id": "minecraft:orange_terracotta"
+        }
+      }
+    ]
+  },
+  "radius": 8,
+  "half_height": 4,
+  "target": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "matching_block_tag",
+        "tag": "minecraft:badlands_terracotta"
+      },
+      {
+        "type": "minecraft:matching_biomes",
+        "biomes": [
+          "clifftree:sulfur_crags",
+          "minecraft:sulfur_caves"
+        ]
+      }
+    ]
+  }
+}

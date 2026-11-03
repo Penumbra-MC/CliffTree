@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    {
+      "feature": "clifftree:spruce",
+      "placement": []
+    },
+    {
+      "feature": "clifftree:patch_podzol_dappled",
+      "placement": [
+        {
+          "type": "minecraft:heightmap",
+          "heightmap": "WORLD_SURFACE_WG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "minecraft:spruce_checked",
+      "weight": 1
+    },
+    {
+      "data": "clifftree:tree/oak/oak_flower_forest",
+      "weight": 2
+    }
+  ]
+}

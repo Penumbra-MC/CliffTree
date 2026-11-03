@@ -1,0 +1,85 @@
+{
+  "type": "weighted",
+  "entries": [
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "north",
+          "segment_amount": "4"
+        }
+      },
+      "weight": 8
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "south",
+          "segment_amount": "4"
+        }
+      },
+      "weight": 8
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "east",
+          "segment_amount": "4"
+        }
+      },
+      "weight": 8
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "west",
+          "segment_amount": "4"
+        }
+      },
+      "weight": 8
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "north",
+          "segment_amount": "3"
+        }
+      },
+      "weight": 4
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "south",
+          "segment_amount": "3"
+        }
+      },
+      "weight": 4
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "east",
+          "segment_amount": "3"
+        }
+      },
+      "weight": 4
+    },
+    {
+      "data": {
+        "id": "leaf_litter",
+        "properties": {
+          "facing": "west",
+          "segment_amount": "3"
+        }
+      },
+      "weight": 4
+    }
+  ]
+}

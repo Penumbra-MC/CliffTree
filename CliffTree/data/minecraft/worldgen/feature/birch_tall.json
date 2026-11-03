@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": "clifftree:tree/birch/super_birch_worldgen_vine",
+      "weight": 9
+    },
+    {
+      "data": "clifftree:tree/birch/birch_worldgen",
+      "weight": 1
+    }
+  ]
+}

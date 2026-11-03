@@ -1,0 +1,152 @@
+{
+  "type": "minecraft:rule_based",
+  "rules": [
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#clifftree:shelf_mushroom_placeable_worldgen",
+        "offset": [
+          0,
+          0,
+          1
+        ]
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "0",
+                "facing": "north"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "1",
+                "facing": "north"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#clifftree:shelf_mushroom_placeable_worldgen",
+        "offset": [
+          0,
+          0,
+          -1
+        ]
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "0",
+                "facing": "south"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "1",
+                "facing": "south"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#clifftree:shelf_mushroom_placeable_worldgen",
+        "offset": [
+          -1,
+          0,
+          0
+        ]
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "0",
+                "facing": "east"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "1",
+                "facing": "east"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "if_true": {
+        "type": "matching_blocks",
+        "blocks": "#clifftree:shelf_mushroom_placeable_worldgen",
+        "offset": [
+          1,
+          0,
+          0
+        ]
+      },
+      "then": {
+        "type": "weighted",
+        "entries": [
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "0",
+                "facing": "west"
+              }
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "id": "shelf_mushroom",
+              "properties": {
+                "age": "1",
+                "facing": "west"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    }
+  ],
+  "fallback": {
+    "id": "air"
+  }
+}

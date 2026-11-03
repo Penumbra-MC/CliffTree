@@ -1,0 +1,137 @@
+{
+  "type": "minecraft:disk",
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "fallback": {
+      "id": "minecraft:water"
+    },
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "offset": [
+            0,
+            -1,
+            0
+          ],
+          "blocks": "minecraft:brain_coral_block"
+        },
+        "then": {
+          "type": "minecraft:weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "data": "minecraft:brain_coral"
+            },
+            {
+              "weight": 1,
+              "data": "minecraft:brain_coral_fan"
+            }
+          ]
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "offset": [
+            0,
+            -1,
+            0
+          ],
+          "blocks": "minecraft:bubble_coral_block"
+        },
+        "then": {
+          "type": "minecraft:weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "data": "minecraft:bubble_coral"
+            },
+            {
+              "weight": 1,
+              "data": "minecraft:bubble_coral_fan"
+            }
+          ]
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "offset": [
+            0,
+            -1,
+            0
+          ],
+          "blocks": "minecraft:fire_coral_block"
+        },
+        "then": {
+          "type": "minecraft:weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "data": "minecraft:fire_coral"
+            },
+            {
+              "weight": 1,
+              "data": "minecraft:fire_coral_fan"
+            }
+          ]
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "offset": [
+            0,
+            -1,
+            0
+          ],
+          "blocks": "minecraft:horn_coral_block"
+        },
+        "then": {
+          "type": "minecraft:weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "data": "minecraft:horn_coral"
+            },
+            {
+              "weight": 1,
+              "data": "minecraft:horn_coral_fan"
+            }
+          ]
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "offset": [
+            0,
+            -1,
+            0
+          ],
+          "blocks": "minecraft:tube_coral_block"
+        },
+        "then": {
+          "type": "minecraft:weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "data": "minecraft:tube_coral"
+            },
+            {
+              "weight": 1,
+              "data": "minecraft:tube_coral_fan"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "radius": 8,
+  "half_height": 4,
+  "target": {
+    "type": "minecraft:matching_block_tag",
+    "tag": "minecraft:corals"
+  }
+}

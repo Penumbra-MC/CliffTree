@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:noise",
+    "noise": {
+      "normalize": "legacy",
+      "octave_count": 1,
+      "base_octave": 0
+    },
+    "scale": 0.01,
+    "seed": 2345,
+    "states": [
+      "minecraft:red_tulip",
+      "minecraft:orange_tulip",
+      "minecraft:pink_tulip",
+      "minecraft:white_tulip",
+      "minecraft:red_tulip",
+      "minecraft:orange_tulip",
+      "minecraft:pink_tulip",
+      "minecraft:white_tulip"
+    ]
+  }
+}

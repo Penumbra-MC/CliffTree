@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:mud",
+    [
+      "minecraft:short_dry_grass",
+      "minecraft:tall_dry_grass"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:packed_mud"
+  }
+}

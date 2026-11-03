@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:disk",
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:yellow_terracotta"
+        },
+        "then": {
+          "id": "minecraft:brown_terracotta"
+        }
+      }
+    ]
+  },
+  "radius": 8,
+  "half_height": 4,
+  "target": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "matching_block_tag",
+        "tag": "minecraft:badlands_terracotta"
+      },
+      {
+        "type": "minecraft:matching_biomes",
+        "biomes": "#minecraft:is_badlands"
+      }
+    ]
+  }
+}

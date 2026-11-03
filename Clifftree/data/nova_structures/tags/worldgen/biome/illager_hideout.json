@@ -17,33 +17,33 @@
     "minecraft:plains",
     "minecraft:sunflower_plains",
     "minecraft:desert",
-	  "minecraft:dripstone_caves",
-	  "minecraft:lush_caves",
-	{
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    {
       "id": "clifftree:caves",
       "required": false
     },
-	{
+    {
       "id": "clifftree:sparse_forest",
       "required": false
     },
-	{
+    {
       "id": "clifftree:mushroom_caves",
       "required": false
     },
-	{
+    {
       "id": "clifftree:inferno",
       "required": false
     },
-	{
-      "id": "clifftree:frozen_caves",
+    {
+      "id": "minecraft:ice_caves",
       "required": false
     },
-	{
+    {
       "id": "clifftree:cold_caves",
       "required": false
     },
-	{
+    {
       "id": "clifftree:bog",
       "required": false
     }

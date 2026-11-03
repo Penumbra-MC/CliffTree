@@ -1,0 +1,82 @@
+{
+  "feature": {
+  "type": "minecraft:sequence",
+  "features": [
+    "clifftree:tree/poplar/dappled_poplar",
+    {
+      "feature": {
+        "type": "weighted_random_selector",
+        "features": [
+          {
+            "data": {
+              "feature": "clifftree:leaf_litter",
+              "placement": []
+            },
+            "weight": 1
+          },
+          {
+            "data": {
+              "feature": "clifftree:leaf_litter_dense",
+              "placement": []
+            },
+            "weight": 2
+          }
+        ]
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "minecraft:overlay",
+        "features": [
+          {
+            "feature": "clifftree:tree/decorator/trunk_vine",
+            "placement": [
+              {
+                "type": "minecraft:random_chance",
+                "chance": 0.4
+              }
+            ]
+          },
+          {
+            "feature": "clifftree:tree/decorator/shelf_mushroom",
+            "placement": [
+              {
+                "type": "minecraft:count",
+                "count": 96
+              },
+              {
+                "type": "minecraft:random_chance",
+                "chance": 0.015
+              }
+            ]
+          }
+        ]
+      },
+      "placement": []
+    }
+  ]
+},
+  "placement": [
+    {
+      "type": "minecraft:noise_based_count",
+      "noise_to_count_ratio": 10,
+      "noise_factor": 150,
+      "noise_offset": 0.8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:surface_water_depth_filter",
+      "max_water_depth": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

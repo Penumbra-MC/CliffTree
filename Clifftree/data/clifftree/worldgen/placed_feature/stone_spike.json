@@ -1,57 +1,5 @@
 {
-  "feature": {
-    "type": "minecraft:random_patch",
-    "config": {
-      "tries": 128,
-      "xz_spread": 5,
-      "y_spread": 3,
-      "feature": {
-        "feature": {
-          "type": "minecraft:block_column",
-          "config": {
-            "direction": "up",
-            "allowed_placement": {
-              "type": "minecraft:matching_blocks",
-              "blocks": [
-                "minecraft:water",
-                "minecraft:air"
-              ]
-            },
-            "prioritize_tip": true,
-            "layers": [
-              {
-                "height": {
-                  "type": "minecraft:biased_to_bottom",
-                    "min_inclusive": 2,
-                    "max_inclusive": 6
-                },
-                "provider": {
-                  "type": "minecraft:simple_state_provider",
-                  "state": {
-                    "Name": "minecraft:stone"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "placement": [
-          {
-            "type": "minecraft:block_predicate_filter",
-            "predicate": {
-              "type": "minecraft:matching_blocks",
-              "offset": [
-                0,
-                -1,
-                0
-              ],
-              "blocks": "minecraft:gravel"
-            }
-          }
-        ]
-      }
-    }
-  },
+  "feature": "clifftree:stone_spike",
   "placement": [
     {
       "type": "minecraft:noise_based_count",
@@ -80,6 +28,42 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count",
+      "count": 128
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 5,
+        "min": -5,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 5,
+        "min": -5,
+        "plateau": 0
+      },
+      "y": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "offset": [
+          0,
+          -1,
+          0
+        ],
+        "blocks": ["gravel"]
+      }
     }
   ]
 }

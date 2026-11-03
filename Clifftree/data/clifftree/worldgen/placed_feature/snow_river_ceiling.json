@@ -2,12 +2,12 @@
   "feature": "clifftree:snow_river_ceiling",
   "placement": [
     {
-			"type": "minecraft:count",
-			"count": 125
-		},
-		{
-			"type": "minecraft:in_square"
-		},
+      "type": "minecraft:count",
+      "count": 125
+    },
+    {
+      "type": "minecraft:in_square"
+    },
     {
       "type": "minecraft:height_range",
       "height": {
@@ -29,7 +29,10 @@
       },
       "allowed_search_condition": {
         "type": "minecraft:matching_blocks",
-        "blocks": ["minecraft:air","minecraft:water"]
+        "blocks": [
+          "minecraft:air",
+          "minecraft:water"
+        ]
       }
     },
     {

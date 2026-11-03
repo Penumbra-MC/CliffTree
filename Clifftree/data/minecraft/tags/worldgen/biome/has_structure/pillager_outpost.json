@@ -3,10 +3,14 @@
     "minecraft:savanna_plateau",
     "minecraft:badlands",
     "minecraft:wooded_badlands",
-    "windswept_hills",
-    "windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
     "clifftree:shrubland",
     "clifftree:oasis",
-    "minecraft:sunflower_plains"
+    "clifftree:sparse_forest",
+    "clifftree:coniferous_badlands",
+    "minecraft:sunflower_plains",
+    "#minecraft:is_taiga"
   ]
 }

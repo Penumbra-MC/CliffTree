@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#minecraft:is_badlands",
+    "clifftree:glacier_valley",
+    "clifftree:glacier_cliff",
+    "minecraft:savanna_plateau",
+    "clifftree:shrubland",
+    "clifftree:sulfur_crags",
+    "clifftree:oasis",
+    "minecraft:frozen_peaks",
+    "clifftree:sky/frozen_summit",
+    "clifftree:sky/celadon_skies"
+  ]
+}

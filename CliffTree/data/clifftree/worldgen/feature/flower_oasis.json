@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:noise",
+    "noise": {
+      "normalize": "legacy",
+      "octave_count": 1,
+      "base_octave": 0
+    },
+    "scale": 0.020833334,
+    "seed": 2345,
+    "states": [
+      "minecraft:allium",
+      "minecraft:azure_bluet",
+      "minecraft:allium",
+      "minecraft:red_tulip",
+      "minecraft:poppy",
+      "minecraft:orange_tulip",
+      "minecraft:white_tulip",
+      "minecraft:azure_bluet",
+      "minecraft:dandelion",
+      "minecraft:pink_tulip",
+      "minecraft:oxeye_daisy",
+      "minecraft:allium",
+      "minecraft:cornflower"
+    ]
+  }
+}

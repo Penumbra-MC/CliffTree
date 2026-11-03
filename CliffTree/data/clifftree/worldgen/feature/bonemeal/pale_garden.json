@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:random_selector",
+  "features": [
+    {
+      "chance": 0.5,
+      "feature": "clifftree:bonemeal/patches/eyeblossom"
+    }
+  ],
+  "default": {
+    "feature": {
+      "to_place": {
+        "id": "minecraft:air"
+      },
+      "type": "minecraft:simple_block"
+    },
+    "placement": [
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:air"
+        }
+      }
+    ]
+  }
+}

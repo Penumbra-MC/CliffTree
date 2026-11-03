@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "clifftree:mobs/axolotl/axolotl_gold"
+      },
+      "weight": 2
+    },
+    {
+      "data": {
+        "id": "clifftree:mobs/axolotl/axolotl_gold_baby"
+      },
+      "weight": 1
+    }
+  ]
+}

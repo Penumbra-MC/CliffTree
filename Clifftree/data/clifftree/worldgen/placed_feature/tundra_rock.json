@@ -22,25 +22,23 @@
       }
     },
     {
-      "type": "minecraft:in_square"
-    },
-    {
       "type": "minecraft:heightmap",
-      "heightmap": "MOTION_BLOCKING"
+      "heightmap": "WORLD_SURFACE_WG"
     },
     {
       "type": "minecraft:block_predicate_filter",
       "predicate": {
-        "type": "minecraft:would_survive",
-        "offset": [
-          0,
-          0,
-          0
-        ],
-        "state": {
-          "Name": "minecraft:short_grass"
-        }
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:gravel",
+        "offset": [0,-1,0]
       }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
     },
     {
       "type": "minecraft:biome"

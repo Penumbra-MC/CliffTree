@@ -1,0 +1,106 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 4,
+  "radius": 8,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "minecraft:eroded_badlands"
+            },
+            {
+              "type": "height_range",
+              "min_inclusive": {
+                "absolute": 76
+              },
+              "max_inclusive": {
+                "below_top": 0
+              }
+            },
+            {
+                "type": "minecraft:volume_match",
+                "match": {
+                  "type": "minecraft:solid"
+                },
+                "max": [
+                  1,
+                  -1,
+                  1
+                ],
+                "min": [
+                  -1,
+                  -1,
+                  -1
+                ]
+              }
+          ]
+        },
+        "then": {
+          "id": "minecraft:terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "minecraft:eroded_badlands"
+            },
+            {
+              "type": "height_range",
+              "min_inclusive": {
+                "above_bottom": 0
+              },
+              "max_inclusive": {
+                "absolute": 75
+              }
+            },
+            {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "solid",
+                "offset":[0,-1,0]
+              }
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:red_sandstone"
+        }
+      },
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "minecraft:eroded_badlands"
+            },
+            {
+              "type": "height_range",
+              "min_inclusive": {
+                "above_bottom": 0
+              },
+              "max_inclusive": {
+                "absolute": 75
+              }
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:red_sand"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "#minecraft:badlands_terracotta"
+  }
+}

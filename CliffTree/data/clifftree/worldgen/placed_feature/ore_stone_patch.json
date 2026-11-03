@@ -1,0 +1,58 @@
+{
+  "feature": {
+    "type": "minecraft:overlay",
+    "features": [
+      {
+        "feature": "clifftree:ore_stone_patch",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:matching_biomes",
+              "biomes": "#clifftree:allows_ore_stone_patches"
+            }
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:ore_stone_patch_buried",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:matching_biomes",
+              "biomes": "#clifftree:allows_buried_ore_stone_patches"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 16
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "min": -3,
+        "max": 3,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "min": -3,
+        "max": 3,
+        "plateau": 0
+      },
+      "y": {
+        "type": "minecraft:trapezoid",
+        "min": -1,
+        "max": 1,
+        "plateau": 0
+      }
+    }
+  ]
+}

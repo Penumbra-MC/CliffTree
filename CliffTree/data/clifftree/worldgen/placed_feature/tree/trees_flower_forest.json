@@ -1,0 +1,128 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:weighted_random_selector",
+          "features": [
+            {
+              "data": "clifftree:tree/oak/oak_flower_forest",
+              "weight": 6
+            },
+            {
+              "data": "minecraft:fancy_oak_bees_002",
+              "weight": 2
+            },
+            {
+              "data": "clifftree:tree/birch/birch_worldgen",
+              "weight": 3
+            }
+          ]
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:simple_block",
+          "to_place": {
+            "type": "minecraft:weighted",
+            "entries": [
+              {
+                "data": "minecraft:large_fern",
+                "weight": 1
+              },
+              {
+                "data": "minecraft:firefly_bush",
+                "weight": 1
+              }
+            ]
+          }
+        },
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 8
+          },
+          {
+            "type": "minecraft:random_chance",
+            "chance": 0.2
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "min": -2,
+              "max": 2,
+              "plateau": 0
+            },
+            "z": {
+              "type": "minecraft:trapezoid",
+              "min": -2,
+              "max": 2,
+              "plateau": 0
+            },
+            "y": 0
+          },
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "air"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "air",
+                  "offset": [
+                    0,
+                    1,
+                    0
+                  ]
+                },
+                {
+                  "type": "minecraft:would_survive",
+                  "state": "minecraft:large_fern"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:tree/decorator/trunk_vine",
+        "placement": [
+          {
+            "type": "minecraft:random_chance",
+            "chance": 0.4
+          }
+        ]
+      },
+      "clifftree:flowerbed_flower_forest"
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:noise_threshold_count",
+      "above_noise": 7,
+      "below_noise": 5,
+      "noise_level": -0.8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:surface_water_depth_filter",
+      "max_water_depth": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

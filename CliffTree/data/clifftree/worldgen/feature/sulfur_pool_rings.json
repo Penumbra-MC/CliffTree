@@ -1,0 +1,158 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    {
+      "feature": {
+        "surface": "floor",
+        "depth": 3,
+        "vertical_range": 4,
+        "extra_bottom_block_chance": 0.2,
+        "extra_edge_column_chance": 0.5,
+        "vegetation_chance": 0,
+        "xz_radius": {
+          "type": "biased_to_bottom",
+          "max_inclusive": 6,
+          "min_inclusive": 4
+        },
+        "replaceable": "#minecraft:base_stone_overworld",
+        "ground_state": {
+          "id": "minecraft:cinnabar"
+        },
+        "vegetation_feature": "minecraft:sulfur_spike",
+        "type": "minecraft:vegetation_patch"
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "disk",
+        "half_height": 4,
+        "radius": {
+          "type": "uniform",
+          "min_inclusive": 4,
+          "max_inclusive": 6
+        },
+        "state_provider": {
+          "id": "cinnabar"
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": "#minecraft:base_stone_overworld"
+        }
+      },
+      "placement": [
+        {
+          "type": "count",
+          "count": 8
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 2,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 2,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 0,
+            "max_inclusive": 1
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "surface": "floor",
+        "depth": 4,
+        "vertical_range": 4,
+        "extra_bottom_block_chance": 0.2,
+        "extra_edge_column_chance": 0.3,
+        "vegetation_chance": 0,
+        "xz_radius": {
+          "type": "uniform",
+          "max_inclusive": 4,
+          "min_inclusive": 2
+        },
+        "replaceable": [
+          "cinnabar"
+        ],
+        "ground_state": {
+          "id": "minecraft:sulfur"
+        },
+        "vegetation_feature": "minecraft:sulfur_spike",
+        "type": "minecraft:vegetation_patch"
+      },
+      "placement": [
+        {
+          "type": "count",
+          "count": 3
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 2,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 2,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 0,
+            "max_inclusive": 1
+          }
+        }
+      ]
+    },
+    {
+      "feature": {
+        "type": "minecraft:disk",
+        "half_height": 4,
+        "radius": 4,
+        "state_provider": "clifftree:calcite_ring",
+        "target": {
+          "type": "matching_blocks",
+          "blocks": "#clifftree:calcite_ring_replaceable"
+        }
+      },
+      "placement": [
+        {
+          "type": "count",
+          "count": 16
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 2,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 2,
+            "plateau": 0
+          },
+          "y": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 0,
+            "max_inclusive": 1
+          }
+        }
+      ]
+    }
+  ]
+}

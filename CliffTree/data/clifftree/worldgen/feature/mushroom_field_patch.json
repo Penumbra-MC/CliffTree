@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:dual_noise",
+    "seed": 2345,
+    "noise": {
+      "base_octave": -3,
+      "normalize": "legacy",
+      "octave_count": 1
+    },
+    "scale": 1,
+    "variety": {
+      "min_inclusive": 2,
+      "max_inclusive": 2
+    },
+    "slow_noise": {
+      "base_octave": -10,
+      "normalize": "legacy",
+      "octave_count": 1
+    },
+    "slow_scale": 1,
+    "states": [
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom"
+    ]
+  }
+}

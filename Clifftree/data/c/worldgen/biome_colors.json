@@ -1,4 +1,9 @@
 {
+  "minecraft:dappled_forest": {
+    "r": 211,
+    "g": 109,
+    "b": 61
+  },
   "minecraft:mushroom_fields": {
     "r": 250,
     "g": 145,
@@ -299,10 +304,10 @@
     "g": 103,
     "b": 88
   },
-  "clifftree:frozen_caves": {
-    "r": 101,
-    "g": 132,
-    "b": 143
+  "minecraft:ice_caves": {
+    "r": 146,
+    "g": 181,
+    "b": 201
   },
   "clifftree:bog": {
     "r": 101,
@@ -370,9 +375,9 @@
     "b": 173
   },
   "clifftree:tundra": {
-    "r": 136,
-    "g": 140,
-    "b": 83
+    "r": 152,
+    "g": 122,
+    "b": 71
   },
   "clifftree:stone_ocean": {
     "r": 59,
@@ -389,14 +394,79 @@
     "g": 186,
     "b": 43
   },
-  "clifftree:temperate_beach": {
-    "r": 136,
-    "g": 136,
-    "b": 136
-  },
   "clifftree:kelp_forest": {
     "r": 14,
     "g": 131,
     "b": 75
+  },
+  "clifftree:pale_grotto": {
+    "r": 124,
+    "g": 124,
+    "b": 124
+  },
+  "clifftree:sky/azure_skies": {
+    "r": 90,
+    "g": 209,
+    "b": 254
+  },
+  "clifftree:sky/celadon_skies": {
+    "r": 116,
+    "g": 235,
+    "b": 228
+  },
+  "clifftree:sky/indigo_skies": {
+    "r": 137,
+    "g": 181,
+    "b": 252
+  },
+  "clifftree:sky/viridian_skies": {
+    "r": 123,
+    "g": 244,
+    "b": 190
+  },
+  "clifftree:sky/cerulean_skies": {
+    "r": 96,
+    "g": 163,
+    "b": 244
+  },
+  "clifftree:sky/atmospore": {
+    "r": 182,
+    "g": 176,
+    "b": 251
+  },
+  "clifftree:sky/jagged_summit": {
+    "r": 183,
+    "g": 239,
+    "b": 249
+  },
+  "clifftree:sky/frozen_summit": {
+    "r": 185,
+    "g": 215,
+    "b": 255
+  },
+  "clifftree:sky/stony_summit": {
+    "r": 180,
+    "g": 216,
+    "b": 205
+  },
+  "clifftree:sky/the_frontier": {
+    "r": 53,
+    "g": 75,
+    "b": 117
+  },
+  "clifftree:sulfur_crags": {
+    "r": 255,
+    "g": 217,
+    "b": 83
+  },
+  "clifftree:dusty_river": {
+    "r": 80,
+    "g": 119,
+    "b": 129
+  },
+  "clifftree:mantled_forest": {
+    "r": 223,
+    "g": 162,
+    "b": 100
   }
 }

@@ -1,0 +1,22 @@
+{
+  "feature": {
+    "type": "minecraft:template",
+    "templates": [
+      {
+        "data": {
+          "id": "clifftree:mobs/zombie_nautilus/default"
+        },
+        "weight": 1
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+          "type": "matching_biomes",
+          "biomes": "#minecraft:spawns_coral_variant_zombie_nautilus"
+        }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "feature": {
+    "type": "minecraft:overlay",
+    "features": [
+      {
+        "feature": "clifftree:tree/birch/super_birch",
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:overlay",
+          "features": [
+            {
+              "feature": "clifftree:tree/decorator/bee_nest_placement",
+              "placement": []
+            }
+          ]
+        },
+        "placement": []
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "id": "minecraft:birch_sapling",
+          "properties": {
+            "stage": "0"
+          }
+        }
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:not",
+        "predicate": {
+          "type": "matching_blocks",
+          "blocks": "minecraft:cave_air"
+        }
+      }
+    }
+  ]
+}

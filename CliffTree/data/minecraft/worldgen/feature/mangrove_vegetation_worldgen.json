@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:random_selector",
+  "default": "clifftree:mangrove_checked_worldgen",
+  "features": [
+    {
+      "chance": 0.85,
+      "feature": "clifftree:tall_mangrove_checked_worldgen"
+    }
+  ]
+}

@@ -1,56 +1,74 @@
 {
   "pack": {
     "description": "§6CliffTree§f, vanilla-like worldgen overhaul!",
-    "min_format": 93,
-    "max_format": [
-      100,
-      10
-    ]
+    "min_format": 121,
+    "max_format": 121
   },
   "overlays": {
     "entries": [
       {
         "directory": "deprecated",
-        "min_format": 93,
-        "max_format": [
-          100,
-          10
-        ]
+        "min_format": 121,
+        "max_format": 121
+      },
+      {
+        "directory": "overlay.compat",
+        "min_format": 121,
+        "max_format": 121
+      },
+      {
+        "directory": "overlay.sky_biomes",
+        "min_format": 121,
+        "max_format": 121
       }
     ]
   },
-    "neoforge:overlays": {
-        "entries": [
+  "neoforge:overlays": {
+    "entries": [
       {
         "directory": "overlay.lithostitched",
-        "formats": [1, 99],
-        "min_format": 1,
-        "max_format": 99,
+        "min_format": 121,
+        "max_format": 121,
         "neoforge:conditions": [
           {
             "type": "neoforge:mod_loaded",
             "modid": "lithostitched"
           }
         ]
-      }
+      },
+      {
+        "directory": "overlay.dnt_swamp_hut",
+        "min_format": 121,
+        "max_format": 121,
+        "neoforge:conditions": [
+          {
+            "type": "neoforge:mod_loaded",
+            "modid": "mr_dungeons_andtavernsswamphutoverhaul"
+          }
         ]
-    },
-    "fabric:overlays": {
-        "entries": [
+      }
+    ]
+  },
+  "fabric:overlays": {
+    "entries": [
+      {
+        "directory": "overlay.dnt_swamp_hut",
+        "condition": {
+          "condition": "fabric:all_mods_loaded",
+          "values": [
+            "mr_dungeons_andtavernsswamphutoverhaul"
+          ]
+        }
+      },
       {
         "directory": "overlay.lithostitched",
         "condition": {
-          "condition": "fabric:and",
+          "condition": "fabric:all_mods_loaded",
           "values": [
-            {
-              "condition": "fabric:all_mods_loaded",
-              "values": [
-                "lithostitched"
-              ]
-            }
+            "lithostitched"
           ]
         }
       }
-        ]
-    }
+    ]
+  }
 }

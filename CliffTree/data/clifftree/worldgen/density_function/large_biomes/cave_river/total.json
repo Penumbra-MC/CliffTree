@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:interpolated",
+  "cell_size_xz": 4,
+  "cell_size_y": 4,
+  "input": {
+    "type": "minecraft:max",
+    "left": {
+      "type": "minecraft:range_choice",
+      "input": "clifftree:large_biomes/cave_river/pillars",
+      "max_exclusive": 0.03,
+      "min_inclusive": -64,
+      "when_in_range": -64,
+      "when_out_of_range": "clifftree:large_biomes/cave_river/pillars"
+    },
+    "right": {
+      "type": "minecraft:add",
+      "left": "clifftree:cave_river/noise/density_additive",
+      "right": {
+        "type": "minecraft:mul",
+        "left": -1,
+        "right": {
+          "type": "minecraft:mul",
+          "left": {
+            "type": "minecraft:mul",
+            "left": "clifftree:large_biomes/cave_river/spline/continents",
+            "right": "clifftree:large_biomes/cave_river/spline/erosion"
+          },
+          "right": {
+            "type": "minecraft:mul",
+            "left": "clifftree:cave_river/spline/elevation",
+            "right": "clifftree:cave_river/spline/ridge"
+          }
+        }
+      }
+    }
+  }
+}

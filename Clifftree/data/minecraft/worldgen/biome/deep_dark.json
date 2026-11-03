@@ -14,9 +14,26 @@
       }
     },
     "minecraft:gameplay/increased_fire_burnout": true,
+    "minecraft:gameplay/creature_world_gen_spawn_probability": 0.1,
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        }
+      },
+      "modifier": "overlay"
+    },
     "minecraft:visual/sky_color": "#000000",
-    "minecraft:visual/fog_color": "#000000",
-    "minecraft:visual/fog_start_distance": 0,
+    "minecraft:visual/fog_color": "#203035",
+    "minecraft:visual/fog_start_distance": 64,
     "minecraft:visual/fog_end_distance": 128,
     "minecraft:visual/water_fog_color": "#17143A",
     "minecraft:visual/ambient_particles": [
@@ -25,23 +42,29 @@
           "type": "minecraft:ash"
         },
         "probability": 0.0016
+      },
+      {
+        "particle": {
+          "type": "minecraft:trial_spawner_detection_ominous"
+        },
+        "probability": 0.00005
       }
     ],
     "minecraft:visual/sunrise_sunset_color": "#00000000",
-    "minecraft:visual/cloud_color": "#00000000"
+    "minecraft:visual/cloud_color": "#00000000",
+    "minecraft:visual/block_light_tint": "#92adad",
+    "minecraft:visual/ambient_light_color": "#050505"
   },
   "effects": {
     "water_color": "#282475"
-
   },
   "features": [
     [],
     [],
     [
-      "minecraft:amethyst_geode",
-      "clifftree:ore_diamond_tuff"
+      "minecraft:amethyst_geode"
     ],
-    [ 
+    [
       "minecraft:fossil_upper",
       "minecraft:fossil_lower",
       "minecraft:monster_room",
@@ -82,37 +105,18 @@
     ],
     [
       "clifftree:deepdark_ruins",
-      "clifftree:ore_infested",
       "minecraft:sculk_vein",
-      "minecraft:sculk_patch_deep_dark"
+      "minecraft:sculk_patch_deep_dark",
+      "clifftree:patch/patch_sculk_lava_level"
     ],
     [],
     [
-      "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass_2",
-      "minecraft:trees_plains",
-      "minecraft:flower_plains",
-      "minecraft:patch_grass_plain",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_pumpkin",
-      "minecraft:patch_sugar_cane"
+      "minecraft:glow_lichen"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
-  "spawn_costs": {},
-  "spawners": {
-    "ambient": [],
-    "axolotls": [],
-    "creature": [],
-    "misc": [],
-    "monster": [],
-    "underground_water_creature": [],
-    "water_ambient": [],
-    "water_creature": []
-  },
   "temperature": 0.8
 }

@@ -1,0 +1,149 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "data": {
+        "feature": "clifftree:tree/decorator/bee_nest",
+        "placement": [
+          {
+            "type": "minecraft:offset",
+            "x": 1,
+            "y": 0,
+            "z": 0
+          },
+          {
+            "type": "minecraft:environment_scan",
+            "direction_of_search": "up",
+            "max_steps": 24,
+            "target_condition": {
+              "type": "all_of",
+              "predicates": [
+                {
+                  "type": "any_of",
+                  "predicates": [
+                    {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:leaves",
+                      "offset": [0,1,0]
+                    },
+                    {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:overworld_natural_logs",
+                      "offset": [0,1,0]
+                    }
+                  ]
+                },
+                {
+                  "type": "matching_block_tag",
+                  "tag": "minecraft:air"
+                },
+                {
+                  "type": "matching_block_tag",
+                  "tag": "minecraft:air",
+                  "offset": [0,0,1]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 1
+    },
+    {
+      "data": {
+        "feature": "clifftree:tree/decorator/bee_nest",
+        "placement": [
+          {
+            "type": "minecraft:offset",
+            "x": -1,
+            "y": 0,
+            "z": 0
+          },
+          {
+            "type": "minecraft:environment_scan",
+            "direction_of_search": "up",
+            "max_steps": 24,
+            "target_condition": {
+              "type": "all_of",
+              "predicates": [
+                {
+                  "type": "any_of",
+                  "predicates": [
+                    {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:leaves",
+                      "offset": [0,1,0]
+                    },
+                    {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:overworld_natural_logs",
+                      "offset": [0,1,0]
+                    }
+                  ]
+                },
+                {
+                  "type": "matching_block_tag",
+                  "tag": "minecraft:air"
+                },
+                {
+                  "type": "matching_block_tag",
+                  "tag": "minecraft:air",
+                  "offset": [0,0,1]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 1
+    },
+    {
+      "data": {
+        "feature": "clifftree:tree/decorator/bee_nest",
+        "placement": [
+          {
+            "type": "minecraft:offset",
+            "x": 0,
+            "y": 0,
+            "z": 1
+          },
+          {
+            "type": "minecraft:environment_scan",
+            "direction_of_search": "up",
+            "max_steps": 24,
+            "target_condition": {
+              "type": "all_of",
+              "predicates": [
+                {
+                  "type": "any_of",
+                  "predicates": [
+                    {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:leaves",
+                      "offset": [0,1,0]
+                    },
+                    {
+                      "type": "minecraft:matching_block_tag",
+                      "tag": "minecraft:overworld_natural_logs",
+                      "offset": [0,1,0]
+                    }
+                  ]
+                },
+                {
+                  "type": "matching_block_tag",
+                  "tag": "minecraft:air"
+                },
+                {
+                  "type": "matching_block_tag",
+                  "tag": "minecraft:air",
+                  "offset": [0,0,1]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "weight": 1
+    }
+  ]
+}

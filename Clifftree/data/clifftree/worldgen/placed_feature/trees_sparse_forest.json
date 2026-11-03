@@ -19,6 +19,16 @@
       "heightmap": "OCEAN_FLOOR"
     },
     {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "not",
+        "predicate": {
+          "type": "matching_blocks",
+          "blocks": "minecraft:cave_air"
+        }
+      }
+    },
+    {
       "type": "minecraft:biome"
     }
   ]

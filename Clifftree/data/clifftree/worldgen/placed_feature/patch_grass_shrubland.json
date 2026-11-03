@@ -1,11 +1,35 @@
 {
-  "feature": "minecraft:patch_dry_grass",
+  "feature": {
+    "type": "minecraft:overlay",
+    "features": [
+      {
+        "feature": "minecraft:grass",
+        "placement": []
+      },
+      {
+        "feature": "minecraft:dry_grass",
+        "placement": [
+          {
+            "type": "minecraft:random_chance",
+            "chance": 0.7
+          }
+        ]
+      },
+      {
+        "feature": "minecraft:tall_grass",
+        "placement": [
+          {
+            "type": "minecraft:random_chance",
+            "chance": 0.1
+          }
+        ]
+      }
+    ]
+  },
   "placement": [
     {
-      "type": "minecraft:noise_threshold_count",
-      "above_noise": 3,
-      "below_noise": 1,
-      "noise_level": -0.8
+      "type": "minecraft:count",
+      "count": 3
     },
     {
       "type": "minecraft:in_square"
@@ -16,6 +40,46 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count",
+      "count": 64
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 8,
+        "min": -8,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 8,
+        "min": -8,
+        "plateau": 0
+      },
+      "y": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_block_tag",
+            "tag": "minecraft:air"
+          },
+          {
+            "type": "minecraft:would_survive",
+            "state": "minecraft:short_grass"
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "feature": "clifftree:disk_red_sand_badlands",
+  "placement": [
+    {
+      "count": 8,
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "minecraft:solid"
+        },
+        "max": [2,-1,2],
+        "min": [-2,-1,-2]
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          {
+            "type": "matching_biomes",
+            "biomes": "#clifftree:dry_badlands"
+          },
+          {
+            "type": "minecraft:height_range",
+            "max_inclusive": {
+              "absolute": 80
+            },
+            "min_inclusive": {
+              "below_top": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 4,
+        "min": -4,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 4,
+        "min": -4,
+        "plateau": 0
+      },
+      "y": -1
+    }
+  ]
+}

@@ -27,9 +27,5 @@
   "biome.clifftree.tropical_river": "熱帶河流",
   "biome.clifftree.tundra": "凍原",
   "biome.clifftree.warm_caves": "温暖洞穴",
-  "biome.clifftree.warm_river": "温暖河流",
-  "clifftree.advancements.adventure.adventuring_time.description": "探索世界，發現生物羣落！",
-  "clifftree.advancements.adventure.adventuring_time.title": "探險時光",
-  "clifftree.advancements.adventure.distant_lands.description": "發現主世界的每個生物羣落",
-  "clifftree.advancements.adventure.distant_lands.title": "遙遠的秘境"
+  "biome.clifftree.warm_river": "温暖河流"
 }

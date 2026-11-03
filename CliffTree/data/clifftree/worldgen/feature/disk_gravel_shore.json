@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:disk",
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "fallback": {
+      "id": "minecraft:gravel"
+    },
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "minecraft:matching_block_tag",
+              "offset": [
+                0,
+                -1,
+                0
+              ],
+              "tag": "minecraft:replaceable"
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:stone"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_block_tag",
+    "tag": "clifftree:shore_replaceable"
+  },
+  "radius": {
+    "type": "minecraft:uniform",
+    "min_inclusive": 5,
+    "max_inclusive": 6
+  },
+  "half_height": 4
+}

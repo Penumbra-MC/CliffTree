@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "clifftree:leaf_litter_center",
+    "clifftree:leaf_litter_spread_dense",
+    "clifftree:leaf_litter_extra"
+  ]
+}

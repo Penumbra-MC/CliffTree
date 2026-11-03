@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    {
+      "feature": "clifftree:tree/oak/select_oak",
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "minecraft:overlay",
+        "features": [
+          {
+            "feature": "clifftree:tree/decorator/bee_nest_placement",
+            "placement": [
+              {
+                "type": "minecraft:random_chance",
+                "chance": 0.05
+              }
+            ]
+          },
+          {
+            "feature": {
+              "type": "simple_block",
+              "to_place": {
+                "id": "oak_log"
+              }
+            },
+            "placement": []
+          }
+        ]
+      },
+      "placement": []
+    }
+  ]
+}

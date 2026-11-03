@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "values": [
+    "clifftree:bonemeal/birch_forest",
+    "clifftree:bonemeal/cherry_grove",
+    "clifftree:bonemeal/dandelion",
+    "clifftree:bonemeal/default",
+    "clifftree:bonemeal/flower_forest",
+    "clifftree:bonemeal/forest",
+    "clifftree:bonemeal/meadow",
+    "clifftree:bonemeal/plain",
+    "clifftree:bonemeal/pale_garden",
+    "clifftree:bonemeal/shrubland",
+    "clifftree:bonemeal/swamp",
+    "clifftree:bonemeal/taiga",
+    "clifftree:bonemeal/tundra"
+  ]
+}

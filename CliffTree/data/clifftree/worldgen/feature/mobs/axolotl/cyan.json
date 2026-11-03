@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "clifftree:mobs/axolotl/axolotl_cyan"
+      },
+      "weight": 2
+    },
+    {
+      "data": {
+        "id": "clifftree:mobs/axolotl/axolotl_cyan_baby"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 4,
+  "radius": 8,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+          "type": "minecraft:not",
+          "predicate": {
+            "type": "minecraft:would_survive",
+            "state": {
+              "id": "minecraft:glow_lichen",
+              "properties": {
+                "east": "true",
+                "north": "true",
+                "south": "true",
+                "west": "true"
+              }
+            },
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        },
+          {
+            "type": "matching_blocks",
+            "blocks": ["coarse_dirt","grass_block","dirt"]
+          }
+          ]
+        },
+        "then": "clifftree:terracotta_cliff_neighbor_check"
+      },
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+            "type": "minecraft:would_survive",
+            "state": {
+              "id": "minecraft:glow_lichen",
+              "properties": {
+                "east": "true",
+                "north": "true",
+                "south": "true",
+                "west": "true",
+                "up": "true",
+                "down": "true"
+              }
+            }
+          },
+          {
+            "type": "matching_blocks",
+            "blocks": "coarse_dirt",
+            "offset": [0,1,0]
+          }
+          ]
+        },
+        "then": {
+          "id": "minecraft:coarse_dirt"
+        }
+      },
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+            "type": "minecraft:would_survive",
+            "state": {
+              "id": "minecraft:glow_lichen",
+              "properties": {
+                "east": "true",
+                "north": "true",
+                "south": "true",
+                "west": "true",
+                "up": "true",
+                "down": "true"
+              }
+            }
+          },
+          {
+            "type": "matching_blocks",
+            "blocks": ["grass_block","dirt"],
+            "offset": [0,1,0]
+          }
+          ]
+        },
+        "then": {
+          "id": "minecraft:dirt"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "#clifftree:wooded_badlands_surface"
+  }
+}

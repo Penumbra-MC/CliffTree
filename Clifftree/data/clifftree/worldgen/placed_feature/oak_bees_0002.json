@@ -1,13 +1,30 @@
 {
-  "feature": "clifftree:oak_bees_0002",
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:tree/oak/oak",
+        "placement": []
+      },
+      {
+        "feature": "clifftree:tree/decorator/bee_nest_placement",
+        "placement": [
+          {
+            "type": "minecraft:random_chance",
+            "chance": 0.002
+          }
+        ]
+      }
+    ]
+  },
   "placement": [
     {
       "type": "minecraft:block_predicate_filter",
       "predicate": {
         "type": "minecraft:would_survive",
         "state": {
-          "Name": "minecraft:oak_sapling",
-          "Properties": {
+          "id": "minecraft:oak_sapling",
+          "properties": {
             "stage": "0"
           }
         }

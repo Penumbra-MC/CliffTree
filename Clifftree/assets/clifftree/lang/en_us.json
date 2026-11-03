@@ -1,4 +1,15 @@
 {
+  "biome.clifftree.sky.azure_sky": "Azure Sky",
+  "biome.clifftree.sky.celadon_sky": "Celadon Sky",
+  "biome.clifftree.sky.viridian_sky": "Viridian Sky",
+  "biome.clifftree.sky.indigo_sky": "Indigo Sky",
+  "biome.clifftree.sky.cerulian_sky": "Cerulian Sky",
+  "biome.clifftree.sky.atmospore": "Atmospore",
+  "biome.clifftree.sky.the_frontier": "The Frontier",
+  "biome.clifftree.sky.stony_summit": "Stony Summit",
+  "biome.clifftree.sky.jagged_summit": "Jagged Summit",
+  "biome.clifftree.sky.frozen_summit": "Frozen Summit",
+
   "biome.clifftree.bog": "Bog",
   "biome.clifftree.caves": "Caves",
   "biome.clifftree.cold_caves": "Cold Caves",
@@ -7,7 +18,6 @@
   "biome.clifftree.desert_cliff": "Desert Cliff",
   "biome.clifftree.diorite_shore": "Diorite Shore",
   "biome.clifftree.dirt_caves": "Dirt Caves",
-  "biome.clifftree.frozen_caves": "Frozen Caves",
   "biome.clifftree.glacier_cliff": "Glacier Cliff",
   "biome.clifftree.glacier_valley": "Glacier Valley",
   "biome.clifftree.granite_shore": "Granite Shore",
@@ -22,14 +32,17 @@
   "biome.clifftree.snowy_old_growth_taiga": "Snowy Old Growth Taiga",
   "biome.clifftree.sparse_forest": "Sparse Forest",
   "biome.clifftree.stone_ocean": "Stone Ocean",
-  "biome.clifftree.temperate_beach": "Temperate Beach (old)",
   "biome.clifftree.tropical_beach": "Tropical Beach",
   "biome.clifftree.tropical_river": "Tropical River",
   "biome.clifftree.tundra": "Tundra",
   "biome.clifftree.warm_caves": "Warm Caves",
   "biome.clifftree.warm_river": "Warm River",
-  "clifftree.advancements.adventure.adventuring_time.description": "Explore the world, discover biomes!",
-  "clifftree.advancements.adventure.adventuring_time.title": "Adventuring Time",
-  "clifftree.advancements.adventure.distant_lands.description": "Discover every single biome the Overworld has to offer",
-  "clifftree.advancements.adventure.distant_lands.title": "Distant Lands"
+  "biome.clifftree.pale_grotto": "Pale Grotto",
+  "biome.clifftree.sulfur_crags": "Sulfur Crags",
+  "biome.clifftree.mantled_forest": "Mantled Forest",
+  "biome.clifftree.dusty_river": "Dusty River",
+  "biome.minecraft.ice_caves": "Ice Caves",
+
+  "biome.clifftree.temperate_beach": "Temperate Beach (old)",
+  "biome.clifftree.frozen_caves": "Frozen Caves (old)"
 }

@@ -1,0 +1,87 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:template/sulfur_spire/large",
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:speleothem",
+          "base_block": "minecraft:sulfur",
+          "pointed_block": "minecraft:sulfur_spike",
+          "replaceable_blocks": "#minecraft:sulfur_spike_replaceable_blocks",
+          "chance_of_taller_generation": 0.5
+        },
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 64
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "min": -8,
+              "max": 8,
+              "plateau": 0
+            },
+            "y": 0,
+            "z": {
+              "type": "minecraft:trapezoid",
+              "min": -8,
+              "max": 8,
+              "plateau": 0
+            }
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "minecraft:solid"
+        },
+        "max": [
+          5,
+          -2,
+          5
+        ],
+        "min": [
+          -5,
+          -2,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 0,
+      "z": 0,
+      "y": {
+        "type": "minecraft:uniform",
+        "min_inclusive": -7,
+        "max_inclusive": -3
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

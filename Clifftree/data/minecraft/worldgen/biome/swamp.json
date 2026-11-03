@@ -7,6 +7,118 @@
   "downfall": 0.9,
   "attributes": {
     "minecraft:gameplay/increased_fire_burnout": true,
+    "minecraft:gameplay/creature_world_gen_spawn_probability": 0.15,
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "creature": [
+            {
+              "type": "minecraft:pig",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 4,
+                "max_inclusive": 5
+              },
+              "weight": 6
+            },
+            {
+              "type": "minecraft:chicken",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 4,
+                "max_inclusive": 4
+              },
+              "weight": 4
+            },
+            {
+              "type": "minecraft:frog",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 2,
+                "max_inclusive": 5
+              },
+              "weight": 10
+            }
+          ],
+          "monster": [
+            {
+              "weight": 100,
+              "type": "minecraft:spider",
+              "count": 4
+            },
+            {
+              "weight": 85,
+              "type": "minecraft:zombie",
+              "count": 4
+            },
+            {
+              "weight": 25,
+              "type": "minecraft:zombie_villager",
+              "count": 2
+            },
+            {
+              "weight": 20,
+              "type": "minecraft:skeleton",
+              "count": 4
+            },
+            {
+              "weight": 100,
+              "type": "minecraft:creeper",
+              "count": 4
+            },
+            {
+              "weight": 100,
+              "type": "minecraft:slime",
+              "count": 4
+            },
+            {
+              "weight": 10,
+              "type": "minecraft:enderman",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 1,
+                "max_inclusive": 4
+              }
+            },
+            {
+              "weight": 25,
+              "type": "minecraft:witch",
+              "count": 1
+            },
+            {
+              "weight": 10,
+              "type": "minecraft:slime",
+              "count": 4
+            },
+            {
+              "weight": 80,
+              "type": "minecraft:bogged",
+              "count": 4
+            }
+          ],
+          "underground_water_creature": [
+            {
+              "weight": 10,
+              "type": "minecraft:glow_squid",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 4,
+                "max_inclusive": 6
+              }
+            }
+          ],
+          "water_ambient": [
+            {
+              "weight": 25,
+              "type": "minecraft:tropical_fish",
+              "count": 8
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
+    },
     "minecraft:audio/background_music": {
       "default": {
         "max_delay": 24000,
@@ -79,7 +191,7 @@
       "minecraft:ore_copper",
       "minecraft:underwater_magma"
     ],
-    "#clifftree:extra_gold_remove",
+    [],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
@@ -104,120 +216,14 @@
       "minecraft:patch_firefly_bush_near_water_swamp",
       "clifftree:sea_pickle_swamp",
       "minecraft:seagrass_warm",
-      "minecraft:seagrass_river"
+      "minecraft:seagrass_river",
+      "clifftree:bonemeal/swamp"
     ],
     [
-      
-      
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "clifftree:mobs/slime"
     ]
   ],
   "has_precipitation": true,
-  "spawn_costs": {},
-  "spawners": {
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "maxCount": 8,
-        "minCount": 8,
-        "weight": 10
-      }
-    ],
-    "axolotls": [],
-    "creature": [
-      {
-        "type": "minecraft:pig",
-        "maxCount": 5,
-        "minCount": 4,
-        "weight": 6
-      },
-      {
-        "type": "minecraft:chicken",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 4
-      },
-      {
-        "type": "minecraft:frog",
-        "maxCount": 5,
-        "minCount": 2,
-        "weight": 10
-      }
-    ],
-    "misc": [],
-    "monster": [
-      {
-        "type": "minecraft:spider",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 100
-      },
-      {
-        "type": "minecraft:zombie",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 85
-      },
-      {
-        "type": "minecraft:zombie_villager",
-        "maxCount": 2,
-        "minCount": 2,
-        "weight": 25
-      },
-      {
-        "type": "minecraft:skeleton",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 20
-      },
-      {
-        "type": "minecraft:creeper",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 90
-      },
-      {
-        "type": "minecraft:slime",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 100
-      },
-      {
-        "type": "minecraft:enderman",
-        "maxCount": 4,
-        "minCount": 1,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:witch",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:slime",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:bogged",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 80
-      }
-    ],
-    "underground_water_creature": [
-      {
-        "type": "minecraft:glow_squid",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 10
-      }
-    ],
-    "water_ambient": [],
-    "water_creature": []
-  },
-  "temperature": 0.8,
-  "creature_spawn_probability": 0.15
+  "temperature": 0.8
 }

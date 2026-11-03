@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:noise",
+    "seed": 2345,
+    "noise": {
+      "base_octave": -3,
+      "normalize": "legacy",
+      "octave_count": 1
+    },
+    "scale": 0.3,
+    "states": [
+      "minecraft:azure_bluet",
+      "minecraft:dandelion",
+      "minecraft:oxeye_daisy"
+    ]
+  }

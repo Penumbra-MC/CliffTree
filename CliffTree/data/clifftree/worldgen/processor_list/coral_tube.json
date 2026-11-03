@@ -12,8 +12,8 @@
             "block": "minecraft:dead_brain_coral_fan"
           },
           "output_state": {
-            "Name": "minecraft:tube_coral_fan",
-            "Properties": {
+            "id": "minecraft:tube_coral_fan",
+            "properties": {
               "waterlogged": "false"
             }
           }
@@ -28,8 +28,8 @@
             "block": "minecraft:dead_brain_coral"
           },
           "output_state": {
-            "Name": "minecraft:tube_coral",
-            "Properties": {
+            "id": "minecraft:tube_coral",
+            "properties": {
               "waterlogged": "false"
             }
           }
@@ -41,16 +41,16 @@
           "input_predicate": {
             "predicate_type": "minecraft:blockstate_match",
             "block_state": {
-              "Name": "minecraft:dead_brain_coral_wall_fan",
-              "Properties": {
+              "id": "minecraft:dead_brain_coral_wall_fan",
+              "properties": {
                 "facing": "north",
                 "waterlogged": "false"
               }
             }
           },
           "output_state": {
-            "Name": "minecraft:tube_coral_wall_fan",
-            "Properties": {
+            "id": "minecraft:tube_coral_wall_fan",
+            "properties": {
               "facing": "north",
               "waterlogged": "false"
             }
@@ -63,16 +63,16 @@
           "input_predicate": {
             "predicate_type": "minecraft:blockstate_match",
             "block_state": {
-              "Name": "minecraft:dead_brain_coral_wall_fan",
-              "Properties": {
+              "id": "minecraft:dead_brain_coral_wall_fan",
+              "properties": {
                 "facing": "south",
                 "waterlogged": "false"
               }
             }
           },
           "output_state": {
-            "Name": "minecraft:tube_coral_wall_fan",
-            "Properties": {
+            "id": "minecraft:tube_coral_wall_fan",
+            "properties": {
               "facing": "south",
               "waterlogged": "false"
             }
@@ -85,16 +85,16 @@
           "input_predicate": {
             "predicate_type": "minecraft:blockstate_match",
             "block_state": {
-              "Name": "minecraft:dead_brain_coral_wall_fan",
-              "Properties": {
+              "id": "minecraft:dead_brain_coral_wall_fan",
+              "properties": {
                 "facing": "east",
                 "waterlogged": "false"
               }
             }
           },
           "output_state": {
-            "Name": "minecraft:tube_coral_wall_fan",
-            "Properties": {
+            "id": "minecraft:tube_coral_wall_fan",
+            "properties": {
               "facing": "east",
               "waterlogged": "false"
             }
@@ -107,16 +107,16 @@
           "input_predicate": {
             "predicate_type": "minecraft:blockstate_match",
             "block_state": {
-              "Name": "minecraft:dead_brain_coral_wall_fan",
-              "Properties": {
+              "id": "minecraft:dead_brain_coral_wall_fan",
+              "properties": {
                 "facing": "west",
                 "waterlogged": "false"
               }
             }
           },
           "output_state": {
-            "Name": "minecraft:tube_coral_wall_fan",
-            "Properties": {
+            "id": "minecraft:tube_coral_wall_fan",
+            "properties": {
               "facing": "west",
               "waterlogged": "false"
             }
@@ -130,9 +130,7 @@
             "predicate_type": "minecraft:block_match",
             "block": "minecraft:pink_wool"
           },
-          "output_state": {
-            "Name": "minecraft:tube_coral_block"
-          }
+          "output_state": "minecraft:tube_coral_block"
         },
         {
           "position_predicate": {
@@ -149,9 +147,7 @@
             "predicate_type": "minecraft:block_match",
             "block": "stone"
           },
-          "output_state": {
-            "Name": "minecraft:dead_tube_coral_block"
-          }
+          "output_state": "minecraft:dead_tube_coral_block"
         }
       ]
     },

@@ -1,0 +1,77 @@
+{
+  "type": "minecraft:range_choice",
+  "input": "minecraft:y",
+  "min_inclusive": -60,
+  "max_exclusive": 60,
+  "when_in_range": {
+    "type": "minecraft:range_choice",
+    "input": "clifftree:ore_vein/mask",
+    "min_inclusive": 0,
+    "max_exclusive": 64,
+    "when_in_range": {
+      "type": "minecraft:mul",
+      "left": 5,
+      "right": {
+        "type": "minecraft:add",
+        "left": {
+          "type": "minecraft:add",
+          "left": {
+            "type": "minecraft:negate",
+            "input": "clifftree:ore_vein/toggle"
+          },
+          "right": 0.35
+        },
+        "right": {
+          "type": "minecraft:spline",
+          "spline": {
+            "coordinate": "minecraft:y",
+            "points": [
+              {
+                "location": -60,
+                "value": -0.2,
+                "derivative": 0
+              },
+              {
+                "location": -60,
+                "value": -0.2,
+                "derivative": 0.01
+              },
+              {
+                "location": -40,
+                "value": 0,
+                "derivative": 0.01
+              },
+              {
+                "location": -40,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 40,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 40,
+                "value": 0,
+                "derivative": -0.01
+              },
+              {
+                "location": 60,
+                "value": -0.2,
+                "derivative": -0.01
+              },
+              {
+                "location": 60,
+                "value": -0.2,
+                "derivative": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    "when_out_of_range": -1
+  },
+  "when_out_of_range": -1
+}

@@ -1,5 +1,7 @@
 {
   "values": [
-    "minecraft:dripstone_caves"
+    "minecraft:dripstone_caves",
+    "clifftree:sky/atmospore",
+    "clifftree:stone_ocean"
   ]
 }

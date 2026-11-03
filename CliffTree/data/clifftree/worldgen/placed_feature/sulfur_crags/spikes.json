@@ -1,0 +1,42 @@
+{
+  "feature": "minecraft:sulfur_spike",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:uniform",
+        "max_inclusive": 20,
+        "min_inclusive": 10
+      }
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:clamped_normal",
+        "deviation": 3,
+        "max_inclusive": 10,
+        "mean": 0,
+        "min_inclusive": -10
+      },
+      "y": 0,
+      "z": {
+        "type": "minecraft:clamped_normal",
+        "deviation": 3,
+        "max_inclusive": 10,
+        "mean": 0,
+        "min_inclusive": -10
+      }
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

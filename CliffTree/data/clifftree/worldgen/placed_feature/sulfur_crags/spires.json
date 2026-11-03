@@ -1,0 +1,80 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:template/sulfur_spire/spires",
+        "placement": [
+  ]
+      },
+      "clifftree:sulfur_crags/patch_spire",
+      {
+        "feature": {
+          "type": "minecraft:speleothem",
+          "base_block": "minecraft:sulfur",
+          "pointed_block": "minecraft:sulfur_spike",
+          "replaceable_blocks": "#minecraft:sulfur_spike_replaceable_blocks",
+          "chance_of_taller_generation": 0.5
+        },
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 32
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "min": -3,
+              "max": 3,
+              "plateau": 0
+            },
+            "y": 0,
+            "z": {
+              "type": "minecraft:trapezoid",
+              "min": -3,
+              "max": 3,
+              "plateau": 0
+            }
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:noise_threshold_count",
+      "above_noise": 12,
+      "below_noise": 5,
+      "noise_level": -0.8
+    },
+    {
+      "type": "minecraft:random_chance",
+      "chance": 0.4
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 0,
+      "z": 0,
+      "y": {
+        "type": "minecraft:uniform",
+        "min_inclusive": -3,
+        "max_inclusive": -1
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

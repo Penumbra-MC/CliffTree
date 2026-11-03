@@ -1,0 +1,10 @@
+{
+  "values": [
+    "clifftree:desert_cliff",
+    "clifftree:oasis",
+    "clifftree:shrubland",
+    "clifftree:warm_caves",
+    "clifftree:warm_river",
+    "#minecraft:is_badlands"
+  ]
+}

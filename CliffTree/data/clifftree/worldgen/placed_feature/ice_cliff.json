@@ -1,0 +1,88 @@
+{
+  "feature": {
+    "type": "minecraft:overlay",
+    "features": [
+      {
+        "feature": "clifftree:ice_cliff",
+        "placement": [
+          {
+            "type": "offset",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:ice_cliff",
+        "placement": [
+          {
+            "type": "offset",
+            "x": 8,
+            "y": 0,
+            "z": 8
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:ice_cliff",
+        "placement": [
+          {
+            "type": "offset",
+            "x": 0,
+            "y": -8,
+            "z": 0
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:ice_cliff",
+        "placement": [
+          {
+            "type": "offset",
+            "x": 8,
+            "y": -8,
+            "z": 8
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:ice_cliff",
+        "placement": [
+          {
+            "type": "offset",
+            "x": 0,
+            "y": -16,
+            "z": 0
+          }
+        ]
+      },
+      {
+        "feature": "clifftree:ice_cliff",
+        "placement": [
+          {
+            "type": "offset",
+            "x": 8,
+            "y": -16,
+            "z": 8
+          }
+        ]
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+    {
+      "type": "offset",
+      "x": 0,
+      "y": -8,
+      "z": 0
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

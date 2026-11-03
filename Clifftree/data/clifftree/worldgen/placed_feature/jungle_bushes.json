@@ -22,7 +22,7 @@
       "type": "block_predicate_filter",
       "predicate": {
         "type": "matching_block_tag",
-        "tag": "clifftree:true_dirt",
+        "tag": "minecraft:substrate_overworld",
         "offset": [
           0,
           -1,

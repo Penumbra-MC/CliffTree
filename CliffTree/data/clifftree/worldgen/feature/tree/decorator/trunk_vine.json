@@ -1,0 +1,93 @@
+{
+  "type": "minecraft:overlay",
+  "features": [
+    {
+      "feature": {
+        "type": "minecraft:block_column",
+        "allowed_placement": {
+          "type": "matching_blocks",
+          "blocks": ["air","shelf_mushroom"]
+        },
+        "direction": "down",
+        "layers": [
+          {
+            "height": {
+              "type": "uniform",
+              "min_inclusive": 2,
+              "max_inclusive": 4
+            },
+            "provider": "clifftree:trunk_vine"
+          },
+          {
+            "height": {
+              "type": "uniform",
+              "min_inclusive": 0,
+              "max_inclusive": 2
+            },
+            "provider": "clifftree:trunk_vine"
+          }
+        ],
+        "prioritize_tip": false
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 8
+        },
+        {
+          "type": "offset",
+          "x": {
+            "type": "uniform",
+            "max_inclusive": 1,
+            "min_inclusive": -1
+          },
+          "z": {
+            "type": "uniform",
+            "max_inclusive": 1,
+            "min_inclusive": -1
+          },
+          "y": 1
+        },
+        {
+          "type": "environment_scan",
+          "direction_of_search": "up",
+          "max_steps": 16,
+          "target_condition": {
+            "type": "any_of",
+            "predicates": [
+              {
+                "type": "matching_block_tag",
+                "tag": "minecraft:leaves",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              },
+              {
+                "type": "matching_block_tag",
+                "tag": "minecraft:overworld_natural_logs",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              }
+            ]
+          },
+          "allowed_search_condition": {
+            "type": "matching_blocks",
+            "blocks": "#clifftree:replaceable_by_leaf_litter"
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "matching_blocks",
+            "blocks": "#clifftree:replaceable_by_leaf_litter"
+          }
+        }
+      ]
+    }
+  ]
+}

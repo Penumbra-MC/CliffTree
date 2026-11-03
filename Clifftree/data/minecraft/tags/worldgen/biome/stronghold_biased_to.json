@@ -1,10 +1,11 @@
 {
-    "values": [
-      "#clifftree:caves",
-      "#minecraft:is_taiga",
-      "#clifftree:is_desert",
-      "clifftree:tundra",
-      "clifftree:glacier_valley",
-      "#is_forest"
-    ]
-  }
+  "values": [
+    "#clifftree:caves",
+    "#minecraft:is_taiga",
+    "#clifftree:is_desert",
+    "clifftree:tundra",
+    "clifftree:glacier_valley",
+    "#is_forest",
+    "clifftree:sulfur_crags"
+  ]
+}

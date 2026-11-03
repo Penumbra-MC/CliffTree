@@ -1,0 +1,82 @@
+{
+  "feature": "clifftree:snow_patches_cave",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 256
+    },
+    {
+      "type": "in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 256
+        },
+        "min_inclusive": {
+          "above_bottom": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:environment_scan",
+      "direction_of_search": "down",
+      "max_steps": 32,
+      "target_condition": {
+        "type": "minecraft:matching_block_tag",
+        "tag": "minecraft:ice",
+        "offset": [0,-1,0]
+      },
+      "allowed_search_condition": {
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:air"
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": 512
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:clamped_normal",
+        "deviation": 2,
+        "mean": 0,
+        "min_inclusive": -6,
+        "max_inclusive": 6
+      },
+      "z": {
+        "type": "minecraft:clamped_normal",
+        "deviation": 2,
+        "mean": 0,
+        "min_inclusive": -6,
+        "max_inclusive": 6
+      },
+      "y": {
+        "type": "minecraft:trapezoid",
+        "max": 1,
+        "min": -1,
+        "plateau": 0
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          },
+          {
+            "type": "matching_blocks",
+            "blocks": "#clifftree:ice_caves_snow_can_cover",
+            "offset": [0,-1,0]
+          }
+        ]
+      }
+    }
+  ]
+}

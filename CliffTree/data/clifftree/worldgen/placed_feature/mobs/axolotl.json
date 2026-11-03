@@ -1,0 +1,107 @@
+{
+  "feature": {
+    "type": "weighted_random_selector",
+    "features": [
+      {
+        "data": {
+          "feature": "clifftree:mobs/axolotl/lucy",
+          "placement": [
+            {
+              "type": "count",
+              "count": {
+                "type": "minecraft:uniform",
+                "max_inclusive": 2,
+                "min_inclusive": 0
+              }
+            }
+          ]
+        },
+        "weight": 150
+      },
+      {
+        "data": {
+          "feature": "clifftree:mobs/axolotl/wild",
+          "placement": [
+            {
+              "type": "count",
+              "count": {
+                "type": "minecraft:uniform",
+                "max_inclusive": 2,
+                "min_inclusive": 0
+              }
+            }
+          ]
+        },
+        "weight": 150
+      },
+      {
+        "data": {
+          "feature": "clifftree:mobs/axolotl/gold",
+          "placement": [
+            {
+              "type": "count",
+              "count": {
+                "type": "minecraft:uniform",
+                "max_inclusive": 2,
+                "min_inclusive": 0
+              }
+            }
+          ]
+        },
+        "weight": 150
+      },
+      {
+        "data": {
+          "feature": "clifftree:mobs/axolotl/cyan",
+          "placement": [
+            {
+              "type": "count",
+              "count": {
+                "type": "minecraft:uniform",
+                "max_inclusive": 2,
+                "min_inclusive": 0
+              }
+            }
+          ]
+        },
+        "weight": 150
+      },
+      {
+        "data": {
+          "feature": "clifftree:mobs/axolotl/blue",
+          "placement": [
+            {
+              "type": "count",
+              "count": {
+                "type": "minecraft:uniform",
+                "max_inclusive": 2,
+                "min_inclusive": 1
+              }
+            }
+          ]
+        },
+        "weight": 1
+      }
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:offset",
+      "y": -1,
+      "x": 0,
+      "z": 0
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "matching_fluids",
+          "fluids": "minecraft:water"
+        },
+        "max": [1,0,1],
+        "min": [-1,0,-1]
+      }
+    }
+  ]
+}

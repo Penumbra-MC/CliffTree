@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spyglass",
+          "modifier": [
+            {
+              "type": "minecraft:set_count",
+              "count": {
+                "type": "uniform",
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "minecraft:chests/shipwreck_map"
+        }
+      ]
+    }
+  ],
+  "modifier": "clifftree:loot_modifier",
+  "random_sequence": "clifftree:chests/shipwreck_map"
+}

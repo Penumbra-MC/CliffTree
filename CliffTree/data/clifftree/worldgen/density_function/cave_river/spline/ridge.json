@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:clamp",
+  "input": {
+    "type": "minecraft:add",
+    "left": 1,
+    "right": {
+      "type": "minecraft:mul",
+      "left": "clifftree:cave_river/noise/roof_sharpness",
+      "right": {
+        "type": "minecraft:abs",
+        "input": {
+          "type": "minecraft:mul",
+          "left": 1.2,
+          "right": "minecraft:overworld/ridges"
+        }
+      }
+    }
+  },
+  "min": 0,
+  "max": 1
+}

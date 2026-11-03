@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:random_selector",
+  "features": [
+    {
+      "chance": 0.95,
+      "feature": {
+        "feature": {
+          "type": "minecraft:simple_block",
+          "to_place": {
+            "type": "minecraft:simple",
+            "state": {
+              "id": "minecraft:sea_pickle",
+              "properties": {
+                "waterlogged": "true",
+                "pickles": "1"
+              }
+            }
+          }
+        },
+        "placement": []
+      }
+    }
+  ],
+  "default": {
+    "feature": {
+      "type": "minecraft:simple_block",
+      "to_place": {
+        "type": "minecraft:simple",
+        "state": {
+          "id": "minecraft:sea_pickle",
+          "properties": {
+            "pickles": "2",
+            "waterlogged": "true"
+          }
+        }
+      }
+    },
+    "placement": []
+  }
+}

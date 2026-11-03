@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#clifftree:dirt_and_snow",
-	"#clifftree:base_overworld_terrain"
+    "#clifftree:snow_and_substrates",
+    "#clifftree:base_overworld_terrain"
   ]
 }

@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 1,
+  "radius": 8,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "clifftree:desert_cliff"
+            },
+            {
+              "type": "minecraft:height_range",
+              "max_inclusive": {
+                "below_top": 0
+              },
+              "min_inclusive": {
+                "absolute": 69
+              }
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:light_gray_terracotta"
+        }
+      },
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "clifftree:desert_cliff"
+            },
+            {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "minecraft:solid",
+                "offset":[0,-1,0]
+              }
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:sandstone"
+        }
+      },
+      {
+        "if_true": {
+          "type": "all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "clifftree:desert_cliff"
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:sand"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "#minecraft:badlands_terracotta"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "values": [
     "#minecraft:is_badlands",
-    "clifftree:frozen_caves",
+    "minecraft:ice_caves",
     "clifftree:warm_caves"
   ]
 }

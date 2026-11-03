@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 4,
+  "radius": 6,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "fallback": {
+      "id": "minecraft:blue_ice"
+    },
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "minecraft:matching_blocks",
+              "offset": [
+                0,
+                -7,
+                0
+              ],
+              "blocks": "minecraft:blue_ice"
+            },
+            {
+              "type": "minecraft:matching_blocks",
+              "offset": [
+                0,
+                3,
+                0
+              ],
+              "blocks": "#minecraft:air"
+            }
+          ]
+        },
+        "then": {
+          "id": "minecraft:snow_block"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "minecraft:blue_ice"
+  }
+}

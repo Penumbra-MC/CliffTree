@@ -1,5 +1,17 @@
 {
-  "feature": "clifftree:birch_bees_0002",
+  "feature": {
+    "type": "minecraft:weighted_random_selector",
+    "features": [
+      {
+        "data": "clifftree:tree/birch/super_birch_worldgen",
+        "weight": 1
+      },
+      {
+        "data": "clifftree:tree/birch/birch_worldgen",
+        "weight": 5
+      }
+    ]
+  },
   "placement": [
     {
       "type": "minecraft:noise_based_count",
@@ -26,8 +38,8 @@
       "predicate": {
         "type": "minecraft:would_survive",
         "state": {
-          "Name": "minecraft:birch_sapling",
-          "Properties": {
+          "id": "minecraft:birch_sapling",
+          "properties": {
             "stage": "0"
           }
         }

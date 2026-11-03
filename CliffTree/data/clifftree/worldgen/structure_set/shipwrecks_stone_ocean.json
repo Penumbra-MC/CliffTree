@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 165745295,
+    "separation": 3,
+    "spacing": 20
+  },
+  "structures": [
+    {
+      "structure": "clifftree:shipwreck_stone_ocean",
+      "weight": 1
+    }
+  ]
+}

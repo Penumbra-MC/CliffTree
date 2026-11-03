@@ -27,9 +27,5 @@
   "biome.clifftree.tropical_river": "Тропическая река",
   "biome.clifftree.tundra": "Тундра",
   "biome.clifftree.warm_caves": "Тёплые пещеры",
-  "biome.clifftree.warm_river": "Тёплая река",
-  "clifftree.advancements.adventure.adventuring_time.title": "Время приключений",
-  "clifftree.advancements.adventure.adventuring_time.description": "Исследуйте мир, находите биомы!",
-  "clifftree.advancements.adventure.distant_lands.title": "Далёкие земли",
-  "clifftree.advancements.adventure.distant_lands.description": "Найдите каждый биом в обычном мире"
+  "biome.clifftree.warm_river": "Тёплая река"
 }

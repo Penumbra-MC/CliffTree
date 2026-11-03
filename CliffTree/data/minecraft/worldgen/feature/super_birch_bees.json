@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "clifftree:tree/birch/super_birch_meadow"
+  ]
+}

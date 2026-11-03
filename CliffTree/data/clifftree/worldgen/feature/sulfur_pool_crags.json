@@ -1,0 +1,147 @@
+{
+  "type": "minecraft:overlay",
+  "features": [
+    "clifftree:sulfur_crags/patch_dry",
+    {
+      "feature": {
+        "type": "minecraft:lake",
+        "barrier": {
+          "id": "minecraft:sulfur"
+        },
+        "can_place_feature": {
+          "type": "true"
+        },
+        "can_replace_with_air_or_fluid": {
+          "type": "minecraft:not",
+          "predicate": {
+            "type": "minecraft:matching_block_tag",
+            "tag": "minecraft:features_cannot_replace"
+          }
+        },
+        "can_replace_with_barrier": {
+          "type": "minecraft:not",
+          "predicate": {
+            "type": "minecraft:matching_block_tag",
+            "tag": "minecraft:lava_pool_stone_cannot_replace"
+          }
+        },
+        "fluid": {
+          "type": "minecraft:simple",
+          "state": {
+            "id": "minecraft:water",
+            "properties": {
+              "level": "0"
+            }
+          }
+        }
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "to_place": {
+          "type": "minecraft:simple",
+          "state": {
+            "id": "minecraft:potent_sulfur",
+            "properties": {
+              "potent_sulfur_state": "wet"
+            }
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:environment_scan",
+          "direction_of_search": "down",
+          "max_steps": 4,
+          "target_condition": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:solid"
+              },
+              {
+                "type": "minecraft:matching_fluids",
+                "fluids": "minecraft:water",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "surface_water_depth_filter",
+          "max_water_depth": 3
+        }
+      ]
+    },
+    {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "to_place": {
+          "id": "magma_block"
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:environment_scan",
+          "direction_of_search": "down",
+          "max_steps": 4,
+          "target_condition": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:solid"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:potent_sulfur",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:volume_match",
+            "match": {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "matching_blocks",
+                "blocks": "magma_block"
+              }
+            },
+            "max": [16,8,16],
+            "min": [-16,-8,-16]
+          }
+        },
+        {
+          "type": "surface_water_depth_filter",
+          "max_water_depth": 4
+        }
+      ]
+    },
+    {
+      "feature": "minecraft:sulfur_spike_cluster",
+      "placement": [
+        {
+          "type": "minecraft:heightmap",
+          "heightmap": "OCEAN_FLOOR"
+        },
+        {
+          "type": "minecraft:random_chance",
+          "chance": 0.06
+        }
+      ]
+    }
+  ]
+}

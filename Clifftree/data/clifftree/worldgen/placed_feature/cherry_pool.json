@@ -1,5 +1,14 @@
 {
-  "feature": "clifftree:cherry_pool",
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:cherry_pool",
+        "placement": []
+      },
+      "clifftree:patch_lilac_pool"
+    ]
+  },
   "placement": [
     {
       "type": "minecraft:rarity_filter",
@@ -11,6 +20,17 @@
     {
       "type": "minecraft:heightmap",
       "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:volume_match",
+        "match": {
+          "type": "minecraft:solid"
+        },
+        "max": [1,-1,1],
+        "min": [-1,-1,-1]
+      }
     },
     {
       "type": "minecraft:biome"

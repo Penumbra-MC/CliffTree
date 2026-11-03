@@ -1,0 +1,128 @@
+{
+  "type": "minecraft:rule_based",
+  "rules": [
+    {
+      "if_true": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:any_of",
+            "predicates": [
+              {
+                "type": "matching_blocks",
+                "blocks": "minecraft:spruce_log",
+                "offset": [
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": "minecraft:spruce_log",
+                "offset": [
+                  0,
+                  0,
+                  -1
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:not",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "minecraft:spruce_log",
+              "offset": [
+                1,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "type": "minecraft:not",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "minecraft:spruce_log",
+              "offset": [
+                -1,
+                0,
+                0
+              ]
+            }
+          }
+        ]
+      },
+      "then": {
+        "id": "minecraft:spruce_log",
+        "properties": {
+          "axis": "z"
+        }
+      }
+    },
+    {
+      "if_true": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:any_of",
+            "predicates": [
+              {
+                "type": "matching_blocks",
+                "blocks": "minecraft:spruce_log",
+                "offset": [
+                  1,
+                  0,
+                  0
+                ]
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": "minecraft:spruce_log",
+                "offset": [
+                  -1,
+                  0,
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:not",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "minecraft:spruce_log",
+              "offset": [
+                0,
+                0,
+                1
+              ]
+            }
+          },
+          {
+            "type": "minecraft:not",
+            "predicate": {
+              "type": "matching_blocks",
+              "blocks": "minecraft:spruce_log",
+              "offset": [
+                0,
+                0,
+                -1
+              ]
+            }
+          }
+        ]
+      },
+      "then": {
+        "id": "minecraft:spruce_log",
+        "properties": {
+          "axis": "x"
+        }
+      }
+    }
+  ],
+  "fallback": {
+    "id": "air"
+  }
+}

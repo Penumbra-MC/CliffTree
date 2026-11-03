@@ -1,0 +1,339 @@
+{
+  "type": "minecraft:random_selector",
+  "features": [
+    {
+      "chance": 0.5,
+      "feature": {
+        "feature": {
+          "type": "minecraft:block_column",
+          "direction": "down",
+          "allowed_placement": {
+            "type": "minecraft:matching_block_tag",
+            "tag": "minecraft:cave_vines"
+          },
+          "prioritize_tip": true,
+          "layers": [
+            {
+              "height": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 0,
+                "max_inclusive": 3
+              },
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:pale_hanging_moss",
+                  "properties": {
+                    "tip": "false"
+                  }
+                }
+              }
+            },
+            {
+              "height": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 0,
+                "max_inclusive": 3
+              },
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:pale_hanging_moss",
+                  "properties": {
+                    "tip": "false"
+                  }
+                }
+              }
+            },
+            {
+              "height": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 0,
+                "max_inclusive": 3
+              },
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:pale_hanging_moss",
+                  "properties": {
+                    "tip": "false"
+                  }
+                }
+              }
+            },
+            {
+              "height": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 0,
+                "max_inclusive": 3
+              },
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:pale_hanging_moss",
+                  "properties": {
+                    "tip": "false"
+                  }
+                }
+              }
+            },
+            {
+              "height": 1,
+              "provider": {
+                "type": "minecraft:simple",
+                "state": {
+                  "id": "minecraft:pale_hanging_moss",
+                  "properties": {
+                    "tip": "true"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "placement": [
+          {
+            "type": "minecraft:count",
+            "count": 64
+          },
+          {
+            "type": "minecraft:offset",
+            "x": {
+              "type": "minecraft:trapezoid",
+              "max": 3,
+              "min": -3,
+              "plateau": 0
+            },
+            "z": {
+              "type": "minecraft:trapezoid",
+              "max": 3,
+              "min": -3,
+              "plateau": 0
+            },
+            "y": {
+              "type": "minecraft:trapezoid",
+              "max": 3,
+              "min": -3,
+              "plateau": 0
+            }
+          },
+          {
+            "type": "minecraft:environment_scan",
+            "direction_of_search": "up",
+            "max_steps": 6,
+            "target_condition": {
+              "type": "minecraft:matching_block_tag",
+              "offset": [
+                0,
+                1,
+                0
+              ],
+              "tag": "minecraft:moss_blocks"
+            },
+            "allowed_search_condition": {
+              "type": "minecraft:matching_blocks",
+              "blocks": [
+                "minecraft:air",
+                "minecraft:cave_vines",
+                "minecraft:cave_vines_plant",
+                "minecraft:vine",
+                "minecraft:pale_moss_carpet",
+                "minecraft:short_grass",
+                "minecraft:tall_grass"
+              ]
+            }
+          },
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:matching_blocks",
+              "offset": [
+                0,
+                1,
+                0
+              ],
+              "blocks": "minecraft:pale_moss_block"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "default": {
+    "feature": {
+      "type": "minecraft:disk",
+      "half_height": 2,
+      "radius": 2,
+      "state_provider": {
+        "type": "minecraft:rule_based",
+        "rules": [
+          {
+            "if_true": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": [
+                    "minecraft:azalea",
+                    "minecraft:flowering_azalea"
+                  ]
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ],
+                  "blocks": "minecraft:pale_moss_block"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    1,
+                    0
+                  ],
+                  "blocks": "minecraft:air"
+                }
+              ]
+            },
+            "then": {
+              "id": "minecraft:dead_bush"
+            }
+          },
+          {
+            "if_true": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:cave_vines"
+                },
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                      0,
+                      1,
+                      0
+                    ],
+                    "blocks": "minecraft:pale_moss_block"
+                  }
+                }
+              ]
+            },
+            "then": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:cave_vines",
+                "properties": {
+                  "age": "25"
+                }
+              }
+            }
+          },
+          {
+            "if_true": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:cave_vines"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    1,
+                    0
+                  ],
+                  "blocks": "minecraft:pale_moss_block"
+                }
+              ]
+            },
+            "then": {
+              "type": "minecraft:simple",
+              "state": {
+                "id": "minecraft:pale_hanging_moss",
+                "properties": {
+                  "tip": "true"
+                }
+              }
+            }
+          },
+          {
+            "if_true": {
+              "type": "minecraft:matching_blocks",
+              "blocks": "minecraft:moss_block"
+            },
+            "then": {
+              "id": "minecraft:pale_moss_block"
+            }
+          },
+          {
+            "if_true": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:moss_carpet"
+                },
+                {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:matching_blocks",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ],
+                    "blocks": "minecraft:moss_carpet"
+                  }
+                }
+              ]
+            },
+            "then": {
+              "id": "minecraft:pale_moss_carpet"
+            }
+          },
+          {
+            "if_true": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:moss_carpet"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ],
+                  "blocks": "minecraft:moss_carpet"
+                }
+              ]
+            },
+            "then": {
+              "id": "minecraft:air"
+            }
+          }
+        ]
+      },
+      "target": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "minecraft:moss_block",
+          "minecraft:moss_carpet",
+          "minecraft:cave_vines",
+          "minecraft:azalea",
+          "minecraft:flowering_azalea"
+        ]
+      }
+    },
+    "placement": []
+  }
+}

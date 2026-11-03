@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:vegetation_patch",
+  "depth": 3,
+  "extra_bottom_block_chance": 0.8,
+  "extra_edge_column_chance": 0.7,
+  "ground_state": {
+    "type": "rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "matching_fluids",
+          "fluids": ["minecraft:water","minecraft:flowing_water"],
+          "offset": [0,1,0]
+        },
+        "then": {
+          "id": "minecraft:mud"
+        }
+      },
+      {
+        "if_true": {
+          "type": "matching_block_tag",
+          "tag": "minecraft:replaceable",
+          "offset": [0,1,0]
+        },
+        "then": {
+          "id": "minecraft:grass_block"
+        }
+      }
+    ],
+    "fallback": {
+      "id": "minecraft:dirt"
+    }
+  },
+  "replaceable": "minecraft:mud",
+  "surface": "floor",
+  "vegetation_chance": 0.02,
+  "vegetation_feature": {
+    "feature": "clifftree:bog_grass_vegetation",
+    "placement": []
+  },
+  "vertical_range": 5,
+  "xz_radius": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 5,
+    "min_inclusive": 1
+  }
+}

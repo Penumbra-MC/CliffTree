@@ -1,0 +1,62 @@
+{
+  "feature": {
+    "type": "minecraft:sequence",
+    "features": [
+      {
+        "feature": "clifftree:lake_water_lush",
+        "placement": []
+      },
+      "clifftree:patch/patch_seagrass_cave_lake",
+      "clifftree:patch/patch_waterlily_cave_lake",
+      "clifftree:mobs/axolotl"
+    ]
+  },
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 64
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 256
+        },
+        "min_inclusive": {
+          "above_bottom": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:environment_scan",
+      "direction_of_search": "down",
+      "max_steps": 32,
+      "target_condition": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+        "type": "minecraft:matching_block_tag",
+        "tag": "minecraft:air"
+      },
+      {
+        "type": "minecraft:solid",
+        "offset": [0,-1,0]
+      }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 0,
+      "y": -1,
+      "z": 0
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

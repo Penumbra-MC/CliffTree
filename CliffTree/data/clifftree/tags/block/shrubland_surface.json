@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:light_gray_terracotta",
+    "minecraft:white_terracotta",
+    "minecraft:brown_terracotta",
+    "minecraft:terracotta",
+    "minecraft:coarse_dirt",
+    "minecraft:sand"
+  ]
+}

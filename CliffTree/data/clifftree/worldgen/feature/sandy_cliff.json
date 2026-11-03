@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 4,
+  "radius": 8,
+  "state_provider": {
+    "type": "minecraft:rule_based",
+    "rules": [
+      {
+        "if_true": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "matching_biomes",
+              "biomes": "#clifftree:sandy_cliff_biomes"
+            },
+            {
+              "type": "minecraft:not",
+              "predicate": {
+                "type": "minecraft:would_survive",
+                "state": {
+                  "id": "minecraft:glow_lichen",
+                  "properties": {
+                    "down": "true",
+                    "east": "true",
+                    "north": "true",
+                    "south": "true",
+                    "west": "true",
+                    "up": "true"
+                  }
+                }
+              }
+            },
+            {
+              "type": "minecraft:any_of",
+              "predicates": [
+                {
+                  "type": "matching_blocks",
+                  "blocks": "#minecraft:base_stone_overworld"
+                },
+                {
+                  "type": "matching_blocks",
+                  "blocks": "minecraft:sandstone"
+                }
+              ]
+            }
+          ]
+        },
+        "then": {
+          "id": "smooth_sandstone"
+        }
+      }
+    ]
+  },
+  "target": {
+    "type": "minecraft:matching_block_tag",
+    "tag": "clifftree:desert_surface"
+  }
+}

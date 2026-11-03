@@ -1,2 +1,0 @@
-execute as @e[type=marker,tag=clifftree_egg] at @s if predicate clifftree:chicken_eggs/egg_hit run function clifftree:chicken_eggs/hatch
-execute as @e[type=marker,tag=clifftree_egg] at @s unless predicate clifftree:chicken_eggs/egg_hit run schedule function clifftree:chicken_eggs/loop 1t

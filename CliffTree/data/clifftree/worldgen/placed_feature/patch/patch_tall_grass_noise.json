@@ -1,0 +1,75 @@
+{
+  "feature": "minecraft:tall_grass",
+  "placement": [
+    {
+      "type": "minecraft:noise_based_count",
+      "noise_factor": 30,
+      "noise_to_count_ratio": 3,
+      "noise_offset": 0
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:not",
+        "predicate": {
+          "type": "matching_blocks",
+          "blocks": "packed_mud",
+          "offset": [0,-1,0]
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count",
+      "count": 32
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "max": 5,
+        "min": -5,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 5,
+        "min": -5,
+        "plateau": 0
+      },
+      "y": {
+        "type": "minecraft:uniform",
+        "min_inclusive": -1,
+        "max_inclusive": 1
+      }
+    },
+    {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "all_of",
+        "predicates": [
+          {
+            "type": "matching_blocks",
+            "blocks": [
+              "air",
+              "short_grass"
+            ]
+          },
+          {
+            "type": "would_survive",
+            "state": "tall_grass"
+          }
+        ]
+      }
+    }
+  ]
+}

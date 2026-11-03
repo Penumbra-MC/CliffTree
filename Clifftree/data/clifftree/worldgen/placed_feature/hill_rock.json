@@ -21,9 +21,7 @@
           0,
           0
         ],
-        "state": {
-          "Name": "minecraft:short_grass"
-        }
+        "state": "minecraft:short_grass"
       }
     },
     {

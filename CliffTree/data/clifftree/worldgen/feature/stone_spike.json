@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block_column",
+  "direction": "up",
+  "allowed_placement": {
+    "type": "minecraft:matching_blocks",
+    "blocks": [
+      "minecraft:water",
+      "minecraft:air"
+    ]
+  },
+  "prioritize_tip": true,
+  "layers": [
+    {
+      "height": {
+        "type": "minecraft:biased_to_bottom",
+        "min_inclusive": 2,
+        "max_inclusive": 6
+      },
+      "provider": {
+        "id": "minecraft:stone"
+      }
+    }
+  ]
+}

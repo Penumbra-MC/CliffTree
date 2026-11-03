@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:deepslate",
+    "minecraft:stone",
+    "minecraft:tuff",
+    "minecraft:gravel",
+    "#minecraft:ores"
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "values": [
-    "clifftree:sparse_forest"
+    "clifftree:sparse_forest",
+    "minecraft:dappled_forest",
+    "clifftree:mantled_forest"
   ]
 }

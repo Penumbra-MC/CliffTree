@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:short_grass",
+    "minecraft:fern",
+    "minecraft:dead_bush",
+    "minecraft:vine",
+    "minecraft:glow_lichen",
+    "minecraft:hanging_roots",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:warped_roots",
+    "minecraft:nether_sprouts",
+    "minecraft:crimson_roots",
+    "minecraft:short_dry_grass",
+    "minecraft:tall_dry_grass",
+    "minecraft:bush",
+    "minecraft:red_shrub",
+    "minecraft:firefly_bush",
+    "#minecraft:air",
+    "minecraft:shelf_mushroom"
+  ]
+}

@@ -6,10 +6,10 @@
       "count": 128
     },
     {
-      "type":"in_square"
+      "type": "in_square"
     },
     {
-      "type": "minecraft:heightmap",
+      "type": "heightmap",
       "heightmap": "MOTION_BLOCKING_NO_LEAVES"
     },
     {
@@ -25,6 +25,58 @@
           "minecraft:snow_block",
           "minecraft:powder_snow",
           "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": 128
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:clamped_normal",
+        "deviation": 2,
+        "mean": 0,
+        "min_inclusive": -5,
+        "max_inclusive": 5
+      },
+      "z": {
+        "type": "minecraft:clamped_normal",
+        "deviation": 2,
+        "mean": 0,
+        "min_inclusive": -5,
+        "max_inclusive": 5
+      },
+      "y": {
+        "type": "minecraft:trapezoid",
+        "max": 3,
+        "min": -3,
+        "plateau": 0
+      }
+    },
+    {
+      "type": "heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          },
+          {
+            "type": "has_sturdy_face",
+            "direction": "up",
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
         ]
       }
     }

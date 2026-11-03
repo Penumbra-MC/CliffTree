@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:random_selector",
+  "features": [
+    {
+      "chance": 0.3,
+      "feature": "clifftree:bonemeal/patches/azure_bluet"
+    },
+    {
+      "chance": 0.2,
+      "feature": "clifftree:bonemeal/patches/dandelion"
+    },
+    {
+      "chance": 0.2,
+      "feature": "clifftree:bonemeal/patches/poppy"
+    }
+  ],
+  "default": {
+    "feature": {
+      "to_place": {
+        "id": "minecraft:air"
+      },
+      "type": "minecraft:simple_block"
+    },
+    "placement": [
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "minecraft:air"
+        }
+      }
+    ]
+  }
+}

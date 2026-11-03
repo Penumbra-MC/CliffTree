@@ -1,0 +1,120 @@
+{
+  "type": "minecraft:rule_based",
+  "rules": [
+    {
+      "if_true": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "any_of",
+            "predicates": [
+              {
+                "type": "matching_blocks",
+                "blocks": [
+                  "water",
+                  "cave_air"
+                ],
+                "offset": [
+                  1,
+                  0,
+                  0
+                ]
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": [
+                  "water",
+                  "cave_air"
+                ],
+                "offset": [
+                  -1,
+                  0,
+                  0
+                ]
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": [
+                  "water",
+                  "cave_air"
+                ],
+                "offset": [
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": [
+                  "water",
+                  "cave_air"
+                ],
+                "offset": [
+                  0,
+                  0,
+                  -1
+                ]
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": "calcite",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              },
+              {
+                "type": "all_of",
+                "predicates": [
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "calcite",
+                    "offset": [0,0,1]
+                  },
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "calcite",
+                    "offset": [0,0,-1]
+                  }
+                ]
+              },
+              {
+                "type": "all_of",
+                "predicates": [
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "calcite",
+                    "offset": [1,0,0]
+                  },
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "calcite",
+                    "offset": [-1,0,0]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "matching_blocks",
+            "blocks": [
+              "calcite",
+              "cave_air",
+              "air"
+            ],
+            "offset": [
+              0,
+              1,
+              0
+            ]
+          }
+        ]
+      },
+      "then": {
+        "id": "calcite"
+      }
+    }
+  ]
+}

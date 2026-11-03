@@ -1,10 +1,10 @@
 {
   "carvers": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon",
-      "clifftree:inferno_cave"
-    ],
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon",
+    "clifftree:inferno_cave"
+  ],
   "downfall": 0.4,
   "attributes": {
     "minecraft:audio/background_music": {
@@ -14,11 +14,76 @@
         "sound": "minecraft:music.overworld.deep_dark"
       }
     },
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "monster": [
+            {
+              "weight": 70,
+              "type": "minecraft:spider",
+              "count": 4
+            },
+            {
+              "weight": 80,
+              "type": "minecraft:zombie",
+              "count": 4
+            },
+            {
+              "weight": 5,
+              "type": "minecraft:zombie_villager",
+              "count": 4
+            },
+            {
+              "weight": 80,
+              "type": "minecraft:skeleton",
+              "count": 4
+            },
+            {
+              "weight": 100,
+              "type": "minecraft:creeper",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 4,
+                "max_inclusive": 6
+              }
+            },
+            {
+              "weight": 100,
+              "type": "minecraft:slime",
+              "count": 4
+            },
+            {
+              "weight": 10,
+              "type": "minecraft:enderman",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 1,
+                "max_inclusive": 4
+              }
+            }
+          ],
+          "underground_water_creature": [
+            {
+              "weight": 10,
+              "type": "minecraft:glow_squid",
+              "count": {
+                "type": "minecraft:uniform",
+                "min_inclusive": 4,
+                "max_inclusive": 6
+              }
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
+    },
     "minecraft:gameplay/snow_golem_melts": true,
-    "minecraft:visual/sky_color": "#415690",
-    "minecraft:visual/fog_color": "#141412",
+    "minecraft:visual/sky_color": "#442b2b",
+    "minecraft:visual/fog_color": "#171413",
     "minecraft:visual/fog_start_distance": 0,
     "minecraft:visual/fog_end_distance": 128,
+    "minecraft:visual/cloud_color": "#00000000",
     "minecraft:visual/water_fog_color": "#576B81",
     "minecraft:visual/ambient_particles": [
       {
@@ -28,24 +93,29 @@
         "probability": 0.02
       }
     ],
-    "minecraft:visual/sunrise_sunset_color": "#00000000"
+    "minecraft:visual/sunrise_sunset_color": "#00000000",
+    "minecraft:visual/default_dripstone_particle": {
+      "type": "minecraft:dripping_dripstone_lava"
+    },
+    "minecraft:visual/block_light_tint": "#f9ac69",
+    "minecraft:visual/ambient_light_color": "#1a100f"
   },
   "effects": {
     "water_color": "#63A3F2"
-
   },
   "features": [
     [],
     [
       "minecraft:lake_lava_underground",
-      "clifftree:lake_lava_underground_deepslate",
-      "clifftree:inferno_caves_delta"
+      "clifftree:lake_lava_underground_inferno",
+      "clifftree:inferno_cinnabar"
     ],
     [
       "minecraft:amethyst_geode",
-      "clifftree:ore_diamond_tuff"
+      "clifftree:inferno_caves_delta",
+      "clifftree:inferno_column"
     ],
-    [ 
+    [
       "minecraft:fossil_upper",
       "minecraft:fossil_lower",
       "minecraft:monster_room",
@@ -81,92 +151,22 @@
       "minecraft:underwater_magma",
       "clifftree:spring_closed",
       "clifftree:ore_inferno_iron",
+      "clifftree:ore_inferno_iron_superdeep",
       "clifftree:tuff_noise",
       "clifftree:tuff_noise_ceiling",
       "clifftree:ore_gravel_deep"
     ],
     [
-      "clifftree:ore_infested",
-      "clifftree:inferno_rock"
     ],
     [
       "clifftree:inferno_caves_lava_spring",
       "minecraft:spring_lava"
     ],
-    [
-    ],
+    [],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
-  "spawn_costs": {},
-  "spawners": {
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "maxCount": 8,
-        "minCount": 8,
-        "weight": 10
-      }
-    ],
-    "axolotls": [],
-    "creature": [],
-    "misc": [],
-    "monster": [
-      {
-        "type": "minecraft:spider",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 70
-      },
-      {
-        "type": "minecraft:zombie",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 80
-      },
-      {
-        "type": "minecraft:zombie_villager",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 5
-      },
-      {
-        "type": "minecraft:skeleton",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 80
-      },
-      {
-        "type": "minecraft:creeper",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 100
-      },
-      {
-        "type": "minecraft:slime",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 100
-      },
-      {
-        "type": "minecraft:enderman",
-        "maxCount": 4,
-        "minCount": 1,
-        "weight": 10
-      }
-    ],
-    "underground_water_creature": [
-      {
-        "type": "minecraft:glow_squid",
-        "maxCount": 6,
-        "minCount": 4,
-        "weight": 10
-      }
-    ],
-    "water_ambient": [],
-    "water_creature": []
-  },
-  "temperature": 2.0
+  "temperature": 2
 }

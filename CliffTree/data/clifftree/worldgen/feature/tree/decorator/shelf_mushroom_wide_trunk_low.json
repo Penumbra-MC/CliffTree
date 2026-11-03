@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:overlay",
+  "features": [
+    {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "to_place": "clifftree:shelf_mushroom"
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 8
+        },
+        {
+          "type": "offset",
+          "x": {
+            "type": "uniform",
+            "max_inclusive": 2,
+            "min_inclusive": -1
+          },
+          "z": {
+            "type": "uniform",
+            "max_inclusive": 2,
+            "min_inclusive": -1
+          },
+          "y": 3
+        },
+        {
+          "type": "offset",
+          "x": 0,
+          "z": 0,
+          "y": {
+            "type": "minecraft:very_biased_to_bottom",
+            "max_inclusive": 16,
+            "min_inclusive": 1
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "matching_blocks",
+            "blocks": "air"
+          }
+        }
+      ]
+    }
+  ]
+}
