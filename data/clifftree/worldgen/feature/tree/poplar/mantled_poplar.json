@@ -10,17 +10,38 @@
     },
     {
       "data": {
+        "feature": "clifftree:tree/poplar/fancy_poplar_red",
+        "placement": []
+      },
+      "weight": 100
+    },
+    {
+      "data": {
         "feature": "clifftree:tree/poplar/poplar_orange",
         "placement": []
       },
-      "weight": 160
+      "weight": 150
+    },
+    {
+      "data": {
+        "feature": "clifftree:tree/poplar/fancy_poplar_orange",
+        "placement": []
+      },
+      "weight": 50
     },
     {
       "data": {
         "feature": "clifftree:tree/poplar/poplar_yellow",
         "placement": []
       },
-      "weight": 70
+      "weight": 90
+    },
+    {
+      "data": {
+        "feature": "clifftree:tree/poplar/fancy_poplar_yellow",
+        "placement": []
+      },
+      "weight": 30
     }
   ]
 }

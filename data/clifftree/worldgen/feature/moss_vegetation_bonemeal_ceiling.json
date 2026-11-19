@@ -209,7 +209,7 @@
       }
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "feature": {
         "feature": "clifftree:cave_vine_in_moss_bonemeal",
         "placement": [
@@ -230,17 +230,23 @@
             }
           },
           {
-            "type": "minecraft:environment_scan",
-            "direction_of_search": "up",
-            "max_steps": 12,
-            "target_condition": {
-              "type": "minecraft:matching_blocks",
-              "blocks": "minecraft:spore_blossom"
-            },
-            "allowed_search_condition": {
-              "type": "minecraft:true"
-            }
-          },
+                "type": "minecraft:block_predicate_filter",
+                "predicate": {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:volume_match",
+                    "match": {
+                      "type": "minecraft:not",
+                      "predicate": {
+                        "type": "matching_blocks",
+                        "blocks": "minecraft:spore_blossom"
+                      }
+                    },
+                    "min": [-3,0,-3],
+                    "max": [3,8,3]
+                  }
+                }
+              },
           {
             "type": "minecraft:count",
             "count": 24
@@ -432,7 +438,7 @@
       }
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "feature": {
         "feature": {
           "type": "minecraft:simple_block",
@@ -458,17 +464,23 @@
             }
           },
           {
-            "type": "minecraft:environment_scan",
-            "direction_of_search": "up",
-            "max_steps": 12,
-            "target_condition": {
-              "type": "minecraft:matching_blocks",
-              "blocks": "minecraft:spore_blossom"
-            },
-            "allowed_search_condition": {
-              "type": "minecraft:true"
-            }
-          },
+                "type": "minecraft:block_predicate_filter",
+                "predicate": {
+                  "type": "minecraft:not",
+                  "predicate": {
+                    "type": "minecraft:volume_match",
+                    "match": {
+                      "type": "minecraft:not",
+                      "predicate": {
+                        "type": "matching_blocks",
+                        "blocks": "minecraft:spore_blossom"
+                      }
+                    },
+                    "min": [-3,0,-3],
+                    "max": [3,8,3]
+                  }
+                }
+              },
           {
             "type": "minecraft:count",
             "count": 24
