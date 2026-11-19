@@ -89,7 +89,7 @@ Add-ons and Compatibility
 <div align="center">
 
 <a href="https://modrinth.com/datapack/butterbee">
-<img src="https://cdn.modrinth.com/data/91Xzenxx/7a81b4d09f7818894482bdff1d8458627b147d04.gif" alt="ButterBee Icon" width=128>
+<img src="https://cdn.modrinth.com/data/91Xzenxx/a36d65f57805bc1deb2c952340ed3677cf7dcfef_96.webp" alt="ButterBee Icon" width=128>
 </a>
 
 <h3>
