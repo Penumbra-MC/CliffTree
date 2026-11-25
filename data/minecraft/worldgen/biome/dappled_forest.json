@@ -180,20 +180,22 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma"
+      "minecraft:underwater_magma",
+      "clifftree:shore_river_coarse_dirt",
+      "clifftree:shore_river_snow"
     ],
     [],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "clifftree:tree/poplar_bushes_neighbor"
+      "clifftree:tree/neighbor_poplios"
     ],
     [
       "minecraft:glow_lichen",
       "clifftree:tree/trees_dappled_forest",
       "clifftree:trees_spruce_dappled_forest",
       "minecraft:brown_mushroom_dappled_forest",
-      "clifftree:tree/poplar_bushes",
+      "clifftree:tree/poplios",
       "minecraft:patch_red_shrub",
       "minecraft:patch_grass_forest",
       "clifftree:patch_pumpkin_spooky",

@@ -22,7 +22,7 @@
       ]
     },
     {
-      "feature": "clifftree:tree/jungle/jungle_bush",
+      "feature": "clifftree:tree/jungle/junglio",
       "placement": [
         {
           "type": "minecraft:block_predicate_filter",

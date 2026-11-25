@@ -8,6 +8,88 @@
         "biome_is": "minecraft:sulfur_caves"
       },
       "then_run": "clifftree:overworld/sulfur_cave_bands"
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:biome",
+        "biome_is": "minecraft:ice_caves"
+      },
+      "then_run": {
+        "type": "minecraft:sequence",
+        "sequence": [
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:on_floor",
+            "then_run": "clifftree:overworld/ice_cave_stone"
+          },
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:under_floor",
+            "then_run": "clifftree:overworld/ice_cave_stone"
+          },
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:deep_under_floor",
+            "then_run": "clifftree:overworld/ice_cave_stone"
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:biome",
+        "biome_is": "minecraft:ice_caves"
+      },
+      "then_run": {
+        "type": "minecraft:sequence",
+        "sequence": [
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:on_floor",
+            "then_run": "clifftree:overworld/ice_cave_bands"
+          },
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:under_floor",
+            "then_run": "clifftree:overworld/ice_cave_bands"
+          },
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:deep_under_floor",
+            "then_run": "clifftree:overworld/ice_cave_bands"
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:biome",
+        "biome_is": "minecraft:ice_caves"
+      },
+      "then_run": {
+        "type": "minecraft:sequence",
+        "sequence": [
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:on_ceiling",
+            "then_run": {
+              "type": "block",
+              "result_state": "packed_ice"
+            }
+          },
+          {
+            "type": "minecraft:condition",
+            "if_true": "minecraft:under_ceiling",
+            "then_run": {
+              "type": "block",
+              "result_state": "packed_ice"
+            }
+          }
+        ]
+      }
     }
   ]
 }

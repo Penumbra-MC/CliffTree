@@ -135,7 +135,8 @@
     ],
     [],
     [
-      "clifftree:stone_cliff"
+      "clifftree:stone_cliff",
+      "clifftree:lake_lava_surface_erosion"
     ],
     [
       "minecraft:ore_dirt",
@@ -187,6 +188,7 @@
       "minecraft:patch_pumpkin",
       "minecraft:patch_sugar_cane",
       "clifftree:forest_fern",
+      "clifftree:patch_coarse_dirt_erosion",
       "clifftree:bonemeal/birch_forest"
     ],
     [

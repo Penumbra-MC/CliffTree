@@ -152,7 +152,8 @@
     ],
     [],
     [
-      "clifftree:stone_cliff"
+      "clifftree:stone_cliff",
+      "clifftree:lake_lava_surface_erosion"
     ],
     [
       "minecraft:ore_dirt",
@@ -190,13 +191,14 @@
     [
       "minecraft:glow_lichen",
       "clifftree:trees_tundra",
-      "clifftree:oak_bushes_tundra",
+      "clifftree:oaklios_tundra",
       "clifftree:flower_tundra",
       "clifftree:patch_grass_tundra_2",
       "clifftree:patch_red_shrub_tundra",
       "clifftree:patch_dry_grass_tundra",
       "minecraft:patch_pumpkin",
       "minecraft:patch_sugar_cane",
+      "clifftree:patch_coarse_dirt_erosion",
       "clifftree:bonemeal/tundra"
     ],
     [

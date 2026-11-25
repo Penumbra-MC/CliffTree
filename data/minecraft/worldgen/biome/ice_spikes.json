@@ -129,7 +129,9 @@
     "grass_color": "#9EB2A3"
   },
   "features": [
-    [],
+    [
+      "clifftree:ice_spikes_surface"
+    ],
     [
       "minecraft:lake_lava_underground"
     ],
@@ -173,7 +175,7 @@
     ],
     [
       "clifftree:ice_spike",
-      "clifftree:ice_patch"
+      "clifftree:ice_spike_extra"
     ],
     [
       "minecraft:spring_water",

@@ -4,7 +4,18 @@
   "features": [
     {
       "chance": 0.4,
-      "feature": "minecraft:jungle_bush"
+      "feature": {
+        "feature": "clifftree:tree/jungle/junglio",
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:would_survive",
+              "state": "minecraft:jungle_sapling"
+            }
+          }
+        ]
+      }
     }
   ]
 }

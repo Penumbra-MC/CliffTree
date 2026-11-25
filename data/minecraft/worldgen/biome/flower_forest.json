@@ -209,10 +209,11 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
       "minecraft:patch_sugar_cane",
-      "clifftree:oak_bushes_flower_forest",
+      "clifftree:oaklios_flower_forest",
       "clifftree:patch_grass_skylight",
       "clifftree:forest_fern",
       "clifftree:patch_firefly_bush_skylight_near_water",
+      "clifftree:patch_coarse_dirt_erosion",
       "clifftree:bonemeal/flower_forest"
     ],
     [

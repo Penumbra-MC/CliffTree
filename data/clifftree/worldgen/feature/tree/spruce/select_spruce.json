@@ -77,7 +77,7 @@
       ]
     },
     {
-      "feature": "clifftree:tree/oak/oak_bush",
+      "feature": "clifftree:tree/oak/oaklio",
       "placement": [
         {
           "type": "minecraft:block_predicate_filter",

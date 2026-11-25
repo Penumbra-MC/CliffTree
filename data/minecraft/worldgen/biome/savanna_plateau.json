@@ -160,7 +160,9 @@
       "minecraft:monster_room_deep"
     ],
     [],
-    [],
+    [
+      "clifftree:lake_lava_surface_erosion"
+    ],
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
@@ -206,6 +208,7 @@
       "minecraft:patch_sugar_cane",
       "clifftree:patch_bush_jungle",
       "clifftree:patch_melon_savanna",
+      "clifftree:patch_packed_mud_erosion",
       "clifftree:bonemeal/default"
     ],
     [

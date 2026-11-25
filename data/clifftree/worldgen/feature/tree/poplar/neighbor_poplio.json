@@ -1,0 +1,83 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "features": [
+    {
+      "weight": 6,
+      "data": {
+        "feature": {
+          "type": "weighted_random_selector",
+          "features": [
+            {
+              "data": {
+                "feature": "clifftree:tree/poplar/poplio_red",
+                "placement": []
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "feature": "clifftree:tree/poplar/poplio_red_small",
+                "placement": []
+              },
+              "weight": 1
+            }
+          
+          ]
+        },
+        "placement": []
+      }
+    },
+    {
+      "weight": 3,
+      "data": {
+        "feature": {
+          "type": "weighted_random_selector",
+          "features": [
+            {
+              "data": {
+                "feature": "clifftree:tree/poplar/poplio_orange",
+                "placement": []
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "feature": "clifftree:tree/poplar/poplio_orange_small",
+                "placement": []
+              },
+              "weight": 1
+            }
+          
+          ]
+        },
+        "placement": []
+      }
+    },
+    {
+      "weight": 1,
+      "data": {
+        "feature": {
+          "type": "weighted_random_selector",
+          "features": [
+            {
+              "data": {
+                "feature": "clifftree:tree/poplar/poplio_yellow",
+                "placement": []
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "feature": "clifftree:tree/poplar/poplio_yellow_small",
+                "placement": []
+              },
+              "weight": 1
+            }
+          
+          ]
+        },
+        "placement": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "feature": {
+    "type": "minecraft:vegetation_patch",
+    "surface": "floor",
+    "depth": 3,
+    "vertical_range": 3,
+    "extra_bottom_block_chance": 0,
+    "extra_edge_column_chance": 0.5,
+    "vegetation_chance": 0.0005,
+    "xz_radius": {
+      "type": "minecraft:uniform",
+      "min_inclusive": 2,
+      "max_inclusive": 3
+    },
+    "replaceable": "#minecraft:grass_blocks",
+    "ground_state": {
+            "id": "packed_mud"
+          },
+    "vegetation_feature": {
+      "feature": "minecraft:dry_grass",
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "offset": [
+              0,
+              -1,
+              0
+            ],
+            "blocks": "minecraft:packed_mud"
+          }
+        }
+      ]
+    }
+  },
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 16
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "matching_blocks",
+        "blocks": "#minecraft:base_stone_overworld",
+        "offset": [0,-1,0]
+      }
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    {
+      "type": "biome"
+    }
+  ]
+}

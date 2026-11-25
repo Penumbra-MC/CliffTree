@@ -131,7 +131,8 @@
     ],
     [],
     [
-      "clifftree:stone_cliff"
+      "clifftree:stone_cliff",
+      "clifftree:lake_lava_surface_erosion"
     ],
     [
       "minecraft:ore_dirt",
@@ -176,6 +177,7 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "clifftree:sunflower_flower_dandelion",
+      "clifftree:patch_coarse_dirt_erosion",
       "clifftree:bonemeal/dandelion"
     ],
     [

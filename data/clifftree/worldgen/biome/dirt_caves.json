@@ -80,10 +80,11 @@
       },
       "modifier": "overlay"
     },
-    "minecraft:visual/sky_color": "#4E67A2",
+    "minecraft:visual/sky_color": "#4b6a6c",
     "minecraft:visual/fog_color": "#332916",
     "minecraft:visual/fog_start_distance": 0,
     "minecraft:visual/fog_end_distance": 128,
+    "minecraft:visual/cloud_color": "#4a7e7e7e",
     "minecraft:visual/water_fog_color": "#232126",
     "minecraft:visual/ambient_particles": [
       {

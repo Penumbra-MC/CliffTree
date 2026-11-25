@@ -1,0 +1,7 @@
+{
+  "type": "lithostitched:set_biome_timeline",
+  "priority": 99999,
+  "biomes": "#clifftree:all_caves",
+  "timeline": "clifftree:cave",
+  "append": false
+}

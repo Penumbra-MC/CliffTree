@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:substrate_overworld",
+    "#minecraft:snow",
+    "minecraft:gravel",
+    "#minecraft:sand",
+    "minecraft:packed_mud",
+    "minecraft:lava",
+    "minecraft:water",
+    "#minecraft:terracotta",
+    "minecraft:cave_air",
+    "minecraft:sulfur"
+  ]
+}

@@ -142,7 +142,9 @@
       "minecraft:monster_room_deep"
     ],
     [],
-    [],
+    [
+      "clifftree:lake_lava_surface_erosion"
+    ],
     [
       "clifftree:ice_blobs",
       "minecraft:ore_dirt",

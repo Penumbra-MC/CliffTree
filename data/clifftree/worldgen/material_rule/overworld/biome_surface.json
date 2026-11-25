@@ -5,6 +5,22 @@
       "type": "minecraft:condition",
       "if_true": {
         "type": "minecraft:biome",
+        "biome_is": "#clifftree:allows_erosion"
+      },
+      "then_run": "clifftree:overworld/biome_surface/erosion"
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:biome",
+        "biome_is": "#clifftree:allows_uncommon_erosion"
+      },
+      "then_run": "clifftree:overworld/biome_surface/erosion_uncommon"
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:biome",
         "biome_is": [
           "minecraft:frozen_peaks",
           "minecraft:frozen_ocean",

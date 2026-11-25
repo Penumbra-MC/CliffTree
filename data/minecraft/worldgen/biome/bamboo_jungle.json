@@ -150,8 +150,8 @@
   },
   "effects": {
     "water_color": "#1499AC",
-    "grass_color": "#5DB433",
-    "foliage_color": "#4b9e17"
+    "grass_color": "#65951d",
+    "foliage_color": "#6ab804"
   },
   "features": [
     [],
@@ -206,6 +206,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "clifftree:jungle_flowers",
       "minecraft:patch_large_fern",
       "minecraft:bamboo",
       "minecraft:bamboo_vegetation",

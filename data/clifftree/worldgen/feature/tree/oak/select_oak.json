@@ -83,7 +83,25 @@
       ]
     },
     {
-      "feature": "clifftree:tree/oak/oak_bush",
+      "feature": {
+        "type": "weighted_random_selector",
+        "features": [
+          {
+            "data": {
+              "feature": "clifftree:tree/oak/oaklio",
+              "placement": []
+            },
+            "weight": 6
+          },
+          {
+            "data": {
+              "feature": "clifftree:tree/oak/oaklio_small",
+              "placement": []
+            },
+            "weight": 1
+          }
+        ]
+      },
       "placement": [
         {
           "type": "minecraft:block_predicate_filter",

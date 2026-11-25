@@ -140,8 +140,8 @@
   },
   "effects": {
     "water_color": "#1499AC",
-    "grass_color": "#5EC541",
-    "foliage_color": "#3aa419"
+    "grass_color": "#73cc43",
+    "foliage_color": "#51b61a"
   },
   "features": [
     [],
@@ -196,6 +196,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "clifftree:jungle_flowers",
       "minecraft:bamboo_light",
       "minecraft:trees_sparse_jungle",
       "minecraft:flower_warm",
@@ -205,6 +206,7 @@
       "minecraft:patch_sugar_cane",
       "minecraft:vines",
       "minecraft:patch_melon_sparse",
+      "clifftree:patch_coarse_dirt_erosion",
       "clifftree:bonemeal/forest"
     ],
     [

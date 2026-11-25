@@ -1,0 +1,263 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    {
+      "feature": {
+        "type": "minecraft:lake",
+        "barrier": {
+          "id": "minecraft:tuff"
+        },
+        "can_place_feature": {
+          "type": "minecraft:true"
+        },
+        "can_replace_with_air_or_fluid": {
+          "type": "minecraft:matching_block_tag",
+          "tag": "clifftree:lake_air_replaceable"
+        },
+        "can_replace_with_barrier": {
+          "type": "minecraft:matching_block_tag",
+          "tag": "minecraft:base_stone_overworld"
+        },
+        "fluid": {
+          "type": "minecraft:simple",
+          "state": {
+            "id": "minecraft:lava",
+            "properties": {
+              "level": "0"
+            }
+          }
+        }
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "disk",
+        "radius": 8,
+        "half_height": 4,
+        "state_provider": {
+          "id": "cave_air"
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": "#clifftree:cleared_by_lava_lakes"
+        }
+      },
+      "placement": [
+        {
+          "type": "count",
+          "count": 32
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "min": -8,
+            "max": 8,
+            "plateau": 0
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "min": -8,
+            "max": 8,
+            "plateau": 0
+          },
+          "y": 0
+        },
+        {
+          "type": "heightmap",
+          "heightmap": "WORLD_SURFACE_WG"
+        },
+        {
+          "type": "minecraft:offset",
+          "x": 0,
+          "z": 0,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "feature": {
+        "type": "minecraft:vegetation_patch",
+        "surface": "floor",
+        "depth": 3,
+        "vertical_range": 3,
+        "extra_bottom_block_chance": 0,
+        "extra_edge_column_chance": 0.5,
+        "vegetation_chance": 0.0,
+        "xz_radius": {
+          "type": "minecraft:uniform",
+          "min_inclusive": 1,
+          "max_inclusive": 2
+        },
+        "replaceable": "#minecraft:base_stone_overworld",
+        "ground_state": {
+          "id": "tuff"
+        },
+        "vegetation_feature": {
+          "feature": "minecraft:dry_grass",
+          "placement": []
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 12
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 3,
+            "plateau": 1
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 3,
+            "plateau": 1
+          },
+          "y": 0
+        },
+        {
+          "type": "minecraft:heightmap",
+          "heightmap": "WORLD_SURFACE_WG"
+        }
+      ]
+    },
+    {
+      "feature": {
+        "type": "minecraft:disk",
+        "radius": 8,
+        "half_height": 4,
+        "state_provider": {
+          "type": "minecraft:rule_based",
+          "rules": [
+            {
+              "if_true": {
+                "type": "any_of",
+                "predicates": [
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "lava",
+                    "offset": [
+                      1,
+                      0,
+                      0
+                    ]
+                  },
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "lava",
+                    "offset": [
+                      -1,
+                      0,
+                      0
+                    ]
+                  },
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "lava",
+                    "offset": [
+                      0,
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "lava",
+                    "offset": [
+                      0,
+                      0,
+                      -1
+                    ]
+                  },
+                  {
+                    "type": "matching_blocks",
+                    "blocks": "magma_block",
+                    "offset": [
+                      0,
+                      -1,
+                      0
+                    ]
+                  }
+                ]
+              },
+              "then": {
+                "type": "minecraft:weighted",
+                "entries": [
+                  {
+                    "data": "magma_block",
+                    "weight": 1
+                  },
+                  {
+                    "data": "tuff",
+                    "weight": 3
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "target": {
+          "type": "matching_blocks",
+          "blocks": "#minecraft:base_stone_overworld"
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:count",
+          "count": 4
+        },
+        {
+          "type": "minecraft:offset",
+          "x": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 3,
+            "plateau": 1
+          },
+          "z": {
+            "type": "minecraft:trapezoid",
+            "min": -2,
+            "max": 3,
+            "plateau": 1
+          },
+          "y": 0
+        },
+        {
+          "type": "height_range",
+          "height": {
+            "absolute": -24
+          }
+        },
+        {
+          "type": "environment_scan",
+          "direction_of_search": "down",
+          "max_steps": 32,
+          "target_condition": {
+            "type": "all_of",
+            "predicates": [
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "solid"
+                }
+              },
+              {
+                "type": "matching_biomes",
+                "biomes": "clifftree:inferno"
+              }
+            ]
+          }
+        },
+        {
+          "type": "minecraft:heightmap",
+          "heightmap": "WORLD_SURFACE_WG"
+        }
+      ]
+    }
+  ]
+}

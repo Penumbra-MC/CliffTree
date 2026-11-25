@@ -142,8 +142,8 @@
   },
   "effects": {
     "water_color": "#1499AC",
-    "grass_color": "#5DB433",
-    "foliage_color": "#4b9e17"
+    "grass_color": "#7ab734",
+    "foliage_color": "#50A518"
   },
   "features": [
     [],
@@ -199,15 +199,13 @@
     ],
     [
       "minecraft:glow_lichen",
-      "clifftree:jungle_flowers",
+      "clifftree:jungle_flowers_dense",
       "minecraft:patch_large_fern",
       "minecraft:bamboo_light",
       "minecraft:trees_jungle",
-      "clifftree:jungle_bushes",
+      "clifftree:junglios",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
-      "minecraft:brown_mushroom_old_growth",
-      "minecraft:red_mushroom_old_growth",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",

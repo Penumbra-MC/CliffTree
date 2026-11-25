@@ -1,0 +1,70 @@
+{
+  "feature": {
+    "type": "disk",
+    "half_height": 4,
+    "radius": 8,
+    "state_provider": {
+      "type": "rule_based",
+      "rules": [
+        {
+          "if_true": {
+            "type": "matching_blocks",
+            "blocks": "lava"
+          },
+          "then": {
+            "id": "stone"
+          }
+        },
+        {
+          "if_true": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "matching_blocks",
+                "blocks": "air"
+              },
+              {
+                "type": "matching_blocks",
+                "blocks": "stone",
+                "offset": [0,-1,0]
+              }
+            ]
+          },
+          "then": {
+            "id": "cave_air"
+          }
+        }
+      ]
+    },
+    "target": {
+      "type": "matching_blocks",
+      "blocks": ["lava","air"]
+    }
+  },
+  "placement": [
+    {
+      "type": "count",
+      "count": 24
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "type": "minecraft:trapezoid",
+        "min": -8,
+        "max": 8,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "min": -8,
+        "max": 8,
+        "plateau": 0
+      },
+      "y": 0
+    },
+    {
+      "type": "heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    }
+  ]
+}

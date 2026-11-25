@@ -1,0 +1,7 @@
+{
+  "type": "lithostitched:set_biome_timeline",
+  "priority": 99998,
+  "biomes": "#minecraft:is_overworld",
+  "timeline": "clifftree:surface",
+  "append": false
+}

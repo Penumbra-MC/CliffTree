@@ -155,7 +155,7 @@
       ]
     },
     {
-      "feature": "clifftree:tree/poplar/bush_poplar",
+      "feature": "clifftree:tree/poplar/poplio_grown",
       "placement": [
         {
           "type": "minecraft:block_predicate_filter",
